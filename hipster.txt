@@ -1,0 +1,15 @@
+lue-sky printing with Prince 8
+
+The biggest news in Prince 8 is the introduction of JavaScript. JavaScript is the programming language of choice on the web and Prince 8 puts it to good use. Also, Prince 8 supports CSS3 transforms which will make your head, and other elements, spin. Check out the HTML page and the resulting PDF document.
+
+Prince, the 7th
+
+To showcase the formatting magic that Prince can do, we have created one document packed with effects. The HTML document, which is contained in a tiny 13k file, demonstrates these features: bi-directional text, OpenType features, CSS3 footnotes, web fonts (including WOFF), and CSS3 page floats. You can download the PDF document or the HTML source. To produce the same PDF document from on your own computer, you should have the Arno Pro font installed.
+
+Ibsen reconstructed
+
+Henrik Ibsen’s collected poems were first printed in 1871. The first edition was, as were most books at the time, set in lead by skilled printers. In 2010, the first edition was recreated in HTML and CSS. The «Steinschrift» and «Elzevir» fonts that were used by the printers in 1871 are not available as digital fonts, but lookalikes were found. The resulting PDF file was printed in 100 copies and bound the old-fashioned way.
+
+Advanced Aquarist
+
+Advanced Aquarist is a monthly online magazine for the marine aquarist. The publication is not only advanced about marine matters – its 
