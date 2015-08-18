@@ -23,4 +23,4 @@ Please fork this repository and then issue Pull Request for review.
 
 2015 Git.Training. All rights reserved.
 
-## Updates ftom dev 1
+## Updates from dev 1
