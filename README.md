@@ -15,3 +15,7 @@ The purpose is ...
 This is a simple web project...
 
 ## How to Contribute
+
+### Copyright
+
+2015 Chi Lin
