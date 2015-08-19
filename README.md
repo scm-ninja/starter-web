@@ -8,6 +8,10 @@ This is an example to show different part...
 
 ## Purpose
 
+The purpose is ...
+
 ## Deployment
+
+This is a simple web project...
 
 ## How to Contribute
