@@ -2,7 +2,7 @@
 
 This is a simple project to demonstrate using Git and Github together
 
-Adding a line for rebasing example, then more changes from myfeature branch too.
+Emergency fix.
 
 ## Introduction
 
