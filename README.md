@@ -22,4 +22,4 @@ Please fork this repo and issue....
 
 ### Copyright
 
-2015 Chi Lin
+2015 Chi Lin. All Rights Reserved.
