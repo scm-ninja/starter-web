@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   Chi Lin	chilin89117@gmail.com
 
 # THANKS
 
