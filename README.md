@@ -2,6 +2,8 @@
 
 This is a simple project to demonstrate using Git and Github together
 
+Adding a line for rebasing example.
+
 ## Introduction
 
 This is an example to show different part...
