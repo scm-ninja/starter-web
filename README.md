@@ -16,6 +16,8 @@ This is a simple web project...
 
 ## How to Contribute
 
+Please fork this repo and issue....
+
 ### Copyright
 
 2015 Chi Lin
