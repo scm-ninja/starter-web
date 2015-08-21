@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Rudolph ttrr@rrrtr.com twitter
 
 # THANKS
 
