@@ -2,6 +2,8 @@
 
 ### Please fork and issue pull request for review
 
+Adding a line for rebasing example
+
 ## Forgot to add this
 
 ##and its good
@@ -15,3 +17,4 @@
 ### adding intro
 
 ## Copyright notice
+
