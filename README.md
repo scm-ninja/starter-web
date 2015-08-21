@@ -2,7 +2,7 @@
 
 ### Please fork and issue pull request for review
 
-Adding a line for rebasing example
+Adding a line for rebasing example, then more changes from my feature branch too
 
 ## Forgot to add this
 
