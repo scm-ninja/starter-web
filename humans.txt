@@ -12,6 +12,7 @@
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
+	save and close
     jQuery, Modernizr
 
 	Please leave a review
