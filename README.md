@@ -16,5 +16,5 @@ Adding a line for rebasing example, then more changes from my feature branch too
 
 ### adding intro
 
-## Copyright notice
+## Copyright notice - allrights reserved
 
