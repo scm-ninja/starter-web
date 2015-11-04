@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Otto 	Otto@otto.ot	@ottosome
 
 # THANKS
 

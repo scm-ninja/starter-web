@@ -14,3 +14,7 @@ Sample website with plenty of files for demos
 ## Deployment
 
 some text to test merge
+
+### Copyright
+
+Git.Trail
