@@ -11,6 +11,10 @@ this would be awesome
 
 Sample website with plenty of files for demos
 
+## How to Contribute
+
+Please fork this repository
+
 ## Deployment
 
 some text to test merge
