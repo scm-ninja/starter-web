@@ -18,3 +18,7 @@ Please fork this repository
 ## Deployment
 
 some text to test merge
+
+### Copyright
+
+Git.Trail
