@@ -22,4 +22,4 @@ some text to test merge
 
 ### Copyright
 
-Git.Trail
+Git.Trail All rights reserved
