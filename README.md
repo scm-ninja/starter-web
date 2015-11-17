@@ -10,3 +10,5 @@ Sample website with plenty of files for demos...
 aksdhfalsdjfl
 another line
 1 more line
+
+##How to contribute
