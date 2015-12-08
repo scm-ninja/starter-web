@@ -15,3 +15,4 @@ another line
 
 All rights reserved
 A line after stashing
+a line for multiple stashing
