@@ -14,3 +14,4 @@ another line
 ##How to contribute
 
 All rights reserved
+A line after stashing
