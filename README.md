@@ -12,3 +12,5 @@ another line
 1 more line
 
 ##How to contribute
+
+All rights reserved
