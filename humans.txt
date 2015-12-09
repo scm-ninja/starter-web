@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name> Michael <role> -- <twitter>
 
 # THANKS
 
@@ -13,3 +13,6 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+
+Some text for stashing
+text for branch stashing
