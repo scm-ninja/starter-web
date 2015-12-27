@@ -9,6 +9,8 @@ Introdutcion text
 ## Purpose
 
 Sample website with plenty of files for demos
+Some propose.
+Another propose.
 
 ## Deployment
 
