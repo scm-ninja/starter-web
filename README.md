@@ -15,4 +15,5 @@ Another propose.
 ## Deployment
 
 ## How To Contribute
+Create issue.
 2014. All right received.
