@@ -17,3 +17,5 @@ Another propose.
 ## How To Contribute
 Create issue.
 2014. Git.Training. All right received.
+
+## Updates from 0.1
