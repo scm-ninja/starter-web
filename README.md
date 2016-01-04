@@ -13,3 +13,6 @@ Main purpose is to provide a simple example for git training
 A simple web project that can be deployed on any http server
 
 ## How to Contribute
+
+## Copyright
+2014 APC
