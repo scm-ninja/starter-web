@@ -1,2 +1,6 @@
+# ignore files ending in .log
 *.log 
+# ignore the log directory
 log/
+# ignore text editor generated files
+~*
