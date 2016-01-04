@@ -13,6 +13,7 @@ Main purpose is to provide a simple example for git training
 A simple web project that can be deployed on any http server
 
 ## How to Contribute
+Please fork this repository and then issue pull requests for review
 
 ## Copyright
 2014 APC
