@@ -4,3 +4,9 @@
 log/
 # ignore text editor generated files
 ~*
+# ignore p4merge mergetool generated files
+*.orig
+*_BACKUP_*
+*_LOCAL_*
+*_BASE_*
+*_REMOTE_*
