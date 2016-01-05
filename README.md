@@ -1,6 +1,6 @@
 # Starter Web Project
 
-Simple website project for use of Git and Github together
+Simple website project for use of Git and Github together. Showing a Rebase example
 
 ## Introduction
 
