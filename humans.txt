@@ -3,13 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    DARAGH MCGRATH d@gmail.com @hello
 
 # THANKS
 
-    <name>
+    All my teachers
+    Please leave a review
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+    Git
