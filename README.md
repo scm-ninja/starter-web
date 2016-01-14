@@ -4,7 +4,7 @@ Simple website project for use of Git and Github together. Showing a Rebase exam
 
 ## Introduction
 
-This is an example to show different parts of the Git Repository and various commands using a web project
+This is an example to show different parts of the Git Repository and various commands using a web project. Updating for emergency stash.
 
 ## Purpose
 Main purpose is to provide a simple example for git training
