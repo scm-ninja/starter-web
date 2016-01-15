@@ -1,1 +1,1 @@
-Dummy text for my untracked file
+Dummy text for any untracked files
