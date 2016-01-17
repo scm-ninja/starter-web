@@ -1,1 +1,0 @@
-Testing the git ls-files command.
