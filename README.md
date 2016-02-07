@@ -23,6 +23,4 @@ file system.
 
 ## How to Contribute
 
-## Copyright
-
-Git.Training.
+## Copyright AlwaysBeTrue.
