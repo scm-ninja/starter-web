@@ -3,9 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
-# THANKS
+    Dave Schick    lead developer    daveisyourbuddy# THANKS
 
     <name>
 
