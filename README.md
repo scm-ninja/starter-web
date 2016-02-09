@@ -3,7 +3,7 @@
 This is a simple website project for
 showing how to use Git and Github together.
 
-  Enjoying this so far?  ## Introduction
+  Enjoying this so far? Good, let's do some more then! ## Introduction
 
 This example is to show different parts
 of the Git repository and various commands
