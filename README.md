@@ -23,4 +23,6 @@ file system.
 
 ## How to Contribute
 
-#Please fork this repository then issue pull requests for review.# Copyright AlwaysBeTrue.
+Please fork this repository then issue pull requests for review.
+
+## Copyright AlwaysBeTrue.

@@ -3,9 +3,8 @@
 
 # TEAM
 
-    Dave Schick    lead developer    daveisyourbuddy# THANKS
+    Dave Schick    lead developer    daveisyourbuddy
 
-  Thanks for the instruction!  
 
 # TECHNOLOGY COLOPHON
 
