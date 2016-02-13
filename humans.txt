@@ -7,7 +7,7 @@
     Deanna Schick  lead hottie
 
 
-# TECHNOLOGY COLOPHON
+   Daisy Wabel    lead doggie# TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
