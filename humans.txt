@@ -4,6 +4,7 @@
 # TEAM
 
     Dave Schick    lead developer    daveisyourbuddy
+    Deanna Schick  lead hottie
 
 
 # TECHNOLOGY COLOPHON
