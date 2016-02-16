@@ -25,4 +25,6 @@ file system.
 
 Please fork this repository then issue pull requests for review.
 
-## Copyright AlwaysBeTrue.  Approved.  More changes being made.
+## Copyright 
+AlwaysBeTrue.  Approved.  More changes being made.
+Let's add some text here.
