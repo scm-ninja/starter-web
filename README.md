@@ -12,3 +12,5 @@ Sample website with plenty of files for demos
 
 
 ## How to colaboare
+
+##Deploy
