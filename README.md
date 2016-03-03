@@ -6,7 +6,8 @@ This repository is for showing how Git and GitHub work
 
 This is a simple website project for showing how to use Git and Github together
 
-##Description
+##Des cription
+sdfsdf
 Adding discription
 
 ## Purpose
@@ -34,3 +35,8 @@ cuidado nuevo
 
 ##addin2
 cuidado
+
+
+
+##addin3
+cuidado3
