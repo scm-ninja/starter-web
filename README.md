@@ -21,3 +21,6 @@ Modifico como colaborar
 ##Deploy
 
 Modifico deploy
+
+##Copyring
+cuidado
