@@ -5,7 +5,7 @@
 
     <name> -- <role> -- <twitter>
 	
-	Gabriel PEna @gab.com 
+	Gabriel Pena @gab.com 
 	RAquel Lopez @gab.com 
 
 # THANKS
