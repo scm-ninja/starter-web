@@ -4,11 +4,14 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+	
+	Gabriel PEna @gab.com 
+	RAquel Lopez @gab.com 
 
 # THANKS
 
-    <name>
-
+    <name
+gvbxcbcvbcvbcvbhfghfgh
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
