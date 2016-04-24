@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 
-Learning Git and GitHub
+This is a simple website project for showing ho to use Git and Github together
 
 ## Purpose
 
