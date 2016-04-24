@@ -21,5 +21,5 @@ Please fork this repository and the issue Pull Requests for review
 
 This is a simple web project. Deployment can be on any web server or even local file system.
 
-### Deployment
-2016 Git.Training
+### Copyright
+2016 Git.Training. All rights reserved
