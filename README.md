@@ -17,3 +17,6 @@ This is another thing
 ## How to Contribute
 
 Just dont
+
+### Copyright
+2016
