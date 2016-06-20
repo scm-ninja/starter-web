@@ -8,6 +8,12 @@ This is another change
 
 ## Purpose
 
+Test the compare
+
 ## Deployment
 
+This is another thing
+
 ## How to Contribute
+
+Just dont
