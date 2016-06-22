@@ -1,6 +1,6 @@
 #Starter Web Project
 
-This is a sample website showing how to use Git.
+This is a sample website showing how to use Git.Adding a line fore rebasing example.
 
 ## Introduction
 
