@@ -16,7 +16,7 @@ This is another thing
 
 ## How to Contribute
 
-Just dont
+Please fork this repository
 
 ### Copyright
 2016
