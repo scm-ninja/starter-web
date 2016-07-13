@@ -16,3 +16,7 @@ More and more........
 
 ## How to Contribute
 
+### Copyright
+
+Git.Training 2016
+
