@@ -3,6 +3,8 @@
 
 ## Introduction
 
+This is a simple website for.....
+
 ## Purpose
 
 ## Deployment
