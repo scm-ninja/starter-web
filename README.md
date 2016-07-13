@@ -1,9 +1,10 @@
 # Starter Web Project
 
+This is a simple website for.....
 
 ## Introduction
 
-This is a simple website for.....
+This is wxample is to show diferent....
 
 ## Purpose
 
