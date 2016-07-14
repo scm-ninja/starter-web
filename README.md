@@ -1,7 +1,7 @@
 # Starter Web Project
 
 This is a simple website for.....
-Adding a line for rebasinf example, then more changes from.
+Doing emergency fix that is needed right now!
 
 ## Introduction
 
