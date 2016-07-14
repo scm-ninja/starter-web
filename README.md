@@ -21,5 +21,5 @@ Please fork this repositiry and then issue Pull Request
 
 ### Copyright
 
-Git.Training 2016
+Git.Training 2016. All rights reserved.
 
