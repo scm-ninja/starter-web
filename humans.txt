@@ -3,13 +3,17 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Juan De Souza twit face
 
 # THANKS
 
-    <name>
+    Thanks to all my students!
+	Please levae a review if you like this course
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	Git
+	Adding some changes to test a pull request
+	Adding more things to try the pull request once for all.
