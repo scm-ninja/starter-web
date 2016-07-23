@@ -2,3 +2,4 @@ deneme text oluşturuldu.
 yeni satır
 yazı 2
 yazı 1
+deneme yazısı deneme text için
