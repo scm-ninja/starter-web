@@ -1,0 +1,3 @@
+content for rebase2.txt
+deneme yazısı
+rebase2.txt yazı
