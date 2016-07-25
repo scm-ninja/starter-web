@@ -1,6 +1,6 @@
 #Starter Web Project
 
-This is a simple website project for showing how to use Git and Github togather.
+This is a simple website project for showing how to use Git and Github togather. Adding for a rebasing example.
 
 ##Introduction
 
