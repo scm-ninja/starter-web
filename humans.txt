@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+    Ed Costello coder github@million-monkeys.com
     <name> -- <role> -- <twitter>
 
 # THANKS
