@@ -12,6 +12,7 @@ Sample website with plenty of files for demos
 This simple web project can be deployed on any web server.  It can also be used locally on a developer system.
 
 ## How to Contribute
+Please fork this repository and then issue Pull Requests for review.
 
 ### Copyright
 
