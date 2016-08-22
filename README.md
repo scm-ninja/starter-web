@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work.  Adding a line for rebase example.
 
 ## Intro
 Files were downloaded from Initilzr - http://www.initializr.com/.
@@ -16,4 +16,4 @@ Please fork this repository and then issue Pull Requests for review.
 
 ### Copyright
 
-2016 Aromyx
+2016 Some Real Company
