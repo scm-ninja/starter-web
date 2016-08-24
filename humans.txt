@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Bijay Soren      bijay.soren@gmail.com   Quartz
 
 # THANKS
 
