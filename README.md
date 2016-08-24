@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work.Adding some changes.
 
 ## Purpose
 
@@ -17,5 +17,6 @@ This is something new added to the working.
 ## Some changes
 
 Some changes to compare local repository master branch with remote repository master branch. 
+
 
 
