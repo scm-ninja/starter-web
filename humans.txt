@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    Saying thanks to all the people who have supported and helped me.
 
 # TECHNOLOGY COLOPHON
 
