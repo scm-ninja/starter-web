@@ -7,7 +7,8 @@ This repository is for showing how Git and GitHub work.  Adding a line for
 Files were downloaded from Initilzr - http://www.initializr.com/.
 
 ## Purpose
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos.  Emergency fix for stash example.
+
 
 ## Deployment
 This simple web project can be deployed on any web server.  It can also be used locally on a developer system.
