@@ -1,6 +1,7 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work.  Adding a line for rebase example, then more changesfrom myfeature branch, too.
+This repository is for showing how Git and GitHub work.  Adding a line for
+ rebase example, then more changesfrom myfeature branch, too.
 
 ## Intro
 Files were downloaded from Initilzr - http://www.initializr.com/.
@@ -16,4 +17,4 @@ Please fork this repository and then issue Pull Requests for review.
 
 ### Copyright
 
-2016 Some Real Company
+2016 MM All rights reserved
