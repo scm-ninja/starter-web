@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work.  Adding a line for
+Not really best practices to edit this file in GitHub.  But we'll do it here as part of the branching demonstration. This repository is for showing how Git and GitHub work.  Adding a line for
  rebase example, then more changesfrom myfeature branch, too.
 
 ## Intro
