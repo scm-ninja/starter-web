@@ -19,3 +19,6 @@ This is a description how to contribute
 ##Deployment
 
 ###Nice
+
+###Copyright 
+c2016
