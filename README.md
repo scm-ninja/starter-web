@@ -10,7 +10,8 @@ This is some test project, for teaching purposes
 Sample website with plenty of files for demos
 
 ## Deployment
-ADDING HERE 
+ADDING HERE,
+more stuff 
 ##How to contribute
 fork and pull
 ##Copyleft
