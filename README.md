@@ -24,4 +24,5 @@ sdofsdokfjdslkfjdslkfjdslkfjsdlkfjsdlfkdflsdfkj
 ###Nice
 
 ###Copyright 
-c2016
+Goerg sdjka 
+ALl rights reserer
