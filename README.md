@@ -13,6 +13,6 @@ Sample website with plenty of files for demos
 ADDING HERE,
 more stuff 
 ##How to contribute
-fork and pull you sucker`
+fork and pull
 ##Copyleft
 GNU gpl v2
