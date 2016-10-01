@@ -4,12 +4,12 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
-
+     Jamos Bond 007
 # THANKS
-
-    <name>
+	edit
+    to hollywood
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
-    jQuery, Modernizr
+a    jQuery, Modernizr
