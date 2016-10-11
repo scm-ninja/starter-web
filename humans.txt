@@ -3,13 +3,19 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jason Taylor json@gtin.trinain @weseons
+    lkdsfjsldfjdslkfjdlk
+    lfjflsdjflkdjlsfsdjlkf
+    ghjghjgh
 
 # THANKS
 
-    <name>
-
+    Thanks to all my students 
+	Please leave a revirw if you like
+	
+	
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	GIT
