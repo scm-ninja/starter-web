@@ -1,9 +1,11 @@
 #Starter web project
-Thsi si just a basic layout with no functionality
+Thsi is just a basic layout with no functionality
 ##Introduction 
 
 ##Purpose
 
 ##Deployment
+
+
 
 ##How to Contribute
