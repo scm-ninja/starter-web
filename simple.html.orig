@@ -1,7 +1,13 @@
 <!DOCTYPE html>
-<-- copyrighted to spothini-->
+<<<<<<< HEAD
+<-- some silly chnages from master barnch
+=======
+<-- copyrighted to spothini
+These changes are from feture called bigtrouble
+>>>>>>> fb adding some trouble to simple.html
+-->
 <head>
-	<title>A change in simple html</title>
+	<title>A change in simple html for trouble</title>
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
@@ -15,12 +21,16 @@
 	<main class="container">
 	<!-- Content Goes Here -->
 		<p>
-			Just some content
+<<<<<<< HEAD
+			tryinng to make more changes for rebasing conflicts
+=======
+			Just nothing a simple change
+>>>>>>> fb adding some trouble to simple.html
 		</p>
 	</main>
 	<footer class="container">
-		<p>&copy;SubashPothini 2014</p>
+		<p>&copy;SubashPothini@2016</p>
 	</footer>
 </body>
 </html>
-
+    @subash home made
