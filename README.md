@@ -9,3 +9,5 @@ deploy to the server to make it work for other people
 
 
 ##How to Contributution
+
+please fork this repoa nd let me know of issues for more info
