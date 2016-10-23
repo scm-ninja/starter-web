@@ -6,7 +6,7 @@ An intro this web application
 just for knowledge
 ##Deployment
 deploy to the server to make it work for other people
-some more text for rebasing
+some more text for rebasing,more chnages from myfeature barnch too
 
 ##How to Contributution
 
