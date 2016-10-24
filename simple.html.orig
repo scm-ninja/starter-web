@@ -3,7 +3,7 @@
 These changes are from feture called bigtrouble
 -->
 <head>
-	<title>uPDATing title tagging compare example </title>
+	<title>A change in simple html for trouble</title>
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
@@ -22,7 +22,11 @@ These changes are from feture called bigtrouble
 		</p>
 	</main>
 	<footer class="container">
+<<<<<<< HEAD
 		<p>&copy;Team@2016</p>
+=======
+		<p></p>
+>>>>>>> local commit for simple.html[C
 	</footer>
 </body>
 </html>

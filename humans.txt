@@ -4,12 +4,14 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+	subash pothini - Developer -- spothini
 
 # THANKS
 
-    <name>
+    Thanks for tutorial. please review when done with all youtr work.
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	Git

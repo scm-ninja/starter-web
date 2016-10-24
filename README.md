@@ -1,7 +1,19 @@
-# Starter Web Repo
+#Starter web project
+Thsi is just a basic layout with no functionality
+##Introduction 
+An intro this web application
+##Purpose
+just for knowledge
+##Deployment
+deploy to the server to make it work for other people
+some more text for rebasing,more chnages from myfeature barnch too
 
-This repository is for showing how Git and GitHub work
+##How to Contributution
 
-## Purpose
+please fork this repoa nd let me know of issues for more info
 
-Sample website with plenty of files for demos
+
+2016 Git tutorial all rights reserved
+updating line
+
+##updates form dev1
