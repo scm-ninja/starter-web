@@ -14,4 +14,4 @@ myfeature too`
 
 Please fork this repository and then issue pull requests for review.
 # Copyright
-copyright notice
+copyright notice. All rights reserved.
