@@ -8,7 +8,8 @@ more changes from myfeature branch too.
 
 Sample website with plenty of files for demos
 Adding a line for rebasing example, the more changes from
-myfeature too. Updating for emergency fix
+myfeature too. Updating for emergency .fix.
+Adding a line for rebaseing example
 
 # How to Contribute
 
