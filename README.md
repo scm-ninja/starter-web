@@ -10,6 +10,7 @@ Sample website with plenty of files for demos
 Adding a line for rebasing example, the more changes from
 myfeature too. Updating for emergency .fix.
 Adding a line for rebaseing example
+Adding one more line
 
 # How to Contribute
 
