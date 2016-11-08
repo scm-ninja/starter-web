@@ -3,13 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Balaji -- Balaji387@gmail.com -- <twitter>
 
 # THANKS
 
-    <name>
+    All my students! thanking all students
+    Please leave your review
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+    Git queryrr
