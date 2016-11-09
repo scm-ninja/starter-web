@@ -11,3 +11,6 @@ Sample website with plenty of files for demos
 ## How to Contribute
 
 This is a problem.
+
+###Copyright
+2016 Git. Trainning.
