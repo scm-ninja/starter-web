@@ -10,7 +10,7 @@ Sample website with plenty of files for demos
 
 ## How to Contribute
 
-This is a problem.
+This is a problem. Please...
 
 ###Copyright
 2016 Git. Trainning.
