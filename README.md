@@ -8,8 +8,10 @@ Intro goes here
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Purpose goes here
 
 ## Deployment 
+
+Deploy instructions go here
 
 ## How To Contribute
