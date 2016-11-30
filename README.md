@@ -16,6 +16,8 @@ Deploy instructions go here
 
 ## How To Contribute
 
+Like this: 
+
 ### Copyright
 
 2016.Git.Training
