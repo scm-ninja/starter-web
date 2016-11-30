@@ -1,3 +1,4 @@
 unwanted.txt
 *.log
 log/
+*.orig
