@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Thodoris thodoris@thodoris.com
 
 # THANKS
 
