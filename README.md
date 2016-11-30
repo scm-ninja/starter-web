@@ -15,3 +15,7 @@ Purpose goes here
 Deploy instructions go here
 
 ## How To Contribute
+
+### Copyright
+
+2016.Git.Training
