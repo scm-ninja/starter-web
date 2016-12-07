@@ -21,4 +21,4 @@ Like this:
 
 ### Copyright
 
-2016.Git.Training
+2016.Git.Training All rights reserved
