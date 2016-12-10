@@ -7,3 +7,5 @@
 ## Deployment
 	This is a simple web project, deployment can be on any server or event local file system.
 ## How to contribute
+### Copyright 
+	2016 Git.Training.
