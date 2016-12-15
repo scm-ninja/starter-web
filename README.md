@@ -10,4 +10,4 @@
 ## How to contribute
 	Please fork this repository and then issue Pull Requests for review.
 ### Copyright 
-	2016 Git.Training. None rights reserved.
+	2016 Git.Training. All YRR rights reserved.
