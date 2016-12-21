@@ -4,6 +4,9 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+	
+	Gabriel Pena @gab.com 
+	RAquel Lopez @gab.com 
 
 # THANKS
 
