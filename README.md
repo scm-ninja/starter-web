@@ -7,3 +7,5 @@ SueG added comments.
 ## Purpose
 
 Sample website with plenty of files for demos
+
+Add some more text by SueG
