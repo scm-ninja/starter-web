@@ -19,4 +19,4 @@ This is another thing
 Please fork this repository
 
 ### Copyright
-2016
+2016 All rights reserved.
