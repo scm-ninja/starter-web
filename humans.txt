@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Dusan Kostic dusankostic@gmail.com
 
 # THANKS
 
