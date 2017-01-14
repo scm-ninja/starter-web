@@ -1,4 +1,0 @@
-first test
-second test
-third test
-one more change, the 4th
