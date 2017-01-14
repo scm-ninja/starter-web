@@ -12,3 +12,5 @@ New paragraph
 
 new for deployment
 
+
+GIT.training 2014
