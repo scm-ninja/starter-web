@@ -8,6 +8,10 @@ New paragraph
 
 ##purpose
 ##how to contribute
+
+
+Please fork this repo
+
 ##deployment
 
 new for deployment
