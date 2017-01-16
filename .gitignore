@@ -1,3 +1,4 @@
+*.orig
 *.ign
 *.log
 log/
