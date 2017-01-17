@@ -6,7 +6,7 @@
 	John Doe jd@jd.com
 
 # THANKS
-
+Thanks to all my friends!
     <name>
 
 # TECHNOLOGY COLOPHON
