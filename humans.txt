@@ -6,8 +6,10 @@
 	John Doe jd@jd.com
 
 # THANKS
-Thanks to all my friends!
-    <name>
+Thanks to all my friend!
+    
+THANK YOU FROM BRANCH MYFEATURE!!!
+
 
 # TECHNOLOGY COLOPHON
 
