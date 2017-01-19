@@ -8,6 +8,8 @@ Then more changes
 
 ADDING A LINE FOR REBASING EXAMPLE!
 
+MORE CHANGES FROM MYFEATURE BRANCH 2
+
 ## introduction
 
 New paragraph
