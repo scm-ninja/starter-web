@@ -5,6 +5,8 @@ This is a simple website for learning GIT
 Adding a line for rebasing example
 Then more changes
 
+Updating emergy fix after stashing.
+
 
 ADDING A LINE FOR REBASING EXAMPLE!
 
