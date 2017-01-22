@@ -28,3 +28,5 @@ new for deployment
 GIT.training 2014
 2nd copyright
 
+All rights reserved.
+
