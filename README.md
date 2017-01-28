@@ -1,7 +1,36 @@
-# Starter Web Repo
+#starter web project
 
-This repository is for showing how Git and GitHub work
 
-## Purpose
+This is a simple website for learning GIT
+Adding a line for rebasing example
+Then more changes
 
-Sample website with plenty of files for demos
+Updating emergy fix after stashing.
+
+
+ADDING A LINE FOR REBASING EXAMPLE!
+
+MORE CHANGES FROM MYFEATURE BRANCH 2
+
+##Updates from dev 1
+
+## introduction
+
+New paragraph
+
+##purpose
+##how to contribute
+
+
+Please fork this repo
+
+##deployment
+
+new for deployment
+
+
+GIT.training 2014
+2nd copyright
+
+All rights reserved.
+

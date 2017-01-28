@@ -3,13 +3,18 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	John Doe jd@jd.com
 
 # THANKS
+Thanks to all my friend!
+    
+THANK YOU FROM BRANCH MYFEATURE!!!
 
-    <name>
+Please leave a review!
+
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+    GIT
