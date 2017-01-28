@@ -12,6 +12,8 @@ ADDING A LINE FOR REBASING EXAMPLE!
 
 MORE CHANGES FROM MYFEATURE BRANCH 2
 
+##Updates from dev 1
+
 ## introduction
 
 New paragraph
