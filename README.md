@@ -1,5 +1,5 @@
 #Starter Web Project
-This is a simple website project for showing how to use github and git together.
+This is a simple website project for showing how to use github and git together.Adding aline for rbasing example.
 ##Introduction
 This example is to show different parts of git repository and various commands using a project.
 ##Purpose
