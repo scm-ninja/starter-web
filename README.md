@@ -7,5 +7,6 @@ As stated above the main purpose is to provide simple example for git training d
 ##Deployment
 This  is a simple web project,deployement can be on anyweb server or even local file system.
 ##How to Contribute
+Please fork this repository and then issue pull back request for review.
 ###Copyright
 2017.Git.Training1.
