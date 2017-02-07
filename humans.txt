@@ -3,13 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   Girish Sharma  girish2468@gmail.com @awesomegiri
 
 # THANKS
 
-    <name>
+All my students!
+please add review
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+    Git
