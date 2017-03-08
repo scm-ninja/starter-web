@@ -5,3 +5,9 @@
 ## deplyoemrnt
 
 ##monitoring
+
+
+
+To verify the status will need to  check if everyhitn works  fine
+
+
