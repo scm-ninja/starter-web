@@ -1,0 +1,15 @@
+# Intorduction
+
+fsadfja
+
+## requieerments
+
+## deplyoemrnt
+
+##monitoring
+
+
+
+To verify the status will need to  check if everyhitn works  fine
+
+to inster into staging area now 
