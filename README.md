@@ -1,7 +1,15 @@
-# Starter Web Repo
+# INTRODUCTION
 
 This repository is for showing how Git and GitHub work
 
-## Purpose
+## chapter 1
+The contents of the chapter
 
-Sample website with plenty of files for demos
+## chapter 2
+The contents of the chapter
+
+## CHAPTER 3
+The contents of the chapter
+
+## CHAPTER 4
+The contents of the chapter
