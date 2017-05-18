@@ -12,4 +12,4 @@ The contents of the chapter
 The contents of the chapter
 
 ## CHAPTER 4
-The contents of the chapter
+Adding copyright 
