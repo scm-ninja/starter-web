@@ -3,7 +3,7 @@
 This repository is for showing how Git and GitHub work.
 
 ## chapter 1
-The contents of the chapter.
+The WRONG changes are made here.
 
 ## chapter 2
 The contents of the chapter.
