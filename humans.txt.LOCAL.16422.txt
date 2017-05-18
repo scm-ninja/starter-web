@@ -3,11 +3,7 @@
 
 # TEAM
 
-<<<<<<< HEAD
     <hardgame> -- <hardgamewk@gmail.com> -- <hardgamewk>
-=======
-    <immortal> -- <immortalkingwk95@gmail.com> -- <immortalking>
->>>>>>> thewrongbranch
 
 # THANKS
 
