@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <pranav> -- <kadampranav95@gmail.com> -- <hardgamewk>
 
 # THANKS
 
