@@ -1,6 +1,6 @@
 # INTRODUCTION
 
-This repository is for showing how Git and GitHub work.This change is for rebase.
+This repository is for showing how Git and GitHub work.This change is for rebase.More changes from myfeature branch for the example made.
 
 ## chapter 1
 The SAME WRONG change made here aslo.
