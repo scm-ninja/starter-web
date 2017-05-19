@@ -1,9 +1,0 @@
-# robotstxt.org/
-
-<<<<<<< HEAD
-The same error made here
-=======
-The changes that made the error
->>>>>>> faultbranch
-
-User-agent: *
