@@ -1,6 +1,6 @@
 # INTRODUCTION
 
-This is a conflicting change being made in master branch
+There is a double change in this file
 
 ## chapter 1
 The SAME WRONG change made here aslo.
