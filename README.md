@@ -1,6 +1,6 @@
 # INTRODUCTION
 
-The new change for  rebasing
+This is a conflicting change being made in master branch
 
 ## chapter 1
 The SAME WRONG change made here aslo.
