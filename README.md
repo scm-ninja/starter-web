@@ -1,5 +1,4 @@
 # INTRODUCTION
-
 This is a conflicting change
 
 ## chapter 1
@@ -9,7 +8,7 @@ The SAME WRONG change made here aslo.
 The contents of the chapter.
 
 ## CHAPTER 3
-The altered changes are being saved.
-
+The contents here are being changed according to the changes
 ## CHAPTER 4
 Adding copyright. 
+
