@@ -1,6 +1,6 @@
 # INTRODUCTION
 
-There is a double change in this file
+This is a conflicting change
 
 ## chapter 1
 The SAME WRONG change made here aslo.
