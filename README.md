@@ -11,4 +11,4 @@ The contents of the chapter.
 The contents here are being changed according to the changes
 ## CHAPTER 4
 Adding copyright. 
-
+Changes are being made for the stash example.
