@@ -1,7 +1,17 @@
-# Starter Web Repo
+# INTRODUCTION
+This is a conflicting change
 
-This repository is for showing how Git and GitHub work
+## chapter 1
+The SAME WRONG change made here aslo.
 
-## Purpose
+## chapter 2
+The contents of the chapter.
 
-Sample website with plenty of files for demos
+## CHAPTER 3
+The contents here are being changed according to the changes
+## CHAPTER 4
+Adding copyright. 
+Changes are being made for the stash example.
+
+
+These are the updates that are being updated from the remote repository.
