@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Youngsam Byun youngsam.byun@gmail.com @1978qwer
 
 # THANKS
 
