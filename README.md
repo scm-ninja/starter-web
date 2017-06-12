@@ -4,6 +4,9 @@ Again
 
 This repository is for showing how Git and GitHub work
 
+Adding a line for rebasing example.
+
+
 ## Purpose
 
 
