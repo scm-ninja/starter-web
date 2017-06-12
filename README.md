@@ -18,3 +18,4 @@ Sample website with plenty of files for demos
 
 Again
 
+2017 Git Training All rights reserved.
