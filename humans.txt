@@ -3,13 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Youngsam Byun youngsam.byun@gmail.com @1978qwer
 
 # THANKS
 
-    <name>
+	All my students!
+	Please leave a review fi you like this training
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	Git
