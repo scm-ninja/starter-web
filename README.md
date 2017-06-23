@@ -20,6 +20,8 @@ Nog wat over deployment
 en toevoegen
 en andere acties
 
+dus met dit allemaal in de master voor nu ff
+
 
 
 ## Copyright
