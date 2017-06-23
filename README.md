@@ -19,3 +19,8 @@ Nog wat over deployment
 
 en toevoegen
 en andere acties
+
+
+
+## Copyright
+Hier ook copyrifght
