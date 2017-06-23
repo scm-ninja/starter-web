@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a simple website project for showing how to se Git and Githuib togather. Adding a line for reabing example.
+This is a simple website project for showing how to se Git and Githuib togather. Adding a line for reabing example, more changes from myfeature branch too.
 
 ## Introduction
 
