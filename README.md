@@ -13,5 +13,6 @@ using a web project
 Doel om nog meer ervaring op te doen
 
 ## Deployment
+Nog wat over deployment
 
 ## How To contribute
