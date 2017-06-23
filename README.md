@@ -20,4 +20,4 @@ Please fork this repository and then issue Pull Request for review.
 
 ### Copyright
 
-2014 Git.Trainging
+2014 Git.Trainging. All rights reserved.
