@@ -16,3 +16,6 @@ Doel om nog meer ervaring op te doen
 Nog wat over deployment
 
 ## How To contribute
+
+en toevoegen
+en andere acties
