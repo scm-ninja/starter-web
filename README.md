@@ -1,3 +1,4 @@
+Adding aline for rebase example
 # Starter Web Repo
 
 This is a simple website project for 
