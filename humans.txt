@@ -3,12 +3,13 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	Jeffrey Kogels	jk@gmail.com 	@jef
 
 # THANKS
 
-    <name>
-
+    Aan iedereen
+	Laat wat tekst achter als je dat leuk vind
+    ook meer dingen hier
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
