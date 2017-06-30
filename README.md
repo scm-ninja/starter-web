@@ -2,7 +2,7 @@ Adding aline for rebase example, more feature van feature branch
 # Starter Web Repo
 
 This is a simple website project for 
-showing how to use the GIT and GITHUB together
+emergency fix after the stash
 
 ## Introduction
 Example to show different parts of the GIT repository and various commands
