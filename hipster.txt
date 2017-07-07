@@ -6,3 +6,24 @@ Languages: SQL, C#, ASP.NET, VB.NET, PL/SQL, HTML, VBScript, JavaScript, Visual 
 Testing Tools: Load Runner, Quality Centre, PVCS Tracker, Selenium WebDriver, TestNG, Robot Framework
 Web Browsers: Internet Explorer (v4 - 8), Opera, Firefox, Safari, Netscape
 Case Tools: UML, Use Cases, Microsoft SharePoint, Rational Rose.
+
+package pageclasses;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+
+public class SearchPage {
+   
+	public static WebElement element = null;
+	
+    /**
+     * Navigate to the flight booking page
+     * @param driver
+     */
+	   
+	public static void navigateToflightsTab(WebDriver driver){
+		element = driver.findElement(By.id("tab-flight-tab-hp"));
+		element.click();
+	}
+	
