@@ -1,0 +1,6 @@
+Technical Skill
+Methodologies: V Model, Agile [RAD & SCRUM], Waterfall
+Databases: Oracle (9i, 10g, 11g), SQL Server (2005), MySQL, Access.
+Operating Systems: Windows (03, 07), Windows (XP, NT), Windows Vista
+Languages: SQL, C#, ASP.NET, VB.NET, PL/SQL, HTML, VBScript, JavaScript, Visual Studio. NET, VB, PHP, Python, WordPress.
+Testing Tools: Load Runner

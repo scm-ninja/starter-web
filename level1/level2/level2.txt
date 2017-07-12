@@ -1,0 +1,15 @@
+Develop automated test frame works (where possible) for software integration and regression tests
+•	Working with the developers to improve unit test coverage
+•	Maintain test artefacts – test scripts, UAT scripts and test reports 
+•	Creating test scenarios and test cases for web/desktop UI from the requirement
+•	Performed end to end functional, regression, big data testing
+•	Performed cross browser testing using Sauce Labs Cloud Integration
+•	Identify and propose process and system improvements
+•	Involvement in verification and sign-off process of releases
+•	Participate fully in Change Management Process, Including CAB
+•	Managing and prioritise own workload of jobs as tasked by Test Manager using Jira
+•	Interacting with internal and external customers to ensure deliverables are of High standards
+•	Interface with Analyst (and their customers) to build feature requirements
+•	Involvement in UAT by supporting the customers  
+•	Ensuring specification accuracy
+•	Improving quality procedures with 

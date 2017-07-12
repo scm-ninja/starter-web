@@ -27,3 +27,56 @@ public class SearchPage {
 		element.click();
 	}
 	
+	 public static void filldestinationTextBox(WebDriver driver , String destination){
+		  element = destinationTextBox(driver);
+		  element.sendKeys(destination);
+	  }
+	
+	/**
+	 * Returns the departure date text box element
+	 * @param driver
+	 * @return
+	 */
+	  public static WebElement departuredateTextBox(WebDriver driver){
+		  element = driver.findElement(By.id("flight-departing-hp-flight"));
+		  return element;
+	  }
+	  
+	  public static void filldepaturedateTextBox(WebDriver driver , String departure){
+		  element = destinationTextBox(driver);
+		  element.sendKeys(departure);
+	  }
+	
+	/**
+	 * Return the return date text box element
+	 * @param driver
+	 * @return
+	 */
+	  
+	  public static WebElement returndateTextBox(WebDriver driver){
+		  element = driver.findElement(By.id("flight-returning-hp-flight"));
+		  return element;
+	  
+	
+    /**
+	   * Click on Advance Option
+	   * @param
+	   * @return
+	   */
+	  
+	  public static WebElement clickAdvanceButton(WebDriver driver){
+		  element = driver.findElement(By.xpath("//*[@id='flight-advanced-options-hp-flight']"));
+		  return element;
+	  }
+
+
+		
+	
+	
+	/**
+	 * Click on search button
+	 * @param driver
+	 */
+	 
+	
+	
