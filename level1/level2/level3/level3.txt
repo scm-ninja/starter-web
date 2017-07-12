@@ -17,4 +17,4 @@ Reviewing and analysing of Functional Requirement and other project documents.
 •	Creating Test scenarios and generating Test cases from Test scenarios
 •	Testing end to end Functionality of newly Integrated bespoke and System Testing.
 •	Identifying Test Scenarios from Users stories and creating set of Test cases
-•	Developin
+•	Developing
