@@ -1,0 +1,3 @@
+This is a new text file that we will post to the git repository.
+
+We are updating the file now to run a visual comparison.
