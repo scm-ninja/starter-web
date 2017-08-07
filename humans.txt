@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Justin	test@gmail.com	@test1223123
 
 # THANKS
 
