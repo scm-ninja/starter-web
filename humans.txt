@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Justin	test@gmail.com	@test1223123
 
 # THANKS
 
-    <name>
+    All my students! sdfasdfsadf
 
 # TECHNOLOGY COLOPHON
 
