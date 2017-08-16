@@ -9,6 +9,11 @@ of GIT repo.
 
 ## Purpose
 
+As stated above, the mein purpose is to
+provide ...
+
 ## Deployment
+
+This is a simple web project, deployment ..
 
 ## How to Contribute
