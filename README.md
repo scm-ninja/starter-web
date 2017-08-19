@@ -17,3 +17,7 @@ provide ...
 This is a simple web project, deployment ..
 
 ## How to Contribute
+
+
+## How to Copyright
+2014 Copyright
