@@ -4,11 +4,13 @@
    Author's custom styles
    ========================================================================== */
 
+.browser-compatability-message {
 
 .ui-loader {
 	display: none;
 }
 
+.unsupported-browser .browser-compatability-message {
 .loading .ui-loader {
 	display: block;
 }
