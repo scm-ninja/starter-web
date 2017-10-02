@@ -1,5 +1,5 @@
 # Starter Web Repo
- 
+
 This is a simple website project for showing how to use Git and Github together.
 Adding a line for rebasing example, then more changes from myfeature branch too.
 
@@ -22,4 +22,4 @@ for contribution, please fork this repo and raise pull request for review
 
 ## Copyright
 
-Copyright notice
+2014 Git Training. All rights reserved.
