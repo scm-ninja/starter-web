@@ -1,8 +1,10 @@
 # Starter Web Repo
+This is nice. Yes
 
 This repository is for showing how Git and GitHub work
 
 ## Introduction
+Hello there my little friend
 
 ## Purpose
 
