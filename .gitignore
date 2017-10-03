@@ -1,1 +1,3 @@
 *.ololo
+*.log
+log/
