@@ -14,3 +14,4 @@ Sample website with plenty of files for demos
 A deployment
 
 ## How to contribute
+Just pay money
