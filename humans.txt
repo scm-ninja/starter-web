@@ -3,8 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+Pavlo Petrychenko pp@xtendx.com  @ololo
 # THANKS
 
     <name>
