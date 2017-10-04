@@ -18,8 +18,7 @@ test project - unindexed change
 
 ## How to contribute
 
-indexed change
-
+plrease fork this repository and issue fork request
 ### Copyright
 
 Git.Training. 2017
