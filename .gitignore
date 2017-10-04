@@ -1,3 +1,5 @@
 *.ololo
 *.log
 log/
+
+*.orig
