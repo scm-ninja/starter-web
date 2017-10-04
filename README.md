@@ -19,3 +19,7 @@ test project - unindexed change
 ## How to contribute
 
 indexed change
+
+### Copyright
+
+Git.Training. 2017
