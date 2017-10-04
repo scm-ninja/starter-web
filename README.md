@@ -1,5 +1,5 @@
 # Starter Web Repo
-This is nice. Yes
+Will this cause any problems?
 
 This repository is for showing how Git and GitHub work
 
