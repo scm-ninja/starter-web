@@ -14,7 +14,7 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
-test project
+test project - unindexed change
 
 ## How to contribute
 
