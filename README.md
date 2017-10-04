@@ -15,6 +15,7 @@ A deployment
 
 ## How to contribute
 Just pay money
+MORE MONEY PLEASE
 
 ### Copyright
 2017 git training
