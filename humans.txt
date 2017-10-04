@@ -3,8 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+    Adam Dębski adam@o2.pl
+	
 # THANKS
 
     <name>
