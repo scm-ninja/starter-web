@@ -22,3 +22,7 @@ plrease fork this repository and issue fork request
 ### Copyright
 
 Git.Training. 2017
+
+### Thank you 
+
+Hello my friends. It was rebase
