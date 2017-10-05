@@ -26,3 +26,5 @@ Git.Training. 2017
 ### Thank you 
 
 Hello my friends. It was rebase
+
+### more changes from feature branch
