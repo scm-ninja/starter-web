@@ -12,3 +12,5 @@ Pavlo Petrychenko pp@xtendx.com  @ololo
 
     HTML5, CSS3
     jQuery, Modernizr
+
+    All my students
