@@ -1,9 +1,4 @@
-Yo ho ho and a bottle of rum
-
 # Starter Web Repo
-
-This is a simple website project for showing how to use Git and Github together.
-Updating for emergency fix after stashing.
 
 ## Updates
 Updates made on master on GitHub before rebase
