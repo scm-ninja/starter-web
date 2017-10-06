@@ -1,6 +1,6 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
-	Please leave a review
+	Changes...
 # TEAM
 	
     Adam Dębski adam@o2.pl
@@ -13,3 +13,4 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+	Git
