@@ -1,3 +1,4 @@
+# Ignore Mac OS temp files
 .DS_store
 log/
 *.orig
