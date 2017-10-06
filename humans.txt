@@ -1,15 +1,16 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
-
+	Changes...
 # TEAM
-
-    <name> -- <role> -- <twitter>
-
+	
+    Adam Dębski adam@o2.pl
+	
 # THANKS
 
-    <name>
+    All my students
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	Git
