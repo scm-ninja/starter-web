@@ -3,11 +3,12 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Santhosh Babu santhosh.infotec@gmail.com  @santhoshbabu_mr
 
 # THANKS
 
-    <name>
+    Thanks to all my students!
+    Please leave a review if you like this course!
 
 # TECHNOLOGY COLOPHON
 
