@@ -1,3 +1,4 @@
+# ignore tech files from Mac OS
 .DS_store
 log/
 *.orig
