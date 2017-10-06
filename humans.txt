@@ -1,8 +1,8 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
-
+	Please leave a review
 # TEAM
-
+	
     Adam Dębski adam@o2.pl
 	
 # THANKS
