@@ -16,6 +16,10 @@ This is example is to show different parts of the Git repository and various com
 
 As state above, the main purpose is to provide simple examples for Git training demos
 
+## Getting started
+
+To get started with this project, just `clone` this repository.
+
 ## Deployment
 
 This is a simple web project, deployment can be on any web server or even local file system.
