@@ -1,6 +1,5 @@
 # Starter Web Repo
-Another line.
-Will this cause any problems? Adding more text.
+Ehh another change...
 
 This repository is for showing how Git and GitHub work
 
