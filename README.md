@@ -23,4 +23,4 @@ This is a simple web project, deployment ..
 Please fork this repo and then issue Pull Requests for review.
 
 ## How to Copyright
-2014 Copyright
+2014 Copyright All rights reserved.
