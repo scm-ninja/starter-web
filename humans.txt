@@ -3,13 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+Pavlo Petrychenko pp@xtendx.com  @ololo
 # THANKS
 
     <name>
-
+Please leave review if you like  this course 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+
+    All my students
+ Git add some more values
