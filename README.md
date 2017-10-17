@@ -1,7 +1,25 @@
-# Starter Web Repo
+# Starter Web Project
 
-This repository is for showing how Git and GitHub work
+This is a simple website project
+Updating the README again.
+
+## Introduction
+
+This is an example to show different parts
+of GIT repo.
 
 ## Purpose
 
-Sample website with plenty of files for demos
+As stated above, the mein purpose is to
+provide ...
+
+## Deployment
+
+This is a simple web project, deployment ..
+
+## How to Contribute
+
+Please fork this repo and then issue Pull Requests for review.
+
+## How to Copyright
+2014 Copyright All rights reserved.
