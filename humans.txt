@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Csaba Horvath -- cshorvath@email.com -- @cshorvath
 
 # THANKS
 
