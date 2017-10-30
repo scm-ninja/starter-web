@@ -1,6 +1,7 @@
 # Starter Web Repo
 
-This is a simple website project for showing how Git and GitHub together
+This is a simple website project for showing how Git and GitHub together.
+Adding a line for Rebasing example.
 
 ## Inroduction
 
