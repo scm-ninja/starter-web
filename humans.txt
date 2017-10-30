@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ilker YILMAZ	ilker.nem@gmail.com	@bebeilker
 
 # THANKS
 
