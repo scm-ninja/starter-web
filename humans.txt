@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ilker YILMAZ	ilker.nem@gmail.com	@bebeilker
 
 # THANKS
 
-    <name>
+    Thanks to all my students
 
 # TECHNOLOGY COLOPHON
 

@@ -1,0 +1,5 @@
+ilker.txt
+*.log
+log/
+*.orig
+*.*~
