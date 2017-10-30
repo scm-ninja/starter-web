@@ -16,6 +16,8 @@ This os a simple web project, deployment can be any web server or even local fil
 
 ## How To Contribute
 
+Please for this repository and then issue Pull Requests for review
+
 ### Copyright
 
 2017 Ilker.YILMAZ
