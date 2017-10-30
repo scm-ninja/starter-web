@@ -15,3 +15,7 @@ As stated above, main purpose is to provide simple examples for Git training dem
 This os a simple web project, deployment can be any web server or even local file.
 
 ## How To Contribute
+
+### Copyright
+
+2017 Ilker.YILMAZ
