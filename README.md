@@ -20,4 +20,4 @@ Please fork this repository and then issue Pull Requests for review.
 
 ### Copyright
 
-2017 Simple Copyright Notice Change for No FF
+2017 Simple Copyright Notice Change for No FF. All right reserved.
