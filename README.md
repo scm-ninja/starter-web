@@ -1,4 +1,4 @@
-# Starter Web Repo
+# Starter Web Repo Branch
 
 This repository is for showing how Git and GitHub works together. Updating for emergency fix after stashing.
 
