@@ -10,3 +10,5 @@ Sample website with plenty of files for demos
 Jason
 Paul
 Anonymous Man
+
+issue close
