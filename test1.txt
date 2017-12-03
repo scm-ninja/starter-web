@@ -1,0 +1,3 @@
+
+There is another thing  that is attached to Rabbit which  and which is very important and another temporary Unit called queue manager that still exist few years after it was created but will be replaced after the upgrade of criterium… and what this it does is priority (task priority) because  we want to have control over the task 
+you
