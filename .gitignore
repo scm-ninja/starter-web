@@ -1,3 +1,3 @@
 anti-git-file
-mylogfile.log
+*.log
 /logs
