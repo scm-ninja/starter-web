@@ -6,6 +6,10 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
-## Addding section for develop branch test
+## Adding section for develop branch test
 
 Sample file change for develop branch on forked + cloned code base
+
+## Adding section for purpose
+
+Purpose behind readme.md file
