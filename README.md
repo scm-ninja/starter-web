@@ -8,4 +8,5 @@ Sample website with plenty of files for demos
 
 Git.Training ... copyleft
 
+MEHR
 noch eine Änderung
