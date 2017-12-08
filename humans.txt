@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Mr Mister	x@y.x
 
 # THANKS
 
