@@ -1,7 +1,8 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work do it
-added a text, more changes in myfeature
+added a text, ssdf
+fixifixi
 
 ## Purpose
 
