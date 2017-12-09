@@ -12,3 +12,6 @@ aergqerfeqr
 
 MEHR
 noch eine Änderung
+
+### Copyright
+all mine
