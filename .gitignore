@@ -1,0 +1,4 @@
+anti-git-file
+*.log
+/logs
+*.orig
