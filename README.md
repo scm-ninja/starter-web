@@ -19,4 +19,9 @@ This is a section for problem text
 This is a section for solution text
 
 ## Copyright
+
 2017 Git.Training.
+
+## How to contribute
+
+This is a section for contribution text
