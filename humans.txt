@@ -3,8 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+Naresh Rajaram
 # THANKS
 
     <name>
