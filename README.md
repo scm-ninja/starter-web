@@ -10,4 +10,4 @@ Sample website with plenty of files for demos
 
 This is modified again`again
 
-Editing the readme file
+Changing the read me file
