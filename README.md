@@ -17,3 +17,6 @@ This is a section for problem text
 ## Solution
 
 This is a section for solution text
+
+## Copyright
+2017 Git.Training.
