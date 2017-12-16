@@ -1,10 +1,10 @@
+Another changes to learn git
 # humanstxt.org/
 # The humans responsible & technology colophon
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+Naresh Rajaram
 # THANKS
 
     <name>
@@ -13,3 +13,5 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+
+ Modified from Features branch
