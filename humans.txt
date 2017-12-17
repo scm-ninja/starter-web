@@ -3,13 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Santhosh Kumar santhoshza@gmail.com
 
 # THANKS
 
-    <name>
+    Thanks to all the people.
+	Please leave a reveiw .
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	.dotnet, sql
