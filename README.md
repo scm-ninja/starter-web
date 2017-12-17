@@ -5,6 +5,8 @@ This repository is for showing how Git and GitHub work.
 Adding a line for rebasing example.
 More changes from myfeature branch too.
 
+Updating emergency fix after STASH
+
 ## Purpose
 
 Sample website with plenty of files for demos
