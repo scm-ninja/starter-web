@@ -20,7 +20,7 @@ This is a section for solution text
 
 ## Copyright
 
-2017 Git.Training.
+2017 Git.Training. All rights reserved.
 
 ## How to contribute
 
