@@ -1,2 +1,1 @@
-some changes from feature
-some more changes
+line 1
