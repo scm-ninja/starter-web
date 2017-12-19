@@ -1,3 +1,2 @@
-code from master branch
-code from the branch
+copyright file will be added here
 
