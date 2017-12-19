@@ -1,7 +1,1 @@
-this is a new example file1
-
-
-bsdizfbusdbfosdhfosd
-houfhodfhoisdfipdsfpsd
-oufboadfod
-
+all changes of stash 2
