@@ -1,6 +1,7 @@
-line 1
 <<<<<<< Updated upstream
-some changes here too after stash
+this is a new example file 2
+all changes of stash 3
+all changes of stash 2
 =======
-some changes which not to be committed
+haha of stash1
 >>>>>>> Stashed changes
