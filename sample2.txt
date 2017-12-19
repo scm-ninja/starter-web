@@ -1,3 +1,0 @@
-this is a new example file 2
-all changes of stash 3
-all changes of stash 2
