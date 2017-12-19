@@ -1,2 +1,1 @@
-line 1
-some changes which not to be committed
+this is a new example file 2
