@@ -1,1 +1,1 @@
-this is a new document from master
+this code confirms that new features have been added and deleted the code from master.
