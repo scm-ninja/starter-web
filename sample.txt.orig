@@ -1,0 +1,11 @@
+code from master branch
+<<<<<<< HEAD
+code again
+some changes again
+some more and more changes
+=======
+some merge toold changes
+>>>>>>> c1be5e16ca1ad03d3cb4fe7d574a9c27eb33e677
+
+
+
