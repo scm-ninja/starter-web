@@ -1,2 +1,2 @@
 line 1
-some changes here too after stash
+some changes which not to be committed

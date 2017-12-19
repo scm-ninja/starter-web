@@ -1,5 +1,6 @@
-<<<<<<< HEAD
-some text from feature
+line 1
+<<<<<<< Updated upstream
+some changes here too after stash
 =======
-some changes from master
->>>>>>> master
+some changes which not to be committed
+>>>>>>> Stashed changes
