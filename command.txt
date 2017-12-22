@@ -1,0 +1,158 @@
+    1  vagrant init ubuntu/trusty64
+    2  ls
+    3  vi vagrantfile
+    4  vagrant up
+    5  vagrant up
+    6  vagrant up
+    7  vagrant ssh
+    8  vagrant ssh
+    9  vagrant upgrade
+   10  vagrant ssh-config
+   11  varant ssh
+   12  vagrant ssh
+   13  sudo -i
+   14  vi vagrantfile
+   15  vagrant up
+   16  vagrant destroy
+   17  vagrant up
+   18  vagrant ssh
+   19  ssh vagrant@192.168.33.80
+   20  exit
+   21  git -v
+   22  git -version
+   23  exit
+   24  vagrant init ubuntu/trusty64
+   25  ls
+   26  vi vagrantfile
+   27  vagrant up
+   28  ssh vagrant@192.168.33.80
+   29  vi vagrantfile
+   30  ssh vagrant@192.168.33.80
+   31  ssh vagrant@192.168.33.80
+   32  exit
+   33  vagrant up
+   34  vagrant destroy
+   35  vagrant up
+   36  ssh vagrant@192.168.33.10
+   37  ssh vagrant@192.168.33.80
+   38  ssh vagrant@192.168.33.80
+   39  exit
+   40  ssh vagrant@192.168.33.80
+   41  ssh vagrant@192.168.60.4
+   42  exit
+   43  vagrant init
+   44  vagrant up
+   45  exit
+   46  git --config -list
+   47  git config --list
+   48  pwd
+   49  mkdir gitprject
+   50  cd gitprject/
+   51  ls -lrt
+   52  git init fresh_project
+   53  ls -lrt
+   54  cd fresh_project/
+   55  ls -lrt
+   56  ls -al 
+   57  touch demo
+   58  vi demo
+   59  nano demo
+   60  vi
+   61  vi demo
+   62  ls -lrt
+   63  less demo
+   64  git status
+   65  git add demo
+   66  git status
+   67  git commit -m "this my first commit"
+   68  git commit -m "this my first commit" demo
+   69  git config --global user.email "reddy1262@gmail.com"
+   70  git config --global user.name "venu"
+   71  git config --global --list
+   72  git commit -m "this my first commit" demo
+   73  git status
+   74  ls -al
+   75  rm -rf .git/
+   76  ls -al
+   77  rm -rf demo
+   78  ls -l
+   79  cd ..
+   80  cd ..
+   81  pwd
+   82  cd Downloads/
+   83  ls -lrt init*
+   84  unzip initializr-verekia-4.0.zip ~/gitprject/fresh_project/
+   85  cp initializr-verekia-4.0.zip /c/Users/pkred/gitprject/fresh_project/
+   86  cd -
+   87  cd gitprject/
+   88  cd fresh_project/
+   89  ls -lrt
+   90  unzip initializr-verekia-4.0.zip 
+   91  ls -lrt
+   92  mv initializr webapp
+   93  ls -lrt
+   94  cd webapp/
+   95  ls -lrt
+   96  git init
+   97  ls -al
+   98  git status
+   99  git add .
+  100  git status
+  101  git commit -m "webapp project commit"
+  102  ls -lrt
+  103  git status
+  104  rm -rf .git/
+  105  cd ..
+  106  ls -lrt
+  107  rm -rf webapp/
+  108  ls -lrt
+  109  rm -rf initializr-verekia-4.0.zip 
+  110  ls -lrt
+  111  git clone https://github.com/reddy1262/starter-web.git
+  112  ls -lrt
+  113  cd starter-web/
+  114  clear
+  115  ls -lrt
+  116  ls -al
+  117  git status
+  118  vi python.py
+  119  ls -lrt
+  120  git status
+  121  git add python.py 
+  122  git status
+  123  git commit -m "python file added"
+  124  git status
+  125  git pull origin master
+  126  git pull origin master
+  127  ls -lrt
+  128  less crossdomain.xml 
+  129  git push origin master 
+  130  git pull origin master
+  131  git push origin master 
+  132  clear
+  133  ls -lrt
+  134  vi hipster.txt 
+  135  git status
+  136  git commit -am "hipster text file"
+  137  git ls-files
+  138  touch newfile
+  139  git status
+  140  git ls-files
+  141  git add .
+  142  git ls-files
+  143  git log
+  144  clear
+  145  ls -lrt
+  146  vi hipster.txt 
+  147  git status
+  148  git add hipster.txt 
+  149  git status
+  150  vi hipster.txt 
+  151  git status
+  152  git add hipster.txt 
+  153  git status
+  154  git commit -m "more text added"
+  155  ls -lrt
+  156  less hipster.txt 
+  157  vi hipster.txt 
+  158  history >> command.txt
