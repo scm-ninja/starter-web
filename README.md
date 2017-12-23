@@ -12,4 +12,4 @@ we are playing on this repo for github training
 
 ##Copyrights
 
-copyright to my students
+copyright to my students and public
