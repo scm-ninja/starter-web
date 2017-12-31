@@ -1,3 +1,5 @@
 just test of ls-files
 
 Demostration of disabling fast-forward merge.
+
+update made locally.
