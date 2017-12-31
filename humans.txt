@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Vv g   vv@Git   @pruebasgit
 
 # THANKS
 
