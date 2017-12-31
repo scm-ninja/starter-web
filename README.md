@@ -22,5 +22,11 @@ Some changes to compare local repository master branch with remote repository ma
 
 Deployment section to be added.
 
+## Staged Changes
+
+This is staged changes to the README.md file.
+
+Changes in the working directory, which is not staged.
+
 
 
