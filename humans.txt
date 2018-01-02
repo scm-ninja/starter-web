@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    For the UDEMY course
 
 # TECHNOLOGY COLOPHON
 
