@@ -13,6 +13,8 @@ server or even local file system.
 
 ## How To Contribute
 
+Please for this repository and then issue a Pull Requests for 
+review.
 
 ### Copyright
 
