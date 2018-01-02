@@ -20,5 +20,5 @@ review.
 
 ### Copyright
 
-2017 Training.
+2017 Training. All rights reserved.
 
