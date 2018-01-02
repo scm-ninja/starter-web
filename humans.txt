@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Dennis Quinones dquinone  NA
 
 # THANKS
 
