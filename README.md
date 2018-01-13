@@ -1,7 +1,7 @@
 # Starter Web Project
 
 This is simple project for learning git. Adding line for rebase.
-more changes
+more changes. Emergency fix after stash
 
 ## Introduction
 
