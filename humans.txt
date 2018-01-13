@@ -3,6 +3,8 @@
 
 # TEAM
 
+	Szymon Chaber
+
     <name> -- <role> -- <twitter>
 
 # THANKS
