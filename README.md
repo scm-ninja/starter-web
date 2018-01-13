@@ -19,3 +19,4 @@ Can be done on any server or PC
 Please fork this repo and then pull request
 
 ##Copyright
+All rights reserved
