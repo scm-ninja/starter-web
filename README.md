@@ -15,5 +15,6 @@ As stated above, the main purpose is to be example for git training videos
 Can be done on any server or PC
 
 ## How to contribute
+Please fork this repo and then pull request
 
 ##Copyright
