@@ -8,7 +8,7 @@ This is an example
 
 ## Purpose
 
-As statet above, the main purpose is to be example for git training videos
+As stated above, the main purpose is to be example for git training videos
 
 ## Deployment
 
