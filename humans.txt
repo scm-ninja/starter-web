@@ -3,13 +3,16 @@
 
 # TEAM
 
+	Szymon Chaber
+
     <name> -- <role> -- <twitter>
 
 # THANKS
 
-    <name>
+    All my friends & family
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	Android

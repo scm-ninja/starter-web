@@ -1,7 +1,22 @@
-# Starter Web Repo
+# Starter Web Project
 
-This repository is for showing how Git and GitHub work
+This is simple project for learning git. Adding line for rebase.
+more changes. Emergency fix after stash
+
+## Introduction
+
+This is an example
 
 ## Purpose
 
-Sample website with plenty of files for demos
+As stated above, the main purpose is to be example for git training videos
+
+## Deployment
+
+Can be done on any server or PC
+
+## How to contribute
+Please fork this repo and then pull request
+
+##Copyright
+All rights reserved
