@@ -1,0 +1,191 @@
+  467  ssh vagrant@192.168.33.80
+  468  clear 
+  469  touch naan
+  470  ls 
+  471  mkdir naan
+  472  rm -f naan
+  473  mkdir naan
+  474  ls 
+  475  mkdir haddd
+  476  pwd
+  477  cd haddd
+  478  ssh vagrant@192.168.33.80
+  479  cd ..
+  480  exit
+  481  ssh vagrant@192.168.33.80
+  482  git init firstrepo
+  483  ls -lrt
+  484  cd firstrepo/
+  485  ls -lrt
+  486  touch file1 file2 
+  487  ls -lrt
+  488  vi file1
+  489  vi file2
+  490  ls -lrt
+  491  git status
+  492  git add file1 file2
+  493  git status
+  494  git commit -m "commit from command line"
+  495  git status
+  496  ls -a
+  497  cd .git/
+  498  ls -lrt
+  499  pwd
+  500  cd ..
+  501  rm -rf .git/
+  502  ls -lrt
+  503  git status
+  504  ls -lrt
+  505  cd initializr/
+  506  ls -lrt
+  507  clear
+  508  git status
+  509  git init
+  510  git status
+  511  git add .
+  512  git status
+  513  git commit -m "git on already exixting project"
+  514  git status
+  515  ls -lrt
+  516  vi robots.txt 
+  517  git status
+  518  git add .
+  519  git commit -m "robot commit"
+  520  git log
+  521  git diff 1c93423021f3cd18811494974736c1c8413c6f9c
+  522  git diff 1c93423021f3cd18811494974736c1c8413c6f9c 9eac3dc9fff275cde382495e9b6170348edee261
+  523  ls -lrt
+  524  cd ..
+  525  rm -rf initializr/
+  526* 
+  527  clear
+  528  pwd
+  529  git clone https://github.com/reddy1262/starter-web.git
+  530  ls -lrt
+  531  cd starter-web/
+  532  ls -lrt
+  533  ls -a
+  534  vi humans.txt 
+  535  git status
+  536  git commit -am "humans.txt"
+  537  git status
+  538  clear
+  539  git push origin master
+  540  history
+  541  history
+  542  clear
+  543  ls -ltr
+  544  cd
+  545  cd firstrepo/starter-web/
+  546  ls -l
+  547  ls -a
+  548  git init rama
+  549  clear
+  550  pwd
+  551  vi ~/.gitconfig
+  552  git config --global user.name="murali"
+  553  git config --global user.name "murali"
+  554  vi ~/.gitconfig
+  555  hist
+  556  git hist
+  557  clear
+  558  git ls-files
+  559  touch tracking
+  560  ls -lrt track*
+  561  git status
+  562  git ls-files
+  563  git ls-files | grep track*
+  564  git add .
+  565  git ls-files | grep track*
+  566  git ls-files
+  567  vi tracking 
+  568  git status
+  569  git reset HEAD tracking
+  570  git status
+  571  git ls-files
+  572  git status
+  573  git rm tracking 
+  574  git add .
+  575  git ls-files
+  576  git rm tracking 
+  577  git rm -f tracking 
+  578  ls -lrt track*
+  579  ls -lrt
+  580  touch hipster.txt
+  581  vi hipster.txt 
+  582  vi hipster.txt 
+  583  ls -lrt
+  584  git status
+  585  git status
+  586  ls -lrt hip*
+  587  chmod 777 hipster.txt 
+  588  git status
+  589  rm hipster.txt 
+  590  touch hipster.txt
+  591  git status
+  592  ls -a
+  593  ls -lrt
+  594  rm -rf hipster.txt 
+  595  ls -lrt
+  596  cat > hipster.txt
+  597  git status
+  598  ls -lrt
+  599  touch venu
+  600  git status
+  601  vi venu
+  602  ls -lrt
+  603  git status
+  604  git commit -am "venu.txt"
+  605  git commit -am "venu.txt" venu
+  606  git commit -am venu
+  607  git commit -am "venu" .
+  608  git commit -ma "venu" .
+  609  git add .
+  610  git status
+  611  git commit -m "test"
+  612  vi venu 
+  613  git status
+  614  git commit -am "test adding more data" .
+  615  git commit -am "test adding more data" venu 
+  616  git commit -am "test adding more data"
+  617  git status
+  618  mkdir -p /level1/level2/level3
+  619  sudo mkdir -p /level1/level2/level3
+  620  mkdir -p level1/level2/level3
+  621  ls -lrt
+  622  cd level1/
+  623  cd level2/
+  624  cd level3/
+  625  cd ../..
+  626  cd ..
+  627  cd -
+  628  cat > level1file
+  629  cd level2/
+  630  cat > level2file
+  631  cd level3/
+  632  cat > level3file
+  633  cd ../../..
+  634  git status
+  635  git add .
+  636  git status
+  637  git commit -a "recursive add"
+  638  git commit -m "recursive add"
+  639  git status
+  640  git pull 
+  641  git pull 
+  642  cat humans.txt 
+  643  git push origin master
+  644  git pull
+  645  cat humans.txt 
+  646  git push origin master
+  647  git status
+  648  vi ~/.gitconfig 
+  649  cd level1/
+  650  ls -lrt
+  651  vi level1file 
+  652  git status
+  653  git checkout level1file
+  654  git status
+  655  cat level1file 
+  656  history
+  657  history | tail -191 >> class1.txt
