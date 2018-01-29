@@ -1,6 +1,7 @@
 # Starter Web Repo
 
-This is a simple repo for playing around with git. Adding a line for rebasing. 
+This is a simple repo for playing around with git. Adding a line for rebasing.
+More changes from myfeature branch. 
 
 ## Introduction
 
