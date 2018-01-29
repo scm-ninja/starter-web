@@ -15,3 +15,6 @@ The purpose is to just mess around
 Deploy text
 
 ## How to Contribute
+
+### Copyright
+Git training copyright text
