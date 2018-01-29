@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This is a simple repo for playing around with git
+This is a simple repo for playing around with git. Adding a line for rebasing. 
 
 ## Introduction
 
