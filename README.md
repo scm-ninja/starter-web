@@ -8,8 +8,10 @@ This is the introduction section
 
 ## Purpose
 
-Sample website with plenty of files for demos
+The purpose is to just mess around
 
 ## Deployment
+
+Deploy text
 
 ## How to Contribute
