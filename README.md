@@ -19,4 +19,4 @@ Deploy text
 Contact me for contributio detais
 
 ### Copyright
-Git training copyright text
+Git training copyright text. All rights researved.
