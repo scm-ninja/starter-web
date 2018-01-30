@@ -9,7 +9,7 @@ This is the introduction section
 
 ## Purpose
 
-The purpose is to just mess around
+The purpose of this repo is to play around with git commands. 
 
 ## Deployment
 
