@@ -13,10 +13,10 @@ The purpose is to just mess around
 
 ## Deployment
 
-Deploy text
+Download the package and then click the deploy button.
 
 ## How to Contribute
-Contact me for contributio detais
+Contact me for contribution details
 
 ### Copyright
 Git training copyright text. All rights researved.
