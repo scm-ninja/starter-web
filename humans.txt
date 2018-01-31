@@ -3,11 +3,12 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Dob Smith dob@smith.com
+    Radley Bonk rbonk@blue.ca
 
 # THANKS
 
-    <name>
+    Thanks to all the peeple who made this possible. 
 
 # TECHNOLOGY COLOPHON
 
