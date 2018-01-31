@@ -1,7 +1,6 @@
 # Starter Web Repo
 
-This is a simple repo for playing around with git. Adding a line for rebasing.
-More changes from myfeature branch. Updating for emerg fix after stash.
+This is a simple repo for playing around with git. I'm trying out some git best practices.
 
 ## Introduction
 
