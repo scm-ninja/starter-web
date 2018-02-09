@@ -23,3 +23,7 @@ Velit egestas dui id ornare arcu odio ut sem. Id leo in vitae turpis massa sed e
 ## Test
 
 This is test row
+
+## About project
+
+Coolest project you have ever seen
