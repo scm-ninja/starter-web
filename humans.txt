@@ -1,15 +1,15 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
+Nulla facilisi etiam dignissim diam quis enim lobortis scelerisque. Lectus mauris ultrices eros in cursus turpis massa tincidunt. Cursus metus aliquam eleifend mi. Tincidunt lobortis feugiat vivamus at. In hac habitasse platea dictumst vestibulum rhoncus est pellentesque elit. Maecenas sed enim ut sem viverra aliquet eget. Eu sem integer vitae justo eget. Rhoncus dolor purus non enim praesent elementum. A cras semper auctor neque vitae tempus quam pellentesque nec. Cursus eget nunc scelerisque viverra mauris. Amet est placerat in egestas erat imperdiet sed. Consectetur lorem donec massa sapien faucibus et molestie. Ipsum dolor sit amet consectetur adipiscing elit pellentesque.
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Lauta's family
 
 # THANKS
 
-    <name>
+    Ievgen Lauta. Love you :*
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3
-    jQuery, Modernizr
+    git bash
