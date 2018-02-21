@@ -1,4 +1,4 @@
-# Starter Web Repo
+#Starter Web Readme
 
 This repository is for showing how Git and GitHub work
 
