@@ -1,7 +1,7 @@
-#Starter Web Readme
+# Starter Web Read Me
 
-This repository is for showing how Git and GitHub work
+I am fixing your spelling errors
 
 ## Purpose
 
-Sample website with plenty of files for demos
+You are now a great speller
