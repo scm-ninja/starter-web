@@ -6,4 +6,4 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
-Making changes to force a commit after cloning.
+Just adding my piece to the README.
