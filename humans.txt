@@ -3,11 +3,12 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Dennis Quinones dquinone  NA
 
 # THANKS
 
-    <name>
+    For the UDEMY course. 
+	Leaving review after the completion of this course.
 
 # TECHNOLOGY COLOPHON
 
