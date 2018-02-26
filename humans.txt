@@ -1,23 +1,16 @@
-# humanstxt.org/
-<<<<<<< HEAD
+
 # The humans responsible & technology Master Branch
 
 # TEAM
 
  <name> Master Branch	 <role> B C <twitter>
-=======
-# The humans responsible & technology SAMAC TECH
 
-# TEAM
-
- <name> <role> NETWORK VERSION<twitter>
->>>>>>> realwork
 
 # THANKS
 
-    <name>
+    <name> Master Branch
 
-# TECHNOLOGY SAMAC TECH
+# TECHNOLOGY Master Branch
 
     HTML5, CSS3
     jQuery, Master Branch
