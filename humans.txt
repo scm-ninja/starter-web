@@ -1,9 +1,9 @@
 # humanstxt.org/
-# The humans responsible & technology colophon
+# The humans responsible & technology Master Branch
 
 # TEAM
 
- <name> network branch	 <role> B C <twitter>
+ <name> Master Branch	 <role> B C <twitter>
 
 # THANKS
 
@@ -12,4 +12,4 @@
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
-    jQuery, Modernizr
+    jQuery, Master Branch
