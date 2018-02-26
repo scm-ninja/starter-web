@@ -1,34 +1,16 @@
-<<<<<<< HEAD
-
-# The humans responsible & technology Master Branch
+# The humans responsible & technology Master Branch A
 
 # TEAM
 
- <name> Master Branch	 <role> B C <twitter>
+ <name> Master Branch A	 <role> B C <twitter>
 
 
 # THANKS
 
-    <name> Master Branch
+    <name> Master Branch A
 
 # TECHNOLOGY Master Branch
 
     HTML5, CSS3
     jQuery, Master Branch
-=======
-# humanstxt.org/
-# The humans responsible & technology REALWORK BRANCH
 
-# TEAM
-
- <name> <role> REALWORK BRANCH VERSION<twitter>
-
-# THANKS
-
-    <name> REALWORK BRANCH
-
-# TECHNOLOGY REALWORK BRANCH
-
-    HTML5, CSS3
-    jQuery, REALWORK BRANCH
->>>>>>> realwork
