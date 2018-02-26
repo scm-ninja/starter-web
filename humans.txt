@@ -1,15 +1,17 @@
 # humanstxt.org/
-# The humans responsible & technology REALWORK BRANCH
+# The humans responsible & technology REALWORK BRANCH A
+
+
 
 # TEAM
 
- <name> <role> REALWORK BRANCH VERSION<twitter>
+ <name> <role> REALWORK BRANCH  A VERSION<twitter>
 
 # THANKS
 
-    <name> REALWORK BRANCH
+    <name> REALWORK BRANCH A 
 
-# TECHNOLOGY REALWORK BRANCH
+# TECHNOLOGY REALWORK BRANCH A
 
     HTML5, CSS3
-    jQuery, REALWORK BRANCH
+    jQuery, REALWORK BRANCH A
