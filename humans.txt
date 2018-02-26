@@ -3,11 +3,7 @@
 
 # TEAM
 
-<<<<<<< HEAD
-    <name> In master branch	 <role> B C <twitter>
-=======
-    <name> network branch	 <role> B C <twitter>
->>>>>>> realwork
+ <name> network branch	 <role> B C <twitter>
 
 # THANKS
 
