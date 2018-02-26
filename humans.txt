@@ -1,15 +1,15 @@
 # humanstxt.org/
-# The humans responsible & technology colophon
+# The humans responsible & technology SAMAC TECH
 
 # TEAM
 
- <name> network branch	 <role> B C <twitter>
+ <name> <role> NETWORK VERSION<twitter>
 
 # THANKS
 
     <name>
 
-# TECHNOLOGY COLOPHON
+# TECHNOLOGY SAMAC TECH
 
     HTML5, CSS3
     jQuery, Modernizr
