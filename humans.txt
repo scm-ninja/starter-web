@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> A	 <role> B C <twitter>
+    <name> In master branch	 <role> B C <twitter>
 
 # THANKS
 
