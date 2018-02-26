@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> A	 <role> B C <twitter>
+    <name> network branch	 <role> B C <twitter>
 
 # THANKS
 
