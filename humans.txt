@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 # The humans responsible & technology  Master 4
+=======
+# humanstxt.org/
+# The humans responsible & technology NETWORK BRANCH
+>>>>>>> realwork
 
  <name> NEW MASTER 2 A	 <role> B C <twitter>
 
@@ -10,4 +15,8 @@
 # TECHNOLOGY NEW MASTER 2
 
     HTML5, CSS3
+<<<<<<< HEAD
     jQuery,NEW  Master 4
+=======
+    jQuery,NETWORK BRANCH
+>>>>>>> realwork
