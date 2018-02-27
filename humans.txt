@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# The humans responsible & technology  5 Master
+# The humans responsible & technologyMaster 6
 
  <name> 5  Master 2 A	 <role> B C <twitter>
 
@@ -11,5 +11,4 @@
 # TECHNOLOGY NEW MASTER 2
 
     HTML5, CSS3
-    jQuery,NEW   5 Master
-
+    jQuery,NEW   Master 6
