@@ -1,5 +1,5 @@
 # humanstxt.org/
-# The humans responsible & technology NETWORK BRANCH
+# The humans responsible & technology  new in NETWORK BRANCH
 
 
 
@@ -14,4 +14,4 @@
 # TECHNOLOGY REALWORK BRANCH A
 
     HTML5, CSS3
-    jQuery,NETWORK BRANCH
+    jQuery, new IN NETWORK BRANCH
