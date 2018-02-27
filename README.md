@@ -1,6 +1,6 @@
 # Starter Web Project
 Changed on master branch
-Adding a line for rebasing example.
+Adding a line for rebasing example, then more changes
 
 ## Introduction
 This is a description.
