@@ -1,4 +1,4 @@
-# The humans responsible & technology NEW MASTER 2
+# The humans responsible & technology    Master 3
 # TEAM
 
  <name> NEW MASTER 2 A	 <role> B C <twitter>
@@ -11,5 +11,5 @@
 # TECHNOLOGY NEW MASTER 2
 
     HTML5, CSS3
-    jQuery,NEW MASTER 2
+    jQuery,NEW Master 3
 
