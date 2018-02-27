@@ -1,14 +1,10 @@
-<<<<<<< HEAD
-# The humans responsible & technologyMaster 6
+# humanstxt.org/
+# The humans responsible & technology  new in NETWORK BRANCH
 
- <name> 5  Master 2 A	 <role> B C <twitter>
 
 
 # THANKS
 
-    <name> NEW MASTER 2
 
-# TECHNOLOGY NEW MASTER 2
 
     HTML5, CSS3
-    jQuery,NEW   Master 6
