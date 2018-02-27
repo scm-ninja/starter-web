@@ -1,16 +1,15 @@
-# The humans responsible & technology Master Branch A
-
+# The humans responsible & technology NEW MASTER 2
 # TEAM
 
- <name> Master Branch A	 <role> B C <twitter>
+ <name> NEW MASTER 2 A	 <role> B C <twitter>
 
 
 # THANKS
 
-    <name> Master Branch A
+    <name> NEW MASTER 2
 
-# TECHNOLOGY Master Branch
+# TECHNOLOGY NEW MASTER 2
 
     HTML5, CSS3
-    jQuery, Master Branch
+    jQuery,NEW MASTER 2
 
