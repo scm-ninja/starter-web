@@ -1,5 +1,5 @@
 # Starter Web Project
-Changed on master branch
+Stash in a branch
 Updating for a test of emergency stash.
 
 ## Introduction
