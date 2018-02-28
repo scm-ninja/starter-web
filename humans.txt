@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Joshua Crunden -- Developer -- @joshuacrunden
 
 # THANKS
 
