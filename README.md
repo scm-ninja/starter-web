@@ -12,4 +12,4 @@ This deployment section.
 ## How to Contribute
 This section is a set a commits.
 
-## Copy Righs
+## Copy Righs. All reserved.
