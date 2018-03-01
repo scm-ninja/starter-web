@@ -1,15 +1,11 @@
 # humanstxt.org/
-# The humans responsible & technology colophon
+# The humans responsible & technology  try line in NETWORK BRANCH
+Adding title for stash in a branch.
 
-# TEAM
 
-    <name> -- <role> -- <twitter>
+# THANKS 
+to all my students.
+Leave a review please.
 
-# THANKS
-
-    <name>
-
-# TECHNOLOGY COLOPHON
 
     HTML5, CSS3
-    jQuery, Modernizr

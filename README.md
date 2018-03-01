@@ -1,7 +1,14 @@
-# Starter Web Repo
-
-This repository is for showing how Git and GitHub work
-
+# Starter Web Project
+Stash in a branch
+Update for tagging compare example.
+## Introduction
+This is a description.
 ## Purpose
 
-Sample website with plenty of files for demos
+## Deployment
+This deployment section.
+
+## How to Contribute
+This section is a set a commits.
+
+## Copy Righs. All reserved.
