@@ -1,7 +1,6 @@
 # Starter Web Project
 Stash in a branch
-Updating for a test of emergency stash.
-
+Update for tagging compare example.
 ## Introduction
 This is a description.
 ## Purpose
