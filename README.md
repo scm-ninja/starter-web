@@ -22,3 +22,5 @@ Please fork theis repository and then issue Pull Requests for review
 ## Copyright
 
 2014 Git.Training. All rights reserved
+
+Updates from deve-1
