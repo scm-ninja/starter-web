@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Robert Maciejewski romac@gmx.at
 
 # THANKS
 
