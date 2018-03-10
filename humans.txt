@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Eliot vanHeumen vanman1@gmail.com evtiki
 
 # THANKS
 
