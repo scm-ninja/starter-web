@@ -3,6 +3,8 @@
 This is a simple website project for
 showing how to use Git and Github together.
 Adding some text for rebasing example, more shit from myfeature branch
+Blah blah blah fix after stash
+
 
 ## Introduction
 
