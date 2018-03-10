@@ -21,4 +21,4 @@ This is a simple web project, devployment can be on any web server or even local
 Please for this repository and then issue pull requests for review
 
 ## Copyright
-2014.
+2014 Git.Training. All rights reserved
