@@ -17,9 +17,7 @@ This is a simple web project, devployment can be on any web server or even local
 
 ## How to Contribute
 
-<<<<<<< HEAD
-Please for this repository and then issue Pull Requests for review.
-=======
-### Copyright
-2014.git.tutorial
->>>>>>> simple-changes
+Please for this repository and then issue pull requests for review
+
+## Copyright
+2014.
