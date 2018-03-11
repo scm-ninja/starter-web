@@ -3,13 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Eliot vanHeumen vanman1@gmail.com evtiki
 
 # THANKS
 
-    <name>
+    baby jesus
+	boom bam bang
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	Git
