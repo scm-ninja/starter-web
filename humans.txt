@@ -3,13 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    jason Taylor test@test.com
 
 # THANKS
 
-    <name>
+    Thank to everyone.
+	Please leve a review if you like this course. 
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	Git
