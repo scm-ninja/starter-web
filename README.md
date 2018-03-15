@@ -21,4 +21,4 @@ Please fork this repository and them issue Pull Req for review.
 ## Copyright
 
 Adding some more text for rebasing, then more changes from myfeature branch. 
-Git.Training
+Git.Training. All rights reserved. 
