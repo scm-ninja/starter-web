@@ -5,4 +5,8 @@ Truffaut echo park viral palo santo, ethical pug lyft fanny pack seitan. Vape ki
 
 dopisze cos
 
+<<<<<<< HEAD
 a teraz ja dodaje lokalnie
+=======
+ktos cos dodal inny
+>>>>>>> f222d18722822ca8bec81c0fd1663de5a97d5777
