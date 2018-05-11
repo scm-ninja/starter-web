@@ -15,3 +15,5 @@ Sample website with plenty of files for demos
 This is a simple web deplpoyment prjoect section
 
 ## How to contribute?
+
+2018 copyright
