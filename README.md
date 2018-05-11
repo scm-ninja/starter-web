@@ -16,4 +16,6 @@ This is a simple web deplpoyment prjoect section
 
 ## How to contribute?
 
+Please fork the repository and issue pull request
+
 2018 copyright
