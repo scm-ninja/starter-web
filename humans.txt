@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name> Vivek vjain vjain <twitter>
 
 # THANKS
 
