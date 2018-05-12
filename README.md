@@ -20,4 +20,4 @@ This is a simple web deplpoyment prjoect section
 
 Please fork the repository and issue pull request
 
-2018 copyright
+2018 copyright all rights reserver
