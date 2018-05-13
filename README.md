@@ -2,7 +2,9 @@
 
 This repository is for showing how Git and GitHub work.
 
-Adding a line for rebase from myfeature branch
+Adding a line for rebase from myfeature branch.
+
+doing emergency fix
 
 ## Introduction
 
