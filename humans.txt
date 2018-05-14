@@ -3,13 +3,14 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name> Vivek vjain vjain <twitter>
 
 # THANKS
 
-    <name>
+    All my students. Please share review
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	Git
