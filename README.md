@@ -10,6 +10,6 @@ Sample website with plenty of files for demos
 
 Some changes added by @delasierra
 
-## Some more changes
+## Purpose
 
-More changes added
+Make changes
