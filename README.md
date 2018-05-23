@@ -9,3 +9,7 @@ Sample website with plenty of files for demos
 ## Some extra changes
 
 Some changes added by @delasierra
+
+## Some more changes
+
+More changes added
