@@ -11,6 +11,7 @@
 	JavaScript
 	Angular
 	Git
+	maven
 # THANKS
 
     <name>
