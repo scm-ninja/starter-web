@@ -12,6 +12,7 @@
 	Angular
 	Git
 	maven
+	Docker
 # THANKS
 
     <name>
