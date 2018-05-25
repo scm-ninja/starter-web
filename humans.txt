@@ -9,6 +9,8 @@
 	CRUK -
 	Java	
 	JavaScript
+	Angular
+	Git
 # THANKS
 
     <name>
