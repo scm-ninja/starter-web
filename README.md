@@ -1,7 +1,7 @@
-# Starter Web Repo
+# Starter Tech Blog Repo
 
-This repository is for showing how Git and GitHub work
+This is a Tech Blog about mobile phones.
 
-## Purpose
+## Purpose of this Blog
 
-Sample website with plenty of files for demos
+The purpose of this blog is to educate and help people with mobile phone settings.
