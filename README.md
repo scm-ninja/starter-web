@@ -1,6 +1,7 @@
 #Starter Web Application
 
-This is a simple website project to show how to use Git and GitHub together.Adding a file for rebasing example. 
+This is a simple website project to show how to use Git and GitHub together.Adding a file for rebasing example.
+More changes from myfeature branch too. 
 
 ##Introduction
 
