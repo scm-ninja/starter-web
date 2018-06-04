@@ -8,6 +8,8 @@ Questa e' una introduction
 
 ##Purpose
 
+Alla ricerca di uno scopo
+
 ##Deployment
 
 ##How To Contribute
