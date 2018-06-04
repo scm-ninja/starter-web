@@ -13,6 +13,7 @@ Alla ricerca di uno scopo
 ##Deployment
 
 ##How To Contribute
+Contribute bastard!
 
 Ci sto provando jeez!
 
