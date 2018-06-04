@@ -19,4 +19,4 @@ Contribute bastard!
 Ci sto provando jeez!
 
 ### Copyright
-Copyright 2001-2018
+Copyright 2001-2018. ALL RIGHTS STASH
