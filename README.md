@@ -15,3 +15,6 @@ Alla ricerca di uno scopo
 ##How To Contribute
 
 Ci sto provando jeez!
+
+### Copyright
+Copyright 2001-2018
