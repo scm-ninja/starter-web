@@ -6,6 +6,7 @@ Altri cmabiamentiii
 ##Introduction
 
 This is the introduction of the file
+Adding a string for the stash
 
 ## Purpose
 
