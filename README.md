@@ -2,6 +2,7 @@
 Rebasing prova
 A simple read me file
 ANCORA ALTRI CAMBIAMENTI
+STASH POP
 
 ##Introduction
 
