@@ -12,3 +12,5 @@ Sample website with plenty of files for demos
 
 ### Deployment
 First random text
+Second random text
+Third random text
