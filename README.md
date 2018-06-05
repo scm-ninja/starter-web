@@ -16,4 +16,4 @@ Second random text
 Third random text
 
 #### Copyright
-Git.training
+Git.training    
