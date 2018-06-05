@@ -9,6 +9,7 @@ Sample website with plenty of files for demos
 
 ## How to contribute
 > In any way
+Please fork this repository
 
 ### Deployment
 First random text
