@@ -14,3 +14,6 @@ Sample website with plenty of files for demos
 First random text
 Second random text
 Third random text
+
+#### Copyright
+Git.training
