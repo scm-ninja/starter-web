@@ -3,13 +3,16 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    James -- Dev -- <twitter>
 
 # THANKS
 
-    <name>
+    All my students!!
+	Leave a review if you like it
+	
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	MySQL, Java
