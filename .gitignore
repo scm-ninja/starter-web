@@ -1,2 +1,3 @@
 *.jar
 sample_claims.txt
+logs/
