@@ -1,9 +1,5 @@
 #Starter Web Project
-Rebasing prova
-A simple read me file
-ANCORA ALTRI CAMBIAMENTI
-STASH POP
-
+MULTIPLE STASH
 ##Introduction
 
 Questa e' una introduction
