@@ -1,17 +1,19 @@
-#Starter Web Project
+## PROVA COMPARE BRANCHES
+
+##Starter Web Project
 MULTIPLE STASH PROVA
 
-##Introduction
+## Introduction
 
 Questa e' una introduction
 
-##Purpose
+## Purpose
 
 Alla ricerca di uno scopo
 
-##Deployment
+## Deployment
 
-##How To Contribute
+## How To Contribute
 Contribute bastard!
 
 Ci sto provando jeez!
