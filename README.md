@@ -15,6 +15,7 @@ Please fork this repository
 First random text
 Second random text
 Third random text
+Rebasing example
 
 #### Copyright
 Git.training    
