@@ -15,3 +15,5 @@ This is the purpose
 This is the deployment
 
 ## How To Contribute
+
+This is how to contribute
