@@ -4,7 +4,7 @@ This is a simple website project
 
 ## Introduction
 
-This is an introduction
+This is an introduction to the simple website project.
 
 ## Purpose
 
