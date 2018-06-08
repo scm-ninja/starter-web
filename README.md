@@ -17,3 +17,7 @@ This is the deployment
 ## How To Contribute
 
 This is how to contribute to this project.
+
+### Copyright
+
+2014 git training
