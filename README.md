@@ -18,4 +18,4 @@ Third random text
 Rebasing example
 
 #### Copyright
-Git.training    
+Git.training all rights reserved
