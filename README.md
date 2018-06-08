@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a simple website project. Adding a simple text to README.md file.
+This is a simple website project. Adding a simple text to README.md file, then more changes from myfeatures branch.
 
 ## Introduction
 
