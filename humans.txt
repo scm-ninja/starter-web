@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Felipe Jorquera -- Admin -- feli1991
 
 # THANKS
 
