@@ -20,4 +20,4 @@ This is how to contribute to this project. Please fork this repo.
 
 ### Copyright
 
-2014 git training
+2014 Git Training. All rights reserved.
