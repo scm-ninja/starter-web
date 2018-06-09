@@ -1,7 +1,23 @@
-# Starter Web Repo
+# Starter Web Project
 
-This repository is for showing how Git and GitHub work
+This is a simple website project. Adding a simple text to README.md file, then more changes from myfeatures branch. Updating this file for stash step. Updating for branch compare example.
+
+## Introduction
+
+This is an introduction to the simple website project.
 
 ## Purpose
 
-Sample website with plenty of files for demos
+This is the purpose of the simple website project.
+
+## Deployment
+
+This is the deployment
+
+## How To Contribute
+
+This is how to contribute to this project. Please fork this repo.
+
+### Copyright
+
+2014 Git Training. All rights reserved.
