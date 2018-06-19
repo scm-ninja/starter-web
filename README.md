@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work and like it very much. Myfeature branch.
+This repository is for showing how Git and GitHub work and like it very much. Update for emergency after stashing.
 ------------------------------------------------------
 
 ## Purpose
