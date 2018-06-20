@@ -1,8 +1,9 @@
-Adding a line for rebasing example
+
 
 # Starter Web Repo
 
-This is a simple website project for showing how Git and GitHub work.
+This is a simple website project for showing how Git and GitHub work. Adding a line for rebasing example. 
+More changes from my feature branch.  
 
 ## Introduction
 
