@@ -14,3 +14,4 @@ Kristina Milkovich	kristinamilkovich@gmail.com
 
     HTML5, CSS3
     jQuery, Modernizr
+	Git
