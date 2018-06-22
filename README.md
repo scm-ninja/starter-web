@@ -9,3 +9,4 @@ Sample website with plenty of files for demos
 ## Edits
 
 I'm making improvements as we speak.
+And adding even more quality content now.
