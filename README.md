@@ -6,6 +6,7 @@ This repository is for showing how Git and GitHub work and like it very much. Up
 ## Purpose
 
 Sample website with plenty of files for demos
+Edit by dev1
 
 ## How to contribute
 > In any way
