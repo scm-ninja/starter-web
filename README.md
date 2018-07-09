@@ -12,6 +12,8 @@ Add some more description
 
 ## Purpose 
 
+This is a text about purpose
+
 ### Copyright
 
 Add some copyright
