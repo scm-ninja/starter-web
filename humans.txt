@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <Son> -- <Senior1> -- <Brazil>
 
 # THANKS
 
