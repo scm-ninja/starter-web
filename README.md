@@ -18,7 +18,7 @@ This is a text about purpose
 
 ### Copyright
 
-Add some copyright
+Add some copyright -- All rights rese
 
 
 
