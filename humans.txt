@@ -3,13 +3,14 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <Son> -- <Senior1> -- <Brazil>
 
 # THANKS
 
-    <name>
+    thanks to somebody
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	ruby

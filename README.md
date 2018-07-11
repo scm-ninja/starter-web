@@ -1,7 +1,26 @@
-# Starter Web Repo
+adding a line for rebasing example, more changes from my feature-branch
 
-This repository is for showing how Git and GitHub work
+# Starter Web Project
 
-## Purpose
+Add some description
 
-Sample website with plenty of files for demos
+## Introduction
+
+Add some more description
+
+## Deployment
+
+Add some more description
+
+## Purpose 
+
+This is a text about purpose
+
+### Copyright
+
+Add some copyright -- All rights rese
+
+quick update to test stash
+
+
+
