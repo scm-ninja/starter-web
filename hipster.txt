@@ -1,3 +1,0 @@
-This is the first file for another project that I have forked.
-Let's keep this text simple.
-I am going to save it now.
