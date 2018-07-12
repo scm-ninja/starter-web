@@ -1,3 +1,4 @@
 *.mp4
 access.log
 *.dll
+log/*
