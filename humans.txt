@@ -3,13 +3,22 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+Kristina Milkovich	kristinamilkovich@gmail.com
 
+More people... 
+Person 1
+Person 2
+text again 
+lots of text
+modifying
 # THANKS
 
-    <name>
+    Thanks to lecturer 
+	Another comment here. 
+	More thank yous 
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	Git
