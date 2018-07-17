@@ -1,5 +1,6 @@
 This is a change to the README 
 This is to examine the git stash branch command.
+This is not exactly best practice to edit on GitHub. 
 
 # Starter Web Repo
 
