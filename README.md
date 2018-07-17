@@ -4,7 +4,7 @@ This is a change to the README
 # Starter Web Repo
 
 This is a simple website project for showing how Git and GitHub work. Adding a line for rebasing example. 
-More changes from my feature branch.  Updating for emergency fix after after stashing. 
+Hoping to finish this course today.
 
 Adding another line 
 ## Introduction
