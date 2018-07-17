@@ -11,4 +11,8 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
+Use your common sense to deploy this application
+
 ## How to Contribute
+
+Fork!!!
