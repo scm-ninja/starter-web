@@ -13,6 +13,7 @@ Person 2
 
     Thanks to lecturer 
 	Another comment here. 
+	More thank yous 
 
 # TECHNOLOGY COLOPHON
 
