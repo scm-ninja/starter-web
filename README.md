@@ -6,6 +6,7 @@ This is a change to the README
 This is a simple website project for showing how Git and GitHub work. Adding a line for rebasing example. 
 More changes from my feature branch.  Updating for emergency fix after after stashing. 
 
+Adding another line 
 ## Introduction
 
 This is an example to show different parts of the Git repository and various commands using a web project. 
