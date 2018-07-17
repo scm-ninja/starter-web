@@ -13,7 +13,7 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
-Use your common sense to deploy this application
+Use your common sense to deploy this application. A new modification. Another modification
 
 ## How to Contribute
 
