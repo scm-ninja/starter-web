@@ -4,6 +4,7 @@
 # TEAM
 
     Juan Jesus Fernandez -- Solutions Architect -- Rattel Solutions
+    Beatriz Lopez de Mingo -- CEO -- Rattel Solutions
 
 # THANKS
 
