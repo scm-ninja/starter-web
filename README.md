@@ -18,7 +18,7 @@ Use your common sense to deploy this application. A new modification. Another mo
 ## How to Contribute
 
 Fork!!!
-After making the changes make a pull request for review
+After making the changes make a pull request for review and wait for the result
 
 ### Copyright
 
