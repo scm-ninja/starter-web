@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Juan Jesus Fernandez -- Solutions Architect -- Rattel Solutions
 
 # THANKS
 
