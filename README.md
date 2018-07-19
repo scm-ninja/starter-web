@@ -6,6 +6,7 @@ This repository is for showing how Git and GitHub work
 ## Introduction
 
 An example to learn how to use git and github
+A new line from master branch.
 
 ## Purpose
 
