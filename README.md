@@ -7,7 +7,8 @@ This repository is for showing how Git and GitHub work
 
 An example to learn how to use git and github
 A new line from master branch.
-This line was added in GitHub
+This line was added in GitHub.
+Stashing in a new branch
 
 ## Purpose
 
