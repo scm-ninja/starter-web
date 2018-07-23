@@ -24,4 +24,5 @@ After making the changes make a pull request for review and wait for the result
 
 ### Copyright
 
-2018 Rattel Solutions. All rights reserved
+2018 Rattel Solutions. All rights reserved. More copyright info.
+
