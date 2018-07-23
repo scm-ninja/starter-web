@@ -9,6 +9,7 @@ An example to learn how to use git and github
 A new line from master branch.
 This line was added in GitHub.
 Stashing in a new branch
+Maybe this time in README.md
 
 ## Purpose
 
