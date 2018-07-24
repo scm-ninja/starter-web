@@ -3,11 +3,13 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Juan Jesus Fernandez -- Solutions Architect -- Rattel Solutions
+    Beatriz Lopez de Mingo -- CEO -- Rattel Solutions
+    Daniel Fernandez -- Project Manager -- Rattel Solutions
 
 # THANKS
 
-    <name>
+    To my parents!
 
 # TECHNOLOGY COLOPHON
 
