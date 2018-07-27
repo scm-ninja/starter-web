@@ -19,3 +19,5 @@ This is testing example
 
 
 ## How To Contribute
+
+2018 Git.Training
