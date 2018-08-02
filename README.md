@@ -1,7 +1,23 @@
-# Starter Web Repo
+# Start Web Project
 
-This repository is for showing how Git and GitHub work
+This is example of Github project, which I've forked.
+Add another text
+
+
+
+## Introduction
+
+This is introduction
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Purpose test
+
+## Deployment
+
+This is testing example
+
+
+## How To Contribute
+
+2018 Git.Training
