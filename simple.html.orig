@@ -1,10 +1,6 @@
 <!DOCTYPE html>
 <head>
-<<<<<<< HEAD
-	<title>new website for code for experimentn1</title>
-=======
-	<title>new website for code for experiment2</title>
->>>>>>> da553cc34b4827a2da6072475a91ef9a69fb08be
+	<title>new website for code</title>
 
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
@@ -23,10 +19,14 @@
 		</p>
 	</main>
 	<footer class="container">
+<<<<<<< HEAD
+		<p>&copy; Company amazon 2014</p>
+=======
 		<p>
 			area of work
 		</p>
 		<p>&copy; Company 2014</p>
+>>>>>>> realwork
 	</footer>
 </body>
 </html>
