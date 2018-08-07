@@ -3,8 +3,7 @@
   469  touch naan
   470  ls 
   471  mkdir naan
-  472  rm -f naan
-  473  mkdir naan
+  472  rm -f naa
   474  ls 
   475  mkdir haddd
   476  pwd
