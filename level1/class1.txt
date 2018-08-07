@@ -1,6 +1,5 @@
   467  ssh vagrant@192.168.33.80
   468  clear 
-  469  touch naan
   470  ls 
   471  mkdir naan
   472  rm -f naa
