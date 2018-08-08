@@ -18,4 +18,6 @@ Deployment is made easy.
 
 ## How To Contribute
 
-## How To Contribute
+### Copyright
+
+2018 Hamed Jabbari 
