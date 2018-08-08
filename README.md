@@ -1,7 +1,8 @@
 # Starter Web Project
 
 This is a simple website project for showing how
-to use Git and Github together
+to use Git and Github together, then more changes from my featurebranch 2
+
 
 ## Introduction
 
