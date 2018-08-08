@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Hamed jabbari     hamed@git.com
 
 # THANKS
 
