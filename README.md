@@ -5,6 +5,8 @@ to use Git and Github together
 
 ## Introduction
 
+This is example is to show different parts of the git repository
+
 ## Purpose
 
 
