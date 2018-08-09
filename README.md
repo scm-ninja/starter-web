@@ -14,6 +14,11 @@ Sample deployment
 
 Sample test
 
+## How to contribute
+
+Please fork this repoistory
+
 ### Copyright
 
 2018 Git.Training
+
