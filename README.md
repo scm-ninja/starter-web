@@ -13,3 +13,7 @@ Sample deployment
 ## Test
 
 Sample test
+
+### Copyright
+
+2018 Git.Training
