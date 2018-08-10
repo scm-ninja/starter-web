@@ -4,7 +4,11 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 
-The Introduction section
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+The Introduction section.;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 ## Purpose
 
@@ -15,4 +19,8 @@ The How To section
 
 ## Deployment
 
-The Deployment section
+.....................................
+.....................................
+The Deployment section...............
+.....................................
+.....................................
