@@ -15,6 +15,8 @@ The Introduction section.;;;;;;;;;;;;;
 Sample website with plenty of files for demos
 
 ## How To Contribute
+
+Please, fork the repo and then issue PR for review
 The How To section
 
 ## Deployment
