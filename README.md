@@ -6,6 +6,7 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
-# Info added from Fork
+## Info added from Fork
 
-This is just some information added from a fork 
+This is just some information added from a fork
+some more information
