@@ -31,4 +31,4 @@ The Deployment section...............
 
 ### Copyright
 
-2018 Git Test
+2018 Git Test. All rights reserved
