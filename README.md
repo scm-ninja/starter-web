@@ -4,6 +4,8 @@ This repository is for showing how Git and GitHub work.
 This repository is for showing how Git and GitHub work.
 This repository is for showing how Git and GitHub work. Reabse example, then more change from my feature branch too
 
+Fixed after stash...
+
 ## Introduction
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
