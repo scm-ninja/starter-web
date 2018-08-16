@@ -15,3 +15,6 @@ As started above, adjlf dsaf aksdljf ladsfl kasdjfl kadsjf adsj flakdfdaj fadlfj
 This is a simple web project, deployment asd3ds fdtuhhjkkk  fdg
 
 ## How to Contribute
+
+### Copyright 
+Copyright 2018
