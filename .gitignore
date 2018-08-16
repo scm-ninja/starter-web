@@ -1,0 +1,3 @@
+file-ignored.txt
+log/
+*.orig

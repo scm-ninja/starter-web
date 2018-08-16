@@ -3,13 +3,16 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Wilson B. w@gmail.com @www
 
 # THANKS
 
-    <name>
+    Thanks everyone
+    Please, leave a review if you like this course.
+    ..........
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+    Git, Github
