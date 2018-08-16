@@ -7,7 +7,6 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 ## Subject
-Working concepts
-
+Working concepts of git and git hub
 ## Conclusion
 Gain Knowledge in the git concept
