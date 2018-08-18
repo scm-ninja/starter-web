@@ -1,7 +1,21 @@
-<!DOCTYPE html>
-<head>
-	<title>new website for code</title>
+new file<!DOCTYPE html>
+new file1
+<<<<<<< HEAD
+new file added in newbranch
 
+=======
+>>>>>>> new-branch
+<head>
+<<<<<<< HEAD
+<<<<<<< HEAD
+	<title>new website for code for experimentn1</title>
+=======
+	<title>new website for code for experiment</title>
+>>>>>>> da553cc34b4827a2da6072475a91ef9a69fb08be
+
+=======
+	<title></title>
+>>>>>>> parent of 45088e5... mastercommit
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
@@ -19,14 +33,10 @@
 		</p>
 	</main>
 	<footer class="container">
-<<<<<<< HEAD
-		<p>&copy; Company amazon 2014</p>
-=======
 		<p>
 			area of work
 		</p>
 		<p>&copy; Company 2014</p>
->>>>>>> realwork
 	</footer>
 </body>
 </html>
