@@ -1,10 +1,13 @@
 new file<!DOCTYPE html>
 new file1
-<<<<<<< HEAD
+now
+now made new changes
 new file added in newbranch
+<<<<<<< HEAD
+12
 
 =======
-now made new changes
+a change made in new branch
 >>>>>>> new-branch
 <head>
 <<<<<<< HEAD
