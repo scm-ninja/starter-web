@@ -18,4 +18,4 @@ This is a simple web project, deployment asd3ds fdtuhhjkkk  fdg
 Please fork this repository and then issue Pull Requests for review.
 
 ### Copyright 
-Copyright 2018
+Copyright 2018. All rights reserved.
