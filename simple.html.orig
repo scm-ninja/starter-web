@@ -3,12 +3,13 @@ new file1
 now
 now made new changes
 new file added in newbranch
+for new result
 <<<<<<< HEAD
-12
-
+new123
 =======
-a change made in new branch
->>>>>>> new-branch
+new124
+>>>>>>> af8cea10984c739642a10153fb5752c8b3a0c996
+
 <head>
 <<<<<<< HEAD
 <<<<<<< HEAD
