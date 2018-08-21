@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Hamed jabbari     hamed@git.com
 
 # THANKS
 
-    <name>
+    All my students
 
 # TECHNOLOGY COLOPHON
 
