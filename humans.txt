@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Oleksii Vyhyrynskyi
 
 # THANKS
 
