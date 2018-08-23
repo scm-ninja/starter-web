@@ -3,13 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Gabriel Lavini -- Desarrollador -- @GabrielLavini
 
 # THANKS
 
-    <name>
+    All my students
+    Please leave comments
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+    Git
