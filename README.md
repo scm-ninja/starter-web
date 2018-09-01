@@ -7,10 +7,9 @@ Just a simple example to practice on  GIT
 
 ## Purpose
 
-Sample website with plenty of files for demos
 
 ## How To Contribute
-
+Please fork and then issue a pull request to review
 ## Deplow
 
 ### CopyRight
