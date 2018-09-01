@@ -3,11 +3,12 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jos
 
+---
 # THANKS
 
-    <name>
+    Thx! to Steven Spielberg
 
 # TECHNOLOGY COLOPHON
 
