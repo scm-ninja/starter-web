@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    thx to Steven Spielberg
 
 # TECHNOLOGY COLOPHON
 
