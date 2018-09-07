@@ -9,3 +9,7 @@ Sample website with plenty of files for demos
 ### Updates
 
 Just some updates to readme file
+
+### Updates #2
+
+More updates to readme file
