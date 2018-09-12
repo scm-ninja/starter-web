@@ -7,8 +7,8 @@
 /*! normalize.css v3.0.0 | MIT License | git.io/normalize */
 html {
   font-family: sans-serif;
-  -webkit-text-size-adjust: 100%;
-      -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 20%;
+      -ms-text-size-adjust: 50%;
 }
 body {
   margin: 0;
