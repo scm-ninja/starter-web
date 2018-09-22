@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ryan Nolan	RyanUsesThis@hotmail.com
 
 # THANKS
 
