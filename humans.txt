@@ -3,13 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ryan Nolan	RyanUsesThis@hotmail.com
 
 # THANKS
 
-    <name>
+    thanks to all my students
+	Please leave a review
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	Git
