@@ -1,11 +1,16 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work. # is first level header
+This repository is for showing how Git and GitHub work.
+
+## Introduction
+"#" is a first level header.
+"##" is a second level header. 
 
 ## Purpose
 
 Sample website with plenty of files for demos
 
-## Introduction
+## Deployment
 
-## Second level header is ##
+## How to Contribute
+
