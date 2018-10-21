@@ -9,7 +9,7 @@ This is an example to show different parts of Git repository and various command
 
 ## Purpose
 
-Sample website with plenty of files for demos. As stated above, the main purpose is to provide simple examples for Git training demos.
+Sample website with plenty of files for demos. As stated above, the main purpose is to provide simple examples for Git training demos.Direct trade raclette yr, umami marfa bespoke pitchfork fam fixie pop-up PBR&B hashtag fanny pack franzen banjo. Bespoke poutine pinterest, irony post-ironic blog cold-pressed brooklyn migas banjo quinoa vinyl 8-bit. Pickled succulents vice yr authentic, street art man bun health goth master cleanse intelligentsia pug shoreditch adaptogen taxidermy pop-up. Fanny pack copper mug cloud bread before they sold out ennui venmo. from my feature branch too.
 
 ## Deployment 
 
