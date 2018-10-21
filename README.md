@@ -1,6 +1,7 @@
 # Starter Web Project 
 
 This is a simle web project for showing how to use Git and Github together.
+Direct trade raclette yr, umami marfa bespoke pitchfork fam fixie pop-up PBR&B hashtag fanny pack franzen banjo. Bespoke poutine pinterest, irony post-ironic blog cold-pressed brooklyn migas banjo quinoa vinyl 8-bit. Pickled succulents vice yr authentic, street art man bun health goth master cleanse intelligentsia pug shoreditch adaptogen taxidermy pop-up. Fanny pack copper mug cloud bread before they sold out ennui venmo.
 
 ## Introduction
 
