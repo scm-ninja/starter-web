@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Tamar Baboghlian tamarb@email.com
 
 # THANKS
 
