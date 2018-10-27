@@ -11,6 +11,7 @@ This example shows different parts
 Sample website with plenty of files for demos and reallife examples
 
 ## How to contribute
+pull the project folder from git repo
 
 ## Deployment
 how to deploy, detailed explanation
