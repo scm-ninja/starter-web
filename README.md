@@ -8,7 +8,7 @@ This example shows different parts
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos and reallife examples
 
 ## How to contribute
 
