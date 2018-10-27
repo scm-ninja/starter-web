@@ -14,3 +14,6 @@ Sample website with plenty of files for demos and reallife examples
 
 ## Deployment
 how to deploy, detailed explanation
+
+### Copyright
+all right to git.training
