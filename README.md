@@ -13,3 +13,4 @@ Sample website with plenty of files for demos and reallife examples
 ## How to contribute
 
 ## Deployment
+how to deploy, detailed explanation
