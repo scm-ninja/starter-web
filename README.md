@@ -18,4 +18,4 @@ This is a simple web project, deployment can be on any web server or even local 
 Please fork the repository and the issue Pull Requests for review.
 
 ## Copyright
-Copyright 2018 abdus.training
+Copyright 2018 abdus.training, All rights reserved.
