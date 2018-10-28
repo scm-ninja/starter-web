@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work togeter.
 Adding a line for rebasing example, then more changes from myfeature too.
+Update for fix after stash
 
 ## Introduction
 
@@ -19,3 +20,4 @@ how to deploy, detailed explanation
 
 ### Copyright
 all rights to git.training 2017
+
