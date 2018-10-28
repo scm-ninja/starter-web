@@ -5,7 +5,7 @@ Adding a line for rebasing example, then more changes from myfeature too.
 
 ## Introduction
 
-This example shows different parts
+This example shows different parts, IMPORTANT INTO NOTICE
 
 ## Purpose
 
