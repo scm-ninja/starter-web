@@ -18,4 +18,4 @@ pull the project folder from git repo
 how to deploy, detailed explanation
 
 ### Copyright
-all right to git.training
+all rights to git.training 2017
