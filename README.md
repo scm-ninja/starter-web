@@ -1,6 +1,7 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work togeter
+This repository is for showing how Git and GitHub work togeter.
+Adding a line for rebasing example.
 
 ## Introduction
 
