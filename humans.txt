@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    Tamar Baboghlian
 
 # TECHNOLOGY COLOPHON
 
