@@ -7,3 +7,4 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 Edit: Oct 29, 2018. Added this message.
+Edit: Oct 29, 2018. Another edit
