@@ -1,4 +1,4 @@
-#Start Web Project
+# Start Web Project
 ## Introduction
-##Purpose
-##Hot to Contribute
+## Purpose
+## Hot to Contribute
