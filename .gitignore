@@ -1,4 +1,5 @@
-.-
-.nosession
+-
+nosession
 ulu.txt
 log/
+*.orig
