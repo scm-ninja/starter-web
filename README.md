@@ -15,3 +15,7 @@ already to much
 blah blah blah
 
 ### How to Contribute
+
+### Copyright
+
+2014 git training
