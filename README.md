@@ -1,4 +1,9 @@
 # Start Web Project
+
 ## Introduction
+
 ## Purpose
-## Hot to Contribute
+
+## Deployment
+
+### How to Contribute
