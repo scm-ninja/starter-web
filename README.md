@@ -21,4 +21,4 @@ Please fork this repo and then issue Pull Request for review
 
 ### Copyright
 
-2014 git training
+2014 git training All right reserved
