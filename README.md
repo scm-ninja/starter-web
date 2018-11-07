@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-Repo for practicing Git commands.
+This repository is for showing Git commands and how GitHub works.
 
 ## Purpose
 
