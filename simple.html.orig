@@ -1,5 +1,10 @@
 <!DOCTYPE html>
+<head>
+<<<<<<< HEAD
+	<title>Great Work</title>
+=======
 	<title>Hello Yar</title>
+>>>>>>> Btest
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
@@ -13,18 +18,15 @@
 	<main class="container">
 	<!-- Content Goes Here -->
 		<p>
-			How are you?
-			How are you?
-			Enjouyinlkjwefjldflhl
+<<<<<<< HEAD
 			Enjoy
+=======
+			How are you?
+>>>>>>> Btest
 		</p>
 	</main>
 	<footer class="container">
 		<p>Enjoy</p>
 	</footer>
 </body>
-Some randon test
-sdwq
-qwdqwd
-qwdqw
 </html>
