@@ -2,4 +2,6 @@
 
 This repository is for showing how Git and GitHub work
 
-## Such a nice README
+## Purpose
+
+Sample website with plenty of files and demos
