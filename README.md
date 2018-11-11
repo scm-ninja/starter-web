@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work. Adding a line for rebasing example, then more changes from my feature branch too. 
 
-This is a third try to make new changes for conflict 
+Okay, I am trying to induce git difftool
 
 ## Introduction
 "#" is a first level header.
