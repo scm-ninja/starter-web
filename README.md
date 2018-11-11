@@ -1,6 +1,8 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work. Adding a line for rebasing example, then more changes from my feature branch too.  
+This repository is for showing how Git and GitHub work. Adding a line for rebasing example, then more changes from my feature branch too. 
+
+I am going to make a conflicted change in this readme file... this is the change 
 
 ## Introduction
 "#" is a first level header.
