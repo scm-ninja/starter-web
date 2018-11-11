@@ -16,6 +16,8 @@ Sample website with plenty of files for demos
 
 ## How to Contribute
 
+Please for this respotistory and then issue Pull request for review
+
 ### Copyright
 
 2014 Ray
