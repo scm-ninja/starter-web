@@ -22,5 +22,5 @@ Please for this respotistory and then issue Pull request for review
 
 ### Copyright
 
-2014 Ray
+2014 Ray. All rights reserved. 
 
