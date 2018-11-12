@@ -19,6 +19,10 @@ Sample website with plenty of files for demos
 ## How to Contribute
 
 Please for this respotistory and then issue Pull request for review
+This is a new contribution to test compare contributions from others on github.
+
+## Updates from Dev 1
+
 
 ### Copyright
 
