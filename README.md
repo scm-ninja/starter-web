@@ -26,3 +26,4 @@ nEWLINE!!
 ## Copyright 2
 
 no-ff!!!
+All right reserved.
