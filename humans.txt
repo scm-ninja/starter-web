@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+	git 
 	Shahar Ron shahar@albert.ai
 
 # THANKS
