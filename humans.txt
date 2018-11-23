@@ -2,12 +2,13 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
-    <name> -- <role> -- <twitter>
+	git 
+	Shahar Ron shahar@albert.ai
 
 # THANKS
 
-    <name>
+    Thanks all students!
+    please add a review if you..
 
 # TECHNOLOGY COLOPHON
 

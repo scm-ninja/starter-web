@@ -1,7 +1,30 @@
-# Starter Web Repo
+# Starter Project!
 
-This repository is for showing how Git and GitHub work
+## Secion 1
 
-## Purpose
+1
 
-Sample website with plenty of files for demos
+Adding line for rebase.!
+MORE CHANGES FOR REBASE F2
+## Section 2
+
+2
+
+## Section 3
+
+3
+
+## Section 4
+
+4
+
+## Copyright
+
+Training!
+nEWLINE!!
+
+## Copyright 2
+
+imergincy fix!
+All right reserved.
+for statsh
