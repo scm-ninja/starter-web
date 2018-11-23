@@ -25,6 +25,6 @@ nEWLINE!!
 
 ## Copyright 2
 
-no-ff!!!
+imergincy fix!
 All right reserved.
 for statsh
