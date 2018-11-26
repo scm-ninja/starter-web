@@ -12,4 +12,8 @@ Sample website with plenty of files for demos
 
 ## How To Contribute
 
+Give lots of money to the developer.
+
 ## Deployment
+
+This is a simple simple web project
