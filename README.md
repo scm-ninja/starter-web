@@ -17,3 +17,7 @@ Give lots of money to the developer.
 ## Deployment
 
 This is a simple simple web project
+
+## Copyright
+
+Copyright 2018 Fooberty Foo
