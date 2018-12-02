@@ -12,7 +12,7 @@ Sample website with plenty of files for demos
 
 ## How To Contribute
 
-Give lots of money to the developer.
+Give zubby
 
 ## Deployment
 
