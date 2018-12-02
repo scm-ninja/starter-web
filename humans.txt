@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Bellatrix Ferguson bellatrix@scratchycats.com
 
 # THANKS
 
