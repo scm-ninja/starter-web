@@ -1,0 +1,184 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: #ffffff;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	
+}
+
+#main-wrapper{
+	margin: auto;
+	width: 95%;
+	background-color: #ffffff;
+}
+
+.header{
+	background-color:  #2455d3;
+	margin: auto;
+	width: 100%px;
+	height: 50px;
+}
+
+.header input{
+	width: 400px;
+	height: 25px;
+	border: 1px solid #ffffff;
+	border-radius: 3px;
+	font-size: 15px;
+}
+
+.header button{
+	height: 31px;
+	margin: auto;
+	width: 70px;
+	border: 1px solid #ffffff;
+	border-radius: 3px;
+	background-color: #ffffff;
+	color: black;
+	font-weight: bold;
+}
+
+.Search{
+	padding: 10px;
+	margin: auto;
+	width: 500px;
+
+}
+
+.Search button:hover{
+	cursor: pointer;
+	background-color:  #0accb7;
+}
+
+#content{
+	margin-top: 40px;
+	
+}
+
+
+.errorcall{
+	margin-left: 25px;
+	color: red;
+	font-size: 20px;
+}
+
+#updatebtn{
+	padding: 10px;
+	color: black;
+	background-color:  #0ed8c3;
+	border: 2px solid  #0ed8c3;
+	border-radius: 3px;
+	margin-left: 25px;
+	margin-top: 15px;
+}
+
+#updatebtn a{
+	text-decoration:none;
+	color: black;
+}
+
+
+
+#updatebtn:hover{
+	cursor: pointer;
+	background-color: #0accb7;
+}
+
+#addbtn{
+	padding: 10px;
+	background-color:  #63cc51;
+	border: 2px solid  #63cc51;
+	border-radius: 3px;
+	margin-left: 25px;
+	margin-top: 15px;
+	color: black;
+}
+
+
+#addbtn:hover{
+	cursor: pointer;
+	background-color: darkgreen;
+}
+
+#deletebtn{
+	padding: 10px;
+	background-color:  #63cc51;
+	border: 2px solid  #63cc51;
+	border-radius: 3px;
+	margin-left: 25px;
+	margin-top: 15px;
+}
+
+#deletebtn a{
+	text-decoration:none;
+	color: black;
+}
+
+#deletebtn:hover{
+	cursor: pointer;
+	background-color: black;
+}
+
+.content{
+	margin:auto;
+	width: 600px;
+}
+
+.content form{
+	margin-left: 70px;
+	margin-top: 20px;
+}
+
+.content input{
+	margin:8px;
+	border: 1px solid lightgray;
+	border-radius: 3px;
+}
+
+.content textarea{
+	margin:8px;
+	width: 250px;
+	height: 50px;
+}
+
+#upload{
+	margin-left: 10px;
+}
+
+.products{
+	margin-left: 9px;
+	margin-bottom: 5px;
+}
+
+
+#items{
+	margin-left: 25px;
+	width: 100%;
+}
+
+.item_list{
+	width: 200px;
+	padding: 2px;
+	margin:auto;
+	margin-bottom: 10px;
+	text-align: center;
+	color: black;
+	font-size: 12px;
+}
+
+
+.img img{
+	width: 200px;
+	margin:20px;
+}
+
+.img{
+	display: inline-block;
+	margin-bottom: 25px;
+	margin-left: 20px;
+	background-color: #ffffff;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	border: 7px solid black;
+}
+
+
