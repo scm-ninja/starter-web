@@ -8,7 +8,11 @@ This is an example
 
 ## Purpose
 
+More changes in Purpose chapter
+
 ## Deployment
+
+This is a simple web project, deployment ca be on any web
 
 ## How To Contribute
 
