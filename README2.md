@@ -16,4 +16,7 @@ This is a simple web project, deployment ca be on any web
 
 ## How To Contribute
 
+## Copyright
+
+ @ 2018  Git training
 
