@@ -3,13 +3,14 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Javier  lol@server.com @awesome.com
 
 # THANKS
 
-    <name>
+    Thanks to all my followers
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+    Git 
