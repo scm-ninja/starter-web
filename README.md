@@ -5,3 +5,8 @@ This repository is for showing how Git and GitHub work for demo
 ## Purpose
 
 Sample website with plenty of files for demos 
+
+
+## Purpose
+
+for taking online course
