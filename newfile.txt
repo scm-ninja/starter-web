@@ -1,4 +1,2 @@
 This is newfile
 with the line added again
-
-and another line added
