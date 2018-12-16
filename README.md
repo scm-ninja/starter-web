@@ -20,4 +20,4 @@ This is a simple simple web project
 
 ## Copyright
 
-Copyright 2018 Fooberty Foo
+Copyright 2018 Fooberty Foober Zuggy
