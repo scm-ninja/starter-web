@@ -9,6 +9,7 @@ This is example is to show different parts of the Git repository and various com
 ## Purpose
 
 Sample website with plenty of files for demos
+More information
 
 ## How To Contribute
 
