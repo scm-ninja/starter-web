@@ -4,6 +4,7 @@
 # TEAM
 
     Bellatrix Ferguson bellatrix@scratchycats.com
+	Scaramouche Ferguson
 
 # THANKS
 
