@@ -1,5 +1,5 @@
 # humanstxt.org/
-# The humans responsible & technology colophon
+# The humans responsible & technology colophon for coloscopy
 
 # TEAM
 
@@ -9,6 +9,7 @@
 # THANKS
 
     All my students1
+	Please leave a review if you like this course
 
 # TECHNOLOGY COLOPHON
 
