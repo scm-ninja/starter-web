@@ -8,4 +8,5 @@ Sample website with plenty of files for demos
 
 ## Introduction
 
-This Repo is cloned from scm-ninja
+This Repo is cloned from scm-ninja. 
+This change will be added to local repo (committed)
