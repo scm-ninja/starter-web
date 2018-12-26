@@ -12,6 +12,7 @@ This is a deplozment section
 
 ## How To Contribute
 
+Please fork this repositorz and issue a PR for review
 This is a simple web section
 
 ### Copyright
