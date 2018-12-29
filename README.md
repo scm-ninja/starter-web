@@ -1,6 +1,7 @@
 # Starter Web Project
 
-This is a simple website. Adding a line for reasing example, then more changes from z+feature branch too
+This is a simple website. Doing changes after stash
+This is a simple website. Doing changes after stash
 
 ## Introduction
 
