@@ -16,4 +16,4 @@ Please fork this repositorz and issue a PR for review
 This is a simple web section
 
 ### Copyright
-Copyright notice
+Copyright notice. All rights reserved
