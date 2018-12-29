@@ -3,7 +3,7 @@
 
 # TEAM
 
-    Patryk Kuœnierczyk -- fe -- <twitter>
+    Patryk Kuœnierczyk -- fe -- stash branch example <twitter>
 
 # THANKS
 
