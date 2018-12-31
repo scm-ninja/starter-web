@@ -6,6 +6,7 @@ This is a simple website. Doing changes after stash
 ## Introduction
 
 This is a simple website
+Test-branch changes
 
 ## Deployment
 
@@ -17,4 +18,5 @@ Please fork this repositorz and issue a PR for review
 This is a simple web section
 
 ### Copyright
-Copyright notice. All rights reserved
+Copyright notice. All rights reserved.
+Test-branch changes
