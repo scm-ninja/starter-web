@@ -3,9 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Patryk Kuœnierczyk -- fe -- stash branch example <twitter>
 
 # THANKS
+
+Thanks to all mz students. Please leave a review if zou like this course
 
     <name>
 

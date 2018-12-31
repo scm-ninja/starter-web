@@ -1,7 +1,22 @@
-# Starter Web Repo
+# Starter Web Project
 
-This repository is for showing how Git and GitHub work
+This is a simple website. Doing changes after stash
+This is a simple website. Doing changes after stash
 
-## Purpose
+## Introduction
 
-Sample website with plenty of files for demos
+This is a simple website
+Test-branch changes
+
+## Deployment
+
+This is a deplozment section
+
+## How To Contribute
+
+Please fork this repositorz and issue a PR for review
+This is a simple web section
+
+### Copyright
+Copyright notice. All rights reserved.
+Test-branch changes
