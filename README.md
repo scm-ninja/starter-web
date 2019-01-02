@@ -11,3 +11,5 @@ Sample website with plenty of files for demos
 N.A
 
 ## How To Contribute
+
+Just Wait
