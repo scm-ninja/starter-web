@@ -13,3 +13,6 @@ N.A
 ## How To Contribute
 
 Just Wait
+
+###Copyright
+
