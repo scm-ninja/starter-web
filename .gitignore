@@ -1,2 +1,4 @@
 ignore.txt
 *.suo
+*.log
+log/
