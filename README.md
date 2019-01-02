@@ -16,4 +16,4 @@ N.A
 Just Wait........
 
 ###Copyright
-
+All rights reserved.
