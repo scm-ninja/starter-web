@@ -1,5 +1,5 @@
 # Starter Web Repo
-Joepie de poepie
+Another day in the park
 This repository is for showing how Git and GitHub work
 
 ## Purpose
