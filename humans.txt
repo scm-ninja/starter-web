@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 SOme changes in reb branch1
 # TEAM
-
+some more stsh 
     <name> -- <role> -- <twitter>
 SG SG added in branch
 # THANKS
