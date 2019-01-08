@@ -52,5 +52,5 @@ for(let div of document.querySelectorAll("[show-info]")) {
 }
 
     // Traffic Lights
-let attFour = document.querySelector(".myOrder");
-    console.log(myOrder.setAttribute("style","border: 1px solid black"));
+// let attFour = document.querySelector(".myOrder");
+//     console.log(myOrder.setAttribute("style","border: 1px solid black"));
