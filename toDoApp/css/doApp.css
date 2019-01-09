@@ -1,0 +1,19 @@
+/* ==========================================================================
+   |                      Author's custom styles                             | 
+   ========================================================================== */
+
+   .custom-input{
+    height: 2.2rem;
+    width: 20rem;
+   }
+   .custom-secondary{
+    height: 2.3rem;
+    width: 9rem;
+    margin-left: 6rem;
+   }
+   li{
+       display: flex;
+       justify-content: space-between;
+       margin: .5rem 0;
+       /* list-style-type: upper-roman; */
+   }

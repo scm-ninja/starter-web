@@ -122,6 +122,7 @@ document.body.insertAdjacentHTML("afterbegin", `<div class="divOne">
   add.addEventListener("click",clickAdd);
   function clickAdd(){
     let liTwelve = document.createElement("li");
+  
     liTwelve.innerHTML = "<p>burberry</p>";
     lists.appendChild(liTwelve);
   }
