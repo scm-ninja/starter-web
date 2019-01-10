@@ -1,0 +1,33 @@
+/* ==========================================================================
+   |                      Author's custom styles                             | 
+   ========================================================================== */
+
+   .custom-header{
+       background-color: rgb(220, 53, 69,1);
+   }
+   .custom-header > h2{
+       color: #ffffff;
+   }
+   .custom-body{
+    background-color: rgb(241, 213, 213,1);
+   }
+   .custom-input{
+    height: 2.4rem;
+    width: 24.2rem;
+    border-radius: 3px;
+    box-shadow: none;
+    border-style: hidden;
+   }
+   .custom-secondary{
+    height: 2.3rem;
+    width: 9rem;
+    margin-left: 2rem;
+    margin-bottom: 0.4rem;
+    border-radius: 3px;
+   }
+   li{
+       display: flex;
+       justify-content: space-between;
+       margin: .5rem 0;
+       /* list-style-type: upper-roman; */
+   }
