@@ -12,6 +12,7 @@ function addListItems(){
   if(outputText !=""){
   let ol = document.getElementById("orderList");
   let liOne = document.createElement("li");
+  liOne.className = ("items");
   let btnRem = document.createElement("button");
     btnRem.className = "btn btn-danger rem-btn";
     btnRem.textContent = "X";
@@ -21,6 +22,11 @@ function addListItems(){
     btnRem.style.width ="1.5rem";
     btnRem.style.lineHeight ="0rem";
   // Clear single li Item
+  // btnRem.addEventListener("click",function(e){
+  //   if(e.target.parentElement.classList.contains("items")){
+  //     e.target.parentElement.remove();
+  //   }
+  // });
     btnRem.addEventListener('click', delet);
   function delet(){
     liOne.remove();
@@ -34,10 +40,9 @@ function addListItems(){
   let remove = document.querySelector(".clear-btn");
   remove.addEventListener("click",clickRem);
   function clickRem(){
-  orderList.remove();
+  liOne.remove();
   }
   }else{
     alert("Input must not be empty");
   }
-  
 }

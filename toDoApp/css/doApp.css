@@ -2,14 +2,25 @@
    |                      Author's custom styles                             | 
    ========================================================================== */
 
+   .custom-header{
+       background-color: rgb(192, 191, 189);
+   }
+   .custom-body{
+    background-color: rgb(211, 208, 202);
+   }
    .custom-input{
-    height: 2.2rem;
-    width: 20rem;
+    height: 2.4rem;
+    width: 55.2rem;
+    border-radius: 3px;
+    box-shadow: none;
+    border-style: hidden;
    }
    .custom-secondary{
     height: 2.3rem;
     width: 9rem;
-    margin-left: 6rem;
+    margin-left: 2rem;
+    margin-bottom: 0.4rem;
+    border-radius: 3px;
    }
    li{
        display: flex;
