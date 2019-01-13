@@ -6,6 +6,7 @@ and GitHub together.
 ## Introduction
 
 Aded intro
+added intro
 
 ## Purpose
 
