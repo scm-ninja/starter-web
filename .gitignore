@@ -1,3 +1,4 @@
 simple.html
 *.log
 log
+*.orig
