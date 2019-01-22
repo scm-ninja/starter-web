@@ -1,11 +1,12 @@
 # Starter Web Repo
 hey yo
 This repository is for showing how Git and GitHub work
+bla
 
 ## Purpose
 
 iMA ADDING BS
-CHECK
+CHECK check
 
 ## Deployement
 
