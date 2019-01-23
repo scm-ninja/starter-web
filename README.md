@@ -17,7 +17,7 @@ sdsads
 Sample website with plenty of files for demos
 
 ### How to COntribute
-
+ask the god
 idont know
 Ima adding more bs
 
