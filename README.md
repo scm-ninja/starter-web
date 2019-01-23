@@ -8,4 +8,4 @@ Sample website with plenty of files for demos
 
 ### Another section
 
-Added another section for testing purpose
+Added another section for testing purpose, and now some more comments
