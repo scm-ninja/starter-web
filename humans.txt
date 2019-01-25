@@ -9,6 +9,8 @@
 
     <GOD>
 
+Please leave a review if you like it
+
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
