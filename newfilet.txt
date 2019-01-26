@@ -1,0 +1,2 @@
+just test ls file
+just test 2
