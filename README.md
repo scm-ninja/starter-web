@@ -16,7 +16,7 @@ this is a sample
 
 ## How to Contribute
 
-
+please fork this repository and issue Pull request for review.
 
 ### Copyright
 	2018 Git.Training
