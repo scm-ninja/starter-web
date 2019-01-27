@@ -16,3 +16,8 @@ this is a sample
 
 ## How to Contribute
 
+
+
+### Copyright
+	2018 Git.Training
+	
