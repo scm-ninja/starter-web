@@ -26,10 +26,4 @@ please fork this repository and issue Pull request for review.
 	
 
 ### Rebase
-<<<<<<< HEAD
-   after merger with trouble
-   and committed by trouble
-	
-=======
-   after merge with master
->>>>>>> trouble
+
