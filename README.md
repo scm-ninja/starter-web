@@ -24,3 +24,8 @@ please fork this repository and issue Pull request for review.
 ### Copyright
 	2018 Git.Training
 	
+
+### Rebase
+   after merger with trouble
+   and committed by trouble
+	
