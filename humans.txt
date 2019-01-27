@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    Thans to my wife on simplechanges branch.
 
 # TECHNOLOGY COLOPHON
 
