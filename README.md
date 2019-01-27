@@ -3,6 +3,8 @@
 This repository is for showing how Git and GitHub work
 
 Adding a line for rebasing on master
+
+more changed on Feature
 ## Introduction
 
 
