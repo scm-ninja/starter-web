@@ -2,6 +2,8 @@
 
 This repository is for showing how Git and GitHub work
 
+Changes for myfeature2!
+
 ## Purpose2
 
 Sample website with plenty of files for demos
