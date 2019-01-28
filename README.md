@@ -18,6 +18,8 @@ This is just another test
 
 Test
 
+This is another line for rebasing example
+
 ## This is another test
 
 ### And yet another
