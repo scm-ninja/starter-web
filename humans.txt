@@ -6,7 +6,7 @@
     <name> -- <role> -- <twitter>
 	Adam Ward -- Nerd - @nerd
 	Clown Bag -- Professional - @clownbag
-
+	Another Human -- Mammal -- @human
 # THANKS
 
     Thanks to all my students!
