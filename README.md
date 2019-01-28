@@ -4,7 +4,9 @@
 ## Her Favorite Foods
 ## Her Eyes
 ## Her Calves
-## Her back and Neck
+## Her Neck
+## Her Back
+
 
 # Emergency Fix
 All rights reserved.
