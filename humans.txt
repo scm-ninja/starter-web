@@ -5,6 +5,7 @@
 
     <name> -- <role> -- <twitter>
 	Adam Ward -- Nerd - @nerd
+	Clown Bag -- Professional - @clownbag
 
 # THANKS
 
