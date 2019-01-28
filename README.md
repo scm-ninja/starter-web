@@ -25,3 +25,6 @@ Test
 Foopy
 
 Why do I always pick on this file?
+
+## Copyright
+This is a copyright notice!
