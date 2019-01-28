@@ -1,8 +1,8 @@
-# Starter Web Repo
+# Lefty Web Repo
 
 This repository is for showing how Git and GitHub work
 
-## Purpose
+## Purpose2
 
 Sample website with plenty of files for demos
 
@@ -26,5 +26,8 @@ Foopy
 
 Why do I always pick on this file?
 
-## Copyright
-This is a copyright notice!
+## Copyright2
+This is a copyright notice!2
+
+## And another
+Thing
