@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is simple website project for showing how to use Git and Githu
+This is simple website project for showing how to use Git and Githu. Een lijn voor rebasing voorbeeld.
 
 ## Introduction
 
