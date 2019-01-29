@@ -22,4 +22,4 @@ Aub vork deze Rep en dan Trek zaak verzoeken voor review.
 
 ### Kopierecht
 
-2019 Laseke.training.
+2019 Git.Training. All rights reserved.
