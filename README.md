@@ -16,6 +16,8 @@ Weer een stukje tekst erbij om te oefenen
 
 ## Hoe bij te dragen
 
+Aub vork deze Rep en dan Trek zaak verzoeken voor review.
+
 
 ### Kopierecht
 
