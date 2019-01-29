@@ -27,3 +27,8 @@ please fork this repository and issue Pull request for review.
 
 ### Rebase
    after merge with master
+
+
+### Stash
+will be stash apply
+   
