@@ -15,3 +15,8 @@ As stated above, Paulus like you Yeah
 Weer een stukje tekst erbij om te oefenen
 
 ## Hoe bij te dragen
+
+
+### Kopierecht
+
+2019 Laseke.training.
