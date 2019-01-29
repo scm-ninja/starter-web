@@ -1,24 +1,7 @@
-#Robs Mom
-## Has a nice Face
-## And a Delicious Booty
-
-
-# Emergency Fix
-All rights reserved.
-
-# Lefty Web Repo
-
-This repository is for showing how Git and GitHub work
 
 This is one line change.
 
 ## Purpose2
-
-Sample website with plenty of files for demos
-
-This is a lot of stuff going missing.
-
-#### Testing again
 
 Test
 
