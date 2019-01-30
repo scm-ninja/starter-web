@@ -9,3 +9,6 @@ Sample website with plenty of files for demos
 ## This is ust for knowledge
 
 * Understanding the social coding
+## Purpose
+
+* Understand through demos
