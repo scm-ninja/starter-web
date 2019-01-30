@@ -8,8 +8,10 @@
 # DANK
 
     Al mijn studenten!
+	Laat een review achter als je het leuk vindt
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+     GIT
