@@ -19,12 +19,6 @@ Foopy
 
 Why do I always pick on this file?
 
-## Copyright2
-This is a copyright notice!2
-
-## And another
-Thing
-
 ##Potatosack
 Beanbag
 
