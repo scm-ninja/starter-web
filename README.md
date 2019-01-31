@@ -18,6 +18,10 @@ Weer een stukje tekst erbij om te oefenen
 
 Aub vork deze Rep en dan Trek zaak verzoeken voor review.
 
+## Updates from Paulus oefeningen enzovoort, blabla
+
+ok dan, kleinenre letters opeens
+
 
 ### Kopierecht
 
