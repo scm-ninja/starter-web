@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 this is a simple website project for showing how to use Git and  gitgub together
-adding a line here 
+adding a line here , and here there are more chancges
 ## Introduction 
 
 THis is an example of how to show different parts of the git repository and various commands using a web project.
