@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    med med@git.com @medmed
 
 # THANKS
 
