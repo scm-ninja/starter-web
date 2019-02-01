@@ -19,6 +19,7 @@ as stated above, the main purpose is to provide simple examples
 this is a simple web project, deployment can be on any web server or even local file system.
 
 ## How to contribute
+fork the repository and then issue pull request for review
 
 ### copyright 
 2019 gitstuff
