@@ -12,3 +12,4 @@ thanks to y'all
 
     HTML5, CSS3
     jQuery, Modernizr
+more values and some java for you 
