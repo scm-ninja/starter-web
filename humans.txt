@@ -7,8 +7,7 @@
 
 # THANKS
 
-    <name>
-
+thanks to y'all
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
