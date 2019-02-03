@@ -16,6 +16,8 @@ this is an example of web project
 
 ##How to contribute
 
+Please eview this repository and make a fork and pull the changes
+
 
 ###Copyright
 
