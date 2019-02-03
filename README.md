@@ -1,4 +1,4 @@
-Addind a line for rebasing example
+Addind a line for rebasing example,then more changes for my feature branch too
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
