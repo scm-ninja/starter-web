@@ -6,7 +6,8 @@
     sapna gangwar sgangwar@ancestry.com Qsgangwar
 
 # THANKS
-
+	
+Thanks to all my friends
     <name>
 
 # TECHNOLOGY COLOPHON
