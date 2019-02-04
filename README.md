@@ -1,7 +1,6 @@
 adding a line for mergeconflict
 Addind a line for rebasing example,then more changes for my feature branch too
-add to sapna branch
-# Starter Web Repo
+# Starter Web Repostories
 
 This repository is for showing how Git and GitHub work
 
@@ -24,5 +23,5 @@ Please eview this repository and make a fork and pull the changes
 
 ###Copyright
 
-2014 Git.Training
+2014 Git.Training BYY BRANCH feature
 
