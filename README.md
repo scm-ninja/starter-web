@@ -1,6 +1,6 @@
 adding a line for mergeconflict
 Addind a line for rebasing example,then more changes for my feature branch too
-# Starter Web Repo
+# Starter Web Repostories
 
 This repository is for showing how Git and GitHub work
 
@@ -10,7 +10,7 @@ This is an example is to show different parts of the Git repository and various 
 
 ## Purpose
 
-As stated above , the main purpose is to provide examples
+As stated above , the main purpose is to provide examples by BRANCH feature
 
 ## Deployment
 
@@ -23,5 +23,5 @@ Please eview this repository and make a fork and pull the changes
 
 ###Copyright
 
-2014 Git.Training
+2014 Git.Training BYY BRANCH feature
 
