@@ -1,3 +1,4 @@
+adding a line for mergeconflict
 Addind a line for rebasing example,then more changes for my feature branch too
 # Starter Web Repo
 
