@@ -3,13 +3,13 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    med med@git.com @medmed
 
 # THANKS
-
-    <name>
-
+please leave a review thanks 
+thanks to y'all
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+more values and some java for you 
