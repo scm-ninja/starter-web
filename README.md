@@ -10,7 +10,7 @@ This is an example is to show different parts of the Git repository and various 
 
 ## Purpose
 
-As stated above , the main purpose is to provide examples by BRANCH feature
+As stated above , the main purpose is to provide examples
 
 ## Deployment
 
