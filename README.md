@@ -1,7 +1,7 @@
-# Repo forked from scm-ninja
+# Starter Web Repo
 
-This repo has been forked from scm-ninja account.
+This repository is for showing how Git and GitHub work
 
-# Purpose
+## Purpose
 
-Study.
+Sample website with plenty of files from demos
