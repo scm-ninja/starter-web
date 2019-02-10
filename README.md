@@ -9,8 +9,11 @@ Adding Introduction
 
 ## Purpose
 
+Adding Purpose
 Sample website with plenty of files for demos
 
 ## Deployment
+
+Adding Deployment
 
 ## How to Contribute
