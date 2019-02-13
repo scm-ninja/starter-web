@@ -9,4 +9,4 @@ This is a simple web project, deployment can be on a web server or even local fi
 ## How to Contribute
 
 ### Copyright
-2019 Git Training.
+2019 Git Training. 
