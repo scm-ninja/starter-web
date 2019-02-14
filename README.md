@@ -12,8 +12,6 @@ This is a simple text.
 
 ## Deployment
 
-This is a simple text.
+This is a simple text. This is a simple text. This is a simple text.
 
 ## How To Contribute
-
-This is a simple text.
