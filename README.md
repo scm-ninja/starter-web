@@ -16,7 +16,8 @@ As stated above , the main purpose is to provide examples
 
 this is an example of web project 
 
-##How to contribute
+##How to contribute by Branch
+
 
 Please eview this repository and make a fork and pull the changes
 
