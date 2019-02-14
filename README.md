@@ -12,7 +12,7 @@ This is an example is to show different parts of the Git repository and various 
 
 As stated above , the main purpose is to provide examples
 
-## Deployment by TestFeature Branch and updated
+## Deployment by TestFeature Branch and updated and updated now
 
 this is an example of web project 
 
@@ -22,7 +22,7 @@ this is an example of web project
 Please eview this repository and make a fork and pull the changes
 
 
-###Copyright
+###Copyright updated at remote
 
 2014 Git.Training BYY BRANCH feature
 
