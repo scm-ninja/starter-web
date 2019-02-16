@@ -8,8 +8,11 @@
 # THANKS
 
     Thanks to all my students
+	
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	java
+	tableau
