@@ -1,3 +1,4 @@
+adding a line to check commit diff
 adding a line for mergeconflict
 Addind a line for rebasing example,then more changes for my feature branch too
 # Starter Web Repostories updated from feature branch on Feb12,2019
@@ -12,7 +13,7 @@ This is an example is to show different parts of the Git repository and various 
 
 As stated above , the main purpose is to provide examples
 
-## Deployment
+## Deployment by TestFeature Branch and updated and updated now
 
 this is an example of web project 
 
@@ -22,7 +23,7 @@ this is an example of web project
 Please eview this repository and make a fork and pull the changes
 
 
-###Copyright
+###Copyright updated at remote
 
 2014 Git.Training BYY BRANCH feature
 
