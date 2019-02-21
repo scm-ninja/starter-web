@@ -19,4 +19,4 @@ This is a simple text. This is a simple text.
 
 ###Copyright
 
-2014 git.training
+Copyright 2014 git.training
