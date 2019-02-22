@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a simple text.This is a simple text.This is a simple text.This is a simple text.This is a simple text.This is a simple text.This is a simple text.This is a simple text.This is a simple text.This is a simple text.This is a simple text.This is a simple text.This is a simple text.
+Adding a line for rebasing.
 
 ## Introduction
 
