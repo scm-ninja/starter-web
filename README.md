@@ -1,6 +1,7 @@
 # Starter Web Project
 
-Adding a line for rebasing. Then more changes from myfeature branch too.
+Adding a line for rebasing.
+
 ## Introduction
 
 This is a simple text.
