@@ -1,0 +1,4 @@
+file_da_non_tracciare
+*.log
+log
+*.orig
