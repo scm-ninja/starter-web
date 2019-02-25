@@ -5,6 +5,7 @@ Adding a line for rebasing here, then more features from myfeature branch too.
 ## Introduction
 
 This is a simple text.
+Adding a line for stashing example.
 
 ## Purpose
 
