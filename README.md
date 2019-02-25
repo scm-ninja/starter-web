@@ -1,7 +1,22 @@
-# Starter Web Repo
+# Starter Web Project
 
-This repository is for showing how Git and GitHub work
+Adding a line for rebasing here, then more features from myfeature branch too.
+
+## Introduction
+
+This is a simple text.
 
 ## Purpose
 
-Sample website with plenty of files for demos
+This is a simple text.
+
+## Deployment
+
+This is a simple text. This is a simple text. This is a simple text.
+
+## How To Contribute
+This is a simple text. This is a simple text.
+
+## Copyright
+
+Copyright 2014 git.training.

@@ -3,13 +3,16 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	Jason Taylor
 
 # THANKS
 
-    <name>
+	All Students!!
+	Thanks to ALL my students!!
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3
-    jQuery, Modernizr
+	HTML5, CSS3
+	jQuery, Modernizr
+	Java, .NET
+
