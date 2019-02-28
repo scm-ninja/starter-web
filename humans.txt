@@ -7,7 +7,9 @@
 
 # THANKS
 	
-Thanks to all my friends
+Thanks to all my friends and colleagues by branch feature
+Thanks to all my husband and son by branch feature
+Thanks to all my family by branch feature
     <name>
 
 # TECHNOLOGY COLOPHON
