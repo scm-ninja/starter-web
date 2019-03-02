@@ -3,3 +3,13 @@ Lorem ipsum dolor amet keytar humblebrag 3 wolf moon, vaporware dreamcatcher hex
 Intelligentsia locavore ramps yr unicorn fam. Readymade unicorn photo booth drinking vinegar, chartreuse palo santo slow-carb green juice asymmetrical vexillologist portland la croix taxidermy salvia jianbing. Godard kinfolk occupy literally. Glossier 90's synth kombucha taxidermy, meditation wayfarers.
 
 Just because you’re in text mode and specifically tig, doesn’t mean you have to rely on text-mode diff. If you’re a fan of a proper diff/merge tool (e.g. Beyond Compare) it is easy to configure tig to open one. Simply add the following to your .tigrc file:
+
+iEven if you’re comfortable with the terminal, some actions can still be a chore. Quickly exploring multiple directories, copying multiple by selection to another folder, etc.
+
+As a short example, here is how I would copy some files with ranger:
+
+What do you do if you need to provide a certain file in the terminal to an open GUI application? For example, if you want to get the path of a photo to your photo editing program?
+
+You could do pwd, to get the current directory, and then append to it the name of file. But there’s an easier way.
+
+realpath gives you the real, absolute path of any file, like so:
