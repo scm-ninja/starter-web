@@ -19,4 +19,4 @@ Sample website with plenty of files for demos
 Please forks this repository and then issue Pull Requests for review.
 
 ###Copyright
-2019 Git.Training
+2019 Git.Training. All rights reserved.
