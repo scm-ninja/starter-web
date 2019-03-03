@@ -5,7 +5,10 @@ This repository is for showing how Git and GitHub work
 This example is to show differnts parts of the Git repository and various coomands using a web project.
 ## Purpose
 
+Esto está en el Staging Area
+
 ## Deployment
+Esto está sólo en local
 
 Sample website with plenty of files for demos
 
