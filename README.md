@@ -15,3 +15,6 @@ Sample website with plenty of files for demos
 
 
 ## How To Contribute
+
+###Copyright
+2019 Git.Training
