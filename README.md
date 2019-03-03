@@ -9,6 +9,10 @@ and various commands using a web project.
 
 ## Purpose
 
+Some purpose text....
+
 ## Deployment
+
+And some deployment text...
 
 ## How To Contribute
