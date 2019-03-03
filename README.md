@@ -3,8 +3,9 @@
 This repository is for showing how Git and GitHub work
 ## Introduction
 This example is to show differents parts of the Git repository and various coomands using a web project.
-## Purpose
+Adding a line for rebasing example.
 
+## Purpose
 Esto está en el Staging Area
 
 ## Deployment
