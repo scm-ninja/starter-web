@@ -3,7 +3,7 @@
 This repository is for showing how Git and GitHub work
 ## Introduction
 This example is to show differents parts of the Git repository and various coomands using a web project.
-Adding a line for rebasing example, then more changes from myfeature branch too.
+Updating for emergency fix after stashing.
 
 ## Purpose
 Esto está en el Staging Area
