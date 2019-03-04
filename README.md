@@ -14,6 +14,10 @@ This is my first Git project !
 
 Simply deploy it !
 
+## How To Contribute
+
+Fork this repository and then issue Pull Requests for review.
+
 ## Last Section
 
 It is.
