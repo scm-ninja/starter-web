@@ -16,3 +16,6 @@ Some purpose text....
 And some deployment text...
 
 ## How To Contribute
+
+## Copytight
+Git training 
