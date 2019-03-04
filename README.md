@@ -16,6 +16,7 @@ Some purpose text....
 And some deployment text...
 
 ## How To Contribute
+Please fork this repository and then issue Pull rquest for review
 
 ## Copytight
 Git training 
