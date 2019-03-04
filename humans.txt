@@ -3,13 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Alexandre Dallaire  adallaire@logicielsdavos.ca
 
 # THANKS
 
-    <name>
+    Thank you John !
+    Please leave a review :)
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+    R&D Department
