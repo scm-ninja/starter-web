@@ -1,8 +1,8 @@
 adding a line to check commit diff
 adding a line for mergeconflict
 Addind a line for rebasing example,then more changes for my feature branch too
-# Starter Web Repostories updated from feature branch on Feb12,2019
-
+# Starter Web Repostories updated from Master branch on Mar4,2018
+This id to check updation from master
 This repository is for showing how Git and GitHub work
 
 ##Introduction
