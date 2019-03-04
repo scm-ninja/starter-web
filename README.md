@@ -17,3 +17,8 @@ Simply deploy it !
 ## Last Section
 
 It is.
+
+
+### Copyright
+
+2019 Git Training
