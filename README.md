@@ -11,3 +11,9 @@ Sample website with plenty of files for demos
 This is my first Git project !
 
 ## Deployment
+
+Simply deploy it !
+
+## Last Section
+
+It is.
