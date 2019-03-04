@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Alexandre Dallaire  adallaire@logicielsdavos.ca
 
 # THANKS
 
