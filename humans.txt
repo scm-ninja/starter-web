@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Omer Aharonian somemail@gmail.com
 
 # THANKS
 
