@@ -20,4 +20,4 @@ And some deployment text...
 Please fork this repository and then issue Pull rquest for review
 
 ## Copytight
-Git training 
+Git training. All rights reserved. 
