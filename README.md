@@ -13,6 +13,8 @@ Esto está sólo en local
 
 Sample website with plenty of files for demos
 
+## Updates from Dev 1
+
 
 
 ## How To Contribute
