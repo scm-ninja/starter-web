@@ -2,6 +2,24 @@
 
 This repository is for showing how Git and GitHub work
 
-## Purpose
+# Introduction
+
+Simple description. Again change
+
+## Purpose. Just adding some text.
 
 Sample website with plenty of files for demos
+
+## Deployment
+
+Deploy now
+
+## Copyright
+
+Aa
+
+## Test
+
+Modification
+
+## Ending

@@ -3,11 +3,13 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jayson Taylor aa@asd.com @adsgf
 
 # THANKS
 
-    <name>
+    Thanks to students
+	Extra text
+	SuperExtra text
 
 # TECHNOLOGY COLOPHON
 
