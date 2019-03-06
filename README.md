@@ -6,7 +6,7 @@ This repository is for showing how Git and GitHub work
 
 Simple description
 
-## Purpose
+## Purpose. Just adding some text.
 
 Sample website with plenty of files for demos
 
