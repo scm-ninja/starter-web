@@ -3,13 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Natalie Jordaan		natzjordaan@hotmail.com		@ZANatz85
 
 # THANKS
 
-    <name>
+    All my students!
+	Pleae leave a review if you like this course!
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	Git
