@@ -16,7 +16,7 @@ Deployment Deployment Deployment and Deployment
 
 ## How To Contribute
 
-    I don't know. NO NOW
+    Please fork this repository and bla bla bla
 
 ### Copyright
     This is 21's century 
