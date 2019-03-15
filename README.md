@@ -17,3 +17,6 @@ Deployment Deployment Deployment and Deployment
 ## How To Contribute
 
     I don't know. NO NOW
+
+### Copyright
+    This is 21's century 
