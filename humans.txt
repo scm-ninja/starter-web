@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Seva Avdeev pochta@pochta.pochta    @pochta
 
 # THANKS
 
