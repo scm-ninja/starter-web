@@ -20,4 +20,4 @@ Deployment Deployment Deployment and Deployment
     Please fork this repository and bla bla bla
 
 ### Copyright
-    This is 21's century 
+   All right reserved
