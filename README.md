@@ -9,3 +9,5 @@ Sample website with plenty of files for demos
 ## Deployment
 
 Training to learn deploy automatically using GIT/HUB
+
+SIMPLE CHANGES
