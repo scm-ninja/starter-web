@@ -1,7 +1,7 @@
 # Heading
 Bla
 ## Section
-Blu
+Blu (Blü)
 ## Dep
 Bli
 ## Puh
