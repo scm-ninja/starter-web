@@ -7,6 +7,6 @@ Bli (Bly)
 ## Puh
 Blo (Blö)
 ## Int
-Ble
+Ble (Blé)
 ## Copyright
 Bly
