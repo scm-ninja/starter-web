@@ -3,7 +3,7 @@ Bla (Blä)
 ## Section
 Blu (Blü)
 ## Dep
-Bli
+Bli (Bly)
 ## Puh
 Blo (Blö)
 ## Int
