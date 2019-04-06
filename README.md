@@ -9,4 +9,4 @@ Blo (Blö)
 ## Int
 Ble (Blé)
 ## Copyright
-Bly
+Bly (Blý)
