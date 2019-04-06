@@ -5,7 +5,7 @@ Blu (Blü)
 ## Dep
 Bli
 ## Puh
-Blo
+Blo (Blö)
 ## Int
 Ble
 ## Copyright
