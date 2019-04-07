@@ -11,3 +11,5 @@ Sample website with plenty of files for demos
 Training to learn deploy automatically using GIT/HUB
 
 SIMPLE CHANGES
+
+simple changes relating rebase
