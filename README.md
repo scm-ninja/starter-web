@@ -13,3 +13,5 @@ Training to learn deploy automatically using GIT/HUB
 SIMPLE CHANGES
 
 simple changes relating rebase
+
+simple change for rebase new ones
