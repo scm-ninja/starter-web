@@ -6,3 +6,4 @@ rebase changes
 more changes before feature merge in master
 changes for pull rebase on local master
 stashing excercise
+untracked stashing excercise
