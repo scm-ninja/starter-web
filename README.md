@@ -13,3 +13,6 @@ New paragraph.
 ## Deployment
 Depoyment text
 Some more text
+
+## Copyright
+Copyright
