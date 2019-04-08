@@ -17,3 +17,4 @@ Some new text
 
 ## Copyright
 Copyright
+Another line
