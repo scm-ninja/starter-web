@@ -17,3 +17,5 @@ simple changes relating rebase
 simple change for rebase new ones
 
 simple changes in GitHub before a pull rebase
+
+other work after stashing applied
