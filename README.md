@@ -21,3 +21,5 @@ Please fork this repository and then issue Pull Requests for review.
 ## Copyright
 
 Copyright 2019 Joe. All Rights Reserved.
+
+## Updates from Dev 1
