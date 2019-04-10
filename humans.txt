@@ -4,12 +4,15 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+	Joe O'Regan -- Worker -- n/a
 
 # THANKS
 
-    <name>
+    All students
+	Please leave a review if you like this course!
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	Git
