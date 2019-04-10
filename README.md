@@ -20,4 +20,4 @@ Please fork this repository and then issue Pull Requests for review.
 
 ## Copyright
 
-Copyright 2019 Joe
+Copyright 2019 Joe. All Rights Reserved.
