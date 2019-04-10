@@ -17,3 +17,7 @@ Sample website with plenty of files for demos
 ## How To Contribute
 
 test
+
+## Copyright
+
+Copyright 2019 Joe
