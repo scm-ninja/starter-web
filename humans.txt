@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+	Joe O'Regan -- Worker -- n/a
 
 # THANKS
 
