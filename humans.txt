@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+# This is custom message
+# TEAM
+
+    <name> -- <role> -- <twitter>
+
+# THANKS
+
+    <name>
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr
