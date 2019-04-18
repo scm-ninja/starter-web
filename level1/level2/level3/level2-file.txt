@@ -1,3 +1,0 @@
-total 0
--rw-r--r-- 1 ciuser devops 0 Apr 18 13:22 level3.txt
--rw-r--r-- 1 ciuser devops 0 Apr 18 13:22 level2-file.txt
