@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #Atarted web project
 This is git project
 
@@ -15,9 +15,6 @@ For the rapor
 ##Git comparision
 Adding GIT comparision
 
-=======
-# Starter Web Repo
-
 This repository is for showing how Git and GitHub work
 
 ## Purpose
@@ -27,6 +24,3 @@ Sample website with plenty of files for demos
 
 ##GIT tutorial
  
-##GIT Comparision
-Adding GIT Comparision details
->>>>>>> cb1330c14b5c241e739c80841d40e85d0eca9693
