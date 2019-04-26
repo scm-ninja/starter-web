@@ -19,4 +19,6 @@
     Machine Learning
     AWS 
     Google Cloud
-
+    Docker
+    node.js
+    Java
