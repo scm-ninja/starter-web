@@ -24,3 +24,4 @@ Sample website with plenty of files for demos
 
 ##GIT tutorial
 Adding new lectures of stash 
+Adding stash examples of stash
