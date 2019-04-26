@@ -8,16 +8,15 @@
     CCBBCC Devops Engineer 
 
 # THANKS
-# THANKS
-# THANKS
-# THANKS
 
-    <name>
+   Manikandan Singaram
+   Mani       Sing
 
-# TECHNOLOGY COLOPHON
-# TECHNOLOGY COLOPHON
-# TECHNOLOGY COLOPHON
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+    Machine Learning
+    AWS 
+    Google Cloud
+
