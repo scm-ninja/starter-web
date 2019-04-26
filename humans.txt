@@ -8,16 +8,12 @@
     CCBBCC Devops Engineer 
 
 # THANKS
-# THANKS
-# THANKS
-# THANKS
-
-    <name>
+   Manikandan Singaram
 
 # TECHNOLOGY COLOPHON
-# TECHNOLOGY COLOPHON
-# TECHNOLOGY COLOPHON
-# TECHNOLOGY COLOPHON
-
     HTML5, CSS3
     jQuery, Modernizr
+    Docker
+    node.js
+    Java
+
