@@ -1,5 +1,6 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
+<<<<<<< HEAD
 # This is custom message
 Hello there
 # TEAM
@@ -23,3 +24,20 @@ Hello there
     Docker
     node.js
     Java
+=======
+
+# TEAM
+
+    <name> -- <role> -- <twitter>
+
+# THANKS
+
+    <name>
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS5, Angural Jqery AJAX
+    jQuery, Modernizr
+
+
+>>>>>>> cb1330c14b5c241e739c80841d40e85d0eca9693
