@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Lyes BOUALI     lyes@git.trainig @lyes90
 
 # THANKS
 
