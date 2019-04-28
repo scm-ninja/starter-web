@@ -2,3 +2,4 @@
 .DS_ignore
 *.log
 log/
+*.orig
