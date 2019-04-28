@@ -13,3 +13,5 @@ As sratyed above, the purpose is to provide emamples for Git training demo.
 ## Deployment
 
 This is a simple web project, deployment can be on any web server or even on local file system.
+
+2019 Git. Training
