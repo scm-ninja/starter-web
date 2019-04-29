@@ -18,4 +18,4 @@ This is a simple web project, deployment can be on any web server or even on loc
 
 Please fork this repository and then issue Pull Requests for review.
 
-2019 Git. Training
+2019 Git. Training. All rights reserved
