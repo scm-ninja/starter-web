@@ -14,14 +14,13 @@ For the rapor
 
 ##Git comparision
 Adding GIT comparision
-
 This repository is for showing how Git and GitHub work
 
 ## Purpose
 Sample website with plenty of files for demos
 
 ##GIT intro
+Adding new lectures for stash
 
 ##GIT tutorial
 Adding new lectures of stash 
-Adding stash examples of stash
