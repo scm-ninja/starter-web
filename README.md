@@ -1,7 +1,15 @@
-# Starter Web Repo
+# This is a readme file
 
-This repository is for showing how Git and GitHub work
+This is a read me file
 
-## Purpose
+## The purpose of this readme file
 
-Sample website with plenty of files for demos
+is to tell you how to read me I guess 
+
+### this is more content for editing
+
+we can add more content into this pull request
+
+this is located in the 
+
+* feature branch 
