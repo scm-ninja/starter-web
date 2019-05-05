@@ -1,3 +1,7 @@
 ## Sample File
 
 This is a training.
+
+## purpose
+
+To provide example for the training undertaken.
