@@ -6,4 +6,4 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
-Lets test the forking feature
+Lets test the forking feature and testing it again independently
