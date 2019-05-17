@@ -1,6 +1,6 @@
-# Starter Web Repo
+# Starter Web Repo by mizan
 
-This repository is for showing how Git and GitHub work
+This is for fork testing
 
 ## Purpose
 
