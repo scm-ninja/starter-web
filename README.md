@@ -16,3 +16,6 @@ This section is still unstagged.
 
 ## How To Contribute
 
+## Copyright 
+
+2019 Ravi Jiyani
