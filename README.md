@@ -1,6 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work !
+This section will be stagged.
 
 ## Introduction
 This example is to show different parts of the GIT repository and various commands using a web project.
@@ -9,6 +10,7 @@ This example is to show different parts of the GIT repository and various comman
 
 Sample website with plenty of files for demos
 Modified purpose of current project.
+This section is still unstagged.
 
 ## Deployment	
 
