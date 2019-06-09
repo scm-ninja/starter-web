@@ -16,6 +16,8 @@ This section is still unstagged.
 
 ## How To Contribute
 
+Please fork this repository and then issue pull request for review
+
 ## Copyright 
 
 2019 Ravi Jiyani Ambition Followers
