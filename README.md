@@ -8,3 +8,4 @@ Sample website with plenty of files for demos
 
 Will just edited this file. 
 
+Added some more comments from local side. 
