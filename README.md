@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work !
 This section will be stagged. Adding a line for rebasing example, more changes from my feature branch too.
+Update a line for emergency fix after stash.
 
 ## Introduction
 This example is to show different parts of the GIT repository and various commands using a web project.
