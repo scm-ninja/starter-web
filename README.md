@@ -20,4 +20,4 @@ Please fork this repository and then issue pull request for review
 
 ## Copyright 
 
-2019 Ravi Jiyani 
+2019 Ravi Jiyani (Software Developer)
