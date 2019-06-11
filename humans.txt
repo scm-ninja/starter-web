@@ -3,13 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ravi Jiyani		jiiyaniravi123@gmail.com		ravi.jiyani@fb
 
 # THANKS
 
-    <name>
+    Thanks to all my teachers !
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	GIT
+	Java
