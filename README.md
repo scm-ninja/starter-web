@@ -11,6 +11,10 @@ for using a web project.
 
 ## Purpose
 
+As stated above, purpose lol
+
 # Deployment
+
+deplrrment
 
 ## How To Contribute
