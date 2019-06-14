@@ -23,3 +23,7 @@ Just a simple file.
 ## Conclusion
 
 This is just a conclusion.
+
+## Copyright
+
+2019 Git Traning
