@@ -24,6 +24,6 @@ Just a simple file.
 
 This is just a conclusion.
 
-## Copyright
+### Copyright
 
-2019 Git Traning
+2019 Git.Traning.
