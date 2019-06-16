@@ -18,3 +18,7 @@ As stated above, purpose lol
 deplrrment
 
 ## How To Contribute
+
+### Copyright
+
+2019 Me lol
