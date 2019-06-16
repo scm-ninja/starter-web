@@ -25,4 +25,4 @@ Just do it dude fork it and issue a pull request come on
 
 ### Copyright
 
-2019 Me lol
+2019 Me lol All Rights Reserved
