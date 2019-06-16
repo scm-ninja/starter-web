@@ -3,6 +3,7 @@
 
 # TEAM
 
+	Sam Haws samuelhaws
     <name> -- <role> -- <twitter>
 
 # THANKS
