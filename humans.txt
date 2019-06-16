@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Zeth Beato zeth@bontix.com
 
 # THANKS
 
