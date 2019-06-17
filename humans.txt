@@ -3,13 +3,16 @@
 
 # TEAM
 
+	Sam Haws samuelhaws
     <name> -- <role> -- <twitter>
 
 # THANKS
 
-    <name>
+    MY mah and pah
+	Please leave a review
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	Git
