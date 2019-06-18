@@ -6,6 +6,7 @@ This is a simple website project for showing balblabla
 This is an introduction blablabla
 
 ## Purpose
+Blelkweleknlkwe
 
 ## Deployment
 
