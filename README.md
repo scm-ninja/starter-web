@@ -19,15 +19,6 @@ This is a simple web project, deployment can be on any web server or even local 
 
 Please for this repository and then issue Pull Request for review.
 
-## Purpose
-
-Sample website with plenty of files for demos.
-Just a simple file.
-
-## Conclusion
-
-This is just a conclusion.
-
 ### Copyright
 
 2019 Git.Traning.
