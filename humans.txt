@@ -3,13 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Zeth Beato zeth@bontix.com
 
 # THANKS
 
-    <name>
+    All my people
+	Please leave a review!
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	Git
