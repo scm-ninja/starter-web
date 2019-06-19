@@ -1,7 +1,3 @@
-# Starter Web Repo
+# My Forked Demo Project
+This is my forked demo project using initializr
 
-This repository is for showing how Git and GitHub work
-
-## Purpose
-
-Sample website with plenty of files for demos
