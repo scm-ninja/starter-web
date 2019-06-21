@@ -7,7 +7,7 @@
 
 # THANKS
 
-    heres a conflicting edit i'm making in master
+    heres a conflicting edit, and 2nd edit, i'm making in master
 
 # TECHNOLOGY COLOPHON
 
