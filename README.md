@@ -10,3 +10,5 @@ here are words im going to commit and push to remote
 here are words im going to commit and not push to remote
 here are words im going to stage only
 here are words im going to add but not stage
+
+adding a line for rebasing example
