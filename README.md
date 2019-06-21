@@ -12,3 +12,4 @@ here are words im going to stage only
 here are words im going to add but not stage
 
 adding a line for rebasing example
+2nd example, 1st edit
