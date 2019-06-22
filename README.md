@@ -7,4 +7,4 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 ## Getting Started
-To get started `clone` this repository.
+To get started `clone` this repository and started editing this repository.
