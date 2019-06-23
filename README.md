@@ -13,3 +13,5 @@ here are words im going to add but not stage
 
 adding a line for rebasing example
 2nd example, 1st edit, 2nd edit, 3rd edit
+
+edit that i wna include in my pull request
