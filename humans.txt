@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	Raphael Leray   raph@gmail.com @raphsuper
 
 # THANKS
 
