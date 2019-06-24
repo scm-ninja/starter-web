@@ -12,3 +12,7 @@ Blelkweleknlkwe
 ewhdquhweidhewoidhqoi
 ## How To Contribute
 conclusionoinweiuhiluewrhfliwe
+
+### Copyright
+
+2019 Git trainig
