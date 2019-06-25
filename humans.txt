@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Tony Man t@gmail.com
 
 # THANKS
 
