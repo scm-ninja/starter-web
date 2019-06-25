@@ -16,7 +16,7 @@ Please for this repo and then issue Pull request for review
 
 ## Deployment
 
-REBASE EXAMPLE
+REBASE EXAMPLE. CHANGES AFTER STASH
 
 ## Purpose
 
