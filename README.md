@@ -1,7 +1,6 @@
 # Starter Web Repo
 
-This is a sample website just for fun! :) Added sentence
-and line, then more changes from my feature branch too.
+This is a sample website just for fun! :) Updating for emergency fix after stash.
 
 ## Purpose
 
