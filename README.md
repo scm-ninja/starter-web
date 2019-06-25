@@ -2,7 +2,7 @@ Start modified
 
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work. More changes from my feature branch
 
 ## Purpose
 
