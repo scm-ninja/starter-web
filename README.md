@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This is a sample website just for fun! :) Added sentence
-and line.
+and line, then more changes from my feature branch too.
 
 ## Purpose
 
