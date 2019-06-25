@@ -25,3 +25,5 @@ A new line to confuse me
 Add even more for rebasing
 
 ## After Stash 
+
+Another line
