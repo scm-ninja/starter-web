@@ -1,7 +1,29 @@
-# Starter Web Repo
+# Starter Web Project
 
-This repository is for showing how Git and GitHub work
+This is a new line again
+
+## Introduction
+
+This is a new line for introduction
 
 ## Purpose
 
-Sample website with plenty of files for demos
+## Deployment
+
+This is a new line for Deployment
+
+## How to Contribute
+
+## Copyright
+
+Git.Training.
+
+A new line to confuse me 
+
+## Add more text rebasing e.g
+
+Add even more for rebasing
+
+## After Stash 
+
+Another line

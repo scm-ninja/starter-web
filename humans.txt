@@ -1,13 +1,14 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
-# TEAM
+# TEAM NEW
 
-    <name> -- <role> -- <twitter>
+    Tony Man t@gmail.com
 
 # THANKS
 
-    <name>
+    All my students
+	Please leave a review
 
 # TECHNOLOGY COLOPHON
 
