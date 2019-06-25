@@ -21,4 +21,4 @@ Please fork this and issue pull request for review
 
 ### Copyright
 
-2019 ASHA MIDDLER
+2019 ASHA MIDDLER All rights reserved
