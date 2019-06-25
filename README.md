@@ -21,3 +21,5 @@ Git.Training.
 A new line to confuse me 
 
 ## Add more text rebasing e.g
+
+Add even more for rebasing
