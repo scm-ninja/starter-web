@@ -14,3 +14,6 @@ This is a new line for Deployment
 
 ## How to Contribute
 
+## Copyright
+
+Git.Training.
