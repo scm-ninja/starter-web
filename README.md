@@ -8,6 +8,10 @@ This example is to show different parts of the Git repo...
 
 ## Purpose
 
+Anoher pursose
+
 ## Deployment
+
+To any server, just example!
 
 ## How to Contribute
