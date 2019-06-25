@@ -1,6 +1,7 @@
 # Starter Web Repo
 
-This is a sample website just for fun! :)
+This is a sample website just for fun! :) Added sentence
+and line.
 
 ## Purpose
 
