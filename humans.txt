@@ -1,9 +1,9 @@
-# humanstxt.org/
+isome doeidoiqwejoidwe frefwerfewr# humanstxt.org/
 # The humans responsible & technology colophon
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	Raphael Leray   raph@gmail.com @raphsuper
 
 # THANKS
 
@@ -13,3 +13,4 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+    blablbal
