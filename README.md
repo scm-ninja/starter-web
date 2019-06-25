@@ -19,3 +19,5 @@ This is a new line for Deployment
 Git.Training.
 
 A new line to confuse me 
+
+## Add more text rebasing e.g
