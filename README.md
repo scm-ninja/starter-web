@@ -15,3 +15,7 @@ Anoher pursose
 To any server, just example!
 
 ## How to Contribute
+
+### Copyright
+
+2019 ASHA MIDDLER
