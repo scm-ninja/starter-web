@@ -18,3 +18,8 @@ Little modif
 
 
 BLABLA
+
+
+#### Copyright
+
+This is a copyright section
