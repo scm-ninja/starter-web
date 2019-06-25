@@ -16,6 +16,8 @@ To any server, just example!
 
 ## How to Contribute
 
+Please fork this and issue pull request for review
+
 ### Copyright
 
 2019 ASHA MIDDLER
