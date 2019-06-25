@@ -12,6 +12,8 @@ Little modif
 
 ## How To Contribute
 
+Please for this repo and then issue Pull request for review 
+
 ## Deployment
 
 ## Purpose
