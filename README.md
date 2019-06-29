@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
-Some more content for rebase
+Some more content for rebase, then more changes from myfeatire bra
 
 ## Introduction
 
