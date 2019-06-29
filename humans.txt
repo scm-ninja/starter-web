@@ -4,11 +4,10 @@
 # TEAM
 
 hamadi sy
-    <name> -- <role> -- <twitter>
 
 # THANKS
 
-    <name>
+    to the world
 
 # TECHNOLOGY COLOPHON
 
