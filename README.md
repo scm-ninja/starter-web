@@ -5,3 +5,4 @@ This repository is for showing how Git and GitHub work and this is my first prac
 ## Purpose
 
 Sample website with plenty of files for demos
+Demos are essential
