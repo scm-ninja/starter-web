@@ -12,5 +12,5 @@ hamadi sy
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3
+    HTML5, CSS3, JSF
     jQuery, Modernizr
