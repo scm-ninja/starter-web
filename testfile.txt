@@ -5,3 +5,6 @@ its ok whatever happens
 ## Git comparison
 Adding git comparison and learing it
 
+##github content
+comparison with repo
+
