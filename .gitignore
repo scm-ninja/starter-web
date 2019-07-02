@@ -1,2 +1,3 @@
 testignore.txt
 testhidden.txt
+*.log
