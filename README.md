@@ -13,7 +13,7 @@ Sample website with plenty of files for demos
 Matko K
 
 ## Deployment
-deploy
+deploy to normal web server
 
 ### copyright
 fsfsd
