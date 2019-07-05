@@ -13,3 +13,6 @@ Matko K
 
 ## Deployment
 deploy
+
+### copyright
+fsfsd
