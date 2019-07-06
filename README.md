@@ -10,7 +10,7 @@ Simple web application
 Sample website with plenty of files for demos
 
 ## Contributors
-Matko K
+Matko K. Updating after stash
 
 ## Deployment
 deploy to normal web server. From my feature
