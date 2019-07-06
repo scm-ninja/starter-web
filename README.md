@@ -16,4 +16,4 @@ Matko K
 deploy to normal web server. From my feature
 
 ### copyright
-fsfsd
+fsfsd. All rights reserved.
