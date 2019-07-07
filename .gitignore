@@ -3,3 +3,4 @@ favicon.ico
 /log
 *.orig
 *.idea
+*.iml
