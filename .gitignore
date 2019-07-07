@@ -2,3 +2,4 @@ favicon.ico
 *.log
 /log
 *.orig
+*.idea
