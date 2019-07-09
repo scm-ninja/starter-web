@@ -1,0 +1,2 @@
+ this is an example to verify the new file in git working direcotyr
+ testing the same
