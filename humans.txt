@@ -3,8 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+    <name> jayashree -- <role> jayashree2401-- <twitter> 
 # THANKS
 
     <name>
