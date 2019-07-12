@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Robyn Lessing      robyn.lessing@stratoitgroup.co.za      @robynlessing
 
 # THANKS
 
