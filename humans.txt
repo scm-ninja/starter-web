@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Punit Kunjam kunjampunit@gmail.com
 
 # THANKS
 
