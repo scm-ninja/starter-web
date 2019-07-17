@@ -1,0 +1,92 @@
+[33mcommit dc8751e03f37bafac3436bb61a6867d007cfd66c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: vishal malviya <visu.malviya@gmail.com>
+Date:   Wed Jul 10 23:39:50 2019 +0530
+
+    deleting level1 all chieldren
+
+[33mcommit 0f5fdcf84efce4630447a4b95e4ee7bc347dda6f[m
+Author: vishal malviya <visu.malviya@gmail.com>
+Date:   Wed Jul 10 23:19:49 2019 +0530
+
+    change naming
+
+[33mcommit 8e25c21b132a7d138f7173af9565f30f126015f2[m
+Author: vishal malviya <visu.malviya@gmail.com>
+Date:   Wed Jul 10 09:30:49 2019 +0530
+
+    moving back from level3 to level2
+
+[33mcommit 4810daa64ca2c996532efd794340ecbdeebdc93c[m
+Author: vishal malviya <visu.malviya@gmail.com>
+Date:   Wed Jul 10 09:27:47 2019 +0530
+
+    moving level2.txt file from level2 to level3
+
+[33mcommit dfdc681321e8863db4545e219c57e23dad9982f6[m
+Author: vishal malviya <visu.malviya@gmail.com>
+Date:   Wed Jul 10 09:22:44 2019 +0530
+
+    Renaming level2 file
+
+[33mcommit ef3b6bc239d90e355e1642c5f3f8824a4f4310e0[m
+Author: vishal malviya <visu.malviya@gmail.com>
+Date:   Wed Jul 10 09:19:21 2019 +0530
+
+    renaming level 3 file
+
+[33mcommit 71be71bec825483be373d8e1ff808c9fba11d4e5[m
+Author: vishal malviya <visu.malviya@gmail.com>
+Date:   Tue Jul 9 23:29:55 2019 +0530
+
+    Adding file recursively in level
+
+[33mcommit e860087d777b7e999cdeba2b4b43df79c5143686[m
+Author: vishal malviya <visu.malviya@gmail.com>
+Date:   Thu Jun 27 00:55:19 2019 +0530
+
+    Adding new file
+
+[33mcommit ae4b2154a9ef109102473b9991b37b885872a7fd[m
+Author: vishal malviya <visu.malviya@gmail.com>
+Date:   Thu Jun 27 00:49:26 2019 +0530
+
+    Add newFile in project
+
+[33mcommit bea7fb72929e029efda769277cbe258c866d7747[m
+Author: vishal malviya <visu.malviya@gmail.com>
+Date:   Thu Jun 27 00:38:18 2019 +0530
+
+    adding more ipsum text
+
+[33mcommit 06d62654ec45668560f2adeeae4bdda363edf062[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: vishal malviya <visu.malviya@gmail.com>
+Date:   Thu Jun 27 00:21:01 2019 +0530
+
+    add hipster.txt for general perpose
+
+[33mcommit 4beb7f097b54ab7cf08daf17972c3ab14432ae24[m
+Merge: 5c05047 e73f914
+Author: Jason Taylor <jason@jasongtaylor.com>
+Date:   Wed Sep 2 02:39:19 2015 -0400
+
+    Merge pull request #6 from jasongtaylor/feature-readme
+    
+    Adding README file
+
+[33mcommit e73f9147e78331b2ea746dc43de5a44953766a76[m
+Author: Jason Taylor <jason@git.training>
+Date:   Wed Sep 2 02:25:18 2015 -0400
+
+    Adding Purpose section to README
+
+[33mcommit 34f563b40c4c1519026d2e881c75e97728c45502[m
+Author: Jason Taylor <jason@git.training>
+Date:   Wed Sep 2 02:06:05 2015 -0400
+
+    Adding README file
+
+[33mcommit 5c05047e53ecd0913a6f10000014d38829aaecdc[m
+Author: Jason Taylor <jason@screencasts.pro>
+Date:   Thu Sep 11 22:14:19 2014 -0400
+
+    Copying files from initializr project zip file and then creating simple.html as basis for super simple pages
