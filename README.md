@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work.
 This sample project can help to learn how to use git meaningfully
-
+use it wisely
 ## Introduction
 It shows that evenything that is related to you will always come to you
 
