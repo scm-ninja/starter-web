@@ -13,3 +13,6 @@ Sample website with plenty of files for demos
 ## Usage
 
 Thing that can change world
+
+##copyright
+git.training
