@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name>vishal malviya</name>
+	<role>software engineer</role>
+	<twitter> bestbuddy.tw</twitter>
 
 # THANKS
 
