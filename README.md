@@ -9,3 +9,7 @@ It shows that evenything that is related to you will always come to you
 ## Purpose
 
 Sample website with plenty of files for demos
+
+## Usage
+
+Thing that can change world
