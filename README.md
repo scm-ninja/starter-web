@@ -5,3 +5,6 @@
 ## Purpose
 ##How to set goal
 ## How to git
+
+## How to diff
+## Effective
