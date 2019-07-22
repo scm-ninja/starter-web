@@ -3,4 +3,5 @@
 
 ## Introduction
 ## Purpose
-###How to set goal
+##How to set goal
+## How to git
