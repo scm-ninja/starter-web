@@ -9,3 +9,5 @@
 ## How to diff
 ## Effective
 ## Efficient
+
+## 80/20
