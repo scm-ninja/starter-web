@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Paolo Elicano	kawpao@gmail.com	@pelican_oh
 
 # THANKS
 
