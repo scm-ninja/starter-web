@@ -12,7 +12,7 @@ Ich heiBe dein Varter und dies ist ein Beispiel Deutscher sprache.
 
 Verstehst du?
 
-Ich will dich ficken Hundin!!!
+Ich werde dich finden Mensch!!!
 
 Mit freundlichen GruBen,
 Vikrant.
