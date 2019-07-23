@@ -9,3 +9,7 @@ Sample website with plenty of files for demos
 ## Change committed to Github
 
 ## Change committed locally really!
+
+## Change staged!
+
+## Another local commit!
