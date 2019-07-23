@@ -12,3 +12,6 @@ This is a simple web projectssw
 
 ##How to Contribute
 
+##Copyright
+2019 GIt.Training
+
