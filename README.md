@@ -16,3 +16,5 @@ Thing that can change world
 
 ##copyright
 git.training
+
+updates from dev1
