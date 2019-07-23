@@ -11,7 +11,7 @@ Adding more purpose to life...
 This is a simple web projectssw
 
 ##How to Contribute
-
+Please fork this repository and then issue Pull Request for review.
 ##Copyright
 2019 GIt.Training
 
