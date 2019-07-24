@@ -6,6 +6,10 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
+## How to contribute
+
+Please fork this repository
+
 ### Copyright 
 
-2019 Qualicity Limited
+2019 Some Company Limited
