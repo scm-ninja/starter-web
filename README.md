@@ -13,3 +13,5 @@ Sample website with plenty of files for demos
 ## Change staged!
 
 ## Another local commit!
+
+Working copy change
