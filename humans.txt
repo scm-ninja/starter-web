@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Haden J-Robbins haden@fakeemail.com
 
 # THANKS
 
