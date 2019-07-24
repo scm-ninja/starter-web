@@ -6,12 +6,6 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
-## Change committed to Github
+### Copyright 
 
-## Change committed locally really!
-
-## Change staged!
-
-## Another local commit!
-
-Working copy change
+2019 Qualicity Limited
