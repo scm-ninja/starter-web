@@ -1,7 +1,19 @@
-# Starter Web Repo
+# Starter Web Project
 
-This repository is for showing how Git and GitHub work
-
+#FIX
+## Introduction
 ## Purpose
+##How to set goal
+## How to git
 
-Sample website with plenty of files for demos
+## How to diff
+## Effective
+## Efficient
+
+## 80/20
+## Pxxxson  Parkinson
+## Productive
+## Student
+## Priority
+
+## View of back

@@ -2,11 +2,13 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+     John-SW
     <name> -- <role> -- <twitter>
 
 # THANKS
-
+     JOhn
+	 Jay Jet 
+	 Wooden
     <name>
 
 # TECHNOLOGY COLOPHON
