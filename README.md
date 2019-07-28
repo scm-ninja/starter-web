@@ -16,8 +16,7 @@ This is a simple web project, deployment can be on any web project, deployment c
 
 ## How To Contribute
 
-Pleas fork this repository and then issue Pull Requests for review.
+Pleas fork this repository and then issue Pull Requests for review.Some changes
 
-###Copyright
-
+###Copyright 
 (c)2019 Git.Traning. All rights reserved.
