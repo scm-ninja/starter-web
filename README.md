@@ -18,4 +18,4 @@ This is a simple web project, deployment can be on any web project, deployment c
 
 ###Copyright
 
-2019 Git.Traning.
+(c)2019 Git.Traning.
