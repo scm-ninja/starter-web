@@ -4,4 +4,4 @@ Forking and cloning repos
 
 ## Purpose
 
-Do some traing wit GitHub
+Trying pull request
