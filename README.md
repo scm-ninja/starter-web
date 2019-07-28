@@ -2,6 +2,14 @@
 
 This repository is for showing how Git and GitHub work
 
-## Purpose
 
-Sample website with plenty of files for demos
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit est arcu, eu auctor felis vestibulum sollicitudin. Nam dapibus risus sit amet ante malesuada imperdiet. Curabitur leo dolor, eleifend ac mi porta, fermentum gravida lectus. Vestibulum euismod et eros ut accumsan. Proin sit amet velit efficitur, accumsan sapien ac, bibendum lorem. In quis dignissim nibh, quis pharetra ex. Sed a lorem enim. Ut posuere arcu nec felis hendrerit aliquet. In hac habitasse platea dictumst. Duis ut laoreet erat. Aliquam id tortor malesuada, malesuada ipsum id, luctus purus.
+
+Pellentesque condimentum et lacus non viverra. Nam commodo augue lacus, id euismod felis venenatis a. Etiam et volutpat felis, ac hendrerit lectus. Maecenas dignissim vulputate velit eu sollicitudin. Nullam venenatis ante at urna fermentum, eleifend mollis orci vestibulum. Nunc accumsan, nunc a dapibus laoreet, turpis lacus auctor purus, vel pellentesque velit neque quis massa. Suspendisse suscipit pellentesque molestie. Maecenas sit amet semper neque. Phasellus eget vestibulum arcu. Praesent et eros vitae lacus volutpat blandit non id purus. Vivamus sagittis libero at tortor congue, id faucibus ex aliquet. Maecenas ut placerat odio. Sed ut interdum tellus. Curabitur non lectus eu mi vehicula facilisis in eget mauris. Vestibulum finibus convallis est ac malesuada.
+
+Nulla ac viverra nunc, eget consequat metus. Cras id mauris commodo, rhoncus nunc nec, ornare lacus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec ut imperdiet felis. Phasellus cursus pulvinar nisi quis interdum. Donec et erat et felis interdum facilisis in vel arcu. Aenean a odio nisl. Donec sodales leo in urna sodales maximus. Suspendisse potenti. Curabitur arcu dolor, blandit ut risus at, porttitor fringilla est. Nulla facilisi.
+
+Sed eu tellus sed diam feugiat egestas. Donec felis erat, hendrerit eget egestas quis, euismod ut enim. Ut ac tortor erat. Cras dui leo, mattis et purus at, venenatis convallis lacus. Curabitur magna orci, auctor ac vulputate et, lobortis eget eros. Morbi ut nibh quis tortor consequat dignissim. Ut sed ante risus. Pellentesque et sollicitudin est. Phasellus lobortis ut magna in efficitur. Integer ornare ex lacus, id suscipit diam laoreet eu. Quisque non orci velit. Aenean vel ultrices felis. Nam consequat at dui id suscipit.
+
+Ut eget dolor sit amet nisl molestie rhoncus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam volutpat mi vel malesuada aliquam. Duis ac quam vel magna vehicula aliquet sed id ipsum. Sed aliquam, nibh rutrum auctor aliquam, risus justo vehicula arcu, a tempus dui dolor convallis nulla. Nullam eget vestibulum ipsum, at tincidunt lectus. Quisque vulputate tempus semper. Etiam tincidunt urna vitae nisi convallis, vitae lacinia nulla pharetra. 
