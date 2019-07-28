@@ -13,4 +13,4 @@ Please fork this repository
 
 ### Copyright 
 
-2019 Some Company Limited
+2019 Some Company Limited. All rights reserved.
