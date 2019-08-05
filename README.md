@@ -18,4 +18,4 @@ This is a simple web project
 There is no way to contribute
 Please fork etc etc
 ### Copyright
-Copyright notice
+Copyright notice AlL rights reserved
