@@ -14,6 +14,6 @@ This is a simple web project
 
 ##How to Contribute
 There is no way to contribute
-
+Please fork etc etc
 ### Copyright
 Copyright notice
