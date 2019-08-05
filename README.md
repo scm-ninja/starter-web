@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 Updating this line with a fix , then more changes from myfeature branch too
-
+Different from others
 ##Introduction
 
 This is and example text for introduction
