@@ -14,3 +14,6 @@ This is a simple web project
 
 ##How to Contribute
 There is no way to contribute
+
+### Copyright
+Copyright notice
