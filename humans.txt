@@ -11,6 +11,6 @@
    Please grade me kindly
 
 # TECHNOLOGY COLOPHON
-
+JAva C++
     HTML5, CSS3
     jQuery, Modernizr
