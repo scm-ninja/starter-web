@@ -3,13 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Paolo Elicano	kawpao@gmail.com	@pelican_oh
 
 # THANKS
 
-    <name>
+    Thanks to all my students
+	Please a review if you like this course!
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	Git
