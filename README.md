@@ -8,7 +8,7 @@ Tthis is an introduction text
 Sample website with plenty of files for demos and stuff
 Adding more purpose to life...
 ## Deployment
-This is a simple web projectssw
+This is a simple web projects - this time with test-branch
 
 ##How to Contribute
 Please fork this repository and then issue Pull Request for review.
