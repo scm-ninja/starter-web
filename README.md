@@ -1,7 +1,8 @@
-# Starter Web Repo
+# Git Training Starter Web Project
 
-This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work using the starter-web project
 
-## Purpose
+## Purpose Of This
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos from www.initialzr.com
+Practice on forking and submitting PULL request to fork
