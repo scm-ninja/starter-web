@@ -5,3 +5,4 @@ This repository is for showing how Git and GitHub work using the starter-web pro
 ## Purpose Of This
 
 Sample website with plenty of files for demos from www.initialzr.com
+Practice on forking and submitting PULL request to fork
