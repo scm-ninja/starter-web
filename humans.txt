@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    James Taylor -- James@Taylor.com -- @Loser
 
 # THANKS
 
