@@ -11,6 +11,6 @@
 	Please let me know if this works on your end
 
 # TECHNOLOGY COLOPHON
-
+	Java, SOQL
     HTML5, CSS3
     jQuery, Modernizr
