@@ -16,6 +16,9 @@ This is a simple web project, deployment can be on any web server or even local 
 
 ## How To Contribute
 
+	Please fork this repo and issue pull request for review
+	
+
 ## Copyright 
 
 	2019 Copyright Guyru
