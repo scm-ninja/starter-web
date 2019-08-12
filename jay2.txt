@@ -1,6 +1,12 @@
+<<<<<<< HEAD
  this is an example to verify the new file in git working direcotyr
  master master 
 testing the same
+=======
+ as branch
+this is an example to verify the new file in git working direcotyr
+ testing the same
+>>>>>>> b1
 
 copyright jay
 new line
