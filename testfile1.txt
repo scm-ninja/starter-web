@@ -1,0 +1,1 @@
+Click on the "Search" button in the Ubuntu launcher bar, type "terminal," then double-click "Terminal" to open the application. Type the following command to install the package, if it is not currently installed: Type the following command to download a single page from the website:
