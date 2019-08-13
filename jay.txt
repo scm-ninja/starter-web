@@ -1,10 +1,14 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 am finei
 =======
 hi how r u 
 >>>>>>> newb
 conflict from master
 hi 
+=======
+text for conflict as new brach 
+>>>>>>> newbranch
 gtomo from zero to hero with Git source control step-by-step with easy to understand examples. Become the next Git exper
 hi jay new text in next line
 in third line
