@@ -5,4 +5,8 @@ Master line
 
 testi
 added new line branch
+added as master
+1
+2
+3
 
