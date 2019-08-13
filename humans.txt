@@ -3,13 +3,14 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    James Taylor -- James@Taylor.com -- @Loser
 
 # THANKS
 
-    <name>
+    Thanks to Jason
+	Please let me know if this works on your end
 
 # TECHNOLOGY COLOPHON
-
+	Java, SOQL
     HTML5, CSS3
     jQuery, Modernizr
