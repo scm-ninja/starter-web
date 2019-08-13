@@ -5,3 +5,4 @@ file in branch
 4
 line
 master === conflict change as branch
+branch line
