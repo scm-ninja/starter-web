@@ -10,3 +10,4 @@ this is an example to verify the new file in git working direcotyr
 
 copyright jay
 new line
+master master
