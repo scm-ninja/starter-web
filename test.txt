@@ -4,4 +4,4 @@ file in branch
 3
 4
 line
-conflict change as branch
+master === conflict change as branch
