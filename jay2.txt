@@ -1,0 +1,13 @@
+his is an example to verify the new file in git working direcotyr
+ master master 
+esting the same
+ranch
+this is an example to verify the new file in git working direcotyr
+ testing the same
+opyright jay
+new line
+
+master master
+=======
+as brnch
+

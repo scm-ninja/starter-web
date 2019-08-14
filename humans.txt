@@ -3,13 +3,12 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+    <name> jayashree -- <role> jayashree2401-- <twitter> 
 # THANKS
-
+Thanks to all
     <name>
 
 # TECHNOLOGY COLOPHON
-
+ java
     HTML5, CSS3
     jQuery, Modernizr
