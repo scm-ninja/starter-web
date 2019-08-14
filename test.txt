@@ -6,4 +6,8 @@ file in branch
 line
 master === conflict change as branch
 branch line
+
 new line as b1
+
+my new line branch 
+
