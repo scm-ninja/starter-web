@@ -10,3 +10,6 @@ Sample website with plenty of files for demos
 this is sample deployment
 
 ##In Staging
+now keep it in just add stage
+
+##Making local changes
