@@ -1,0 +1,6 @@
+Domain-Driven Design fills that need. It offers readers a systematic approach to domain-driven
+design, presenting an extensive set of design best practices, experience-based techniques, and
+fundamental principles that facilitate the development of software projects facing complex
+domains. Intertwining design and development practice, Domain-Driven Design incorporates
+numerous examples in Java-case studies taken from actual projects that illustrate the application
+of domain-driven design to real-world software development.
