@@ -15,3 +15,5 @@ Some purpose...
 something about deployment
 
 ## How 2 Contribute
+
+## Copyright
