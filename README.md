@@ -8,6 +8,10 @@ Even more text
 
 ## Purpose
 
+Some purpose...
+
 ## Deployment
+
+something about deployment
 
 ## How 2 Contribute
