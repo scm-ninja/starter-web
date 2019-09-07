@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jason Taylor    json@jason.com  GayFrog@twitter.com
 
 # THANKS
 
