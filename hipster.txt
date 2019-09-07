@@ -1,1 +1,1 @@
-Some text from Feature branch + Some new taxt from the Master branch
+Some text from Feature branch + Some new taxt from the Master branch + even more text
