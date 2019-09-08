@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Glen Videmark gv@mai.com
 
 # THANKS
 
