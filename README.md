@@ -16,6 +16,7 @@ This is a simple web project, deployment can be on any web server or even local 
 
 ## How to contribute
 
+You could pull the repo, work on it and push the changes, but:
 The is no way to contribute Kukuku!
 
 ## Copyright
