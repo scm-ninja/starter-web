@@ -20,4 +20,4 @@ You could pull the repo, work on it and push the changes, but:
 The is no way to contribute Kukuku!
 
 ## Copyright
-2019 Git.Training
+2019 Git.Training. All rigths reserved.
