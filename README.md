@@ -16,4 +16,6 @@ something about deployment
 
 ## How 2 Contribute
 
+Fork and issue pull requests
+
 ## Copyright
