@@ -24,4 +24,6 @@ By adding more comments
 
 ## Guides
 
-Peding Info
+Pending Info
+
+## References
