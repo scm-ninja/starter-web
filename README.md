@@ -26,4 +26,6 @@ By adding more comments
 
 Pending Info
 
-## References
+### Copyright
+
+Git.Training 2019
