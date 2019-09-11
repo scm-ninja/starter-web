@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Mauricio Chinchilla		chinmaur@gmail.com		@MauricioChinch2
 
 # THANKS
 
