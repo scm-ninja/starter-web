@@ -20,7 +20,7 @@ From my local computer to the Github
 
 ## How to contribute
 
-By adding more comments
+Please fork this repository and then issue push request for review
 
 ## Guides
 
