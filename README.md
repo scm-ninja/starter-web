@@ -10,5 +10,5 @@ Sample website with plenty of files for demos
 
 ## Purpose
 
-##how to contribute
+## How to contribute
 
