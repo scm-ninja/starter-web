@@ -13,3 +13,5 @@ Deployment can be done using CI/CD pipelines
 ##Author
 
 Azim
+
+### Copy right notice
