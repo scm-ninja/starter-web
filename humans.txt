@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Azim -- azimhawaldar@gmail.com	
 
 # THANKS
 
