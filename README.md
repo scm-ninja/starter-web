@@ -28,6 +28,6 @@ Pending Info
 
 ### Copyright
 
-Git.Training 2019
+Git.Training 2019 all rights reserved
 
 ## Extra lines for Rebasing
