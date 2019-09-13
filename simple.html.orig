@@ -1,14 +1,23 @@
 <!DOCTYPE html>
 <!--
 Copyright 2019 Git.training
-
+Adding changed rebasing
+<<<<<<< HEAD
+mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+=======
+56454
+6545
+>>>>>>> adding some trouble
 -->
 <head>
-	<title>Updating Title for tagging example</title>
+	<title>An example website</title>
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
 			padding-top: 50px;
+			mmmmmmmmmmmmmmmmmm
 			padding-bottom: 20px;
 		}
 	</style>
@@ -22,7 +31,7 @@ Copyright 2019 Git.training
 		</p>
 	</main>
 	<footer class="container">
-		<p>&copy; 2019 Mauricio Ch Copyrights - All Rights reserved</p>
+		<p>&copy; Company 2014</p>
 	</footer>
 </body>
 </html>

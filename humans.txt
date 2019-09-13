@@ -3,13 +3,17 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Mauricio Chinchilla		chinmaur@gmail.com		@MauricioChinch2
 
 # THANKS
 
-    <name>
+    Thanks to all my students
+	
+# leave a review
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+
+# Copyrights
