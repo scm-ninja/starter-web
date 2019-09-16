@@ -1,7 +1,8 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work
 
-## Purpose
-
-Sample website with plenty of files for demos
+ this repository is for showing hoe Git and GitHub should work
+ 
+ 
+ # AVENGERS ASSEMBLE!!!!!!!!!
+ Cap has gone looking for bucky
