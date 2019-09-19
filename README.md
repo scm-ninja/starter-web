@@ -1,5 +1,7 @@
 ##Deployment
 Modifica per stashin locale
+FIX URGENTE
+
 #How to contribute
  
 # description
