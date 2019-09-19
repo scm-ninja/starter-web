@@ -1,6 +1,7 @@
 ##Deployment
 
-This is a simple web project
+This is a simple web project. Add more text.
+Add text for rebasing example
 #How to contribute
  
 # description
