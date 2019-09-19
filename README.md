@@ -1,7 +1,5 @@
 ##Deployment
-
-This is a simple web project. Add more text.
-Add text for rebasing example
+Modifica per stashin locale
 #How to contribute
  
 # description
