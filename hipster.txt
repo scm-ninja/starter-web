@@ -1,5 +1,7 @@
 File example edited
 
+More lines
+
 From bash
 
 From github
