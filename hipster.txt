@@ -1,8 +1,0 @@
-Jetpack is a suite of libraries, tools, and guidance to help developers write high-quality apps easier. These components help you follow best practices, free you from writing boilerplate code, and simplify complex tasks, so you can focus on the code you care about.
-Jetpack is a suite of libraries, tools, and guidance to help developers write high-quality apps easier. These components help you follow best practices, free you from writing boilerplate code, and simplify complex tasks, so you can focus on the code you care about.
-
-Jetpack comprises the androidx.* package libraries, unbundled from the platform APIs. This means that it offers backward compatibility and is updated more frequently than the Android platform, making sure you always have access to the latest and greatest versions of the Jetpack components.
-Jetpack comprises the androidx.* package libraries, unbundled from the platform APIs. This means that it offers backward compatibility and is updated more frequently than the Android platform, making sure you always have access to the latest and greatest versions of the Jetpack components.Codelabs: Short, self-paced tutorials that each cover a discrete topic. Most codelabs step you through the process of building a small app, or adding a new feature to an existing app.
-Courses: Guided training paths that teach you how to build Android apps.
-Online training: If you prefer to learn online with videos, check out the Developing Android Apps with Kotlin course on Udacity (trailer embedded here), and other online courses below.
-Otherwise, the following is a small selection of essential developer guides that you should be familiar with
