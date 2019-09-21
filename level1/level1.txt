@@ -1,0 +1,13 @@
+git commit -m ""
+Welcome to the Android developer guides. The documents listed in the left navigation teach you how to build Android apps using APIs in the Android framework and other libraries.
+
+If you're brand new to Android and want to jump into code, start with the Build Your First App tutorial.
+
+And check out these other resources to learn Android development:
+
+Codelabs: Short, self-paced tutorials that each cover a discrete topic. Most codelabs step you through the process of building a small app, or adding a new feature to an existing app.
+Courses: Guided training paths that teach you how to build Android apps.
+Online training: If you prefer to learn online with videos, check out the Developing Android Apps with Kotlin course on Udacity (trailer embedded here), and other online courses below.
+Otherwise, the following is a small selection of essential developer guides that you should be familiar with.
+
+Essential documentation
