@@ -1,7 +1,18 @@
-# Starter Web Repo
+NewtestBranch modifica
+##Deployment
+Modifica per stashin locale
+FIX URGENTE
 
+#How to contribute
+ 
+# description
+ this is a simple description
+# Starter Web project
+
+## Introduction
+
+# Starter Web Repo
 This repository is for showing how Git and GitHub work
 
 ## Purpose
-
 Sample website with plenty of files for demos

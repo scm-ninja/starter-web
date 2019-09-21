@@ -4,12 +4,14 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+	marco -- pm --marcomiglia
 
 # THANKS
 
-    <name>
-
+    All my students
+	
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+nuovo stash
