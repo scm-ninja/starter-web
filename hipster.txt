@@ -1,18 +1,5 @@
 File example edited
 
-More lines
 
-From bash
-
-From github
-
-From eclipse
-
-From bash
-
-From feature-branch
-
-From feature-eclipse
-
-From simple-changes
+From master
 
