@@ -1,16 +1,2 @@
-File example edited
 
-More lines
-
-From bash
-
-From github
-
-From eclipse
-
-From bash
-
-From feature-branch
-
-From feature-eclipse
-
+Cleaned in github in feature branch
