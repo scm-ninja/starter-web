@@ -8,3 +8,6 @@ Sample website with plenty of files for demos
 
 ## Update 
 Last update made Monday 23 Sept
+
+## Installation
+Fork and clone this repository to get started
