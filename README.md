@@ -11,7 +11,7 @@ This is an example to show diff parts of the git repository
 ##Purpose
 ##Deployment
 ##How To Combine
-
+Please fork this repo and the issue pull for review
 ##Copyright
 
 2015 Git.training
