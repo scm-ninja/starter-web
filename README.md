@@ -11,3 +11,7 @@ This is an example to show diff parts of the git repository
 ##Purpose
 ##Deployment
 ##How To Combine
+
+##Copyright
+
+2014 Git.training
