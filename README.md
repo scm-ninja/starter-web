@@ -14,4 +14,4 @@ This is an example to show diff parts of the git repository
 
 ##Copyright
 
-2014 Git.training
+2014 Git training
