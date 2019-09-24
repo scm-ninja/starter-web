@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-<h1>Master branch</h1>
+<h1>This is a rebase test</h1>
 This is a simple website project for showing how to use Git and Github together.
 
 ## Purpose
