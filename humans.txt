@@ -3,12 +3,13 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+    Jason jason@mail ttt
+	VV
+	NP
 # THANKS
 
     <name>
-
+sdfg
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
