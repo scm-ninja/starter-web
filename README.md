@@ -15,3 +15,5 @@ Sample website with plenty of files for demos
 ##zsfsdfsdfsd
 
 sdgfdgsgsgsd
+
+##Copyright added
