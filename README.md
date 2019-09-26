@@ -15,3 +15,5 @@ Deployment can be done using CI/CD pipelines
 Azim HAwaldar
 
 ### Copy right notice
+
+Gits training. All right reserved
