@@ -2,7 +2,8 @@
 
 This is a simple website project for 
 showing how to use git and github together.
-Adding a line for rebasing example.
+Adding a line for rebasing example,more changes
+from my feature branch
 
 ## Introduction
 
@@ -25,6 +26,6 @@ can be on any web server
 Please fork this repository and issue Pull 
 request for review.
 
-###Copyright
+### Copyright
 
 2019 Git.Training.
