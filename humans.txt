@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Vaibhav Gupta abc@gmail.com twiter
 
 # THANKS
 
