@@ -14,6 +14,7 @@ using a web project.
 
 As stated above, the main purpose is to 
 provide simple example for git training demos.
+Let's start for the office hours
 
 ## Deployment
 
