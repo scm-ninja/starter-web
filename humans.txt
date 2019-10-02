@@ -3,13 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Azim -- azimhawaldar@gmail.com	@azimhawaldar
 
-# THANKS
+# THANKS 
 
-    <name>
+    TO ALL MY STUDENTS
+	Please leave a review 
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	java, javascript
