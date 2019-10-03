@@ -6,4 +6,6 @@ Some other changes
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos.
+
+More changes to the fork before pull
