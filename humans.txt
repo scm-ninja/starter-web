@@ -16,6 +16,7 @@ asdadasdasd
 # TEAM
 
     <name> -- <role> -- <twitter>
+    Steopa -- student -- twitter gavno
 
 # THANKS
 
