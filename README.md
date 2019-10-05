@@ -25,3 +25,5 @@ A new line is added
 A new line after rebase is added
 
 All rights reserved
+
+##new updates
