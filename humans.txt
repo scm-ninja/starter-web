@@ -1,14 +1,28 @@
+sadasdas
+asdads
+asdadasd
+adasdasdas
+ xxcvxcvxc
+ 
 # humanstxt.org/
 # The humans responsible & technology colophon
+asdasdasda
+asdasdasdaasd
 
+
+asdasdasda
+
+asdadasdasd
 # TEAM
 
     <name> -- <role> -- <twitter>
+    Steopa -- student -- twitter gavno
 
 # THANKS
 
-    <name>
-
+    All my teachers
+    Leave a review if you like this course. If not, go fuck yourself bitch.
+    
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
