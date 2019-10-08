@@ -6,4 +6,5 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
-__JV__: Updates to this file to test Git and GitHub
+__JV__: Update README file to test Git and GitHub
+		More comments here ...
