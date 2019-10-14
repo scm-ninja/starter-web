@@ -10,3 +10,7 @@ This is the area modified.
 ## Purpose
 
 ## How to Contribute
+
+## Copyright
+
+2019 Git.Training
