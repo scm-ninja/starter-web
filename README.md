@@ -14,3 +14,5 @@ This is the area modified.
 ## Copyright
 
 2019 Git.Training
+
+## Change History
