@@ -1,6 +1,7 @@
+
 # humanstxt.org/
 # The humans responsible & technology colophon
-
+thanks to all my students
 # TEAM
 
  Arilla
