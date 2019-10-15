@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+
+<!--
+Copyright 2014
+Copyright 2014 -- Made chanfes here
+Copyright 2014 - Changes made from Master
+Adding changes before changes base
+<<<<<<< HEAD
+Adding changes from master
+=======
+Made several chagnes
+Another change last
+>>>>>>> bigtrouble
+-->
+<head>
+	<title>An Example WebSite Always On</title>
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<style>
+		body {
+			padding-top: 50px;
+			padding-bottom: 20px;
+		}
+	</style>
+	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+</head>
+<body>
+	<main class="container">
+	<!-- Content Goes Here -->
+		<p>
+			Just some content
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; Company 2014</p>
+	</footer>
+</body>
+</html>
