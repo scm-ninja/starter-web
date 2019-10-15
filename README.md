@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 
 ## Purpose
 
-thanks for my time
+thanks for my time. More changes from myfeature branch
 Sample website with plenty of files for demos
 
 ## Hot To Contribute
