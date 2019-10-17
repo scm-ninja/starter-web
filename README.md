@@ -8,3 +8,5 @@ I'm just adding some more text to create some changes
 ## Purpose
 
 Sample website with plenty of files for demos
+
+Just adding some more text here
