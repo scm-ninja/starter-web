@@ -12,6 +12,7 @@ This is the area modified.
 ## How to Contribute
 
 ## Copyright
+All right reserved
 
 2019 Git.Training
 
