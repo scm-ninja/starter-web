@@ -10,5 +10,6 @@ Adding introduction....
 ## Purpose
 
 Sample website with plenty of files for demos
+Adding purposing.......
 
 ## How To Contribute
