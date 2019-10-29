@@ -15,3 +15,6 @@ Adding purposing.......
 ## How To Contribute
 Adding contributing.........
 olasdkfasdlkfjasdl
+
+## footer
+DXC Company
