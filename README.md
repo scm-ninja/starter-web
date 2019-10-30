@@ -1,8 +1,10 @@
 # Starter Web Project
 
+This repository is for showing how Git and GitHub work together.
+
 ## Introduction
 
-This repository is for showing how Git and GitHub work together.
+This is the introduction.
 
 ## Purpose
 
