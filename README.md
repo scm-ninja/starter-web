@@ -15,7 +15,7 @@ Adding purposing.......
 ## How To Contribute
 Adding contributing again and again.........
 olasdkfasdlkfjasdl
-rondawasha
+rondawasha, gonikwastuwa
 
 ## footer
 DXC Company
