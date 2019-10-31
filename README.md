@@ -18,6 +18,8 @@ This is deployment. Now with more details.
 
 ## How to contribute
 
+Please fork this repository.
+
 ## Copyright
 
 2019 Åke Tråk
