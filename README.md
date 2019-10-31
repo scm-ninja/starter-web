@@ -14,4 +14,6 @@ This is the purpose.
 
 ## Deployment
 
+This is deployment. Now with more details.
+
 ## How to contribute
