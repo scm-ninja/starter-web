@@ -17,3 +17,7 @@ This is the purpose.
 This is deployment. Now with more details.
 
 ## How to contribute
+
+## Copyright
+
+2019 Åke Tråk
