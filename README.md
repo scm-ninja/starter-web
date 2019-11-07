@@ -9,6 +9,12 @@ This is an example to show the difftool
 
 ## Purpose
 
+Adding some content to domo
+
 ## Deployment
 
+This is a developement section
+
 ## How to contribute
+
+Changes made after staged
