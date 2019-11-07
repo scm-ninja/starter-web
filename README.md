@@ -21,3 +21,5 @@ Changes made after staged
 
 
 Adding a new line to stage the file.
+
+Adding new line.
