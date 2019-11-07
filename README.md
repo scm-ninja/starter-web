@@ -18,3 +18,6 @@ This is a developement section
 ## How to contribute
 
 Changes made after staged
+
+
+Adding a new line to stage the file.
