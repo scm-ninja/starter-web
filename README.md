@@ -17,6 +17,8 @@ This is a developement section
 
 ## How to contribute
 
+Please fork this repository and then issue pull request fo review. 
+
 Changes made after staged
 
 
