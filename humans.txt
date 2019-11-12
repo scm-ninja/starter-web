@@ -3,11 +3,11 @@
 
 # TEAM
 
-    Pavel Vinogradov   polltax98@gmail.com    @polltax61
+    Pavel Vinogradov   PVinagradau@gomel.iba.by    @polltax61
 
 # THANKS
 
-    <name>
+    Pavel
 
 # TECHNOLOGY COLOPHON
 
