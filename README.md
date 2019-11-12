@@ -24,4 +24,4 @@ Please fork this repository.
 
 ## Copyright
 
-2019 Åke Tråk
+2019 Åke Tråk, All Rights Reserved
