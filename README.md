@@ -2,7 +2,9 @@
 
 This is a simple website project for 
 showing how to use Git ad Github together.
+Adding a line for rebasing example.
 
+Adding some lines for rebase.
 ## Introduction
 
 This is an example to show the difftool
