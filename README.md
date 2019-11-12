@@ -7,7 +7,7 @@ Adding a line for rebasing example.
 Adding some lines for rebase.
 ## Introduction
 
-This is an example to show the difftool
+This is an example to show the difftool. Adding rebase rule.
 
 ## Purpose
 
