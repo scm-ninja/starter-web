@@ -9,6 +9,7 @@ Adding some lines for rebase.
 
 This is an example to show the difftool. Adding rebase rule.
 
+Trying to add some content to readme file. 
 ## Purpose
 
 Adding some content to domo
