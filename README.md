@@ -6,6 +6,7 @@ Adding a line for rebasing example.
 
 Adding some lines for rebase. Adding extra sentences.
 Adding some content after rebase
+Adding some content
 ## Introduction
 
 This is an example to show the difftool. Adding rebase rule.
