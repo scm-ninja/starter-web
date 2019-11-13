@@ -10,7 +10,13 @@
     Thanks to all my students.
     Adding some content.
     Adding extra line #1.
+<<<<<<< HEAD
     Adding an extra line
+=======
+
+    Adding a ling before rebase.
+
+>>>>>>> myfeature
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
