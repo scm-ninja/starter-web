@@ -8,10 +8,7 @@
 # THANKS
 
     Thanks to all my students.
-    Adding some content.
-    Adding extra line #1.
-    Adding a ling before rebase.
-    Adding some line
+   
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
