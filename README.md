@@ -5,6 +5,8 @@ showing how to use Git and Github together.
 
 ## Introduction
 
+Introduction text.
+
 ## Purpose
 
 ## Deployment
