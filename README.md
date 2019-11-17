@@ -16,3 +16,7 @@ Show how Git can be used with Github.
 This is a simple web project.
 
 ## How to contribute
+
+### Copyright
+
+James Saunders
