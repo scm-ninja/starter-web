@@ -13,3 +13,4 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+# if you can read me in master then your merge was done successfully
