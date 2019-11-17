@@ -23,4 +23,4 @@ Please fork this repository and issue pull requests for review.
 
 ### Copyright
 
-James Saunders
+James Saunders. All rights reserved.
