@@ -17,6 +17,8 @@ This is a simple web project.
 
 ## How to contribute
 
+Please fork this repository and issue pull requests for review.
+
 ### Copyright
 
 James Saunders
