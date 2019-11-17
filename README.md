@@ -9,6 +9,10 @@ Introduction text.
 
 ## Purpose
 
+Show how Git can be used with Github.
+
 ## Deployment
+
+This is a simple web project.
 
 ## How to contribute
