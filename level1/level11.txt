@@ -1,2 +1,2 @@
 Hello
-This is sample file
+This is simple file
