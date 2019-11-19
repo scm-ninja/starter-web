@@ -10,6 +10,3 @@ This for deployment purpose project.
 This part is for deployment part.
 Sample website with plenty of files for demos
 
-## Copyright
-
-2019 Git.Training.
