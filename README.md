@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
-In this there is tutorial for visual basic code.
+In this there is tutorial for visual basic code. But instead of it, you can use command line.
 
 ## Purpose
 
