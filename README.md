@@ -10,7 +10,7 @@ Adding some content
 ## Introduction
 
 This is an example to show the difftool. Adding rebase rule.
-
+Adding more content for Stash example 
 Trying to add some content to readme file. 
 ## Purpose
 
