@@ -11,7 +11,8 @@ Adding some content
 
 This is an example to show the difftool. Adding rebase rule.
 Adding more content for Stash example 
-Trying to add some content to readme file. 
+Trying to add some content to readme file.
+Adding some content 
 ## Purpose
 
 Adding some content to domo
