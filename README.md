@@ -2,6 +2,21 @@
 
 This repository is for showing how Git and GitHub work
 
+Aad a line for rebasing exampleFor test
+more change from myfeature branch
 ## Purpose
 
-Sample website with plenty of files for demos
+don't play
+##Deplyment
+
+hellooo baby
+
+
+testttting tany talet
+
+###Copyright
+
+Please contribute carefully
+###testing the branches
+
+### updates from dev 1
