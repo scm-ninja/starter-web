@@ -1,3 +1,0 @@
-Hello 
-This file is in stater-web project.
-This is on Master branch.
