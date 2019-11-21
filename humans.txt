@@ -3,13 +3,18 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Vishwal -- SDE -- Vishwal#
 
 # THANKS
 
-    <name>
+    To everyone
+	Give your acknowledgement.
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	java, javascript
+	
+# git	
+	
