@@ -1,7 +1,5 @@
-# Starter Web Repo
+# SAmple Repository
 
-This repository is for showing how Git and GitHub work
+This is sample readme file created on feature branch
 
-## Purpose
-
-Sample website with plenty of files for demos
+Adding purpose to the readme
