@@ -3,7 +3,7 @@
 
 # TEAM
 
-    Praveen -- <role> -- <twitter>
+    <name> -- <role> -- <twitter>
 
 # THANKS
 
