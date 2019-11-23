@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- chutiya -- <twitter>
+    <name> -- <role> -- <twitter>
 
 # THANKS
 
