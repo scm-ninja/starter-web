@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> -- Alexandra Cristia-- <twitter>
+    Alexandra Cristia
+    alexandra.cristia@metrosystems.net
+    DevOps Engineer
 
 # THANKS
 
