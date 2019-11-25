@@ -1,9 +1,9 @@
 # humanstxt.org/
-# The humans responsible & technology colophon
+# The humans loda & technology colophon
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+lund team bc
 
 # THANKS
 
