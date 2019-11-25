@@ -5,13 +5,14 @@
 
     Alexandra Cristia
     alexandra.cristia@metrosystems.net
-    DevOps Engineer
+    Ops Engineer
 
 # THANKS
 
-    <name>
+    Alexandra Cristia
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3, Angular
     jQuery, Modernizr, AJAX
+    Docker, Java Programming
