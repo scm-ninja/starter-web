@@ -8,3 +8,8 @@ A lot of lectures are already submited
 
 ## GIT & GITHub Training
 This is the famous and one of the best trainings
+
+## GIT Comparisons
+Adding GIT Comparisons Lecture
+
+## GIT HUB CONTENT
