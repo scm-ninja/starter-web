@@ -5,11 +5,11 @@
 
     Alexandra Cristia
     alexandra.cristia@metrosystems.net
-    DevOps Engineer
+    Ops Engineer
 
 # THANKS
 
-    <name>
+    Alexandra Cristia
 
 # TECHNOLOGY COLOPHON
 
