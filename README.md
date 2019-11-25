@@ -9,7 +9,11 @@ A lot of lectures are already submited
 ## GIT & GITHub Training
 This is the famous and one of the best trainings
 
+## Contribution
+Fork the repo and raise pull request for review
+
 ## GIT Comparisons
 Adding GIT Comparisons Lecture
 
 ## GIT HUB CONTENT
+Adding something
