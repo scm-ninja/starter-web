@@ -8,7 +8,7 @@ A lot of lectures are already submited
 
 ## GIT & GITHub Training
 This is the famous and one of the best trainings
-Adding GIT Rebase Lectures in Advance part
+Adding GIT Rebase Lectures in Advance part. We ahve done so much of work together
 
 ## Contribution
 Fork the repo and raise pull request for review
