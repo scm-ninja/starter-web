@@ -13,4 +13,4 @@ one that is staged lets see
 
 ## Deployment
 
-one that is modified in working dir
+one that is modified in working directory :modified in red
