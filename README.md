@@ -8,7 +8,7 @@ Sample website with plenty of files for demos
 
 ## Intro
 one that is staged lets see
-
+pls fork this repo then issue pull requests for review
 ## how to contribute
 
 ## Deployment
