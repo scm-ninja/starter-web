@@ -17,3 +17,5 @@ one that is modified in working directory :modified in red
 
 ## copyright 
 smothing
+
+##updates from dev1
