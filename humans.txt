@@ -3,13 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Pavel Vinogradov   PVinagradau@gomel.iba.by    @polltax61
 
 # THANKS
 
-    <name>
+    All my students
+	Please leave a review if you like this course!
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	Git
