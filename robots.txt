@@ -1,3 +1,5 @@
 # robotstxt.org/
 
 User-agent: *
+
+adding these further lines
