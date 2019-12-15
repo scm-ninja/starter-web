@@ -7,6 +7,6 @@ This is a simple web project
 This is a simple web project
 ##How to Contribute
 This is a simple web project
-
+Please frok this repository and then issue Pull Requsts for review
 ###Copyright
 Git.Training
