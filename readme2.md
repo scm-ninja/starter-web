@@ -2,6 +2,7 @@
 This is a simple web project
 Adding a line for rebasing example, 
 than more changes from meature branch too
+Updating emergency fix after stash
 ##Introduction
 ##Purpose
 This is a simple web project
