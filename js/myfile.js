@@ -1,3 +1,3 @@
-function thisIsMyFile(theVal) {
-  console.log(`value passed is ${theVal}`);
+function thisIsMyFile(theOtherVal) {
+  console.log(`value passed is ${theOtherVal}`);
 }
