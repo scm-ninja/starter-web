@@ -1,6 +1,7 @@
 #Starter Web Project
 This is a simple web project
-Adding a line for rebasing example
+Adding a line for rebasing example, 
+than more changes from meature branch too
 ##Introduction
 ##Purpose
 This is a simple web project
