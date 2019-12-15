@@ -7,3 +7,6 @@ This is a simple web project
 This is a simple web project
 ##How to Contribute
 This is a simple web project
+
+###Copyright
+Git.Training
