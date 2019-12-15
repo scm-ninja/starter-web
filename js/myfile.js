@@ -1,3 +1,3 @@
-function thisIsMyFile(theOtherVal) {
-  console.log(`value passed is ${theOtherVal}`);
+function thisIsMyFile(theLatestVal) {
+  console.log(`value passed is ${theLatestVal}`);
 }
