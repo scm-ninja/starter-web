@@ -12,3 +12,4 @@ This is a simple web project
 Please frok this repository and then issue Pull Requsts for review
 ###Copyright
 Git.Training
+All rights reserved
