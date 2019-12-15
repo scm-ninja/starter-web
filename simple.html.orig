@@ -1,14 +1,16 @@
 <!DOCTYPE html>
 <!-- 
 		Copyright 2014
+<<<<<<< HEAD
+		Adding some  conflicting chages
+=======
+		Adding changes before rebasing conflicts
+		Adding changes before rebasing conflicts
+>>>>>>> fb adding some truble to simple.html
 -->
 
 <head>
-<<<<<<< HEAD
-	<title>A Very Respectfull WebSite</title>
-=======
-	<title>A Greate Website</title>
->>>>>>> realwork
+	<title>An Example WebSite</title>
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
@@ -23,19 +25,14 @@
 	<!-- Content Goes Here -->
 		<p>
 <<<<<<< HEAD
-			I am not sure what will go here,
-			but Iam sure it wil be nice.
+			Adding some  conflicting chages
+=======
+			Adding changes before rebasing conflicts
+>>>>>>> fb adding some truble to simple.html
 		</p>
 	</main>
 	<footer class="container">
 		<p>&copy; Jason Taylor 2014</p>
-=======
-			Dummy text here
-		</p>
-	</main>
-	<footer class="container">
-		<p>&copy; Git training 2014</p>
->>>>>>> realwork
 	</footer>
 </body>
 </html>
