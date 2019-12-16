@@ -3,13 +3,14 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Andrei Kastsiuchenka taysan003@gmail.com
 
 # THANKS
 
-    <name>
-
+    Thanks to ALL my students!!!!
+	Please leave a riview if you like this course
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	GIT
