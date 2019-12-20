@@ -1,7 +1,5 @@
-# Starter Web Repo
+#Starter web Project
 
-This repository is for showing how Git and GitHub work
+##Author: Vimal Shetty
 
-## Purpose
-
-Sample website with plenty of files for demos
+##Age: 24
