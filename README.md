@@ -10,3 +10,7 @@ Git learning
 ## How to contribute
 
 Email me at xxx@xxx.com
+
+## Copyright
+
+xxxlanka
