@@ -3,11 +3,14 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Tamar Baboghlian tamarb@email.com
+    GENOROUSITY
 
 # THANKS
 
-    <name>
+    to all my Tamar students
+    Please add a review if you like this task
+    I'll answer to all of you
 
 # TECHNOLOGY COLOPHON
 
