@@ -4,10 +4,11 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+    Akash	akash@123.com	
 
 # THANKS
 
-    <name>
+    Everyone
 
 # TECHNOLOGY COLOPHON
 

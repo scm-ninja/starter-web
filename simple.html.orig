@@ -3,7 +3,11 @@
 	Copyright
 -->
 <head>
-	<title> An Example Website</title>
+<<<<<<< HEAD
+	<title> A very good website</title>
+=======
+	<title> An excellent website</title>
+>>>>>>> realwork
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
@@ -17,7 +21,11 @@
 	<main class="container">
 	<!-- Content Goes Here -->
 		<p>
-			Just some content
+<<<<<<< HEAD
+			I am not sure what's going on here.
+=======
+			Some interesting stuff here
+>>>>>>> realwork
 		</p>
 	</main>
 	<footer class="container">
