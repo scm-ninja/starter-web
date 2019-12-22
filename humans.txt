@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Glen Videmark gv@mai.com
 
 # THANKS
 
-    <name>
+    Thanks to all 
 
 # TECHNOLOGY COLOPHON
 
