@@ -1,15 +1,16 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
-# TEAM
-
-    <name> -- <role> -- <twitter>
+# TEAM 
+    Bhuppal Kumar - bhuppal@hotmail.com
+    Created a new branch - TestBranch
 
 # THANKS
-
-    <name>
+    Thanks to all my students.
+    Please review the changes.
 
 # TECHNOLOGY COLOPHON
-
+    ASP.NET .NET CORE
     HTML5, CSS3
     jQuery, Modernizr
+    REACT
