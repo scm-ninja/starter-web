@@ -21,3 +21,8 @@ Please write me an email and issue to me.
 
 ### Copyright
 2014 Git.training. All rights reserved.
+
+
+
+### Credits
+Updates from Dev 1
