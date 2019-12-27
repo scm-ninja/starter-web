@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+	Nimantha - Developer - none
     <name> -- <role> -- <twitter>
 
 # THANKS
@@ -13,3 +13,4 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+    GIT, PHP
