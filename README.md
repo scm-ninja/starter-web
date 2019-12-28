@@ -18,3 +18,5 @@ diff4
 diff4
 
 c1
+c2
+c3
