@@ -1,2 +1,3 @@
 mala.txt
 gama/
+al
