@@ -3,13 +3,14 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	THE TEAM OF PROFESSIONALS
 
 # THANKS
 
-    <name>
+     TOM HANKS
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
-    jQuery, Modernizr
+    jQuery, PYTHON
+    JAVA, C#
