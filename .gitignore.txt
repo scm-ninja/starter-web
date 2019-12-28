@@ -1,0 +1,2 @@
+mala.txt
+gama/
