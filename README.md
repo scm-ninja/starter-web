@@ -13,3 +13,5 @@ Welcome to the world of server-name
 #### Welcome to the world of server 
 
 Welcome to the world of server-files 
+
+## Adding branch stratagies for cardinality.ai
