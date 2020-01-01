@@ -2,6 +2,7 @@
 
 Welcome to the world of technologies 
 This is the newfile changes there must be no hidden conflicts 
+adding one more changes after rebase
 ### Introduction 
 
 Welcome to the world of server
