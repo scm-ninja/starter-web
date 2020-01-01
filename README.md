@@ -2,7 +2,8 @@
 
 This repository is for showing how Git and GitHub work
 
-Addign a line for rebasing Example.
+Addign a line for rebasing Example, then more changes from myfeature branch too.
+
 ## Purpose
 
 Sample website with plenty of files for demos
