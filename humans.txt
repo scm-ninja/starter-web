@@ -2,8 +2,9 @@
 # The humans responsible & technology colophon
 
 # TEAM
+	Hubert Graja hubertg@emial.com @hgtweet
 
-    <name> -- <role> -- <twitter>
+
 
 # THANKS
 
