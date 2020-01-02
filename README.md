@@ -13,6 +13,6 @@ Sample website with plenty of files for demos
 Here is list of other reasons to use ...
 
 ## Copyright	
-info abtou copyright 2020 ..
+info abtou copyright 2020 . All RIght reserved.
 
 ## Team Members ....
