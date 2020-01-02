@@ -15,4 +15,6 @@ Welcome to the world of server-name
 
 Welcome to the world of server-files 
 
+This is my another line from master branch
+
 ## Adding branch stratagies for cardinality.ai
