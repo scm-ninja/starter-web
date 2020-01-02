@@ -2,14 +2,16 @@
 # The humans responsible & technology colophon
 
 # TEAM
+	Hubert Graja hubertg@emial.com @hgtweet
 
-    <name> -- <role> -- <twitter>
+
 
 # THANKS
 
-    <name>
-
+    Thansk to all my Students
+    Pleas eleave review if you like this course.
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+    Girt
