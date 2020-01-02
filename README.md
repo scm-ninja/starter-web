@@ -16,5 +16,3 @@ Welcome to the world of server-name
 Welcome to the world of server-files 
 #### This is my conflicts accurred places 
 
-This is my another line from master branch
-### This is my second changes for conflicts
