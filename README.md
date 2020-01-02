@@ -1,5 +1,5 @@
 # This is first commmit on Markdown
-
+This is my first changes on git 
 Welcome to the world of technologies 
 This is the newfile changes there must be no hidden conflicts 
 adding one more changes after rebase
