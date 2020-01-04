@@ -8,3 +8,6 @@ Sample website with plenty of files for demos
 
 ## Version 
 1.0.0
+
+## Deplyment 
+Started Web Project can deploy any web server
