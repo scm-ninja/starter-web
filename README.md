@@ -24,3 +24,5 @@ Please fork this repository.
 ## Copyright
 
 2019 Åke Tråk, All Rights Reserved
+
+## Updates from Dev1
