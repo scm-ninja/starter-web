@@ -18,3 +18,6 @@ This is the first Web starter Project
 
 ##Contibutors
 Me
+
+##CopyRight Message
+Text
