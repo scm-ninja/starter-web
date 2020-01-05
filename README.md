@@ -11,3 +11,10 @@ Sample website with plenty of files for demos
 
 ## Deplyment 
 Started Web Project can deploy any web server
+
+
+## About Us
+This is the first Web starter Project
+
+##Contibutors
+Me
