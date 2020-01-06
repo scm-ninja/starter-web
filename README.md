@@ -20,4 +20,6 @@ Please fork this repository and then issue Pull requests for review.
 
 ### Copyright
 
+woof
+
 2014 Git.Training.
