@@ -19,3 +19,6 @@ Some Deployment Text
 ## How to Contribute
 
 How to Contribute
+
+### Copyright
+    Copyright Notice
