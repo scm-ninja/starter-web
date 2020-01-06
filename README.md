@@ -19,6 +19,7 @@ Some Deployment Text
 ## How to Contribute
 
 How to Contribute
+Please fork this repo and issue pull request for review
 
 ### Copyright
     Copyright Notice
