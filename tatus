@@ -1,0 +1,74 @@
+[33mcommit c8a869897162652f273c1cd41a586a06fe2f6da0[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mdev[m[33m)[m
+Author: Sricharan <mutyala.sricharan@gmail.com>
+Date:   Mon Jan 6 04:43:00 2020 -0700
+
+    Changing file
+
+[33mcommit b24312bdbf303fdb452717135874e5a56cf79c28[m[33m ([m[1;31morigin/dev[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Sricharan <mutyala.sricharan@gmail.com>
+Date:   Fri Dec 27 17:49:28 2019 -0700
+
+    I am commiting the files
+
+[33mcommit ddf367e1b2e4403f279f2a869f517e8eba9fb277[m
+Author: Sricharan <mutyala.sricharan@gmail.com>
+Date:   Fri Dec 27 17:37:02 2019 -0700
+
+    Adding files
+
+[33mcommit e67b7db14b722a8a75b7993a3fa8e45bf176942e[m
+Author: Sricharan <mutyala.sricharan@gmail.com>
+Date:   Fri Dec 27 17:35:10 2019 -0700
+
+    Deleting the files
+
+[33mcommit f90b29e833a7bb27dd7a07c82bf22965b0a2f911[m
+Author: Sricharan <mutyala.sricharan@gmail.com>
+Date:   Fri Dec 27 16:14:03 2019 -0700
+
+    Deletting the file
+
+[33mcommit 53859d33afd46a5e55b13921db254757cdf846c7[m
+Author: Sricharan <mutyala.sricharan@gmail.com>
+Date:   Fri Dec 27 16:05:26 2019 -0700
+
+    Commiting the changes
+
+[33mcommit e3354be0346db23fd74645357c15c3583f6bffd8[m
+Author: Sricharan <mutyala.sricharan@gmail.com>
+Date:   Wed Dec 25 22:23:12 2019 -0700
+
+    Commiting the files to dev branch
+
+[33mcommit fe55bc9d6b008d090f01bfc1a278ed467a9294d9[m
+Author: Sricharan <mutyala.sricharan@gmail.com>
+Date:   Wed Dec 25 22:17:18 2019 -0700
+
+    Adding the Sample1.txt to local Repo
+
+[33mcommit 4beb7f097b54ab7cf08daf17972c3ab14432ae24[m[33m ([m[1;31morigin/master[m[33m)[m
+Merge: 5c05047 e73f914
+Author: Jason Taylor <jason@jasongtaylor.com>
+Date:   Wed Sep 2 02:39:19 2015 -0400
+
+    Merge pull request #6 from jasongtaylor/feature-readme
+    
+    Adding README file
+
+[33mcommit e73f9147e78331b2ea746dc43de5a44953766a76[m
+Author: Jason Taylor <jason@git.training>
+Date:   Wed Sep 2 02:25:18 2015 -0400
+
+    Adding Purpose section to README
+
+[33mcommit 34f563b40c4c1519026d2e881c75e97728c45502[m
+Author: Jason Taylor <jason@git.training>
+Date:   Wed Sep 2 02:06:05 2015 -0400
+
+    Adding README file
+
+[33mcommit 5c05047e53ecd0913a6f10000014d38829aaecdc[m
+Author: Jason Taylor <jason@screencasts.pro>
+Date:   Thu Sep 11 22:14:19 2014 -0400
+
+    Copying files from initializr project zip file and then creating simple.html as basis for super simple pages
