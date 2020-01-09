@@ -24,4 +24,4 @@ How to Contribute
 Please fork this repo and issue pull request for review
 
 ### Copyright
-    Copyright Notice has been impproved
+    Copyright Notice has been improved
