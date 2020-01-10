@@ -21,3 +21,7 @@ Here's another modification
 ### Copyright
 
 OpalSnow
+
+# How to contribute
+
+Please fork
