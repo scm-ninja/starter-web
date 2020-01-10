@@ -17,3 +17,7 @@ And the last one
 # Another mod
 
 Here's another modification
+
+### Copyright
+
+OpalSnow
