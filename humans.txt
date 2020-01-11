@@ -3,11 +3,12 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    OpalSnow	OpalSnow
 
 # THANKS
 
-    <name>
+    Thanks to everyone
+	Please review and like
 
 # TECHNOLOGY COLOPHON
 
