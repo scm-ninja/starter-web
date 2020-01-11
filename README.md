@@ -27,3 +27,7 @@ OpalSnow
 # How to contribute
 
 Please fork
+
+
+
+All rights reserved.
