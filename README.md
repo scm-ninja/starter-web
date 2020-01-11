@@ -26,7 +26,7 @@ OpalSnow
 
 # How to contribute
 
-Please fork
+Please fork. Ok?
 
 
 
