@@ -9,6 +9,8 @@
 
 # THANKS
 
+	Thanks to all my friends
+
     <name>
 
 # TECHNOLOGY COLOPHON
