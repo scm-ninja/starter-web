@@ -2,6 +2,8 @@
 # The humans responsible & technology colophon
 
 # TEAM
+	Deepti chauhan
+	deepti@gmail.com
 
     <name> -- <role> -- <twitter>
 
