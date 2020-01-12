@@ -15,3 +15,4 @@ As stated above the main purpose is to provide simple examples for git trainingd
 This is a simple web project deployment can be on any server
 
 ## How to contribute
+Copy right 
