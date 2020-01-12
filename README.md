@@ -19,4 +19,4 @@ This is a simple web project deployment can be on any server
 please fork this directory and then issue pull request for review.
 
 
-Copy right 
+Copy right all reserved for copy right
