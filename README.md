@@ -8,7 +8,10 @@ Sample website with plenty of files for demos.This example is to show diff part 
 
 
 ## Purpose
+As stated above the main purpose is to provide simple examples for git trainingdemos
 
 ## Deployment
+
+This is a simple web project deployment can be on any server
 
 ## How to contribute
