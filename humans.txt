@@ -2,10 +2,15 @@
 # The humans responsible & technology colophon
 
 # TEAM
+	Deepti chauhan
+	deepti@gmail.com
 
     <name> -- <role> -- <twitter>
 
 # THANKS
+
+	Thanks to all my friends
+	Please leave a review if you like this file. hhkfjlsj
 
     <name>
 
