@@ -5,7 +5,7 @@ Adding more changes to my feature.umlldjfkasdj
 
 ## Introduction
 
-Sample website with plenty of files for demos.This example is to show diff part of the git repository
+Sample website with plenty of files for demos.This example is to show diff part of the git repository. Editing for comparing branches in github.
 
 
 ## Purpose
