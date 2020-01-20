@@ -8,4 +8,4 @@ Sample website with plenty of files for demos
 
 ## Started learning
 
-Github repo
+Github repo from local 
