@@ -7,3 +7,5 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 Demo purpose from local feature br.
+Hi,
+This file is updated for demo purpose.
