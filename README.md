@@ -27,7 +27,7 @@ Please fork this repository and then issue Pull Reaquests for review.
 
 ### Copyright
 
-2014 Git.Training.
+2014 Git.Training. All rights reserved.
 
 
 
