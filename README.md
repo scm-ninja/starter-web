@@ -6,5 +6,4 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos test list
 
-## Test Header
-test mmm
+## Deployment
