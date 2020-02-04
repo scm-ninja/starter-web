@@ -1,0 +1,398 @@
+  109  git push origin HEAD:refs/for/master
+  110  git clone ssh://<username>@gml-jbpm.gomel.iba.by:29418/ddubrova-git
+  111  git clone ssh://ddubrova@gml-jbpm.gomel.iba.by:29418/ddubrova-git
+  112  destination path 'ddubrova-git' already exists and is
+  113  git clone ssh://ddubrova@gml-jbpm.gomel.iba.by:29418/ddubrova-git
+  114  <git\usr\bin>scp.exe -p -P 29418 ddubrova@gml-jbpm.gomel.iba.by:hooks/commit-msg ddubrova-git/.git/hooks/commit-msg
+  115  <git\usr\bin>scp.exe -p -P 29418 ddubrova@gml-jbpm.gomel.iba.by:hooks/commit-msg ddubrova-git/.git/hooks/commit-msg
+  116  <git\usr\bin>scp.exe -p -P 29418 ddubrova@gml-jbpm.gomel.iba.by:hooks/commit-msg ddubrova-git/.git/hooks/commit-msg
+  117   <git\usr\bin>scp.exe -p -P 29418 ddubrova@gml-jbpm.gomel.iba.by:hooks/commit-msg ddubrova-git/.git/hooks/commit-msg
+  118   <git\usr\bin>scp.exe -p -P 29418 ddubrova@gml-jbpm.gomel.iba.by:hooks/commit-msg ddubrova-git/.git/hooks/commit-msg
+  119  cd ddubrova-git
+  120   <git\usr\bin>scp.exe -p -P 29418 ddubrova@gml-jbpm.gomel.iba.by:hooks/commit-msg ddubrova-git/.git/hooks/commit-msg
+  121  git status
+  122  ssh -p 29418 ddubrova@gml-jbpm.gomel.iba.by gerrit create-branch ddubrova-git Section3 master
+  123  git fetch
+  124  git checkout Section3
+  125  exit
+  126  pwd
+  127  cd projects
+  128  git init fresh-project
+  129  ls
+  130  git status
+  131  cd fresh-project
+  132  ls
+  133  ls
+  134  git status
+  135  mate hipster.txt
+  136  git mate --help
+  137  notepad++ hipster.txt
+  138  git status
+  139  git add hipster.txt
+  140  git status
+  141  git commit
+  142  git status
+  143  pwd
+  144  rm -rf fresh-project/
+  145  ls
+  146  pwd
+  147  cd projects
+  148  exit
+  149  cd projects
+  150  unzip ~/Downloads/initializr-verekia-4.0.zip
+  151  ls
+  152  mv initializr web-project
+  153  cd web-project
+  154  pwd
+  155  ls
+  156  git init
+  157  ls -al
+  158  git status
+  159  git add .
+  160  git status
+  161  git commit -m "git - Topic 3 - task1 - Adding iniliziar's files"
+  162  git status
+  163  ls -al
+  164  rm -rr .git
+  165  ls -al
+  166  rm -rr .git
+  167  ls
+  168  pwd
+  169  rm -rf web-project
+  170  pwd
+  171  ls
+  172  rm -rr web-project
+  173  git rm -rf web-project
+  174  rm -r web-project
+  175  git rm -r web-project
+  176  rm -r fresh-project
+  177  git rm -r fresh-project
+  178  cd ..
+  179  rm -rf web-project
+  180  rm -rf fresh-project
+  181  ls
+  182  exit
+  183  pwd
+  184  cd projects/
+  185  git clone https://github.com/dimaxdddd/starter-web.git
+  186  ls
+  187  cd starter-web
+  188  ls
+  189  ls -al
+  190  cd .git
+  191  ls
+  192  cd ..
+  193  git status
+  194  exit
+  195  cd projects/
+  196  ls
+  197  cd starter-web
+  198  ls
+  199  git status
+  200  notepad++ hipster.txt
+  201  ls
+  202  git status
+  203  git add hipster.txt
+  204  git status
+  205  git commit
+  206  git status
+  207  git pull origin master
+  208  git push origin master
+  209  exit
+  210  notepad++ ~/.gitconfig
+  211  pwd
+  212  cd projects
+  213  cd starter-web
+  214  ls
+  215  git status
+  216  notepad++ hipster.txt
+  217  git status
+  218  git commit -am "git - Topic 3 - task1 - Updated hipster.txt file"
+  219  git ls-files
+  220  notepad++ newfile.txt
+  221  ls
+  222  git status
+  223  git add newfile.txt
+  224  git status
+  225  git ls-files
+  226  exit
+  227  pwd
+  228  cd projects/starter-web
+  229  ls
+  230  notepad++ hipster.txt
+  231  git status
+  232  git commit -m "git - Topic 3 - task1 - Adding new file"
+  233  git staus
+  234   git add starter-web
+  235  git add hipster.txt
+  236  git status
+  237  notepad++ hipster.txt
+  238  git status
+  239  git add hipster.txt
+  240  git status
+  241  git commit -m "git - Topic 3 - task1 - More ipsum for hipsters.txt"
+  242  git status
+  243  pwd
+  244  exit
+  245  pwd
+  246  cd projects/starter-web
+  247  git status
+  248  mkdir -p level1/level2/level3/level5
+  249  ls
+  250  cd level1
+  251  notepad++ level1-file.txt
+  252  ls
+  253  cd level2
+  254  notepad++ level2-file.txt
+  255  ls
+  256  cd level3
+  257  notepad++ level3-file.txt
+  258  ls
+  259  rm -rr level5
+  260  ls
+  261  cd ../../..
+  262  git status
+  263  ls
+  264  git add .
+  265  git status
+  266  git commit
+  267  git status
+  268  exit
+  269  pwd
+  270  cd projects/starter-web
+  271  ls
+  272  git status
+  273  cd level1
+  274  ls
+  275  notepad++ level1-file.txt
+  276  git status
+  277  git add level1-file.txt
+  278  git status
+  279  notepad++ level1-file.txt
+  280  git status
+  281  git reset HEAD level1-file.txt
+  282  git status
+  283  notepad++ level1-file.txt
+  284  clear
+  285  git status
+  286  git checkout --level1-file.txt
+  287  git status
+  288  git checkout -- level1-file.txt
+  289  git status
+  290  notepad++ level1-file.txt
+  291  exit
+  292  cd projects/starter-web
+  293  ls
+  294  cd level1/level2/level3
+  295  pwd
+  296  ls
+  297  git status
+  298  git mv level-file.txt level3.txt
+  299  ls
+  300  git mv level3-file.txt level3.txt
+  301  ls
+  302  git status
+  303  git commit -m "git - Topic 3 - task1 - Rename level3-file.txt to level3.txt"
+  304  ..
+  305  cd ..
+  306  clear
+  307  pwd
+  308  ls
+  309  mv level2-file.txt level2.txt
+  310  lsl
+  311  ls
+  312  git status
+  313  git add -A
+  314  git status
+  315  git commit
+  316  ls
+  317  git mv level2.txt 2.txt
+  318  git status
+  319  git mv 2.txt level2.txt
+  320  ls
+  321  git status
+  322  clear
+  323  ls
+  324  git mv level2.txt level3
+  325  ls
+  326  cd level3
+  327  ls
+  328  git status
+  329  cd ..
+  330  git status
+  331  git commit
+  332  ld
+  333  ls
+  334  cd level3
+  335  ls
+  336  mv level2.txt ..
+  337  ls
+  338  cd ..
+  339  ls
+  340  git status
+  341  git add -A
+  342  git status
+  343  git commit
+  344  clear
+  345  cd ..
+  346  pwd
+  347  ls
+  348  git status
+  349  git add level1.txt
+  350  git add -u
+  351  git status
+  352  git commit
+  353  exit
+  354  cd projects/starter-web
+  355  ls
+  356  git status
+  357  notepad++ doomed.txt
+  358  ls
+  359  git status
+  360  git rm doomed.txt
+  361  rm doomed.txt
+  362  ls
+  363  git status
+  364  clear
+  365  ls-files
+  366  git ls-files
+  367  ls
+  368  git rm newfile.txt
+  369  ls
+  370  git status
+  371  git commit -m "level1/level2/level3/level3.txt
+  372  git commit -m "git - Topic 3 - task1 - Deleting newfile.txt"
+  373  "
+  374  git commit -m "git - Topic 3 - task1 - Deleting newfile.txt"
+  375  git status
+  376  clear
+  377  ls
+  378  git ls-files
+  379  git rm hipster.txt
+  380  ls
+  381  git status
+  382  git reset HEAD hisper.txt
+  383  ls
+  384  git status
+  385  git checkout -- hipster.txt
+  386  git reset HEAD hipster.txt
+  387  git chechout -- hipster.txt
+  388  git checkout -- hipster.txt
+  389  git status
+  390  ls
+  391  rm hipster.txt
+  392  ls
+  393  git status
+  394  git add -A
+  395  git status
+  396  git commit
+  397  git status
+  398  clear
+  399  ls
+  400  rm -rf level1
+  401  ls
+  402  git status
+  403  git add -A
+  404  git status
+  405  git commit
+  406  git commit -m "git - Topic 3 - task1 - Deleted level1 folder"
+  407  git status
+  408  exit
+  409  pwd
+  410  git help log
+  411  cd projects/starter-web
+  412  git status
+  413  git log
+  414  git log -- abbver-commit
+  415  git log
+  416  git log -- abbver-commit
+  417  git log --abbver-commit
+  418  git log --oneline --graph --decorate
+  419  git log 9bf0837...12aa67c
+  420  git log --since="3 days ago"
+  421  clear
+  422  ls
+  423  git log -- hipster.txt
+  424  clear
+  425  git log --folow -- level1/level2/level2.txt
+  426  clear
+  427  git log -- hipster.txt
+  428  git show commit e20f648a4bf0a018a93decfbdb1ba157541c21e1
+  429  git show
+  430  exit
+  431  pwd
+  432  cd projects/starter-web
+  433  ls
+  434  git status
+  435  git log --all --graph --decorate --oneline
+  436  git hist
+  437  git config --global alias.hist "git log --all --graph --decorate --oneline"
+  438  git hist
+  439  git hist
+  440  hist
+  441  git config --global alias.hist "log --all --graph --decorate --oneline"
+  442  git hist
+  443  clear
+  444  notepad++ /.gitconfig
+  445  notepad++ ~/.gitconfig
+  446  git hist
+  447  notepad++ ~/.gitconfig
+  448  git hist
+  449  exit
+  450  pwd
+  451  projects/starter/web
+  452  ls
+  453  exot
+  454  exit
+  455  pwd
+  456  cd projects/starter-web
+  457  ls
+  458  git status
+  459  ls -al
+  460  notepad++ .gitignore
+  461  ls
+  462  ls -al
+  463  git status
+  464  git add .gitignore
+  465  git status
+  466  git commit
+  467  git status
+  468  ls
+  469  notepad++ access.log
+  470  ls
+  471  git status
+  472  notepad++ .gitignore
+  473  clear
+  474  git status
+  475  mkdir log
+  476  mv access.log log
+  477  ls
+  478  cd log
+  479  ll
+  480  cp access.log access.2020-02-04
+  481  ll
+  482  cd ..
+  483  git status
+  484  notepad++ .gitignore
+  485  git status
+  486  git commit -am "git - Topic 3 - task1 - Excluding log file directory"
+  487  git status
+  488  exit
+  489  pwd
+  490  cd projects/starter-web
+  491  ls
+  492  git status
+  493  git pull origin master
+  494  git push origin master
+  495  history
+  496  exi
+  497  exit
+  498  git clone ssh://ddubrova@gml-jbpm.gomel.iba.by:29418/ddubrova-git
+  499  <git\usr\bin>scp.exe -p -P 29418 ddubrova@gml-jbpm.gomel.iba.by:hooks/commit-msg ddubrova-git/.git/hooks/commit-msg
+  500  get fetch
+  501  git fetch
+  502  git chechout ddubrova-git
+  503  git checkout ddubrova-git
+  504  cd ddubrova-git
+  505  git status
+  506  history
