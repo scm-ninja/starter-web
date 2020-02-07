@@ -10,22 +10,6 @@ Sample website with plenty of files for demos
 
 Sample website with plenty of files for demos
 
-## Purpose2
-
-Sample website with plenty of files for demos
-
-## Purpose4
-
-Sample website with plenty of files for demos
-
-## Purpose5
-
-Sample website with plenty of files for demos
-
-## Purpose5
-
-Sample website with plenty of files for demos
-
 ## Purpose6
 
 Sample website with plenty of files for demos
