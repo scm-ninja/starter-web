@@ -1,9 +1,19 @@
 # Starter Web Repo
 
-##Introduction
+This is a simple website 
 
-## Purpose
+# Introduction
 
-##Deployment
+This is an Introduction
 
-##How To Contribute
+# Purpose
+
+This is Purpose
+
+# Deployment
+
+This is Deployment
+
+# How To Contribute
+
+This is contribution
