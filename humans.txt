@@ -5,7 +5,7 @@ wefinsodfina
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   Luigi Sona luigisona@gmail.com
 
 # THANKS
 
