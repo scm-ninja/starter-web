@@ -18,6 +18,10 @@ Sample website with plenty of files for demos
 
 Sample website with plenty of files for demos
 
+## Purpose7
+
+Samplaaaaaaae website with plenty of files for demos
+
 
 ### copyright
 GIT TRAINING
