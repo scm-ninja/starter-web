@@ -8,7 +8,7 @@ Sample website with plenty of files for demos
 
 ## Purpose1
 
-Sample website with plenty of files for demos
+All righet Sample website with plenty of files for demos
 
 ## Purpose6aaaaa
 
