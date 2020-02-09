@@ -8,4 +8,4 @@ Sample website with plenty of files for demos
 
 # Fork changes come below
 
-TODO
+Added some content to the changes for pull request
