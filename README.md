@@ -1,7 +1,8 @@
 # Starter Web Repo
 
 This is a simple website. 
-Adding a line for rebasing sample
+Adding a line for rebasing sample, more changes
+from myfeature branch too
 
 # Introduction
 
