@@ -26,3 +26,4 @@ Please fork this repository
 ###Copyright
 
 2020 Git.Training
+All Rights Reserved
