@@ -25,3 +25,5 @@ Please fork this repository
 
 2020 Git.Training
 All Rights Reserved
+
+##Updates from dev 1
