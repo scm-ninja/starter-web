@@ -1,7 +1,29 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work
+Updating for emergency fix
 
-## Purpose
+# Introduction
 
-Sample website with plenty of files for demos
+This is an Introduction content.
+QWERQWERQWERQWERQWERQWERQWERQWER.
+
+# Purpose
+
+This is Purpose content.
+ASDFASDFASDFASDFASDFASDFASF.
+
+# Deployment
+
+This is Deployment content.
+
+# How To Contribute
+
+This is contribution content.
+Please fork this repository
+
+###Copyright
+
+2020 Git.Training
+All Rights Reserved
+
+##Updates from dev 1
