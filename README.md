@@ -19,3 +19,7 @@ This is Deployment content.
 # How To Contribute
 
 This is contribution content.
+
+###Copyright
+
+2020 Git.Training
