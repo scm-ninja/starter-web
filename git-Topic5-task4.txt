@@ -1,0 +1,95 @@
+    1  cd projects/starter-web
+    2  git branch -a
+    3  git branch mynewbranch
+    4  git branch -a
+    5  git checkout mynewbranch
+    6  git branch -a
+    7  git log --oneline --decorate
+    8  git checkout master
+    9  git branch -m mynewbranch newbranch
+   10  git branch -a
+   11  git branch -d newbranch
+   12  git branch -a
+   13  git branch
+   14  git checkout -b title-change
+   15  git status
+   16  notepad++ simple.html
+   17  git status
+   18  git commit -am "git - Topic 5 - task2 - Changed simple.html"
+   19  git log --oneline
+   20  git checkout master
+   21  git diff master title-change
+   22  git difftol master title-change
+   23  git difftool master title-change
+   24  git merge title-change
+   25  git log --oneline --graph --decorate
+   26  git branch
+   27  git branch -d title-change
+   28  git branch
+   29  git log --oneline --graph --decorate
+   30  git checkout -b add-copyright
+   31  git branch
+   33  notepad++ simple.html
+   34  git status
+   35  git commit -am "git - Topic 5 - task4 - Updated simple.html"
+   36  notepad++ README.md
+   37  git commit -am "git - Topic 5 - task4 - Updated README.md"
+   38  git log --oneline --graph --decorate
+   39  git checkout master
+   41  git merge add-copyright --no-ff
+   42  git log --oneline --graph --decorate
+   43  git branch -d add-copyright
+   44  git log --oneline --graph --decorate
+   45  git checkout -b simple-changes
+   46  ll
+   47  notepad++ humans.txt
+   48  notepad++ humans.txt
+   49  git commit -am "git - Topic 4 - task4 - Updated humans.txt"
+   50  git checkout master
+   51  notepad++ README.me
+   52  notepad++ README.md
+   53  git commit -am "git - Topic 5 - task4 - Updated README.md"
+   54  git log --oneline --graph --decorate
+   55  git branch
+   57  git log --oneline --graph --decorate --all
+   58  git commit -am "git - Topic 5 - task4 - Updated README.md"
+   59  git log --oneline --graph --decorate --all
+   60  git branch
+   61  git commit -am "git - Topic 5 - task4 - Updated humans.txt"
+   62  git branch -d simple-changes
+   63  git log --oneline --graph --decorate --all
+   64  notepad++ humans.txt
+   65  notepad++ README.MD
+   66  git status
+   67  git checkout -b realwork
+   68  notepad++ simple.html
+   69  git status
+   70  git commit -am "git - Topic 5 - task4 - Updated simple.html"
+   71  git status
+   72  git checkout master
+   73  notepad++ simple.html
+   74  notepad++ simple.html
+   75  git add simple.html
+   76  git commit simple.html
+   77  git log --oneline --graph --decorate --all
+   78  git branch
+   79  git diff master realwork
+   80  git difftool master realwork
+   81  git merge realwork
+   82  ls
+   83  notepad++ simple.html
+   84  git mergetool
+   85  git mergetool
+   86  git commit -m "git - Topic 5 - task4 - Resolved merge conflicts"
+   87  git status
+   88  notepad++ simple.html.orig
+   91  notepad++ .gitignore
+   92  git status
+   93  git add .gitignore
+   94  git commit -m "git - Topic 5 - task4 - Updated .gitignore"
+   95  git branch -d realwork
+   96  git log --oneline --graph --decorate --all
+   97  git branch
+   98  git status
+   99  git pull origin master
+  100  history >> git-Topic5-task5.txt 
