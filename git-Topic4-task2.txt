@@ -2,27 +2,27 @@
     2  notepad++ README.md
     3  git status
     4  git add README.md
-    5  git commit -m "git - Topic 3 - task1 - Added README.md"
+    5  git commit -m "git - Topic 4 - task2 - Added README.md"
     6  git push origin master
     7  git add README.md
     8  notepad++ README.md
-    9  git commit -m "git - Topic 3 - task1 - Added new section"
+    9  git commit -m "git - Topic 4 - task2 - Added new section"
    10  git push origin master
    11  git status
    12  git add README.md
-   13  git commit -m "git - Topic 3 - task1 - Added new section"
+   13  git commit -m "git - Topic 4 - task2 - Added new section"
    14  git push origin master
    15  git push origin master
    16  notepad++ README.md
    17  git status
-   18  git commit -m "git - Topic 3 - task1 - Added description
+   18  git commit -m "git - Topic 4 - task2 - Added description
 "
    19  git add README.md
-   20  git commit -m "git - Topic 3 - task1 - Added description
+   20  git commit -m "git - Topic 4 - task2 - Added description
 "
    21  notepad++ README.md
    22  git status
-   23  git commit -am "git - Topic 3 - task1 - Added description"
+   23  git commit -am "git - Topic 4 - task2 - Added description"
    24  notepad++ README.md
    25  git add README.md
    26  notepad++ README.md
@@ -51,7 +51,7 @@
    63  git status
    64  git add .
    66  git rebase -i
-   67  git commit -m "git - Topic 4 - task1 - Updating repo"
+   67  git commit -m "git - Topic 4 - task2 - Updating repo"
    68  git pull
    69  git push origin master
    70  notepad++ git-Topic4-task1.txt
