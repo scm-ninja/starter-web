@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Dima Dubrova dimaformyself@gmail.com
 
 # THANKS
 
