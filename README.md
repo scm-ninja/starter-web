@@ -6,3 +6,4 @@ Some more content.
 ## Purpose
 
 Sample website with plenty of files for demos
+Additional text.
