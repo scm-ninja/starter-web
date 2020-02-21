@@ -13,3 +13,7 @@ project to learn GIT
 
 ##How To Contribute
 
+Adding new files
+
+
+
