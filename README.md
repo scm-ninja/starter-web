@@ -22,3 +22,8 @@ End of File
 Please configure Apache with the recomendations file
 
 This text is for staging
+
+Text for add to the stating number 2
+
+Text for no add no commit, just working area
+
