@@ -15,5 +15,10 @@ project to learn GIT
 
 Adding new files
 
+End of File
 
+##How To Contribute
 
+Please configure Apache with the recomendations file
+
+This text is for staging
