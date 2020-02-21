@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+	Oscar V	CTO ojvelez
 
 # THANKS
 
