@@ -8,6 +8,8 @@ Adding a line in local master branch for rebasing example
 
 Then more changes from myfeature branch
 
+Emergency fix after stash
+
 
 ## Purpose
 
