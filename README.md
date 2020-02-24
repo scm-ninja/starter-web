@@ -34,3 +34,5 @@ Text for no add no commit, just working area
 
 Adding text for review
 
+All rights reserved
+
