@@ -6,6 +6,9 @@ Repository forked from ninja-scm
 
 Adding a line in local master branch for rebasing example
 
+Then more changes from myfeature branch
+
+
 ## Purpose
 
 Sample website with plenty of files for demos
