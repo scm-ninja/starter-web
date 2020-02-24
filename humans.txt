@@ -6,6 +6,7 @@
     <name> -- <role> -- <twitter>
 	Oscar V	CTO ojvelez
 	Servant	PM Globant
+	Another dummy
 
 # THANKS
 
