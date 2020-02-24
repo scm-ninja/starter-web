@@ -4,6 +4,8 @@ This repository is for showing how Git and GitHub work
 
 Repository forked from ninja-scm
 
+Adding a line in local master branch for rebasing example
+
 ## Purpose
 
 Sample website with plenty of files for demos
