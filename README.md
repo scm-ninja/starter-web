@@ -17,3 +17,7 @@ Sample website with plenty of files for demos
 ## How to contribute
 
 55555
+
+### Copyright
+
+66666
