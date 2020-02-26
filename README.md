@@ -11,3 +11,4 @@ this a web page
 ##deployment
 this is a simple web project,deployment can be any web server or even local file system.
 Sample website with plenty of files for demos
+##copyright
