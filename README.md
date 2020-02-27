@@ -13,3 +13,6 @@ this a web page
 this is a simple web project,deployment can be any web server or even local file system.
 Sample website with plenty of files for demos
 ##copyright
+
+
+2014 git.traning.all rights reserved.
