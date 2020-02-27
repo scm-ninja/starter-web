@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work.
-Adding a line for rebasing example,then more changes made to file.
+Updating for emergency fix after stashing.
 
 this is example is to show different parts of the git repository and various commands using  A WEB PROJECT
 
