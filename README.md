@@ -18,5 +18,5 @@ Deployment can be on any web server or even local file system.
 
 ### Copyright
 
-2020 git training.
+2020 git training.all rights reserved.
 
