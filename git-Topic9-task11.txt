@@ -1,0 +1,94 @@
+    2  git reset HEAD^1
+    3  git log --oneline -decorate --graph --all
+    4  git log --oneline --decorate --graph --all
+    5  git reset HEAD^
+    6  git log --oneline --decorate --graph --all
+    7  git reset HEAD^^
+    8  git reset HEAD^2
+    9  git reset HEAD^1
+   10  git log --oneline --decorate --graph --all
+   11  git reflog
+   12  git reset 039feb9
+   13  git log --oneline --decorate --graph --all
+   14  git reset HEAD@{2}
+   15  git log --oneline --decorate --graph --all
+   16  git reset 039feb9
+   17  git log --oneline --decorate --graph --all
+   18  git reset HEAD^2
+   19  git reset HEAD^^
+   20  git log --oneline --decorate --graph --all
+   21  git reset 039feb9
+   22  git log --oneline --decorate --graph --all
+   23  git reset HEAD@{3}
+   24  git log --oneline --decorate --graph --all
+   25  git reflog
+   26  git reset 039feb9
+   27  git log --oneline --decorate --graph --all
+   29  git branch -a
+   30  git status
+   31  git fetch
+   32  git branch -a
+   33  git pull
+   34  git pull origin master
+   35  git fetch origin test-branch
+   36  git branch test origin/test-branch
+   37  git checkout test
+   38  git pull
+   39  git diff master test
+   40  git checkout master
+   41  git branch -a
+   42  git branch -d test
+   43  git branch -a
+   44  git status
+   45  notepad++ README.md
+   46  git status
+   47  git ls-files
+   48  git stash
+   49  git checkout -b test
+   50  git stash pop
+   51  git stash list
+   52  git checkout master
+   53  notepad++ index.html
+   54  git status
+   55  git stash
+   56  git status
+   57  notepad++ simple.httml
+   58  notepad++ simple.html
+   59  git status
+   60  git stash
+   61  git stash list
+   62  git stash apply stash@{1}
+   63  git stash list
+   64  git stash clear
+   65  git stash list
+   66  git status
+   67  git help stash
+   68  git commit -am "git - Topic 9 - task11 - update README.md and index.html"
+   69  git checkout -b develop
+   70  git status
+   71  ls
+   72  cd css
+   73  ls
+   74  notepad++ main.css
+   75  git commit -am "git - Topic 9 - task11 - cherry pick commit"
+   76  cd ..
+   77  ls
+   78  cd js
+   79  ls
+   80  notepad++ main.js
+   81  git commit -am "git - Topic 9 - task11 - non-cherry picked commit"
+   82  git log --oneline
+   83  git checkout master
+   84  cd ..
+   85  ls
+   86  notepad++ simple.html
+   87  git status
+   88  git log --oneline --all --graph
+   89  cd css
+   90  notepad++ main.css
+   91  git commit -am "git - Topic 9 - task11 - Updates away from develop"
+   92  git log --oneline --all --graph
+   93  git cherry-pick ddd3263
+   97  git status
+  101  notepad++ main.css
+  105  history >> git-Topic9-task11.txt
