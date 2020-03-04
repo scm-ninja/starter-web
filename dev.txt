@@ -1,5 +1,0 @@
-Deva text 1
-Deva text 2
-Deva text 3
-Deve text 4
-Dev text 5
