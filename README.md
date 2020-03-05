@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work. Updating for emergency fix after stashing.
 
-Try some stuff using the test-branch feature branch.
+Try some stuff using the test-branch feature branch. Editing again as well.
 
 ## Purpose
 
