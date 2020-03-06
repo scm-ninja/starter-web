@@ -12,3 +12,5 @@ Git..Training section etc
 test tes tes ttes te test
 
 hello Deva Testing
+
+update an emergency after stash.
