@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jair -- jair.mg.27@gmail.com -- iOS developer
 
 # THANKS
 
