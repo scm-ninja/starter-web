@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+	update humans
     <name> Deva -- <role> test -- <twitter> test
 
 # THANKS
