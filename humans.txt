@@ -2,14 +2,15 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
-    <name> -- <role> -- <twitter>
+	update humans
+    <name> Deva -- <role> test -- <twitter> test
 
 # THANKS
 
-    <name>
+    ALl my students.
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	helllo
