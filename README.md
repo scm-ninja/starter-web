@@ -5,7 +5,9 @@ Here is description of web project
 to show differencesS
 
 ## Purpose
+describe main purpose
 
 ## Deployment
+deployment can be on web server
 
 ## How To Contribute
