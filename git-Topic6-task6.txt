@@ -1,0 +1,65 @@
+    1  cd projects/starter-web
+    2  git checkout -b myfeature
+    3  notepad++ humans.txt
+    4  git commit -am "git - Topic 6 - task6 - Add one line"
+    5  git checkout master
+    6  notepad++ readme.md
+    7  notepad++ readme.md
+    8  git commit -am "git - Topic 6 - task6 - Update some line"
+    9  git log --oneline --decorate --all --graph
+   10  git checkout myfeature
+   11  git rebase master
+   12  git log --oneline --decorate --all --graph
+   13  notepad++ readme.md
+   14  git commit -am "git - Topic 6 - task6 - Adding some changes after rebase"
+   15  git log --oneline --decorate --all --graph
+   16  git checkout master
+   17  notepad++ readme.md
+   18  git diff master myfeature
+   19  git merge myfeature
+   20  git log --oneline --decorate --all --graph
+   21  git branch -d myfeature
+   22  notepad++ simple.html
+   23  git commit -am "git - Topic 6 - task6 - Adding some changes before rebase conflicts"
+   24  git checkout 0b bigtrouble
+   25  git checkout -b bigtrouble
+   26  notepad++ simple.html
+   27  git commit -am "git - Topic 6 - task6 - Add some lines to simple.html"
+   28  git checkout master
+   29  notepad++ simple.html
+   31  git commit -am "git - Topic 6 - task6 - mb conflicting changes brewing"
+   33  git status
+   34  git log --oneline --decorate --all --graph
+   35  git checkout bigtrouble
+   36  git difftool master bigtrouble
+   37  git rebase master
+   38  git rebase --abort
+   39  git status
+   40  git log --oneline --decorate --all --graph
+   41  git rebase master
+   42  git mergetool
+   43  git add simple.html
+   44  git status
+   45  git rebase --continue
+   46  git log --oneline --decorate --all --graph
+   47  notepad++ simple.html
+   48  git commit -am "git - Topic 6 - task6 - Add some changes after rebase conflicts"
+   49  git log --oneline --decorate --all --graph
+   50  git checkout master
+   51  git merge bigtrouble
+   52  git log --oneline --decorate --all --graph
+   53  git pull origin master
+   54  git push origin master
+   55  git status
+   56  notepad++ simple.html
+   57  git commit -am "git - Topic 6 - task6 - local: updating simple.html"
+   58  git status
+   59  git status
+   61  git fetch origin master
+   62  git pull --rebase origin master
+   63  git status
+   64  git log --oneline --decorate --all --graph
+   65  git branch -d bigtrouble
+   66  git branch
+   67  git pull origin master
+   68  history >> git-Topic6-task6.txt  

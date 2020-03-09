@@ -3,13 +3,14 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Dima Dubrova dimaformyself@gmail.com
 
 # THANKS
 
-    <name>
+    All my students! Thanks to all!
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	Git

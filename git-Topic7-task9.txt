@@ -1,0 +1,83 @@
+    3  notepad++ simple.html
+    4  git status
+    5  git stash
+    6  git status
+    7  notepad++ simple.html
+    8  notepad++ README.md
+    9  git status
+   10  git commit -am "git - Topic 7 - task9 - Update copyrights"
+   12  git status
+   13  notepad++ simple.html
+   14  notepad++ simple.html
+   15  git commit -am "git - Topic 7 - task9 - Update simple.html"
+   16  git status
+   17  git stash list
+   18  git stash drop
+   19  git stash list
+   20  git ls-files
+   21  notepad humans.txt
+   22  notepad++ ANewFile.txt
+   23  git status
+   24  git stash
+   25  git status
+   26  git stash apply
+   27  git stash drop
+   28  git stash list
+   29  git stash -u
+   30  git status
+   31  git stash list
+   32  notepad++ README.me
+   33  notepad++ README.md
+   34  git commit -a
+   35  git status
+   36  git stash pop
+   37  git status
+   38  rm ANewFile.txt
+   39  git status
+   40  git commit -am "Updates to humans file after stash pop"
+   41  git status
+   42  notepad++ simple.html
+   43  git stash list
+   44  git stash
+   45  git stash save "simple changes"
+   46  git stash drop
+   47  git status
+   48  notepad++ simple.html
+   49  git stash save "simple changes"
+   50  notepad++ index.html
+   51  git stash save "index changes"
+   52  notepad++ README.md
+   54  git stash save "Readme changes"
+   55  git stash list
+   56  git stash show stash@{1}
+   57  git status
+   58  git stash list
+   59  git stash apply stash@{1}
+   60  git stash list
+   61  git stash drop stash@{1}
+   62  git stash list
+   63  git stash clear
+   64  git stash list
+   65  git status
+   66  git stash list
+   67  notepad++ simple.html
+   68  notepad++ humans.txt
+   69  git status
+   70  git add index.html
+   71  git status
+   72  notepad++ new.md
+   73  git status
+   74  git stash -u
+   75  git status
+   76  git stash branch newchanges
+   77  git stash list
+   78  git status
+   79  rm new.md
+   80  git add .
+   81  git status
+   82  git commit
+   83  git checkout master
+   84  git merge newchanges
+   85  git branch -d newchanges
+   86  git branch
+   87  history >> git-Topic7-task9.txt

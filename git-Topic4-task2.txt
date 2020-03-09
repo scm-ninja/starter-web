@@ -1,0 +1,58 @@
+    1  cd projects/starter-web
+    2  notepad++ README.md
+    3  git status
+    4  git add README.md
+    5  git commit -m "git - Topic 4 - task2 - Added README.md"
+    6  git push origin master
+    7  git add README.md
+    8  notepad++ README.md
+    9  git commit -m "git - Topic 4 - task2 - Added new section"
+   10  git push origin master
+   11  git status
+   12  git add README.md
+   13  git commit -m "git - Topic 4 - task2 - Added new section"
+   14  git push origin master
+   15  git push origin master
+   16  notepad++ README.md
+   17  git status
+   18  git commit -m "git - Topic 4 - task2 - Added description
+"
+   19  git add README.md
+   20  git commit -m "git - Topic 4 - task2 - Added description
+"
+   21  notepad++ README.md
+   22  git status
+   23  git commit -am "git - Topic 4 - task2 - Added description"
+   24  notepad++ README.md
+   25  git add README.md
+   26  notepad++ README.md
+   27  git status
+   28  git diff
+   41  git difftool
+   42  git diff HEAD
+   43  git difftool HEAD
+   44  git diff --staged HEAD
+   45  git difftool --staged HEAD
+   46  ls
+   47  notepad++ simple.html
+   48  git status
+   49  git diff
+   50  git diff -- README.md
+   51  git difftool -- README.md
+   52  git log --oneline
+   53  git diff 5cf6981 HEAD
+   54  git diff HEAD HEAD^
+   55  git difftool HEAD HEAD^
+   57  git log --oneline
+   58  git diff e3e91ac 12aa67c
+   59  git difftool e3e91ac 12aa67c
+   61  git diff master origin/master
+   62  git difftool master origin/master
+   63  git status
+   64  git add .
+   66  git rebase -i
+   67  git commit -m "git - Topic 4 - task2 - Updating repo"
+   68  git pull
+   69  git push origin master
+   70  notepad++ git-Topic4-task1.txt
+   71  history
