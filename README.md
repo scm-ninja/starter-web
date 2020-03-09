@@ -6,7 +6,7 @@ this is sample to show the different
 ## Purpose
 adding the purpose
 ## How to contribute
-
+please fork this file
 ## Deloyment
 adding deployement
 
