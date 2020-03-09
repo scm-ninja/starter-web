@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Anhnv CEO anhnv@dft.vn
 
 # THANKS
 
