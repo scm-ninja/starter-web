@@ -1,7 +1,22 @@
-# Starter Web Repo
+# Starter Web Project
 
-This repository is for showing how Git and GitHub work
+This is the sample website for git and github using
 
+addding a line
+
+more changes from myfeature branch
+
+haloo
+## Introduction
+this is sample to show the different
 ## Purpose
+adding the purpose
+## How to contribute
+please fork this file
+## Deloyment
+adding deployement
 
-Sample website with plenty of files for demos
+###Copyright
+git training
+
+allright reverse
