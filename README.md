@@ -7,3 +7,5 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 ##Copy right
 This is git traiing.`
+#Contribute
+how to contribute....
