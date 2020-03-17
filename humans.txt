@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+    Yan Rivera - Developer - yanrv.io@gmail.com
 
 # THANKS
 
