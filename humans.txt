@@ -3,7 +3,6 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
     Yan Rivera - Developer - yanrv.io@gmail.com
 
 # THANKS
@@ -15,3 +14,4 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+    Git
