@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <Riyasath> -- <Software engineer> -- <twitter111>
 
 # THANKS
 
-    <name>
+    Thank to my students.
 
 # TECHNOLOGY COLOPHON
 
