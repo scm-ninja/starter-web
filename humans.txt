@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Abel Trejo abel@mail.com  @a8t
 
 # THANKS
 
