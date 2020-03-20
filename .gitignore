@@ -1,1 +1,3 @@
 ignoreFile.txt
+*.log
+log/
