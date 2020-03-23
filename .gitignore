@@ -1,0 +1,4 @@
+ignoreFile.txt
+*.log
+log/
+*.orig

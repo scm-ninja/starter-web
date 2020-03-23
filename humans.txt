@@ -3,13 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Abel Trejo abel@mail.com  @a8t
 
 # THANKS
 
-    <name>
+    Everybody!!! Please leave a review
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	Selenium, Cypress
+	Git, Perforce
