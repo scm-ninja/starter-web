@@ -6,6 +6,7 @@ Adding a line for rebasing example, more changes from myfeature branch
 
 Making changes for multiple Stash example.
 
+## Updates from Dev1
 ## Introduction
 
 This is a simple website project for showing how to use Git and GitHub along with p4merge.
