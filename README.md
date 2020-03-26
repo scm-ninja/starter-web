@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work.
 Updating for emergency fix after stashing
+I am editing this file to show the comparison with master branch
 
 ## Purpose
 
