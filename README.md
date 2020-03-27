@@ -8,3 +8,6 @@ Sample website with plenty of files for demos
 
 ## introduction
  this is simple introduction of the intro
+
+## depolyment 
+  git push it for depolyment
