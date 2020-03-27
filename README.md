@@ -18,3 +18,6 @@ Sample website with plenty of files for demos
 
 ## masking
  use NORD VPn for masking
+
+##support
+ call god for support
