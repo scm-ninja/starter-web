@@ -21,3 +21,6 @@ Sample website with plenty of files for demos
 
 ##support
  call god for support
+
+## copyright
+ @copyright 2017
