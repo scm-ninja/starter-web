@@ -11,3 +11,10 @@ Sample website with plenty of files for demos
 
 ## depolyment 
   git push it for depolyment
+
+## contibutions
+ leave your name for contribution
+
+
+## masking
+ use NORD VPn for masking
