@@ -22,3 +22,7 @@ can be on any web server or even local
 file system.
 
 ## How To Contribute
+
+### Copyright
+
+2014 Git.Training.
