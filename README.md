@@ -11,6 +11,8 @@ This is example is to show different parts
 of the Git repository and various commands
 using a web project.
 
+##Updates Dev1
+
 ## Purpose
 
 As started above, the main purpose is to 
