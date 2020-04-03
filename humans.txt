@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Natalya Fedorova bla@bla.com
 
 # THANKS
 
