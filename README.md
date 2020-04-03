@@ -14,3 +14,7 @@ This is bla bla bla
 
 ## How to contribute
 Contibute by doing...
+
+More info
+
+Even more info
