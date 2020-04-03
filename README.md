@@ -19,5 +19,7 @@ More info
 
 Even more info
 
+Please contact us
+
 ##Copyright
 Copyright to moomin
