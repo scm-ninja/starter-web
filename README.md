@@ -8,6 +8,9 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
+
 ## Theory
+This is bla bla bla
 
 ## How to contribute
+Contibute by doing...
