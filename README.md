@@ -18,3 +18,6 @@ Contibute by doing...
 More info
 
 Even more info
+
+##Copyright
+Copyright to moomin
