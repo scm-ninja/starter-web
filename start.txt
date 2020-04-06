@@ -2,3 +2,5 @@ ls
 [A[B[Bclear
 exit
 [A[A[A[A[A[B[B[B[B[Bstr
+hi hello
+jiten
