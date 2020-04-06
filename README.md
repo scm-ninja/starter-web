@@ -4,6 +4,6 @@
 
 ## Purpose
 
-## Depolyment
+## Deployment
 
 ## How To Contribute
