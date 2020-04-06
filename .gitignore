@@ -2,3 +2,4 @@ unwanted.txt
 *.log
 log/
 *.orig
+.DS_Store
