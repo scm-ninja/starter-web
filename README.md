@@ -20,3 +20,6 @@ demos
 Waiting for instructions to go here!
 
 ## How To Contribute
+
+### Copyright
+2020 Git. Traing
