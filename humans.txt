@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Morgan Smith	morgandsmith@hotmail.com	@moriesmith
 
 # THANKS
 
