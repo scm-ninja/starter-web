@@ -9,6 +9,7 @@ This is an example to show work of git and gitnub
 ## Purpose
 
 Sample website with plenty of files for demos
+This is purpose section
 
 ## Deployment
 
