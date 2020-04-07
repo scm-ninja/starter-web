@@ -3,11 +3,12 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Saurabh Sharma	sausha80@gmail.com	@sausha80
 
 # THANKS
 
-    <name>
+    All my students!
+	Please leave a review if you like this course!
 
 # TECHNOLOGY COLOPHON
 
