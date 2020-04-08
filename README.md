@@ -16,6 +16,8 @@ As stated above, the main purpose is to
 provide simple examples for Git training
 demos
 
+Updates from Dev 1
+
 ## Deployment
 
 Waiting for instructions to go here!
