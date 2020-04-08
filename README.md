@@ -17,6 +17,7 @@ This is a simple Web program and deployment can be done on any server
 
 ## How To Contribute
 
+please fork this diectory and then issue pull request
 ### Copyright
  
  2020 Abhishek.Training
