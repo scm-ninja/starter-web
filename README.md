@@ -9,3 +9,7 @@ Sample website with plenty of files for demos
 # Pull request
 
 Future changes
+
+# Updating pull request
+
+More info here
