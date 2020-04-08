@@ -17,8 +17,7 @@ This is deployment section
 
 ## How to Contribute
 
-This is How to Contribute section
-An example of file change
+Please fork this repository and issue for review
 
 ### Copyright
 
