@@ -19,3 +19,7 @@ This is deployment section
 
 This is How to Contribute section
 An example of file change
+
+### Copyright
+
+2020, Git Training
