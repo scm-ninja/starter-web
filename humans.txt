@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Aleh Zadarazhniuk -- azadarazhniuk@gomel.iba.by -- @azadarazhniuk
 
 # THANKS
 
