@@ -25,4 +25,4 @@ Even more info
 Please contact us
 
 ##Copyright
-Copyright to moomin
+Copyright to moomin. All rights reserved
