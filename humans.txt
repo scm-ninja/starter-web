@@ -3,13 +3,14 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Abhishek sharma Abhishek.s0131@gmail.com
 
 # THANKS
 
-    <name>
+    Thanks to all
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
-    jQuery, Modernizr
+    jQuery, Modernizr,
+	Git 
