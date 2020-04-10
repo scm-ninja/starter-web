@@ -9,3 +9,7 @@ Sample website with plenty of files for demos. This is for sample only to see th
 ## Deployments
 
 This should be  used for deployments
+
+## To to Contribut
+
+Do your best and Automate
