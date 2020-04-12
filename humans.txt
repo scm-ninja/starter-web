@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Rick Haderle	flh701@yahoo.com
 
 # THANKS
 
