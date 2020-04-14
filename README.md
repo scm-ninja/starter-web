@@ -7,6 +7,11 @@ this is example is to show diffrent parts of the Git repositry abd various comma
 
 ## Purpose
 
+as stated above, the main purpose is to provide simple examples for git training demos. 
+
 ## Deployment
 
+this is how to deploy.
+
 ## How to Contripute
+
