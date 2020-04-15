@@ -15,3 +15,5 @@ this is how to deploy.
 
 ## How to Contripute
 
+
+## Copyright
