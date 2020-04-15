@@ -15,5 +15,6 @@ this is how to deploy.
 
 ## How to Contripute
 
+apply pull and get
 
 ## Copyright
