@@ -3,13 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Morgan Smith	morgandsmith@hotmail.com	@moriesmith
 
 # THANKS
 
-    <name>
+    Thanks to all of my Students
+	Please leave a review if you like this course.
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	Git
