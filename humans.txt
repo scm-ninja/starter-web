@@ -3,13 +3,14 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+Saeed abdo developer
 
 # THANKS
 
-    <name>
+To me as student saeed
 
 # TECHNOLOGY COLOPHON
-
+GIT
     HTML5, CSS3
     jQuery, Modernizr
+please review and share
