@@ -14,3 +14,7 @@ As Stated above, the main purpose is to test various command and  features
 This is a simple web project, deployment can be on any web server or even local server
 
 ## How To Contribute
+
+### Copyright
+
+2020 Git Pratice
