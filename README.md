@@ -8,6 +8,9 @@ This is an example to test different part of the Git Repository and various comm
 
 ## Purpose
 
+As Stated above, the main purpose is to test various command and  features
+
 ## Deployment
+This is a simple web project, deployment can be on any web server or even local server
 
 ## How To Contribute
