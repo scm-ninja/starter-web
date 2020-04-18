@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work.
 Adding a line for rebaing example, then more changes from feature branch
+Doing emergency fix
 
 ## Purpose
 
