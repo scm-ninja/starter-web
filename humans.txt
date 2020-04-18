@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Felix Eyetan felix@git.madjava.com
 
 # THANKS
 
