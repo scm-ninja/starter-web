@@ -8,7 +8,7 @@ Sample website with plenty of files for demos
 
 ## How to Contribute
 
-Some more updates to file
+Some more updates to file. More updates
 
 ## Training
 Adding some traning test
