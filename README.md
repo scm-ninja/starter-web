@@ -17,4 +17,4 @@ Adding some traning test
 ## More Training
 Adding some traning test
 
-2020 Git.Training
+2020 Git.Training. All rights reserved
