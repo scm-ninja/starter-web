@@ -9,8 +9,10 @@
 
     Thanks to Trainer
 	Please leave a review
+	Thanks for review
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	Python
