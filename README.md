@@ -9,3 +9,7 @@ Sample website with plenty of files for demos
 ##Update
 
 Some information added 
+
+##Update 2
+
+Again adding some other information
