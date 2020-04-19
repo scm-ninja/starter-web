@@ -19,5 +19,7 @@ This is a simple web project, deployment can be on any web server or even local 
 Please for this repo and then issue a pull request for review
 ### Copyright
 
+### Updates from Dev 1
+
 2020 Git Practice
 All right reserved.
