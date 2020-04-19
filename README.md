@@ -2,7 +2,7 @@
 
 Sample Project for testing how Git and GitHub Works
 Adding a line for rebasing example,
-then more changes from rebase branch too.
+Emergency fix
 ## Introduction
 
 This is an example to test different part of the Git Repository and various commands using a web project
