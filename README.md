@@ -20,3 +20,4 @@ Please for this repo and then issue a pull request for review
 ### Copyright
 
 2020 Git Practice
+All right reserved.
