@@ -1,0 +1,5 @@
+hipster.txt
+*.log
+log/
+*.orig
+
