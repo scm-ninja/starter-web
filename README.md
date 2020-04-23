@@ -4,4 +4,4 @@ This repository is for showing how Git and GitHub work
 
 ## Purpose
 
-Sample wesbsite with plenty of file for the demo and class
+Sample wesbsite with plenty of file for the demo and class to test the pull
