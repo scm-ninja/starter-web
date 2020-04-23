@@ -3,13 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Dimitrios Voulgaris		dimi@mail.com	@itsmedimi
 
 # THANKS
 
-    <name>
+    Thanks to all !!
+    Please add a review..
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+    Verilog, FPGA
