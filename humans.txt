@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <Paresh Rajput> -- <CEO> -- <@PareshRajput>
 
 # THANKS
 
