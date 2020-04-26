@@ -1,5 +1,7 @@
 #Starter Web Project
 
+this is a simple website.
+
 ##Introduction
 
 ##Purpose
