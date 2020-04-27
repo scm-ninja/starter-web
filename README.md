@@ -18,4 +18,4 @@ This is a simple web project, deployment can be any web server or even local fil
 
 ### Copyright
 
-2020. Git Training
+2020-04-27. Git Training
