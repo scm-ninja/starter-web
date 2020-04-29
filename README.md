@@ -7,7 +7,7 @@ Doing emergency fix
 ## Purpose
 
 Sample website with plenty of files for demos
-
+Seal is a chocolate biscuit monster
 ## How to Contribute
 
 Some more updates to file. More updates
