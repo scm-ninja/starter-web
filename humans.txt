@@ -6,10 +6,3 @@
     Felix Eyetan felix@git.madjava.com
 
 # THANKS
-
-    All my peeps
-
-# TECHNOLOGY COLOPHON
-
-    HTML5, CSS3
-    jQuery, Modernizr
