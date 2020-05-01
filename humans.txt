@@ -3,13 +3,20 @@
 
 # TEAM
 
+
     <name> -- <role> -- <twitter>
 
 # THANKS
 
-    <name>
+  
+  <name>
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3
+ 
+# Team 
+
+Jiten Soni
+
+   HTML5, CSS3
     jQuery, Modernizr
