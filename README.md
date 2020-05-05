@@ -1,5 +1,5 @@
 # Starter Web Project
-
+This is a simple website project for showing how to use Git and GitHub together
 
 ## Inroduction
 
@@ -7,7 +7,7 @@
 ## Purpose
 
 
-## How To Contribute
-
-
 ## Deployments
+
+
+## How To Contribute
