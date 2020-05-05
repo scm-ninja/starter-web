@@ -1,4 +1,0 @@
-level1 file
-
-new entry
-
