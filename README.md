@@ -1,5 +1,5 @@
 # Starter Web Repo
-
+Hello.  This is the readme.
 ##Introduction
 This repository is for showing how Git and GitHub work
 
