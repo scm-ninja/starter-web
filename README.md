@@ -14,3 +14,6 @@ Sample website with plenty of files for demos
 
 ## Even More Stuff
 Hello
+
+## Copyright
+2020 Jaime Acosta
