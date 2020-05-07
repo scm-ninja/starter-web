@@ -13,3 +13,6 @@ This is example is to show different parts of the git.
  for the deployement
 ## How To Contribute
 Contribute THE FILE
+
+### Copyright
+2014 Git copy right 
