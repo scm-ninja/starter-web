@@ -12,7 +12,7 @@ This is example is to show different parts of the git.
 ##Deployement
  for the deployement
 ## How To Contribute
-Contribute THE FILE
+Please fork this repository and then issue pull req 
 
 ### Copyright
 2014 Git copy right 
