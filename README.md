@@ -1,7 +1,8 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work and showing the git.
-Adding aline for rebasing
+Adding aline for rebasing,
+then more chsnges from my fetauer
 ## Purpose
 
 Sample website with plenty of files for demos.
