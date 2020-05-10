@@ -26,4 +26,4 @@ Please fork this repository and then issue Pull Requests for review.
 
 ### Copyright
 
-2020 Git.Test - Tony
+2020 Git.Test - Tony - All rights reserved.
