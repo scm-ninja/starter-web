@@ -1,3 +1,6 @@
 All my students
 please leave a review if you like this course
 
+# TECHNOLOGY
+   HTML5, CSS3
+   jQuery, GIt
