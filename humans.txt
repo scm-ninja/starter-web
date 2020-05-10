@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Tony Stark  tony@starkindustries.com    @tonystark
 
 # THANKS
 
