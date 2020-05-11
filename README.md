@@ -17,6 +17,8 @@ Added as per requirement, as this is a simple web project and a simple demonstra
 
 ## How to contribute
 
+Please fork this repository and then issue pull requests for review.
+
 ## Copyright 
 
 This is a copyright notice.
