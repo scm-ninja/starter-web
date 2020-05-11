@@ -1,7 +1,7 @@
-# Starter Web Repo
+Hi heelo
+UPdating for emergency fix after stashing
 
-This repository is for showing how Git and GitHub work
+##COPYRIGHT
+All rights reserved
 
-## Purpose
-
-Sample website with plenty of files for demos
+##Updates from dev 1

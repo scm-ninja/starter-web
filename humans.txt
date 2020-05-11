@@ -1,15 +1,6 @@
-# humanstxt.org/
-# The humans responsible & technology colophon
+All my students
+please leave a review if you like this course
 
-# TEAM
-
-    <name> -- <role> -- <twitter>
-
-# THANKS
-
-    <name>
-
-# TECHNOLOGY COLOPHON
-
-    HTML5, CSS3
-    jQuery, Modernizr
+# TECHNOLOGY
+   HTML5, CSS3
+   jQuery, GIt
