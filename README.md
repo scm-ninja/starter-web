@@ -2,7 +2,7 @@
 Hello.  This is the readme.  More changes from myfeature branch too.
 
 ##Introduction
-This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work.  Updating for emergency fix
 
 ## Purpose
 Sample website with plenty of files for demos
