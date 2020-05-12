@@ -8,8 +8,10 @@ shreshthashil     shilshreshtha@gmail.com
 # THANKS
 
     All my students
+	please do somthing
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	Git ,mysql
