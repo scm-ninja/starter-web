@@ -24,4 +24,4 @@ Please fork this repository and then issue pull requests for review.
 This is a copyright notice.
 
 ## Incase of an emergency
-Do not contact. 
+Do not contact. whaatver be the emergency
