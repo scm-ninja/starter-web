@@ -22,3 +22,6 @@ Please fork this repository and then issue pull requests for review.
 ## Copyright 
 
 This is a copyright notice.
+
+## Incase of an emergency
+Do not contact. 
