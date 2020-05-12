@@ -14,3 +14,6 @@ As stated above, the maoin purpose it to provide simple examples for git trainin
 This is a simple web project, deployment can be on any web server or even local file system.
 
 ## Contribution
+
+### CopyRight
+2014 Git.Training
