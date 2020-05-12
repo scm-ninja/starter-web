@@ -16,3 +16,4 @@
     HTML5, CSS3
     jQuery, Modernizr
 	Git and Python - deadly combination
+	Version control is really good for projects.
