@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    Jason Taylor for designing this wonderful course. 
 
 # TECHNOLOGY COLOPHON
 
