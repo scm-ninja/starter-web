@@ -2,14 +2,16 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+shreshthashil     shilshreshtha@gmail.com
     <name> -- <role> -- <twitter>
 
 # THANKS
 
-    <name>
+    All my students
+	please do somthing
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	Git ,mysql
