@@ -1,1 +1,3 @@
 unwantedfile.npp
+*.log
+log/
