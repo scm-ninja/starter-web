@@ -1,3 +1,4 @@
 unwantedfile.npp
 *.log
 log/
+nsc.lo
