@@ -26,7 +26,3 @@ Masa
 ## ADD master
 
 HIRO
-
-## Options
-
-Add
