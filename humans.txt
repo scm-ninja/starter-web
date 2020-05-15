@@ -16,4 +16,3 @@
     jQuery, Modernizr
     Git
 
-Testing signing commits
