@@ -11,3 +11,7 @@ Sample website with plenty of files for demos.
 Steps to Deploye your apllication
 
 ## How To Contribute
+
+### Copyright
+
+2020 Git.Training.
