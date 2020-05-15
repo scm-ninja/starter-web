@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This is a simple website project for showing how to use git and GitHub together. Updating for emergency fix after stashing. Test for gpg-agent.
+This is a simple website project for showing how to use git and GitHub together. Updating for emergency fix after stashing.
 
 ## Introduction
 
