@@ -7,3 +7,4 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 You are new line and new change
+Once you are done, save and close it
