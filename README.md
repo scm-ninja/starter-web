@@ -17,3 +17,7 @@ I am your father.
 ## Bored
 
 I am bored.
+
+## Copyright
+
+Masa
