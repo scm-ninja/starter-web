@@ -10,10 +10,11 @@ This is example
 Sample website with plenty of files for demos
 
 ## How To Contribute
-NOWAY
+Via rebase :)
 
 ## Deployment
 NOPE
 
 ### Copyright
 You are welcome
+
