@@ -13,7 +13,7 @@ Sample website with plenty of files for demos
 More changes
 
 ## Deployment
-NOPE
+No need for that
 
 ### Copyright
 You are welcome. All rights reserved
