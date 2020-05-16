@@ -14,4 +14,4 @@ Steps to Deploye your apllication
 
 ### Copyright
 
-2020 Git.Training....s.
+2020 Git.Training.
