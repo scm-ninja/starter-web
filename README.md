@@ -10,5 +10,8 @@ This is example
 Sample website with plenty of files for demos
 
 ## How To Contribute
+NOWAY
 
 ## Deployment
+NOPE
+
