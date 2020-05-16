@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <head>
+<<<<<<< HEAD
 	<title>Adding title again</title>
+=======
+	<title>Adding title </title>
+>>>>>>> mynewbranch
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
