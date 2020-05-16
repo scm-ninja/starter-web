@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Krishna Gupta krishna.gupta@sumasoft.net @guptaKrishna_93
 
 # THANKS
 
