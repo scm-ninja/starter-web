@@ -16,5 +16,5 @@ More changes
 NOPE
 
 ### Copyright
-You are welcome
+You are welcome. All rights reserved
 
