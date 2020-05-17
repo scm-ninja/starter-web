@@ -19,3 +19,7 @@ Deployment can be done using maven
 ## How to contribute
 
 Yes you can
+
+### Copyright
+
+2014 Git.Training.
