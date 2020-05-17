@@ -18,7 +18,7 @@ Deployment can be done using maven
 
 ## How to contribute
 
-Yes you can
+Please fork this repository and issue pull requests
 
 ### Copyright
 
