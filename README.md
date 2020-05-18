@@ -1,4 +1,4 @@
-# Starter Web Repo
+This is first commit# Starter Web Repo
 
 This repository is for showing how Git and GitHub work
 
