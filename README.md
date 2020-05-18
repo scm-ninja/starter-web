@@ -23,6 +23,8 @@ Deployment can be done using maven
 
 Please fork this repository and issue pull requests
 
+## Updates from dev1
+
 ### Copyright
 
 2014 Git.Training. Alrights Reserved
