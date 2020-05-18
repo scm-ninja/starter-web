@@ -24,4 +24,4 @@ Please fork this repository and issue pull requests
 
 ### Copyright
 
-2014 Git.Training.
+2014 Git.Training. Alrights Reserved
