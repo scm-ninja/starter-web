@@ -1,6 +1,6 @@
- # Starter Web Repo
+# Starter Web Repo
 
-This is a simple website project for showing how to use Git and Github togheter.
+This is a simple website project for showing how to use Git and Github togheter. Adding a line for rebasing example.
 
 ## Introduction
 
@@ -16,7 +16,7 @@ This is a simple web project, deployment can be on any web server or even local 
 
 ## How To Contribute
 
-Please fork this repository and then issue Pull Requests for review. 
+Please fork this repository and then issue Pull Requests for review.  
 
 ### Copyright
 
