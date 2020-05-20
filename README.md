@@ -1,4 +1,4 @@
-1. At MAster Branch Learnig Rebase this is Master Branch, Now Again making chenges in Master branch
+Now Again making chenges in Master branch, Now making changes in my branch
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
