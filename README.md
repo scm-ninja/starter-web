@@ -17,3 +17,4 @@ Deploying the project in github
 Contribute to the project
 
 #LICENCE
+Licence is MIT
