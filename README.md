@@ -15,3 +15,5 @@ Deploying the project in github
 
 #How to contribute
 Contribute to the project
+
+#LICENCE
