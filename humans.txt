@@ -7,7 +7,7 @@
 
 # THANKS
 
-    Shashank- Dev
+    Shashank- Dev React
 
 # TECHNOLOGY COLOPHON
 
