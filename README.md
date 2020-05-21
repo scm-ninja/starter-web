@@ -1,8 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work
-MODFYING drom master rebasing example
-Modifyng from myfeaure
+MODIFYING after stashing
 
 ## Purpose
 
