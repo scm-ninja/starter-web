@@ -4,7 +4,7 @@ MODIFYING after stashing
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Updating emergy after stash
 ###Changes
 
 More changes
