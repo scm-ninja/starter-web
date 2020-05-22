@@ -11,4 +11,4 @@ Sample website with plenty of files for demos.
 ## Conclusion
 
 ### Copyright
-issue
+2020
