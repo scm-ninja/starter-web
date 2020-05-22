@@ -12,3 +12,8 @@ Sample website with plenty of files for demos...
 
 This a test deploy
 ## How to contribute
+
+
+### Copyright
+
+2020 Git Trainig
