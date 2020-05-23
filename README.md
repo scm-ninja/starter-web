@@ -1,7 +1,4 @@
-# Starter Web Repo
-
-This repository is for showing how Git and GitHub work
-
-## Purpose
-
-Sample website with plenty of files for demos
+###Some Title 
+some text for Lola
+addes other modification to see if GH gives me the option "compare and pull request"
+to see if an additional commited change will be seen on a current pull request where this branch is involved
