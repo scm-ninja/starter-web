@@ -8,6 +8,8 @@
 # THANKS
 
     Thanks to everybody
+	Please leave a review
+	
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
