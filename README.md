@@ -20,4 +20,4 @@ Please fortk it and then pull request
 
 ### Copyright
 
-2020 Git Trainig
+2020 Git Trainig. All right reserved
