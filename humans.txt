@@ -3,10 +3,10 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name> Ading before strashing into branch <twitter>
 
 # THANKS
-
+Modifiyng from my feature
     <name>
 
 # TECHNOLOGY COLOPHON
