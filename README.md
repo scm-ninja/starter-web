@@ -14,3 +14,6 @@ Sample deployment
 
 ## How to Contribute
 Sample contribute
+
+### Copyright
+2014 git traning
