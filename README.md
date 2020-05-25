@@ -13,7 +13,8 @@ Sample website with plenty of files for demos
 Sample deployment
 
 ## How to Contribute
-Sample contribute
+
+Please fork this repository
 
 ### Copyright
 2014 git traning
