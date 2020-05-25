@@ -7,7 +7,7 @@ Another fuking line
 
 ## Introduction
 
-Intro example
+Intro example. Modified on test-branch
 
 ## Purpose
 Sample website with plenty of files for demos...
@@ -22,3 +22,6 @@ Please fortk it and then pull request
 ### Copyright
 
 2020 Git Trainig. All right reserved
+
+
+### Updates from dev 1
