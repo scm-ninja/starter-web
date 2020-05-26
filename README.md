@@ -1,10 +1,11 @@
 # Starter Web Project
 
 This repository is for showing how Git and GitHub work
-
+Second line added to check the comparison
 
 ## Introduction
 This is a simple website project for showing how to use GIt and GItHub together
+Second line to check the staging area
 ## Purpose
 
 Sample website with plenty of files for demos
