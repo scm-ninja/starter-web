@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 Second line added to check the comparison
+Third line for rebasing
 
 ## Introduction
 This is a simple website project for showing how to use GIt and GItHub together
