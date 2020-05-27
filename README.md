@@ -15,3 +15,5 @@ Check this section to understand how to develop files in this project.
 
 ## How to Contribute
 Check this section to understand how to actively contribute for this project.
+
+### CopyRight
