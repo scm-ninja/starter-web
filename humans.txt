@@ -3,13 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Bach VD	dinhbachht@gmail.com 
 
 # THANKS
 
-    <name>
+    ALL my student!
+	vui long de lai nhan xe voi khoa hoc na
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	git
