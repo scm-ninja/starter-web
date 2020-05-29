@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work, toi la nguioi dauy tien. cap nhat file readme
+This repository is for showing how Git and GitHub work, toi la nguioi dauy tien. cap nhat file readme,aa
 
 ## Purpose
 
