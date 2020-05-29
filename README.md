@@ -13,3 +13,6 @@ Sample website with plenty of files for demos. Purpose text.
 Sample deploy text
 
 ## How To Contribute
+
+### Copyright
+2020
