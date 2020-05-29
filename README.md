@@ -13,6 +13,7 @@ Sample website with plenty of files for demos. Purpose text.
 Sample deploy text
 
 ## How To Contribute
+Fork and issue pull request.
 
 ### Copyright
 2020
