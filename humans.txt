@@ -3,12 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
     Shiva -- Lead -- shiva12@twit
 
 # THANKS
 
-    <name>
+   thanks and regards all 
 
 # TECHNOLOGY COLOPHON
 

@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 
-This is new project for web
+This is new project for web....Added rebasing test exam-ple
 
 ## Purpose
 
