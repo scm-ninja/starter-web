@@ -6,6 +6,9 @@ This repository is for showing how Git and GitHub work
 
 ## Purpose
 
+### This is an example to show different parts of the Git repositoty and various commandds using a 
+web 
+
 Sample website with plenty of files for demos
 
  ## Deployment
