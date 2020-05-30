@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+    Shiva -- Lead -- shiva12@twit
 
 # THANKS
 
