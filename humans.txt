@@ -3,12 +3,12 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Shiva -- Lead -- shiva12@twit
 
 # THANKS
 
-    <name>
-
+  thanks and regards to entire team
+ we are in the same page
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
