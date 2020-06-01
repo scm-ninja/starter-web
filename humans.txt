@@ -3,12 +3,14 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Gayatri Nair gayatrinair99
 
 # THANKS
 
-    <name>
-
+    Thank you all
+	Humans
+	123
+	
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
