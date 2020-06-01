@@ -5,3 +5,7 @@ Updating readme file
 ## Purpose
 
 Sample website with plenty of files for demos
+
+## Adding
+
+Adding express command
