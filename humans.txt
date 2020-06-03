@@ -6,6 +6,7 @@ members go here
     <name> -- <role> -- <twitter>
 
 # THANKS
+blah blah blah
 
     <name>
 
