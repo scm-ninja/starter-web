@@ -1,3 +1,0 @@
-## New Readme file
-
-This repo is for showing....
