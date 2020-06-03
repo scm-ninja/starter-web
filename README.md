@@ -6,4 +6,6 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
-##This is modified readme file
+## This is modified readme file
+
+## more commit in feature-readme
