@@ -26,4 +26,4 @@ file system.
 Please fork this repository and then issue Pull Requests review.
 
 ### Copyright
-Git.Training
+Git.Training. All rights reserved.
