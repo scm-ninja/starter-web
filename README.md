@@ -4,6 +4,8 @@ This repository is for showing how Git and GitHub work
 
 ## Purpose
 
+Just for training Purpose
+
 ## Deployment
 
 Sample website with plenty of files for demos
