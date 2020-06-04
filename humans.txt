@@ -1,11 +1,12 @@
-# humanstxt.org/
+qwqwerqwerqwerwqe# humanstxt.org/
 # The humans responsible & technology colophon
 
 # TEAM
-
+members go here
     <name> -- <role> -- <twitter>
 
 # THANKS
+blah blah blah
 
     <name>
 
@@ -13,3 +14,9 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+
+    wefawfawf
+    awef
+    aweffa
+    wefawfawfawe
+    fwe
