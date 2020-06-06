@@ -8,8 +8,10 @@ This is an example satyam
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Satyam Dasari Sample website with plenty of files for demos
 
 ## Deployment
+
+This is Deployment section
 
 ## How to Contribute
