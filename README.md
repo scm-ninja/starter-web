@@ -10,5 +10,6 @@ Finding easy to learn and use GIT
 ## Purpose
 
 Sample website with plenty of files for demos
+The pusrpose is to get hands on command line tool
 
 ## Deployment
