@@ -19,4 +19,4 @@ Sample deployment
 Please fork this repository
 
 ### Copyright
-2014 git traning
+2014 git traning for testing
