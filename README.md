@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 
 ## Purpose
 
-Just for training Purpose
+Changes made for trying automatic branch merge
 
 ## Deployment
 
