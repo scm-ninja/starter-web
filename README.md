@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing Satyam how Git and GitHub work.
-Adding a line for rebasing exampel
+Adding a line for rebasing exampel, then from my feature beanch too.
 
 ## Introduction
 
