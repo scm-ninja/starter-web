@@ -15,3 +15,6 @@ Satyam Dasari Sample website with plenty of files for demos
 This is Deployment section
 
 ## How to Contribute
+
+### Notice
+just a notice
