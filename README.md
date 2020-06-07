@@ -17,7 +17,7 @@ This is Deployment section
 
 ## How to Contribute
 
-adding how to contribute 
+adding how to contribute. bitch, fuck you
 
 ### Notice
 just a notice
