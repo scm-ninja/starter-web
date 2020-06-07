@@ -16,5 +16,7 @@ This is Deployment section
 
 ## How to Contribute
 
+adding how to contribute 
+
 ### Notice
 just a notice
