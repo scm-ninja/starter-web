@@ -13,3 +13,6 @@ Sample website with plenty of files for demos
 The pusrpose is to get hands on command line tool
 
 ## Deployment
+
+Need to find what I can do for deployment
+This might take sometime though
