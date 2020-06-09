@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Siddhesh Naik	siddheshnaik51234@gmail.com		@awesomeisforme
 
 # THANKS
 
