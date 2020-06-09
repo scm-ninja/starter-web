@@ -16,3 +16,7 @@ The pusrpose is to get hands on command line tool
 
 Need to find what I can do for deployment
 This might take sometime though
+
+## Copyright
+
+2020 Git.training
