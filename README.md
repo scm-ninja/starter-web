@@ -27,3 +27,5 @@ Please fork this repository and then issue Pull Requests review.
 
 ### Copyright
 Git.Training. All rights reserved.
+
+## Updates from Dev 1
