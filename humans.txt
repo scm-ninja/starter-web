@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Rohit Pardeshi Software Engineer rdppardeshi@gmail.com
 
 # THANKS
 
