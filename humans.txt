@@ -14,5 +14,4 @@
     HTML5, CSS3
     jQuery, Modernizr
 
-HI This is a new Project
-HI This is a new Project
+ABC
