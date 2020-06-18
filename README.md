@@ -5,3 +5,4 @@ This repository is for showing how Git and GitHub work
 ## Purpose
 
 Sample website with plenty of files for demos##Deployment
+Bifurca este repositorio y luego envia solicitudes de extraccion para su revision
