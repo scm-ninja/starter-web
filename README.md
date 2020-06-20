@@ -8,6 +8,10 @@ Diff parts of Git.
 
 ## Purpose
 
+Training
+
 ## Deployment
+
+Deploy locally or on k8s
 
 ## How to Contribute
