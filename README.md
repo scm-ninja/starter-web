@@ -1,8 +1,10 @@
 # Starter Web Project
 
-Starting Git and Github
+Starting Git and Github.
 
 ## Introduction
+
+Diff parts of Git.
 
 ## Purpose
 
