@@ -11,12 +11,6 @@
 
 # THANKS
 
-amisha tiwari
-manish pratap
-apurva
-mom
-dad
-
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
