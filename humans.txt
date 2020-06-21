@@ -6,6 +6,7 @@
     amisha ami@gmail.com tech_lead_tata_comm
     manish mni2gmail
     apurva aa@gmail.com
+    naveen n@gmail
 
 # THANKS
 
