@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    amisha ami@gmail.com tech_lead
 
 # THANKS
 
