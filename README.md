@@ -16,4 +16,6 @@ Deploy locally or on k8s
 
 ## How to Contribute
 
+please fork and contribute
+
 ## Add Feature
