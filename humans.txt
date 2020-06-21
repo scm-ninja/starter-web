@@ -4,6 +4,7 @@
 # TEAM
 
     amisha ami@gmail.com tech_lead_tata_comm
+    manish mni2gmail
 
 # THANKS
 
