@@ -13,3 +13,7 @@ Sample website with plenty of files for demos
 ## How To Contribute
 
 Pay at ....
+
+
+## Copyright
+by 2020 ZEM
