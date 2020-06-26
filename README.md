@@ -6,3 +6,7 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 Just create a readme
+
+## Adding Another Purpose
+
+just adding another commit for the already existng pull request
