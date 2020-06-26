@@ -5,9 +5,13 @@
 
     <name> -- <role> -- <twitter>
 
-# THANKS
 
-    <name>
+OLA
+
+# THANKS
+  ZEM
+    This was made by .... <name>
+    Please live a review
 
 # TECHNOLOGY COLOPHON
 

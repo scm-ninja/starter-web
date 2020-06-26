@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<!--
+<<<<<<< HEAD
+   Copyrigth 2031 ZEM 
+=======
+   Copyrigth 2019 ZEM 
+>>>>>>> conflict-branch
+-->
+<head>
+	<title>An example !!!</title>
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<style>
+		body {
+			padding-top: 20px;
+			padding-bottom: 25px;
+		}
+	</style>
+	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+</head>
+<body>
+	<main class="container">
+	<!-- Content Goes Here -->
+		<p>
+<<<<<<< HEAD
+			Bla lasdasda asd asd a  !!!!!
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; ZEM 2044</p>
+=======
+			OH hihihihi Just some content
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; Compa 2014</p>
+>>>>>>> conflict-branch
+	</footer>
+</body>
+</html>
