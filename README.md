@@ -4,6 +4,8 @@ How to use Git and GitHub
 
 ## Introduction
 
+this is introduction to git
+
 ## Purpose
 
 ## Deployment
