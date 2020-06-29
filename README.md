@@ -6,6 +6,8 @@ This repository is for showing how Git and GitHub work
 
 Changes made for trying automatic branch merge
 
+All is done
+
 ## Deployment
 
 Sample website with plenty of files for demos
