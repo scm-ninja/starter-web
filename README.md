@@ -10,6 +10,8 @@ Changes made for trying automatic branch merge
 
 Sample website with plenty of files for demos
 
+Adding a line for rebasing
+
 ## How to contribute
 
 bla bla bla
