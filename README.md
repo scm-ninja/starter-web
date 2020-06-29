@@ -12,6 +12,9 @@ Sample website with plenty of files for demos
 
 Adding a line for rebasing
 
+Adding more Changes for myfeature branch 2
+
+
 ## How to contribute
 
 bla bla bla
