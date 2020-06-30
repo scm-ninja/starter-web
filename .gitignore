@@ -1,3 +1,4 @@
 src/
 access.log
 newfile.txt
+*.orig
