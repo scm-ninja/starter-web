@@ -3,3 +3,5 @@
 User-agent: *
 
 this is now ignored
+
+some new text for checking diff tool

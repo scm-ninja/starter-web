@@ -8,6 +8,10 @@ this is introduction to git
 
 ## Purpose
 
+Purpose of git
+
 ## Deployment
+
+Deployment to Git
 
 ## How to Contribute
