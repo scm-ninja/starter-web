@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ajay  Developer AK@twitter.com
 
 # THANKS
 
