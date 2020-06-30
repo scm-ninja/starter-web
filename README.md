@@ -16,5 +16,7 @@ Deployment to Git
 
 ## How to Contribute
 
+This text is added after committing simple-changes branch. This change belongs to master branch
+
 ## Copyright
 This file belongs to @PS.
