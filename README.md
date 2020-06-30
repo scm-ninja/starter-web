@@ -15,3 +15,6 @@ Purpose of git
 Deployment to Git
 
 ## How to Contribute
+
+## Copyright
+This file belongs to @PS.
