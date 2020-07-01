@@ -1,6 +1,6 @@
 # Starter Web Project
 
-How to use Git and GitHub
+How to use Git and GitHub, more changes form myfeature branch
 
 ## Introduction
 
