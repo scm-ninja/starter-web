@@ -9,6 +9,10 @@ This is example to show diff parts of the Git.
 
 ##Purpose
 
+Main purpose is to execute the web page
+
 ##Deployment
+
+Deployment to be done on web server
 
 ##How to contribute
