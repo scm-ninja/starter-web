@@ -15,4 +15,8 @@ Main purpose is to execute the web page
 
 Deployment to be done on web server
 
-##How to contribute
+##How to 
+
+###Copyright
+
+Git.training
