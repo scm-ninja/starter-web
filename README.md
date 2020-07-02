@@ -26,3 +26,6 @@ This section is added under reabse tutorial.
 
 ## Stash
 This section is added, after modifying the simple.txt. The .txt file was stashed using "git stash". The "git stash" saves the file, we modified,from the working directoryand replaces it with the last committed file.
+
+## Emergency fix
+After using "git stash -u"
