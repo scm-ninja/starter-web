@@ -10,6 +10,8 @@ All is done
 
 ## Deployment
 
+Upsated for stash learning
+
 Sample website with plenty of files for demos
 
 Adding a line for rebasing
