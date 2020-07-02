@@ -21,4 +21,4 @@ contributr
 
 ###Copyright
 
-Git.training.correct
+Git.training.correct. All rights reserved
