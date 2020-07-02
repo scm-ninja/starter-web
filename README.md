@@ -15,7 +15,9 @@ Main purpose is to execute the web page
 
 Deployment to be done on web server
 
-##How to 
+##How to Contribute
+
+contributr
 
 ###Copyright
 
