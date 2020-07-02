@@ -19,4 +19,4 @@ Deployment to be done on web server
 
 ###Copyright
 
-Git.training
+Git.training.correct
