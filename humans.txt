@@ -5,6 +5,8 @@
 
     <name> -- <role> -- <twitter>
 
+    Adding for stashing into the branch lesson.
+
     THANKS to all my students
 
     Andrey
