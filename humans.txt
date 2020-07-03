@@ -3,13 +3,14 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ajay  Developer AK@twitter.com
 
 # THANKS
 
-    <name>
-
+    Thank you Priya for being in my life
+	
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	Java J2EE hibernate Spring

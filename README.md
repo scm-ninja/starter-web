@@ -1,7 +1,34 @@
-# Starter Web Repo
+# Starter Web Project
 
-This repository is for showing how Git and GitHub work
+How to use Git and GitHub, more changes form myfeature branch
+
+## Introduction
+
+this is introduction to git
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Purpose of git
+
+## Deployment
+
+Deployment to Git
+
+## How to Contribute
+
+This text is added after committing simple-changes branch. This change belongs to master branch
+
+## Copyright
+This file belongs to @PS.
+
+## Signature
+This section is added under reabse tutorial.
+
+## Stash
+This section is added, after modifying the simple.txt. The .txt file was stashed using "git stash". The "git stash" saves the file, we modified,from the working directoryand replaces it with the last committed file.
+
+## Emergency fix
+After using "git stash -u"
+
+## New Section
+This section is added to compare branches via GitHub.
