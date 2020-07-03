@@ -3,13 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   Damini Developer dj@gmail.com
 
 # THANKS
 
-    <name>
+    Thanks to teacher
+	Please give review
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	Git
