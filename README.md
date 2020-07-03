@@ -29,3 +29,6 @@ This section is added, after modifying the simple.txt. The .txt file was stashed
 
 ## Emergency fix
 After using "git stash -u"
+
+## New Section
+This section is added to compare branches via GitHub.
