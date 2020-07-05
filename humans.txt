@@ -3,7 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    rohal kueup
+    rolly@gmail.com
 
 # THANKS
 
