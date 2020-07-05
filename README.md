@@ -18,3 +18,7 @@ F'FDKLKFSD
 =FJSJA FJSJA FKDF
 
  R \\\\ROHAL ROAJLA
+
+ <h2>Copyright</h2>
+ Oh nononon
+
