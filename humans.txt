@@ -3,13 +3,17 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    rohal kueup
+    rolly@gmail.com
 
 # THANKS
 
-    <name>
+    Thankyou free course site
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+
+
+    Please leace the revie ksjfkj ksk fjw

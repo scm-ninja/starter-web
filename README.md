@@ -1,7 +1,33 @@
-# Starter Web Repo
+#Starter Web Project
+FDLFSDMMLMS LMLMFMLdsfkskfjkfMhELLO BHAI BHAI BHAI TESTING GIT 
+##Introduction
+BHAU BHAI NOTHING 
+##Purpose
 
-This repository is for showing how Git and GitHub work
+##How to Contribute
 
-## Purpose
+<h1> Deployment </h1>
 
-Sample website with plenty of files for demos
+KYA UE N
+
+fsdkkfksdlkfl
+
+
+
+F'FDKLKFSD
+=FJSJA FJSJA FKDF
+
+ R \\\\ROHAL ROAJLA
+
+ <h2>Copyright</h2>
+ Oh nononon
+IJIJDIJF
+JJIJAIS
+JOJOAS
+ROJAL BHAI
+
+Addinh a line for rebasing examplr
+
+more change from ffetauer bramnch
+
+COMpany ka kaam he bhai
