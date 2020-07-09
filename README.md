@@ -10,7 +10,7 @@ All is done
 
 ## Deployment
 
-Upsated for stash learning
+Updated for stash learning
 
 Sample website with plenty of files for demos
 
