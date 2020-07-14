@@ -3,6 +3,8 @@ This repository is for showing how Git and GitHub work
 
 
 ## Intro
+This is an example to show different parts of the Git repo and various cmds
+using a web project. 
 
 ##Deployment
 
