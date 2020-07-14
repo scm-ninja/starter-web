@@ -1,7 +1,7 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work Omega Bro
 
-## Purpose
+## Proposito
 
-Sample website with plenty of files for demos
+sd
