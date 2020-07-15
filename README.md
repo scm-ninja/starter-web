@@ -15,4 +15,4 @@ Sample website with plenty of files for demos
 Please fork this repo and then issue Pull requests for review.
 
 ##Copyright
-Git.Training
+Git.Training. All rights reserved
