@@ -12,6 +12,7 @@ using a web project.
 Sample website with plenty of files for demos
 
 ## How to Contribute
+Please fork this repo and then issue Pull requests for review.
 
 ##Copyright
 Git.Training
