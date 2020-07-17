@@ -22,3 +22,7 @@ Please fork this repository and then issue Pull Requests for review.
 ### Copyright
 
 2020 Git.Training. All rights reserved.
+
+## From branch to git
+
+with love
