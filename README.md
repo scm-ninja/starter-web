@@ -25,4 +25,4 @@ Please fork this repository and then issue Pull Requests for review.
 
 ## From branch to git
 
-with love
+with love from russsia
