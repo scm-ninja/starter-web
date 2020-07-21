@@ -14,4 +14,4 @@ Sample website with plenty of files for demos
 
 ##Copyright
 
-2020@copyright
+2020@copyrights reserved.
