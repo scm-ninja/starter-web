@@ -2,6 +2,7 @@
 
 Adding a line for rebasing example. more changes from myfeature branch.
 This is a simple website project for showing how to use Git and Github together.
+quick fix.
 
 ## Introduction
 
