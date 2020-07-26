@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Vladimir Canic vladimir@oceans.ai
 
 # THANKS
 
