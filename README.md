@@ -13,6 +13,7 @@ change in master and then Merge new branch
 
 
 ##CHANGEs
+Chsnge it anf then REBASE to feature branch
 
 ##Copyright
 
