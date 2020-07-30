@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Alpha   alpha   alpha@twitter
 
 # THANKS
 
