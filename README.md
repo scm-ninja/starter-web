@@ -26,4 +26,4 @@ Please fork this repository
 
 ## Copyright
 
-Git.training
+Git.training. All rights reserved
