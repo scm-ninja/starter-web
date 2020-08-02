@@ -2,7 +2,7 @@
 
 This is a simple webstie project for 
 showing how to use Git and GitHub together
-Adding a line for rebasing
+Adding a line for rebasing, more changes for myfeature branch
 
 ## Introduction
 
