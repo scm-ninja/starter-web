@@ -21,6 +21,8 @@ This is a web project
 
 ## How To Contribure
 
+Please fork this repository
+
 ## Copyright
 
 Git.training
