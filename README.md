@@ -1,8 +1,7 @@
 # Starter Web Repo
 
 This is a simple webstie project for 
-showing how to use Git and GitHub together
-Adding a line for rebasing, more changes for myfeature branch
+Updating line
 
 ## Introduction
 
