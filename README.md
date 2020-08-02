@@ -21,3 +21,6 @@ This is a web project
 
 ## How To Contribure
 
+## Copyright
+
+Git.training
