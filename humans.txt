@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Alan Gonzalez   Engagement and Release Manager  alangonzalez7@hotmail.com
 
 # THANKS
 
