@@ -15,3 +15,7 @@ Sample website with plenty of files for demos
 Sample Deployment text
 
 ## How To Contribute
+
+## Copyright
+
+Copyright AG
