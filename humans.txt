@@ -3,7 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ryan Milton ryan.milton@icloud.com rdm1860
+	
 
 # THANKS
 
