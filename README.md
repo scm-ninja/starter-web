@@ -8,6 +8,8 @@ As stated above, the main purpose is to show an example.
 This is a simple web project, deployment can be for any web server.
 ## How to Contribute
 
+Please fork this repository and then issue Pull Requests for review.
+
 ##Copyright
 
 2020 Git.Training
