@@ -7,3 +7,7 @@ As stated above, the main purpose is to show an example.
 ## Deployment
 This is a simple web project, deployment can be for any web server.
 ## How to Contribute
+
+##Copyright
+
+2020 Git.Training
