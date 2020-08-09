@@ -1,5 +1,5 @@
 # Starter Web Project
-This is a simpole website for using Git and understanding how Github works.
+This is a simpole website for using Git and understanding how Github works. Adding one line of text.
 ## Introduction
 This is an example to show differnt parts of the Git repository.
 ## Purpose
@@ -13,3 +13,7 @@ Please fork this repository and then issue Pull Requests for review.
 ##Copyright
 
 2020 Git.Training
+
+##Troubleshooting
+
+This is the tshoot section
