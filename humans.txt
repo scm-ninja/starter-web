@@ -5,6 +5,7 @@
 
     Alpha   alpha   alpha@twitter
     Beta    beta    beta@twitter
+    Gamma   gamma   gamma@twitter
 
 # THANKS
 
