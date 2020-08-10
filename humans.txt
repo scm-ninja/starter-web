@@ -4,6 +4,7 @@
 # TEAM
 
     Alpha   alpha   alpha@twitter
+    Beta    beta    beta@twitter
 
 # THANKS
 
