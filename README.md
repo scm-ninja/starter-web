@@ -7,7 +7,7 @@ Adding text for rebasing; more changes from rebase feature branch.
 
 Sample website with plenty of files for demos
 
-Adding a commit in the local repository.
+Adding a commit in the local repository. Emergency break fix after stashing.
 
 ## Testing
 How do you test this and feel comfortable that all is well.
