@@ -9,3 +9,4 @@ Sample website with plenty of files for demos
 ### Activities
 
 - social coding
+- github workflow
