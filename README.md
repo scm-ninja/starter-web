@@ -18,3 +18,5 @@ It is a difficult ask. Let us not test.
 How do we manage deployment for this product so that we have peacefull weekends.
 
 Awesome Application; adding more changes by parking the long uow.
+
+Direct edit
