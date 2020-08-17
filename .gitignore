@@ -1,3 +1,4 @@
 .some_system_file
 *.log
 log/
+*.orig
