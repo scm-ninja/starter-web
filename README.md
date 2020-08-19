@@ -17,3 +17,6 @@ Added few lines and I am not either commit it or staged it.
 ## Purpose
 
 Sample website with plenty of files for demos
+
+## Adding copywright
+Adding copywright here
