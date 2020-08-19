@@ -8,3 +8,5 @@ Sample website with plenty of files for demos
 
 
 Thank you very much for this incredible tutorial.
+
+There may be smth. better.
