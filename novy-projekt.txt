@@ -1,0 +1,26 @@
+Basic Commands
+Completely Fresh
+Command Listing
+pwd
+cd projects
+pwd
+git init fresh-project # replace with name of your project
+ls
+cd fresh-project
+ls
+ls -al
+cd .git
+ls
+cd ..
+pwd
+git status
+mate hipster.txt
+git status
+git add hipster.txt
+git status
+git commit
+git status
+cd ..
+pwd
+ls
+rm -rf fresh-projects
