@@ -1,3 +1,5 @@
 # robotstxt.org/
 adding something for codediff in only one file
 User-agent: *
+
+Adding line in robots
