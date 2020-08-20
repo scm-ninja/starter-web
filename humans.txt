@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Vladimír Růžička  ruza@git.training  @ruza
 
 # THANKS
 
