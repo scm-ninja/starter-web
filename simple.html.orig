@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<!--
+	Copyright 2020 Git.Training
+<<<<<<< HEAD
+	Some silly changes from master branch
+=======
+	These changes are from the feature branch bigtrouble
+>>>>>>> 6820238... fb adding some trouble to simple.html
+-->
+<head>
+<<<<<<< HEAD
+	<title>Silly changes on Master</title>
+=======
+	<title>A Great Website</title>
+>>>>>>> realwork
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<style>
+		body {
+			padding-top: 50px;
+			padding-bottom: 20px;
+		}
+	</style>
+	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+</head>
+<body>
+	<main class="container">
+	<!-- Junk Filler Content -->
+		<p>
+<<<<<<< HEAD
+			Just stuff for now,
+			Not sure if we should replace this or not
+=======
+<<<<<<< HEAD
+			Just nothing but trouble.
+>>>>>>> 6820238... fb adding some trouble to simple.html
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy;Jason Tylor 2020</p>
+=======
+			Some interesting stuff goes here
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; Git Training 2020</p>
+>>>>>>> realwork
+	</footer>
+</body>
+</html>
