@@ -12,3 +12,5 @@ This is copy righted material
 Please fork this repository to 
 
 Adding some more text gfor practice
+
+All rightds reserved
