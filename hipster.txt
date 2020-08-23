@@ -1,1 +1,1 @@
-This is a hipster text file to test commit and push commands
+Updating hipster.txt file.
