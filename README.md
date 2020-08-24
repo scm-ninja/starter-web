@@ -1,7 +1,21 @@
-# Starter Web Repo
+# Starter Web Project
 
-This repository is for showing how Git and GitHub work
+Updating for emergency fix after stashing.
+
+## Introduction
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos.
+
+## Updates from Dev 1
+
+## Deployment
+
+## How to contribute
+
+please fork this repository and then issue pull request for review.
+
+### Copyright
+
+2020 Git.Training. All rights reserved.

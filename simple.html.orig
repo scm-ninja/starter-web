@@ -1,13 +1,17 @@
 <!DOCTYPE html>
 <!--
 	Copyright 2020 Git.Training
+<<<<<<< HEAD
 	Some silly changes from master branch
+=======
+	These changes are from the feature branch bigtrouble
+>>>>>>> 6820238... fb adding some trouble to simple.html
 -->
 <head>
 <<<<<<< HEAD
-	<title>Updating Title for Tagging Compare Example</title>
+	<title>Silly changes on Master</title>
 =======
-	<title>Lots of Trouble, in a little repo</title>
+	<title>A Great Website</title>
 >>>>>>> realwork
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
@@ -22,7 +26,13 @@
 	<main class="container">
 	<!-- Junk Filler Content -->
 		<p>
-			Adding more important content here.
+<<<<<<< HEAD
+			Just stuff for now,
+			Not sure if we should replace this or not
+=======
+<<<<<<< HEAD
+			Just nothing but trouble.
+>>>>>>> 6820238... fb adding some trouble to simple.html
 		</p>
 	</main>
 	<footer class="container">
@@ -32,7 +42,7 @@
 		</p>
 	</main>
 	<footer class="container">
-		<p>&copy; 2014 Git.Training, All rights reserved.</p>
+		<p>&copy; Git Training 2020</p>
 >>>>>>> realwork
 	</footer>
 </body>
