@@ -6,7 +6,9 @@ Updating for emergency fix after stashing.
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos.
+
+## Updates from Dev 1
 
 ## Deployment
 
