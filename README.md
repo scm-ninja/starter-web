@@ -7,4 +7,6 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 
-Adding stuff because the readma already existed.
+Adding stuff because the readme already existed.
+
+Just adding more stuff...
