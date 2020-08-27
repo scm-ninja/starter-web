@@ -2,6 +2,8 @@
 
 This is a simple website project for showing how to use Git and Github together. 
 Adding a line for rebasing example, the more changes from my feature branch too. 
+Update: emerency fix after our stash. 
+
 
 ## Intruduction
 
