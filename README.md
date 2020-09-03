@@ -3,8 +3,11 @@
 
 ## Introduction
  
+ This is example to show different partes of the Git repository and virous command using web projects
+ 
  
 ## Purpose
+
 
 ## Deploymnet
 
