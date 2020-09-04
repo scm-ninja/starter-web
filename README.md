@@ -5,3 +5,5 @@ This repository is for showing how Git and GitHub work
 ## Purpose (_CONSEQUENCES_)
 
 Sample website with plenty of files for demos
+
+Just a __little__ bit more content
