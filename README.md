@@ -7,11 +7,11 @@ This is an introduction
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos. Nice.
 
 ## Deployment
 
-Deploy!
+Deploy! Hey, wait...
 
 ## How to contribute
 
