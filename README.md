@@ -4,4 +4,4 @@ The modification of the current repository is for showing how Git and GitHub wor
 
 ## Purpose
 
-Sample website with plenty of files for demos
+My Sample website with plenty of files for demos
