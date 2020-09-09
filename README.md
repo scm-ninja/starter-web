@@ -8,6 +8,7 @@ Sample website with plenty of files for demos
 
 ##Introduction
 This is the project we are using as a sample project.
+Adding git commands 
  
 #starter web-project
 THis is Git project. 
@@ -20,3 +21,4 @@ Comparison with Repo
  
 ##Contribution
 fork the repo and pull request for review 
+ 
