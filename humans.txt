@@ -10,7 +10,7 @@
 
 # THANKS
 
-    <name>
+    <Rina Kumari
 
 # TECHNOLOGY COLOPHON
 
