@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<!--
+	Copyright 2014 Git.Training
+-->
+head>
+<<<<<<< HEAD
+	<title>A very Respectful Website! </title>
+=======
+	<title>An Great Website! </title>
+>>>>>>> realwork
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<style>
+		body {
+			padding-top: 50px;
+			padding-bottom: 20px;
+		}
+	</style>
+	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+</head>
+<body>
+	<main class="container">
+	<!-- Content Goes Here -->
+		<p>
+<<<<<<< HEAD
+			I am not sure what will go here but I am sure it will be nice.
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; Jason Taylor 2014</p>
+=======
+			Some interesting stuff goes here
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; Git training 2014</p>
+>>>>>>> realwork
+	</footer>
+</body>
+</html>
