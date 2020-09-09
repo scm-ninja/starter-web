@@ -17,3 +17,6 @@ here we are showing the difference between working area and staging area
 
 ##GitHub Content
 Comparison with Repo
+ 
+##Contribution
+fork the repo and pull request for review 
