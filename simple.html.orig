@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <!--
 	Copyright 2014 Git.Training
-	adding changing before rebasing
-	
 -->
 head>
-	<title>Updating title for tagging compare example </title>
+<<<<<<< HEAD
+	<title>A very Respectful Website! </title>
+=======
+	<title>An Great Website! </title>
+>>>>>>> realwork
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
@@ -19,15 +21,19 @@ head>
 	<main class="container">
 	<!-- Content Goes Here -->
 		<p>
-			Just some content
-			Some interesting stuff goes here
+<<<<<<< HEAD
 			I am not sure what will go here but I am sure it will be nice.
 		</p>
 	</main>
 	<footer class="container">
-		<p>&copy; Company 2014</p>
-		<p>&copy; Git training 2014</p>
 		<p>&copy; Jason Taylor 2014</p>
+=======
+			Some interesting stuff goes here
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; Git training 2014</p>
+>>>>>>> realwork
 	</footer>
 </body>
 </html>
