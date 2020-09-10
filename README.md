@@ -12,6 +12,7 @@ Adding git commands
  
 #starter web-project
 THis is Git project. 
+Git is a distributed VCS.
 
 ##Git Comparison
 here we are showing the difference between working area and staging area
@@ -23,4 +24,5 @@ Comparison with Repo
 fork the repo and pull request for review 
 
 we have done so much of work together
+
  
