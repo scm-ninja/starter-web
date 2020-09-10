@@ -30,4 +30,5 @@ we have done so much of work together
 =======
 ##
  
->>>>>>> mybranch
+mybranch
+Adding git stash commands
