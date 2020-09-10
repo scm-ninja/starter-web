@@ -17,6 +17,7 @@ Doing some changes here
     <Rina Kumari
 	ECE
 	thanks to all my students.
+	i am a new learner
 <<<<<<< HEAD
 	Devops Engineer level3
 
