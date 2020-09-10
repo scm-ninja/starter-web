@@ -22,7 +22,12 @@ Comparison with Repo
  
 ##Contribution
 fork the repo and pull request for review 
+<<<<<<< HEAD
 
 we have done so much of work together
 
  
+=======
+##
+ 
+>>>>>>> mybranch

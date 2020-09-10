@@ -7,14 +7,21 @@
 	Rina kumari
 	zaizayesha66@gmail.com
 	SE
+<<<<<<< HEAD
 Doing some changes here
+=======
+>>>>>>> mybranch
 # THANKS
 
     <Rina Kumari
 	ECE
 	thanks to all my students.
+<<<<<<< HEAD
 	Devops Engineer level3
 
+=======
+	Devops Engineer level 3
+>>>>>>> mybranch
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
