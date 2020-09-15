@@ -11,3 +11,6 @@ XYZ
 
 ## How to Contribute
 XYZ123456
+
+## Copyright
+Blah
