@@ -10,7 +10,7 @@ Sample website with plenty of files for demos
 
 #Test
 
-This is test changes
+This is test changes from master branch
 
 #Copyright
 
