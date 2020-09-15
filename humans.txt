@@ -3,7 +3,7 @@
 
 # TEAM
 
-    Dhiren Dhinoja QA dhirendhinoja
+    Dhirenkumar Dhinoja QA dhirendhinoja
 
 # THANKS
 
