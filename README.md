@@ -8,7 +8,7 @@ Sample website with plenty of files for demos.
 
 ## Deployment
 XYZ
-Rebasing example
+Rebasing example, more changes from my feature branch.
 
 ## How to Contribute
 XYZ123456
