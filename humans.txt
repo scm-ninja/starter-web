@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Stephane Koman stefchris2@gmail.com @stefchris
 
 # THANKS
 
