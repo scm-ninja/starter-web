@@ -1,7 +1,3 @@
-# Starter Web Repo
+This file is for showing how git and GitHub works
 
-This repository is for showing how Git and GitHub work
-
-## Purpose
-
-Sample website with plenty of files for demos
+Add more lines
