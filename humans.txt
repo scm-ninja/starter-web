@@ -3,13 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    RDG
 
 # THANKS
 
-    <name>
+    Thanks to the world
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+    New text for stashing
+    More stuff to stash
