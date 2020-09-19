@@ -17,3 +17,4 @@ blah
 
 ## Copyright
 Blah
+All rights reserved
