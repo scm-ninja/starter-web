@@ -3,13 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ryan Milton ryan.milton@icloud.com rdm1860
+	
 
 # THANKS
 
-    <name>
+    Everyone in the world. Please leave a review.
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+    Network Engineer
