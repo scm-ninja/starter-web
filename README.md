@@ -9,4 +9,6 @@ This is just a sample website with plenty of files for demos
 ### Just checking
 blah.
 second time.
+Prepare file for comparison
+Tahts the last one
 ### Deployment
