@@ -3,8 +3,13 @@
 
 # TEAM
 
+<<<<<<< HEAD
 12    Maksym Kryklyvets 	wermax23
-1
+
+=======
+123    Maksym Kryklyvets 	wermax23
+
+>>>>>>> second
 # THANKS
 
     <name>
