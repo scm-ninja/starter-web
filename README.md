@@ -12,3 +12,6 @@ second time.
 Prepare file for comparison
 Tahts the last one
 ### Deployment
+
+## Copyright
+git practice 09/21/2020
