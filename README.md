@@ -13,3 +13,4 @@ Prepare file for comparison
 Tahts the last one
 ### Deployment
 
+### Copyright
