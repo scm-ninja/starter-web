@@ -13,8 +13,3 @@ Prepare file for comparison
 Tahts the last one
 ### Deployment
 
-## Copyright
-git practice 09/21/2020
-
-Added changes to masetr before merge !!!!!!!!!!
-Today is 09/22/2020
