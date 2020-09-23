@@ -8,6 +8,7 @@ Adding imp notes on git stash
 	Rina kumari
 	zaizayesha66@gmail.com
 	SE
+	Agiliad
 <<<<<<< HEAD
 Doing some changes here
 =======
