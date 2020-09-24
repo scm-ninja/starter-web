@@ -2,7 +2,6 @@
    $$$$$$$$$$$$$$$$$
 
    # Starter Web Repo
->>>>>>> Stashed changes
 Adding a line for rebasing, then more changes from my feature branch.
 
 This is very simple repository is for showing how Git and GitHub work
