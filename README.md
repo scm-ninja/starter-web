@@ -15,6 +15,4 @@ Tahts the last one
 ### Deployment
 
 ### Copyright was here
-was modified
-All rights reserved
-End of the day.
+STASH
