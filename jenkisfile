@@ -1,0 +1,31 @@
+pipeline {
+      agent any
+      stages {
+            stage('Init') {
+                  steps {
+                        echo 'Hi, this is Rina from your team'
+                        echo 'We are initialising the project'
+                  }
+            }
+            stage('Build') {
+                  steps {
+                        echo 'Building the Project'
+                  }
+            }
+            stage('Deploy Staging Environment') {
+                  steps {
+                        echo "Deploying in Staging Area"
+                  }
+            }
+            stage('Deploy Production Environment') {
+                  steps {
+                        echo "Deploying in Production Area"
+                  }
+            }
+             stage('Creating Docker image') {
+                  steps {
+                        echo "docker image is creating"
+                  }
+            }
+      }
+}
