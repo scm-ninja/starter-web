@@ -1,15 +1,32 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
+Adding imp notes on git stash
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+    <name> -- Ayesha Gupta -- <twitter>
+	Rina kumari
+	zaizayesha66@gmail.com
+	SE
+	Agiliad
+<<<<<<< HEAD
+Doing some changes here
+=======
+>>>>>>> mybranch
 # THANKS
 
-    <name>
+    <Rina Kumari
+	ECE
+	thanks to all my students.
+	i am a new learner
+<<<<<<< HEAD
+	Devops Engineer level3
 
+=======
+	Devops Engineer level 3
+>>>>>>> mybranch
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+    Ajax,Jquery
