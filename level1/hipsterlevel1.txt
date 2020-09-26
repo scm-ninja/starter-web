@@ -11,4 +11,4 @@ this is some text for hipster level one of the text
 
 
 
-some changes to be reset after head are ( your letters here) 
+some changes to be reset after head are ( ) 
