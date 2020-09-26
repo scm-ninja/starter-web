@@ -13,3 +13,7 @@ This is a simple website project for sho wing how to use git and github together
 ## Deployment
 
 
+### Copyright
+Git Training
+
+
