@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <head>
-	<title>A Title Change Implementation</title>
+<<<<<<< HEAD
+	<title>A Change Implementation</title>
+=======
+	<title>A Final version Title Change Implementation</title>
+>>>>>>> simple-branch
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
@@ -14,11 +18,7 @@
 	<main class="container">
 	<!-- Content Goes Here -->
 		<p>
-<<<<<<< HEAD
 			Just some final content
-=======
-			Just some additional content
->>>>>>> simple-html
 		</p>
 	</main>
 	<footer class="container">
