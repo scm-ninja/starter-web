@@ -3,8 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+Utkarsha Paul    paul@gmail.com @pauljeet
 # THANKS
 
     <name>
