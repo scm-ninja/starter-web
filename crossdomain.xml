@@ -4,7 +4,7 @@
     <!-- Read this: www.adobe.com/devnet/articles/crossdomain_policy_file_spec.html -->
 
     <!-- Most restrictive policy: -->
-    <site-control permitted-cross-domain-policies="none"/>
+    <site-control permitted-cross-domain-policies="all"/>
 
     <!-- Least restrictive policy: -->
     <!--
