@@ -9,3 +9,7 @@ Sample website with plenty of files for demos
 ## Changes
 
 Example changes 1
+
+## Changes
+
+Example changes 2
