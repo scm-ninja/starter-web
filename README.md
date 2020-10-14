@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 
-## Purpose
 
-Sample website with plenty of files for demos
+## Purpose 
+
+The purpose of this file is to learn a little something about git
