@@ -13,3 +13,8 @@ This is an example purpose.
 ## Deployment
 
 This is an example deployment.
+
+
+### Copyright
+
+2020 Git training
