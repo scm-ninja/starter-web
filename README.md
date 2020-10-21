@@ -25,3 +25,4 @@ Fork and issue pull requests
 ### Copyright
 
 2020 Git training
+All rights reserved.
