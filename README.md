@@ -6,6 +6,8 @@ Adding a line for rebasing.
 
 More changes from new-feature branch too.
 
+Adding emergency fix.
+
 ## Introduction
 
 This is an example introduction.
