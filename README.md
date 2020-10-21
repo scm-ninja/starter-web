@@ -14,6 +14,9 @@ This is an example purpose.
 
 This is an example deployment.
 
+## How to Contribute
+
+Fork and issue pull requests
 
 ### Copyright
 
