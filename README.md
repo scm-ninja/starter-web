@@ -2,6 +2,8 @@
 
 This repository is for showing how Git and GitHub work
 
+Adding a line for rebasing.
+
 ## Introduction
 
 This is an example introduction.
