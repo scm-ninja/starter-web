@@ -13,5 +13,6 @@ Sample website with plenty of files for demos
 
 Sample deployment
 ## How to Contribute
+Please for this repo.
 
 2020 Git.Training.
