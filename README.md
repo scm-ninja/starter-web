@@ -16,4 +16,4 @@ Sample deployment
 ## How to Contribute
 Please for this repo.
 
-2020 Git.Training.
+2020 Git.Training. All rights reserved.
