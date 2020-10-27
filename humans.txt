@@ -3,13 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Benjamin Cotton    ben_cotton_123
 
 # THANKS
 
-    <name>
+    To all my students
+	I wish you all the very best for whatever you go on to do. You're all awesome.
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	Git
