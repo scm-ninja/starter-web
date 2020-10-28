@@ -5,4 +5,4 @@ This repository is for showing how Git and GitHub work
 ## Purpose
 
 Sample website with plenty of files for demos
-* On local branch
+* On local branch with title on simple.html page
