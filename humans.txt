@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    David McDonagh
 
 # TECHNOLOGY COLOPHON
 
