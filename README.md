@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 
-More text content
+More text content, more changes from myfeature branch too. 
 
 ## Purpose
 
