@@ -12,8 +12,8 @@ More text content, more changes from myfeature branch too.
 
 ## Purpose
 
-Sample website with plenty of files for demos
-
+Sample website wierarfafasdfasdfth plenty of files for demos
+e
 ## copyright
 2020 GIT Training
 
