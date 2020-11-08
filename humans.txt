@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Steve Hall    me@here.com    oclipa
 
 # THANKS
 
