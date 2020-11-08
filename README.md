@@ -21,3 +21,8 @@ Gues, what?  More text!
 ## Section 3
 
 This will be the third section
+
+
+### Copyright
+
+2020 Copyright
