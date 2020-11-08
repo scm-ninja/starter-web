@@ -27,4 +27,4 @@ Wow, so much info!
 
 ### Copyright
 
-2020 Copyright
+2020 Steve Hall.  All rights reserved.
