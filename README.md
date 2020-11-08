@@ -10,6 +10,10 @@ Sample website with plenty of files for demos
 
 This will be the second section
 
+## Section 2a
+
+This will be another section
+
 ## Section 3
 
 This will be the third section
