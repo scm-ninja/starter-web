@@ -10,11 +10,13 @@ And yet more test.
 
 ## Section 2
 
-This will be the second section
+This will be the second section.
+And, again, some more text.
 
 ## Section 2a
 
-This will be another section
+This will be another section.
+Gues, what?  More text!
 
 ## Section 3
 
