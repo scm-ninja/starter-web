@@ -9,5 +9,6 @@ This is a simple introduction.
 ## Deployment
 
 ## How To Contribute
+Please fork this repository and then issue pull requests for review.
 
 ## Copyright
