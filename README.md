@@ -9,3 +9,5 @@ This is a simple introduction.
 ## Deployment
 
 ## How To Contribute
+
+## Copyright
