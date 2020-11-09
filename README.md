@@ -1,11 +1,11 @@
 # Starter Web Project
-This is a simple web project designed to illustrate the operations of Git and Github
+This is a simple web project designed to illustrate the operations of Git and Github.
 
 ## Introduction
 This is a simple introduction.
 
 ## Purpose
-Adding a line for rebasing example.
+Adding a line for rebasing example. Adding another line in featureBranch.
 
 ## Deployment
 
