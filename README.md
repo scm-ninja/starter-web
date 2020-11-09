@@ -5,6 +5,7 @@ This is a simple web project designed to illustrate the operations of Git and Gi
 This is a simple introduction.
 
 ## Purpose
+Adding a line for rebasing example.
 
 ## Deployment
 
