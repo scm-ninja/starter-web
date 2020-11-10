@@ -13,3 +13,4 @@ Adding a line for rebasing example. Adding another line in featureBranch.
 Please fork this repository and then issue pull requests for review.
 
 ## Copyright
+Additional copyright information.
