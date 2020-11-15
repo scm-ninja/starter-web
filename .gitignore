@@ -1,2 +1,4 @@
 *.log
 log/
+.DS_Store
+*.orig
