@@ -13,6 +13,7 @@ As stated above, the main purpose is to provide simple example of Git functional
 This is a simple web project, not for real life deployment but in order to practice using Git  
 
 ## How To Contribute
+Please fork this repo and then issue Pull request for review.
 
 ### Copyright
 2020 Git.Training
