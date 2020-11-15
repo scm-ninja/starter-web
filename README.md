@@ -13,3 +13,6 @@ As stated above, the main purpose is to provide simple example of Git functional
 This is a simple web project, not for real life deployment but in order to practice using Git  
 
 ## How To Contribute
+
+### Copyright
+2020 Git.Training
