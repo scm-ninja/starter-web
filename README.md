@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
-Adding a line for rebasing exanole
+Adding a line for rebasing example, will add just some more text
 
 ## Introduction 
 This is example of how different parts of the Git repository works with various commands for a web projects 
