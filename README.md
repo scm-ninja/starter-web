@@ -17,4 +17,4 @@ This is a simple web project, not for real life deployment but in order to pract
 Please fork this repo and then issue Pull request for review.
 
 ### Copyright
-2020 Git.Training
+2020 Git.Training. All rights reserved.
