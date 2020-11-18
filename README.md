@@ -8,7 +8,7 @@ This is example of how different parts of the Git repository works with various 
 
 ## Purpose
 
-As stated above, the main purpose is to provide simple example of Git functionality. Did some fix to the stash  
+Testing different branches
 
 ## Deployement 
 This is a simple web project, not for real life deployment but in order to practice using Git  
