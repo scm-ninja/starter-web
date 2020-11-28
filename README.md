@@ -13,7 +13,7 @@ As stated Above, the main purpose is to provide simple examples for git training
 This is a simple web Project, deployment can be on any web server or even local File System.
 
 ##How To Contribute
-
+Please fork this Repository and then issue pull Requests for Review
 
 ##CopyRight
 
