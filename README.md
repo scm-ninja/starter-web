@@ -13,3 +13,8 @@ As stated Above, the main purpose is to provide simple examples for git training
 This is a simple web Project, deployment can be on any web server or even local File System.
 
 ##How To Contribute
+
+
+##CopyRight
+
+2020 Git.Training
