@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    GamerX     Gamerx@git.training  @awesomeGX 
 
 # THANKS
 
