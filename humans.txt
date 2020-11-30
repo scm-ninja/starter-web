@@ -3,6 +3,7 @@
 
 # TEAM
 
+  rohith --<developer>-- @rohithtwitter
     <name> -- <role> -- <twitter>
 
 # THANKS
