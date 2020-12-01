@@ -3,13 +3,15 @@
 
 # TEAM
 
+  rohith --<developer>-- @rohithtwitter
     <name> -- <role> -- <twitter>
 
 # THANKS
-
+  All my students welcome
     <name>
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+    GIT
