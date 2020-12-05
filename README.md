@@ -14,6 +14,7 @@ Sample website with plenty of files for demonstration.
 Deployment done by server
 
 ## How to contribute
+Please fork this repository and then issue Pull requests for review
 
 ## Copyright
 
