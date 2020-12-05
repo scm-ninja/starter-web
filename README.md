@@ -14,3 +14,7 @@ Sample website with plenty of files for demonstration.
 Deployment done by server
 
 ## How to contribute
+
+## Copyright
+
+2014 Git.Training
