@@ -12,3 +12,7 @@ reprosity fuction purposes
 ## How to contribute
 
 Take file Repository sdsdgs
+
+###Copywrite
+
+git.traning
