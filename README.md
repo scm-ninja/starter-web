@@ -1,6 +1,7 @@
 # Starter Web Repository
 
-show the reprosity
+show the reprosity.
+Adding some lines for examples
 
 ## Introduction
 how it can be done
