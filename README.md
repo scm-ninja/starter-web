@@ -1,7 +1,7 @@
 # Starter Web Repository
 
 show the reprosity.
-Adding some lines for examples, more changes
+Adding some lines for examples, update a lines
 
 ## Introduction
 how it can be done
