@@ -16,4 +16,4 @@ Take file Repository
  please frok this reprosity
 ###Copywrite
 
-git.traning
+git.traning,shamsi nasir
