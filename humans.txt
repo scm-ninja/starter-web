@@ -3,13 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Shamsi Arshiyan 
 
 # THANKS
-
-    <name>
+   All my students
+    Please review if you like this close
+	
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
+	git.technology
     jQuery, Modernizr
