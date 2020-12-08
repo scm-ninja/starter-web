@@ -1,6 +1,6 @@
 # Starter Web Repository
 
-show the reprosity.
+
 Adding some lines for examples, update a lines
 
 ## Introduction
@@ -14,6 +14,3 @@ reprosity fuction purposes
 
 Take file Repository 
  please frok this reprosity
-###Copywrite
-
-git.traning,shamsi nasir
