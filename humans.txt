@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    Thanks to glumpy!
 
 # TECHNOLOGY COLOPHON
 
