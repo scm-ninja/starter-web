@@ -16,3 +16,7 @@ As stated above, the main purpose is to provide a simple example.
 This is a simple web project, deployment can be on any web server or local test server.
 
 ## How To Contribute
+
+### Copyright
+
+Hias.Glumper
