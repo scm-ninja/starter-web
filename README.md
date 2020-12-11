@@ -22,4 +22,4 @@ Please fork this repo and then issue Pull Requests for review.
 
 ### Copyright
 
-Hias.Glumper
+Hias.Glumper All rights reserved.
