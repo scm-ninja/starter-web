@@ -21,4 +21,4 @@ Fork the repository and then issue pull requests for review.
 
 ### Coypright
 
-2020 KL
+2020 KL All rights reserved.
