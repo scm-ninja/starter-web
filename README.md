@@ -4,6 +4,8 @@ This is a simple website project for showing hot wo use Git and Github.
 
 Adding a line for rebasing example, then more changes for myfeature branch too.
 
+Updating an emergency fix.
+
 ## Introduction
 
 This is an example to show different parts of the Git repository and various commands using a web project.
