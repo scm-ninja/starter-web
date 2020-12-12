@@ -14,3 +14,4 @@ Please leave a review
 
     HTML5, CSS3
     jQuery, Modernizr
+    Git
