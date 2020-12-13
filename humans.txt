@@ -3,13 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    KL	k@l.lv
 
 # THANKS
 
-    <name>
+    To the lecturer.
+	Extra text.
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	Git
