@@ -18,4 +18,7 @@ Sample website with plenty of files for demos
 
 Escribo algo en contribute.
 
-Y un poco más que estara solo en el Working Directory.
+Y un poco más que estara solo en el Working Directory
+
+## CopyRight
+Esta es la seccion de Copyright
