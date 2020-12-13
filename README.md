@@ -18,4 +18,4 @@ This is a simple web project
 
 ## Copyright
 
-Git.Training.2014 Tatiana
+Git.Training.2020
