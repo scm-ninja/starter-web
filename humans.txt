@@ -3,6 +3,8 @@
 
 # TEAM
 
+	Tatiana Kuzovkova QA @QATanya
+
     <name> -- <role> -- <twitter>
 
 # THANKS
