@@ -15,3 +15,7 @@ This is another example.
 This is a simple web project
 
 ## How To Contribute
+
+## Copyright
+
+Git.Training.2014
