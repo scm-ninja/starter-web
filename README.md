@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work together
 
 ## Introduction
 
-Esto es una intro
+Esto es una intro. Mas texto para probar el rebasing.
 
 ## Deployment
 
