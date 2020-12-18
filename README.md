@@ -1,6 +1,6 @@
 # Starter Web
 
-This is a simple website project for showing how to use GIT. Okay
+This is a simple website project for showing how to use GIT. Okay, now more changes from my feature branch
 
 ## Introduction
 
