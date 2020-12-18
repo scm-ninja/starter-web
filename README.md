@@ -1,6 +1,6 @@
 # Starter Web
 
-This is a simple website project for showing how to use GIT
+This is a simple website project for showing how to use GIT. Okay
 
 ## Introduction
 
