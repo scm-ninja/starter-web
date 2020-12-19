@@ -20,4 +20,5 @@ Please fork this repository and then issue pull request for review
 
 ## Copyright
 
-Git.Training.2020 All rights reserved
+Git.Training.2021 All rights reserved
+More copyright notices
