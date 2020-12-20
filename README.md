@@ -21,4 +21,4 @@ Escribo algo en contribute. Escribo algo más para ver las branches no-happy.
 Y un poco más que estara solo en el Working Directory
 
 ## CopyRight
-Esta es la seccion de Copyright
+Esta es la seccion de Copyright. All rights reserved.
