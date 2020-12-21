@@ -1,6 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work together
+Algo mas despues de STASH
 
 ## Introduction
 
