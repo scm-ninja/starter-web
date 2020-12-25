@@ -23,3 +23,6 @@ Y un poco más que estara solo en el Working Directory
 
 ## CopyRight
 Esta es la seccion de Copyright. All rights reserved.
+
+## Otra seccion mas 
+Esto es otra seccion para ver  diff de ramas en GitGub.
