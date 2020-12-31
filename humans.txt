@@ -3,13 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Siripod s. -- Project Manager -- no twitter
 
 # THANKS
 
-    <name>
+    All my students
+Please leave a review
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+    Git
