@@ -3,6 +3,7 @@
 
 # TEAM
 
+	Kris Matzi
     <name> -- <role> -- <twitter>
 
 # THANKS
