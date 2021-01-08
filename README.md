@@ -2,7 +2,8 @@
 
 This is a simple project used to understand Git and Github
 
-Adding some text to understand rebasing
+Adding some text to understand rebasing, 
+more changes from newfeature branch 
 
 ## Introduction
 
