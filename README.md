@@ -2,6 +2,8 @@
 
 This is a simple project used to understand Git and Github
 
+Adding some text to understand rebasing
+
 ## Introduction
 
 This is to help learn Git workflow
