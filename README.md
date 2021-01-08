@@ -8,7 +8,7 @@ Sample website with plenty of files for demos
 
 ## How to contribute
 
-Check our google mail link.
+Check our google mail link. fork the repository as well
 
 ## Contact Us
 
