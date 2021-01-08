@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    Thanks to Udemy for the very informative git course 
 
 # TECHNOLOGY COLOPHON
 
