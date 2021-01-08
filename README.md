@@ -8,8 +8,8 @@ Sample website with plenty of files for demos
 
 ## How to contribute
 
-Check our google drive link
+Check our google mail link.
 
 ## Contact Us
 
-+91-123445929, abc@xyz.com
++91-123445929, abc@xyz.com, sid@abc.com
