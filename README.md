@@ -13,3 +13,7 @@ Check our google mail link.
 ## Contact Us
 
 +91-123445929, abc@xyz.com, sid@abc.com
+
+### Copyright
+
+Copyright 2014. GIT Training
