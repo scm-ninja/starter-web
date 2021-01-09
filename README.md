@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work. Adding more lines. Some more lines. stashing changes
+This repository is for showing how Git and GitHub work. Adding more lines. Some more lines. stashing changes. branch stashing changes
 
 ## Purpose
 
