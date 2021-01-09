@@ -12,6 +12,8 @@ Check our google mail link. fork the repository as well
 
 ## Contact Us
 
+All rights reserved.
+
 +91-123445929, abc@xyz.com, sid@abc.com
 
 ### Copyright
