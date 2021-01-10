@@ -19,3 +19,5 @@ All rights reserved.
 ### Copyright
 
 Copyright 2014. GIT Training
+
+### Updates from DEV 1
