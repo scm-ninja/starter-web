@@ -7,7 +7,7 @@
 
 # THANKS
 
-    Thanks to Udemy for the very informative git course 
+    Thanks to Udemy for the very informative git course!!!
 
 # TECHNOLOGY COLOPHON
 
