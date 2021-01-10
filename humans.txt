@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    SID -- SDE -- abc
 
 # THANKS
 
@@ -13,3 +13,4 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+	Git
