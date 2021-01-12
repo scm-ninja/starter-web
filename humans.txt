@@ -9,6 +9,7 @@
 
     to all
 	stash
+	stash branch
 
 # TECHNOLOGY COLOPHON
 
