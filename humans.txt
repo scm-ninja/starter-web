@@ -4,7 +4,7 @@
 # Changes for multiple stashes 
 # these are changes for stashing into a branch
 
-# TEAM
+# TEAM 
 
 	Kris Matzi
     <name> -- <role> -- <twitter>
