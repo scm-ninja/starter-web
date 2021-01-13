@@ -3,11 +3,13 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   aleena santo 53059 alee
 
 # THANKS
 
-    <name>
+    to all
+	stash
+	stash branch
 
 # TECHNOLOGY COLOPHON
 
