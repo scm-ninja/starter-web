@@ -26,6 +26,11 @@ Please fork this repository and then issue pull requests for review
 
 :)
 
+#REBASE
+
+This is rebase example
+
+
 ###Copyright
 
 2021 Git.Training.
