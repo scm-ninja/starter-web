@@ -28,7 +28,7 @@ Please fork this repository and then issue pull requests for review
 
 #REBASE
 
-This is rebase example
+This is rebase example. More changes from myfeature branch too.
 
 
 ###Copyright
