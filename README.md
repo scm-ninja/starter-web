@@ -22,6 +22,8 @@ This is Deployment
 
 THis is Contribution
 
+Please fork this repository and then issue pull requests for review
+
 :)
 
 ###Copyright
