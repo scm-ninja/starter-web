@@ -1,7 +1,11 @@
-# Starter Web Repo
-
-This repository is for showing how Git and GitHub work
-
+# Starter Web Project
+##Random
+## Introduction
+To understand Git and Github
 ## Purpose
-
-Sample website with plenty of files for demos
+To learn basic Git commands, branches, pull request, merge
+## Deployment
+There are serveral ways to deploy this project
+## How to Contribute
+#### Copyright
+2014 Git.Training
