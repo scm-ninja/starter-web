@@ -3,13 +3,14 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Yashwanth H L yashwanthhl257@gmail.com @yash025
 
 # THANKS
 
-    <name>
+    Thanks to Udemy for the very informative git course!!!
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+Adding some text to understand tagging
