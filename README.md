@@ -12,6 +12,8 @@ Sample website with plenty of files for demos
 
 This is Introduction
 
+##Updates from Dev 1
+
 ## Purpose
 
 This is purpose
