@@ -14,3 +14,7 @@ As stated above, the main purpose is to provide simple example
 
 This is a simple web project
 ## How to contribute
+
+#### Copyright
+
+2021 Git.Training
