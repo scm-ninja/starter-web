@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Arvi Singh arvinderbir@gmail.com
 
 # THANKS
 
