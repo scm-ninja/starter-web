@@ -15,6 +15,7 @@ As stated above, the main purpose is to provide simple example
 This is a simple web project
 ## How to contribute
 
+Please fork this repo and then issue pull request for review
 #### Copyright
 
 2021 Git.Training
