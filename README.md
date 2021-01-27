@@ -8,7 +8,7 @@ This is a sample website with plenty of files for demos, Modification 2
 
 ## How to Contribute
 
-This is the Contribution, Modification 3, modify again
+This is the Contribution
 
 ### Copyright
 Copyright 2021
