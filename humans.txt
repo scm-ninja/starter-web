@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Hussein Soboh -- Software engineer -- hussein@email.com
 
 # THANKS
 
-    <name>
+    Thanks to Hussein Stash change
 
 # TECHNOLOGY COLOPHON
 
