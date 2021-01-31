@@ -7,3 +7,4 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 This is the creation of the readme file in the new branch of the forked project.
+*making some changes*
