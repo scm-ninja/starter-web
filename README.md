@@ -8,6 +8,10 @@ This is an example to show the different parts of the git repository and their  
 
 ## Purpose 
 
+The main purpose is to teach students simple ways to teach git and github.
+
 ## Adding a Deployment file.
+
+This is a simple deployment which can be deployed in any server i.e Webserver.
 
 ## How to Contribute.
