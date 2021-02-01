@@ -6,4 +6,5 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos,  
 
-This change on this file has been added _*for learning purposes*_.
+This change on this file has been added _*for learning purposes*_    
+,again locally.
