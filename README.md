@@ -16,6 +16,8 @@ This is a simple deployment which can be deployed in any server i.e Webserver.
 
 ## How to Contribute.
 
+please fork this repository and raise a pull request for review.
+
 ## copyright
 
 This i added the copyright.
