@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Wilson WilsonKuo85@gmail.com
 
 # THANKS
 
