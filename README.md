@@ -24,4 +24,4 @@ Updating for emergency fix after stashing
 2014 Git.Training. 
 Adding more change from my featute branch
 emergeny fix
-test-branch courde gogogo
+test-branch course gogogo
