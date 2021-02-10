@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Olga Slazarska	o.slazarska@gmail.com	slazarska
 
 # THANKS
 
