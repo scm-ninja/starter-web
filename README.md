@@ -6,10 +6,15 @@
 
 ##Deployment
 
+#commited
+
+
 
 ## How to Contribute
 
 #Description
+
+#staged text
 
 
 This repository is for showing how Git and GitHub work
