@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Youngsu, dudtn816@gmail.com
 
 # THANKS
 
@@ -12,4 +12,4 @@
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
-    jQuery, Modernizr
+    jQuery, Moderniz:
