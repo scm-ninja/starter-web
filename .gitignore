@@ -1,2 +1,7 @@
 hipst.txt
 .DS_Store
+*.orig
+simple_BACKUP_2862.html
+simple_BASE_2862.html
+simple_LOCAL_2862.html
+simple_REMOTE_2862.html
