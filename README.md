@@ -18,4 +18,4 @@ Sample website with plenty of files for demos as stated above
 
 ### Copyright
 
-2014 git
+2014 git!!
