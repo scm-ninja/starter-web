@@ -16,6 +16,8 @@ Sample website with plenty of files for demos as stated above
 
 ## How To Contribute
 
+Please fork this repository then issue pull request
+
 ### Copyright
 
 2014 git!!
