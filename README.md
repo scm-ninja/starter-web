@@ -15,3 +15,7 @@ This is deployment section
 Sample website with plenty of files for demos as stated above
 
 ## How To Contribute
+
+### Copyright
+
+2014 git
