@@ -8,8 +8,10 @@ This is am example to show different parts
 
 ## Deployment
 
+This is deployment section
+
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos as stated above
 
 ## How To Contribute
