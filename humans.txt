@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jayson Taylor email address
 
 # THANKS
 
-    <name>
+    All my students
 
 # TECHNOLOGY COLOPHON
 
