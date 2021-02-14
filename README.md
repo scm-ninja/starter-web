@@ -1,7 +1,24 @@
-# Starter Web Repo
+# Starter Web Project
 
-This repository is for showing how Git and GitHub work
+This is a simple project for showing how use Git and GitHub together. Updating for emergency fix after a stash
+
+## Introduction
+
+This is an example to show different parts of the Git repository and various commands using a web project
 
 ## Purpose
 
-Sample website with plenty of files for demos
+As stated above, the main purpose is to provide simple examples for Git training demos.
+
+## Deployments
+
+This is a simple web project, deployment can be on any web server or even local file system.
+
+## How to contribute
+
+Please for this repository and then issue a Pull Request for review
+
+### Copyright
+
+2014 Git.Training. All rights reserved
+Updates from dev 1
