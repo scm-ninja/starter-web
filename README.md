@@ -22,4 +22,4 @@ Please fork this repository and then issue it
 
 ### Copyright
 
-2014.Git.Training
+2014.Git.Training. All rights reseved.
