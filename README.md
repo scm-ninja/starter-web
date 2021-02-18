@@ -1,10 +1,10 @@
 # Starter Web Project
 
-This is a simple website project for showing how Git and GitHub work together
+This is a simple website project for showing how Git and GitHub work together. I also need to use the diff tool. cool
 
 ## Introduction
 
-This is an example to show different parts of the Git repository and various commands using a web project.
+This is not in anyway an example to show different parts of the Git repository and various commands using a web project.
 
 ## Purpose
 
