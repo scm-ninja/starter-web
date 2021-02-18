@@ -13,3 +13,6 @@ As stated above, the main purpose is to provide simple examples.
 ## Deployment
 
 ## How To Contribute
+
+### Copyright
+2021 Nonso.Training
