@@ -16,4 +16,4 @@ As stated above, the main purpose is to provide simple examples.
 
 Please fork this repository and thenissue Pull requests for review
 ### Copyright
-2021 Nonso.Training
+2021 Nonso.Training. All rights reserved
