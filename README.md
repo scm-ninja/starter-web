@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a simple website project for showing how Git and GitHub work together. I also need to use the diff tool. cool
+This is a simple website project for showing how Git and GitHub work together. I also need to use the diff tool. cool. Adding a line for rebasing example.
 
 ## Introduction
 
