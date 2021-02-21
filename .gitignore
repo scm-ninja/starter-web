@@ -1,7 +1,7 @@
 .DS_Store
 log/
 *.orig
-simple_BACKUP_15170.html
+simple_BACKUP_*.html
 simple_BACKUP_15298.html
 simple_BACKUP_15396.html
 simple_BACKUP_15500.html
@@ -9,7 +9,7 @@ simple_BACKUP_15599.html
 simple_BACKUP_15701.html
 simple_BACKUP_15799.html
 simple_BACKUP_35645.html
-simple_BASE_15170.html
+simple_BASE_*.html
 simple_BASE_15298.html
 simple_BASE_15396.html
 simple_BASE_15500.html
@@ -17,7 +17,7 @@ simple_BASE_15599.html
 simple_BASE_15701.html
 simple_BASE_15799.html
 simple_BASE_35645.html
-simple_LOCAL_15170.html
+simple_LOCAL_*.html
 simple_LOCAL_15298.html
 simple_LOCAL_15396.html
 simple_LOCAL_15500.html
@@ -25,7 +25,7 @@ simple_LOCAL_15599.html
 simple_LOCAL_15701.html
 simple_LOCAL_15799.html
 simple_LOCAL_35645.html
-simple_REMOTE_15170.html
+simple_REMOTE_*.html
 simple_REMOTE_15298.html
 simple_REMOTE_15396.html
 simple_REMOTE_15500.html
