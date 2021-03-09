@@ -1,0 +1,2 @@
+The current working directory is: /c/automation/workspace/project/web-project
+You are logged in as: Saj
