@@ -11,3 +11,6 @@ Sample website with plenty of files for demos
  
 # Few more additional lines
  This is to check the tool functionality
+ 
+ ##Copyrigth
+ Rajath's git practice
