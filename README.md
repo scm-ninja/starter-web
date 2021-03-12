@@ -13,4 +13,7 @@ Sample website with plenty of files for demos# Starter Web Project
 	the way we are learning and executing commands
  ## deployment
 	soon we will deploy
- ## Release 
+ ## Release
+
+ ### Copyright
+ copyright 2014 Git.traning
