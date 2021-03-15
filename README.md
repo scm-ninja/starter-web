@@ -5,7 +5,7 @@ Adding some line for example
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Some checks on stashing
 
 ## Adding some extra lines 
  This is to check new features
