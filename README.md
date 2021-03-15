@@ -14,7 +14,7 @@ Sample website with plenty of files for demos
  This is to check the tool functionality
  
  ##Copyrigth
- Rajath's git practice 
+ Rajath's git practice . All rights reserved
  
  ## How to contribute
  Pls fork this repository
