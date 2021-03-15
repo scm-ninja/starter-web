@@ -8,6 +8,8 @@
 # THANKS
 
     Please add some clappings and thanks
+	
+	random check on stash
 
 # TECHNOLOGY COLOPHON
 
