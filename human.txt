@@ -9,4 +9,6 @@ mandeep kumar
 thanks to all my studensts.
 we are very lucky.
 
+GIT Stash for a Branch
+
 we are updating this file for the stash example
