@@ -4,6 +4,8 @@ This repository is for showing how Git and GitHub work
 
 ## Purpose
 
+updating for emergency fix after the stashing
+
 Sample website with plenty of files for demos# Starter Web Project 
  ## Introduction 
  	GIT is very simple tool and its learning is very interesting
