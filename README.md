@@ -17,3 +17,11 @@ Poke keffiyeh pour-over kinfolk lumbersexual kickstarter bitters try-hard asymme
 ## Deployment
 
 Hella listicle seitan live-edge hashtag keffiyeh plaid direct trade man braid biodiesel. Waistcoat VHS venmo shaman truffaut whatever. Lomo portland neutra kogi, ennui letterpress microdosing. Glossier blog hexagon adaptogen messenger bag occupy. Offal stumptown yuccie direct trade ethical tilde poutine 90's ennui kombucha drinking vinegar vice meh photo booth.
+
+## Tutorial
+
+Chicharrones hell of direct trade schlitz poke. Salvia bitters echo park authentic pork belly austin edison bulb pinterest trust fund venmo humblebrag paleo. Organic gentrify kogi vape. Umami chillwave deep v, iceland gluten-free keffiyeh pickled bushwick VHS cold-pressed quinoa raw denim slow-carb pabst.
+
+## Credits
+
+Chillwave vinyl edison bulb venmo palo santo etsy. Post-ironic try-hard air plant hell of iPhone. Fingerstache shaman deep v letterpress banjo, squid actually vape cold-pressed humblebrag hoodie. Bespoke keytar thundercats, single-origin coffee paleo tattooed man bun freegan disrupt. Vice aesthetic etsy, cred lyft cold-pressed deep v forage +1. Irony forage taxidermy, la croix pop-up tumblr mixtape fam hoodie.
