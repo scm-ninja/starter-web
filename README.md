@@ -8,8 +8,8 @@ This is emaple to show diff parts of the repository and commands
 
 ## Purpose
 
-Sample website with plenty of files for demos
+as stated aboe, the main purpose is blah blah
 
 ## Deployment
-
+This is a simple web proejct, deployment can be on any server
 ## How to Contribute
