@@ -13,5 +13,8 @@ as stated aboe, the main purpose is blah blah
 ## Deployment
 This is a simple web proejct, deployment can be on any server
 ## How to Contribute
+
+please fork and issue pull requests for review
+
 ## Copyright Notice
 Copyright 2021
