@@ -25,3 +25,7 @@ Chicharrones hell of direct trade schlitz poke. Salvia bitters echo park authent
 ## Credits
 
 Chillwave vinyl edison bulb venmo palo santo etsy. Post-ironic try-hard air plant hell of iPhone. Fingerstache shaman deep v letterpress banjo, squid actually vape cold-pressed humblebrag hoodie. Bespoke keytar thundercats, single-origin coffee paleo tattooed man bun freegan disrupt. Vice aesthetic etsy, cred lyft cold-pressed deep v forage +1. Irony forage taxidermy, la croix pop-up tumblr mixtape fam hoodie.
+
+
+## Copyright
+2021 git.training
