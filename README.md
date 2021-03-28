@@ -20,5 +20,7 @@ Sample website with plenty of files for demos# Starter Web Project
 		adding a line to just modification purpose. more changes from myfeature branch too.
  ### Copyright
  copyright 2014 Git.traning. we are updating this file for stash example
+ 
+## Updates from DEV 1
 
 
