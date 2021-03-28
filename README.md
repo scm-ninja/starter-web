@@ -21,6 +21,6 @@ Sample website with plenty of files for demos# Starter Web Project
  ### Copyright
  copyright 2014 Git.traning. we are updating this file for stash example
  
-## Updates from DEV 1
+## Updates for DEV 1 from command Prompt
 
 
