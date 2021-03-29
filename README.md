@@ -17,4 +17,4 @@ This is a simple web proejct, deployment can be on any server
 please fork and issue pull requests for review
 
 ## Copyright Notice
-Copyright 2021
+Copyright 2021. All Rights reserved
