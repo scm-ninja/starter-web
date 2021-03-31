@@ -3,12 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-    Luke Sisterson
+    Luke Sisterson Senior Senior
 
 # THANKS
 
-    <name>
+    To me
 
 # TECHNOLOGY COLOPHON
 
