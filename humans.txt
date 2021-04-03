@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Agustin Hernandez agustin@hotmail.com @agustinhdz98
 
 # THANKS
 
