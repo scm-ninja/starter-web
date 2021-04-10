@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<!-- 
+
+Copyright 2021 Git.Training
+
+-->
+<head>
+<<<<<<< HEAD
+	<title>Baby Title</title>
+=======
+	<title>Animal Title</title>
+>>>>>>> conflictbranch
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<style>
+		body {
+			padding-top: 50px;
+			padding-bottom: 20px;
+		}
+	</style>
+	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+</head>
+<body>
+	<main class="container">
+	<!-- Content Goes Here -->
+		<p>
+<<<<<<< HEAD
+			Baby gugu gaga
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; Baby Corps 2010</p>
+=======
+			Just some content about animals
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; Corporation 2021</p>
+>>>>>>> conflictbranch
+	</footer>
+</body>
+</html>
