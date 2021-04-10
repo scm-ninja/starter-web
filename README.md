@@ -21,3 +21,7 @@ Deployment can be on any web serverss.
 ### Copyright
 
 Copyright 2021 Git.Training
+
+## Merge
+
+Sample texts for merging branches
