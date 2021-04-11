@@ -6,7 +6,7 @@
     <name> -- <role> -- <twitter>
 
 # THANKS
-
+	Please leave review for this content
 	All my students
 
 # TECHNOLOGY COLOPHON
