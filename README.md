@@ -22,7 +22,7 @@ Deployment can be on any web serverss.
 
 ### Copyright
 
-All rights reserve. Copyright 2021 Git.Training
+Second update All rights reserve. Copyright 2021 Git.Training
 
 ## Merge
 
