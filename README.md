@@ -2,7 +2,7 @@
 
 This is a simple website project for showing how to use Git and GitHub together.
 
-This repository is for showing how Git and GitHub work
+Pull request sample.
 
 Adding a line for rebasing example. More changes from myfeature branch
 
