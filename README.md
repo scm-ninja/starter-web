@@ -7,3 +7,4 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 This is a change to the branch that we can use. 
+this is another change we can play with. 
