@@ -36,4 +36,4 @@ Chillwave vinyl edison bulb venmo palo santo etsy. Post-ironic try-hard air plan
 
 
 ## Copyright
-2021 git.training
+2021 git.training. All rights reserved. 
