@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work. EMERGENCY STASH FIX HERE.
 
 ## Purpose
 
@@ -36,4 +36,4 @@ Chillwave vinyl edison bulb venmo palo santo etsy. Post-ironic try-hard air plan
 
 
 ## Copyright
-2021 git.training. All rights reserved. 
+2021 git.training. All rights reserved.
