@@ -13,3 +13,6 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+
+
+###thanks for the public repo
