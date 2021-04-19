@@ -2,9 +2,4 @@ node ("slave") {
     stage("preperation")
     checkout scm
     }
-    stage("build") {
-    sh """
-      ls-l
-      echo"This is list"
-      """
-      }
+  
