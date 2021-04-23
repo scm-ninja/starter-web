@@ -9,7 +9,11 @@ example intro stuff
 
 ## Purpose
 
+blah blah purpose
+
 ## Deployment
+
+example depoyment instructions
 
 ## How To Contribute
 
