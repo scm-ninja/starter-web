@@ -14,6 +14,6 @@ thanks to all my students
     HTML5, CSS3
     jQuery, Modernizr
 
-#filler
-
+# Filler
 some extra conflict filler
+adding some filler text here for merge conflict
