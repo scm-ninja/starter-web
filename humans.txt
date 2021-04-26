@@ -6,9 +6,9 @@
     Kenneth Spence ken@blank.com
 
 # THANKS
-
-    <name>
-
+thanks to all my students	
+	
+	
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
