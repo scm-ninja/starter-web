@@ -1,2 +1,2 @@
-Just checking git -ls-files command
-making changes in master branch
+checking the branch merge problems
+now doing it in our master branch
