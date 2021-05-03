@@ -1,1 +1,3 @@
 Just checking git -ls-files command
+checking the branch merge problems
+now doing it in our master branch
