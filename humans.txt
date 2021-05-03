@@ -2,6 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
+	hawa drammeh  hawaa2\@gt
 
     <name> -- <role> -- <twitter>
 
