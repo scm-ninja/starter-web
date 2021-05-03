@@ -3,7 +3,7 @@
 
 # TEAM
 
-    Samrat -- Senior Developer -- it is a feature now
+    Samrat -- Senior Developer -- it is a feature now. WILL BE SEEING THE REBASE BETWEEN REMOTE AND LOCAL
 
 # THANKS
 
