@@ -1,5 +1,5 @@
 #HELLOOOO
-wthhh we gon do now lol, so done.
+emergency fix new copyright mf
 ##second heading yay
 ajjajajaj
 
