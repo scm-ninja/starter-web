@@ -9,3 +9,4 @@ ajjajajaj
 skskksks
 
 mreoeoroeroe
+### git.training.copyright.2014
