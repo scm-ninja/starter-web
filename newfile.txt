@@ -1,2 +1,3 @@
 checking the branch merge problems
 now doing it in our master branch
+LETS DO SOME CHANGES DUDE before rebase conflicts
