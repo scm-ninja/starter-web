@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Samrat -- Senior Developer -- summ
 
 # THANKS
 
