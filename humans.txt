@@ -1,6 +1,5 @@
 # humanstxt.org/
-# The humans responsible & technology colophon
-
+# The humans responsible & more stash stuff
 # TEAM
 	leave a review my dawg
 
