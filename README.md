@@ -8,4 +8,4 @@ Sample website with plenty of files for demos
 
 ###COPYRIGHT
 
-All Rights Reserved.
+All Rights Reserved. Emergency Fix!
