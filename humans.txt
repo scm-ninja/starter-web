@@ -22,4 +22,4 @@
     HTML5, CSS3
     jQuery, Modernizr
 
-Please leave some reviews!
+Please leave some reviews! Let us edit it more.
