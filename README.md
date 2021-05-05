@@ -8,5 +8,7 @@ Sample website with plenty of files for demos
 
 ## Purpose
 
+Practise Git 
+
 ## How to contribute
 
