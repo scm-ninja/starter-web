@@ -16,3 +16,6 @@ Some more changes
 
 ## How to contribute
 
+### copyright
+
+2014 git. trining
