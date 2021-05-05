@@ -10,5 +10,9 @@ Sample website with plenty of files for demos
 
 Practise Git 
 
+Some changes
+
+Some more changes
+
 ## How to contribute
 
