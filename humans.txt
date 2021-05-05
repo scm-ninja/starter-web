@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    David  email@gmx.at 
 
 # THANKS
 
