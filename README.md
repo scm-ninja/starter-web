@@ -15,6 +15,7 @@ Some changes
 Some more changes
 
 ## How to contribute
+Fork this repository and then issue pull request for review.
 
 ### copyright
 
