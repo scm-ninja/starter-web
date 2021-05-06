@@ -8,6 +8,7 @@
 # THANKS
 
     all my friends 
+	stashing untracked files example mb
 
 # TECHNOLOGY COLOPHON
 
