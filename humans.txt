@@ -9,6 +9,8 @@
 
     all my friends 
 	stashing untracked files example mb
+	
+	more dummy text for stashing
 
 # TECHNOLOGY COLOPHON
 
