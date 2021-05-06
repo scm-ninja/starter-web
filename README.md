@@ -5,6 +5,7 @@ adding a line for rebasing example,
 even more changes from featurebranch 
 
 text for stashing example mb
+Updating emergency fix after stash mb
 
 ## Introduction
 
