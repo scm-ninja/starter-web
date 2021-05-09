@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   Neetha Shivanna neetha@gittraining.com @neethashiv
 
 # THANKS
 
