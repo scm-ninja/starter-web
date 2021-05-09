@@ -12,3 +12,5 @@ Git repository
 new changes has been made
 ##Deployment
 This section shows the project is commited with changes
+###Copyright
+1014 git.training
