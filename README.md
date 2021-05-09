@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
-making changes in master branch
+making changes in master branch.adding more changes from new feature branch
 ## Purpose
 
 Sample website with plenty of files for demos
