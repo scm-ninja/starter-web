@@ -1,0 +1,10 @@
+--this file is used for the purpose of testing the forking----
+
+
+-----adding more lines to verify the working of the immediate
+commits while forking --------------------
+
+
+---just 1 more line to to verify the auto commit------
+
+----final touch----ok
