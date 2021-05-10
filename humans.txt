@@ -6,7 +6,7 @@
    Neetha Shivanna neetha@gittraining.com @neethashiv
 
 # THANKS
-All my teachers
+All my teachers.Provide your reviews about git hub tutorial
     <name>
 
 # TECHNOLOGY COLOPHON
