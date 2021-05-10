@@ -15,4 +15,4 @@ This section shows the project is commited with changes
 ##How to Contribute
 Please fork this repository and issue push and close
 ###Copyright
-1014 git.training
+1014 git.training All right reserved
