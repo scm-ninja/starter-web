@@ -13,3 +13,4 @@ All my teachers.Provide your reviews about git hub tutorial
 
     HTML5, CSS3
     jQuery, Modernizr
+git status
