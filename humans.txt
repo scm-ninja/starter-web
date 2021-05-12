@@ -4,7 +4,7 @@
 # TEAM
 
    Neetha Shivanna neetha@gittraining.com @neethashiv
-
+  New changes made to humans.txt
 # THANKS
 All my teachers.Provide your reviews about git hub tutorial
     <name>
