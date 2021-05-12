@@ -1,15 +1,16 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
-
+/////New line added
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   Neetha Shivanna neetha@gittraining.com @neethashiv
 
 # THANKS
-
+All my teachers.Provide your reviews about git hub tutorial
     <name>
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+git status
