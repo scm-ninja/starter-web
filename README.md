@@ -15,3 +15,7 @@ this is a sioopmapsd tha shde on the
 
 Sample website with plenty of files for demos
 ## How to contribute
+
+### Copyright
+
+2014 git.training
