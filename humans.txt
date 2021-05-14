@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    James taylor jame@git.traning.comn
 
 # THANKS
 
