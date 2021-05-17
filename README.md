@@ -1,6 +1,7 @@
 # Starter Web Repo
 This is a simple website project for showing how to use git and github together
-Adding a line to rebasgin
+Adding a line to rebasgin,
+more changes from myfeature
 ## Introduction
 
 This is an example is to show differetnt parts of the git repo
