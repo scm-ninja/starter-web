@@ -9,3 +9,7 @@ Sample website with plenty of files for demos
 ### Change
 
 This is the change.
+
+### Another change
+
+Adding more content.
