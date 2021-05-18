@@ -1,0 +1,3 @@
+Course Outline 
+Course Introduction and Overview provides an introduction to this course and the Git source control system and sets the stage for the rest of the course.
+After the introduction, the first thing
