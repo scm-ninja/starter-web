@@ -12,4 +12,4 @@ Please fork this repos and then issue pull request for review
 Please add new member in your team
 
 ### Copyright
-Copyright Added
+Copyright Added, All rights reseverd(Stash)
