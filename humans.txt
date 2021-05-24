@@ -3,13 +3,16 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Suhad Bin Zubar, suhadpv4@gmail.com
+	Zayd Bin Suhad
 
 # THANKS
 
-    <name>
+   All my students!
+   Please leave a review if you like it!.
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	Git 
