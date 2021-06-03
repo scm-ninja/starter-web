@@ -19,7 +19,12 @@ Welcome to Git practise
 Use Git to deploy code to git repository
 Jenkins for CI CD builds
 
-##ADDED CopyRight
+## ADDED CopyRight
 
 ## How to Contribute
 Please fork this branch and raise a pull request
+
+## Modify Readme file for rebasing
+
+Rebasing example to modify
+
