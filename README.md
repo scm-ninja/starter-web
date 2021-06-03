@@ -18,3 +18,6 @@ Welcome to Git practise
 ## Deployment
 Use Git to deploy code to git repository
 Jenkins for CI CD builds
+
+##ADDED CopyRight
+
