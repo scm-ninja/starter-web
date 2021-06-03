@@ -21,3 +21,5 @@ Jenkins for CI CD builds
 
 ##ADDED CopyRight
 
+## How to Contribute
+Please fork this branch and raise a pull request
