@@ -31,3 +31,5 @@ Rebasing example to modify
 ## few more changes
 
 ##changes
+
+## modifying for Git stash
