@@ -5,5 +5,6 @@ As described above we will be using Visual Merge tools for the Comparison
 ## Deployment
 This can be deployed in any webserver or local file system
 ## Contributions
+Pls fork the main branch to make local changes for contribute
 ## Copyright
 @Copy right to Shafeek P S
