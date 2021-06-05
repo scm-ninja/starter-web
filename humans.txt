@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Shafeek P S -- Manager -- @shafeek
 
 # THANKS
 
