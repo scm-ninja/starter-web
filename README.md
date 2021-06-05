@@ -5,3 +5,5 @@ As described above we will be using Visual Merge tools for the Comparison
 ## Deployment
 This can be deployed in any webserver or local file system
 ## Contributions
+## Copyright
+@Copy right to Shafeek P S
