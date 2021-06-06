@@ -1,7 +1,3 @@
-# Starter Web Repo
+# Starter Web Repo (minor change)
 
-This repository is for showing how Git and GitHub work
-
-## Purpose
-
-Sample website with plenty of files for demos
+This repository is for showing how Git and GitHub work for a Udemy course
