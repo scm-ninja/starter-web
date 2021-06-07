@@ -1,5 +1,5 @@
 # Starter Web Repo
-This project will describe how to integrate local Git with Git Repo.Students can play around with multiple command.
+This project will describe how to integrate local Git with Git Repo.Stash commands
 ## Purpose
 As described above we will be using Visual Merge tools for the Comparison
 ## Deployment
