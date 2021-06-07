@@ -7,4 +7,4 @@ This can be deployed in any webserver or local file system
 ## Contributions
 Pls fork the main branch to make local changes for contribute
 ## Copyright
-@Copy right to Shafeek P S 2021
+@Copy right to Shafeek P S 2021.All rights reserved
