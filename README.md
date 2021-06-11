@@ -16,6 +16,8 @@ update deployment
 
 ## How to contribute
 
+updated contribute section
+
 ### CopyRight
 
 copyright
