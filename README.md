@@ -15,3 +15,7 @@ Sample website with plenty of files for demos. Update Purpose
 update deployment
 
 ## How to contribute
+
+### CopyRight
+
+copyright
