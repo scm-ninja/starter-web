@@ -18,6 +18,9 @@ update deployment
 
 updated contribute section
 
+updated contribute section 1
+
+
 ### CopyRight
 
 copyright
