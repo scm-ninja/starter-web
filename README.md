@@ -20,6 +20,9 @@ updated contribute section
 
 updated contribute section 1
 
+updated contribute section 2
+
+
 
 ### CopyRight
 
