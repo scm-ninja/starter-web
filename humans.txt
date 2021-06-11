@@ -4,6 +4,7 @@
 # TEAM
 
     Barnali
+	Pritam
 
 # THANKS
 
