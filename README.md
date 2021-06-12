@@ -12,7 +12,7 @@ Sample website with plenty of files for demos. Update Purpose
 
 ## Deployment
 
-update deployment
+update deployment. Testing deployment.
 
 ## How to contribute
 
