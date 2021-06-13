@@ -7,3 +7,5 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 This file has been altered
+
+Adding more data before I delete this whole branch
