@@ -3,11 +3,11 @@
 
 # TEAM
 
-    Shafeek P S -- Manager -- @shafeek
+    <name> -- <role> -- <twitter>
 
 # THANKS
 
-    Shafeek P S
+    <name>
 
 # TECHNOLOGY COLOPHON
 
