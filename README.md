@@ -24,6 +24,7 @@ updated contribute section 1
 
 updated contribute section 2
 
+updated contribute section 3 for new branch
 
 
 ### CopyRight
