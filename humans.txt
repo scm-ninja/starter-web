@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ekaterina Kubyshkina  KKubyshkina@gomel.iba.by
 
 # THANKS
 
