@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   JASON TAYLOR jason@mail.com
 
 # THANKS
 
