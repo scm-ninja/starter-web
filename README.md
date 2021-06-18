@@ -1,7 +1,7 @@
 # Starter Web Project
 
 This is a simole website project for showing how to use Git and 
-Github together 
+Github together. Adding a line for rebasing example. 
 
 ## Introduction
 
