@@ -18,5 +18,5 @@ adding intro text
 ##Deployment
 lets deploy
 
-##COopyright
-Git training
+##Copyright
+Git training.. all rights reserved
