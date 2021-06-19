@@ -3,13 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   JASON TAYLOR jason@mail.com
 
 # THANKS
-
+     AALL MY STUDENTS
     <name>
+	leave review
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	git
