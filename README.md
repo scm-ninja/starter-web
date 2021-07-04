@@ -8,7 +8,9 @@ This repository is for showing how Git and GitHub work
 
 ## Purpose
 
-as stated above this is simple
+as stated above
+this is simple
+new commit
 
 ## Deployment
 
