@@ -15,3 +15,9 @@ new commit
 ## Deployment
 
 Sample website with plenty of files for demos
+
+new stdsfvdfvaging
+
+new unstaged changes some changes
+
+new working dir
