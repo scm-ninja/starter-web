@@ -27,3 +27,5 @@ copyright
 added line to master
 
 adding master
+
+adding something while stashing others
