@@ -21,3 +21,5 @@ new stdsfvdfvaging
 new unstaged changes some changes
 
 new working dir
+
+copyright
