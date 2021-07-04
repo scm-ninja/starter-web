@@ -23,3 +23,5 @@ new unstaged changes some changes
 new working dir
 
 copyright
+
+added line to master
