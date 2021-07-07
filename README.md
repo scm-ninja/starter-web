@@ -11,4 +11,4 @@ Sample website with plenty of files for demos
 please fork this repo
 ### COPYRIGHT 
 
-2021 Steve Krohn Git Training
+2021 Steve Krohn Git Training. All right reserved.
