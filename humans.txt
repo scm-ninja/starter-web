@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Stephen Krohn    skrohn@gmai.com     LordSolarSteve
 
 # THANKS
 
