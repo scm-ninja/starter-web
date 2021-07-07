@@ -5,7 +5,7 @@ this is a simple project
 ## INTRO
 changing things again
 ## Purpose
-adding purpose text
+adding purpose text so we are adding some more text here for rebasing examply
 ## Other
 Sample website with plenty of files for demos
 please fork this repo
