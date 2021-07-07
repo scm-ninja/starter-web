@@ -1,5 +1,5 @@
 # Starter Web Repo
-this is a sample thingy
+this is a sample thingy, just doing some emergency fixes
 ## DEPLOYMENT
 this is a simple project
 ## INTRO
