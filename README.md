@@ -8,3 +8,6 @@ changing things again
 adding purpose text
 ## Other
 Sample website with plenty of files for demos
+### COPYRIGHT 
+
+2021 Steve Krohn Git Training
