@@ -3,13 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Stephen Krohn    skrohn@gmai.com     LordSolarSteve
 
 # THANKS
 
-    <name>
+    Thanks to all my students
+	Please leave a review if you like the course
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	Woot
