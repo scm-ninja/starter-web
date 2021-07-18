@@ -3,11 +3,15 @@
 
 # TEAM
 
+<<<<<<< HEAD
 
 
     induinduranaranaa -- indurana-- <twitter>
 
 
+=======
+    
+>>>>>>> conflict
 
 # THANKS
 
