@@ -3,6 +3,7 @@
 This repository is for showing how Git and GitHub work
 
 ##deployment
+for comparison purpose
 
 
 ## Purpose
