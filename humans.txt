@@ -4,6 +4,7 @@
 # TEAM
 
 
+
     induindurana -- indurana-- <twitter>
 
 
@@ -14,5 +15,6 @@
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS33
+    HTML5, vector
+
     jQuery, Modernizr
