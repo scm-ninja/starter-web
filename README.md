@@ -1,5 +1,6 @@
 # Starter Web Repo
-adding somethin
+adding something 
+i'm adding emergency fix
 
 This repository is for showing how Git and GitHub work
 adding more texy for rebasing
