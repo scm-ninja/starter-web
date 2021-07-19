@@ -3,19 +3,17 @@
 
 # TEAM
 
-<<<<<<< HEAD
+
 
 
     induinduranaranaa -- indurana-- <twitter>
 
 
-=======
-    
->>>>>>> conflict
+
 
 # THANKS
 
-   to all my students
+   to all my students this is added, this is of mybranch
 
 # TECHNOLOGY COLOPHON
 
