@@ -1,15 +1,22 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
-
+1. some change in this file
 # TEAM
+please review  hey you
 
-    <name> -- <role> -- <twitter>
+
+changes
+    induinduranaranaa -- indurana-- <twitter>
+
+
+
 
 # THANKS
 
-    <name>
+   to all my students this is added, this is of mybranch
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3
+    HTML5, vector
+
     jQuery, Modernizr
