@@ -2,3 +2,6 @@ adding more text
 new file created
 i'm changin file, in mybranch
 testing this file
+adding something
+this change is done in newchanges branch
+3. some change in this file
