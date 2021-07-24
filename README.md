@@ -9,3 +9,6 @@ Sample website with plenty of files for demos
 ## Updating a baby branch
  
  Prepare the baby for merge
+ 
+## More contents 
+More information to be included 
