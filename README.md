@@ -18,4 +18,4 @@ Please fork this repo and then issue them
 
 ### Copyright
 
-2018 Git.Traning.
+2018 Git.Traning. Example the stash.
