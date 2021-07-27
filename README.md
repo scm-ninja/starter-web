@@ -6,6 +6,8 @@ This is a simple webssite project for showing how to use Git and Github together
 
 This is example is to show different parts of the Git repository and various commands using a web project.
 
+Create a new branch to testing the diff func in GitHub
+
 ## Purpose
 
 As stated above, the main purpose is to provide simle examples ofr Git traning demos.
@@ -18,4 +20,4 @@ Please fork this repo and then issue them
 
 ### Copyright
 
-2018 Git.Traning. Example the stash. cisco
+2018 Git.Traning. Example the stash. cisco.
