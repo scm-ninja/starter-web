@@ -7,9 +7,14 @@
 
 # THANKS
 
+	All my students
+	Please leave a review if you like this course!
+	
     <name>
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3
-    jQuery, Modernizr
+HTML5, CSS3
+jQuery, Modernizr
+Git
+			
