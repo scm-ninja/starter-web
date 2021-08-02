@@ -12,3 +12,6 @@ This section explains how to deploy the project.
 
 ## How To Contribute
 This section explains how to contribute to this project. More info on Contributing here.
+
+## Copyright
+2021 Bitsubatsu.com
