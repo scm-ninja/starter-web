@@ -5,10 +5,10 @@ This repository is for showing how Git and GitHub work. This is some text.
 This is a project just to work on Git training.
 
 ## Purpose
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos. More info on purpose.
 
 ## Deployment
 This section explains how to deploy the project.
 
 ## How To Contribute
-This section explains how to contribute to this project.
+This section explains how to contribute to this project. More info on Contributing here.
