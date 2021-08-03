@@ -12,6 +12,15 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
-
+This is to show the deployment of the unemployed
 
 ## How To Contribute
+
+By joining the brosky army AYOOOOOO
+
+ye 
+
+## Give Me Money
+
+Here is my only fans : 
+
