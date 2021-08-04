@@ -1,5 +1,6 @@
 # Starter Web Project
 This repository is for showing how Git and GitHub work. This is some text.
+Some text added for my feature
 
 ## Introduction
 This is a project just to work on Git training.
