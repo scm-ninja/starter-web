@@ -28,3 +28,10 @@ Here is my only fans :
 
 Here hes only fan::
 
+## Buy My Game
+
+Here my onlfan::
+
+## Buy My Merch
+
+Here my game
