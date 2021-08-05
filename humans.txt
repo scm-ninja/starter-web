@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Alexander Ivanov root @saspoto
 
 # THANKS
 
