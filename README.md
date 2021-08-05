@@ -20,6 +20,8 @@ By joining the brosky army AYOOOOOO
 
 ye 
 
+Give me money
+
 ## Give Me Money
 
 Here is my only fans : 
