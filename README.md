@@ -35,3 +35,7 @@ Here my onlfan::
 ## Buy My Merch
 
 Here my game
+
+## Copyright
+
+Mine
