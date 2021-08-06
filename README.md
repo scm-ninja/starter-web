@@ -41,4 +41,4 @@ Here my game
 
 ## Copyright
 
-Mine
+Mine. All rights reserved
