@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
-Adding a line
+Adding a line, then more changes from my-feature branch
 
 ## Introduction
 
