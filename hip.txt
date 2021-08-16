@@ -1,3 +1,7 @@
 This is the real file now
 
+<<<<<<< HEAD
 Adding line in commmand line
+=======
+Adding new line in github
+>>>>>>> 8a0638c1107d1f668c407574498859cfbab22e8e
