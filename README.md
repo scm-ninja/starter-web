@@ -18,3 +18,6 @@ Sample website with plenty of files for demos
 	
 	
 copyright all rights
+
+
+adding post stash
