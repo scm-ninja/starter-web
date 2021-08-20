@@ -1,13 +1,17 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
+# This is some unrelated text...
+# Changes for multiple stashes 
+# these are changes for stashing into a branch
 
-# TEAM
+# TEAM 
 
+	Kris Matzi
     <name> -- <role> -- <twitter>
 
 # THANKS
 
-    <name>
+    to earth <3
 
 # TECHNOLOGY COLOPHON
 
