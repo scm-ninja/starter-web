@@ -8,3 +8,5 @@ Sample website with plenty of files for demos
 
 
 Test updates here
+
+## New area
