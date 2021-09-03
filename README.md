@@ -13,3 +13,6 @@ in staging area
 modefying same file again
 ##  empty file added copy 
 Sample website with plenty of files for demos
+
+
+hi another user
