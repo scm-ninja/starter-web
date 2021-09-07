@@ -11,5 +11,5 @@ Sample website with plenty of files for demos
 website looks awesome
 
 ## updating pull request
-
-I am checking my pull request is updating or not
+ 
+ updating pull request properly
