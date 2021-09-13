@@ -7,3 +7,4 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 My edit for sample
+Second edit to checj multiple commits in pull requests
