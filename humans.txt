@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Sean Moir sean.d.moir@gmail.com
 
 # THANKS
 
