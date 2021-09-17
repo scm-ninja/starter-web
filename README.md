@@ -8,6 +8,10 @@ This is an example to show diff parts of the Git repo and various commands using
 
 ## Purpose
 
+The main purpose is to provide simple examples for Git training.
+
 ## Deployment
+
+Deployment text.
 
 ## How to Contribute
