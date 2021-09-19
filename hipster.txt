@@ -1,0 +1,2111 @@
+Last login: Sat Sep 18 16:14:41 on ttys000
+kejingeng@kejins-MacBook-Pro ~ % cd project/stater-web
+cd: no such file or directory: project/stater-web
+kejingeng@kejins-MacBook-Pro ~ % claer
+zsh: command not found: claer
+kejingeng@kejins-MacBook-Pro ~ % clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+kejingeng@kejins-MacBook-Pro ~ % cd project/starter-web
+kejingeng@kejins-MacBook-Pro starter-web % git status
+On branch master
+Your branch is ahead of 'origin/master' by 4 commits.
+  (use "git push" to publish your local commits)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	deleted:    level1/level2-file.txt
+	renamed:    level1/level2/level3-fiile.txt -> level1/level2/level2-file.txt
+	new file:   level1/level2/level3/level3-file.txt
+
+kejingeng@kejins-MacBook-Pro starter-web % git commit
+Aborting commit due to empty commit message.
+kejingeng@kejins-MacBook-Pro starter-web % git status
+On branch master
+Your branch is ahead of 'origin/master' by 4 commits.
+  (use "git push" to publish your local commits)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	deleted:    level1/level2-file.txt
+	renamed:    level1/level2/level3-fiile.txt -> level1/level2/level2-file.txt
+	new file:   level1/level2/level3/level3-file.txt
+
+kejingeng@kejins-MacBook-Pro starter-web % git commit
+[master b085f28] Renamed
+ Committer: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 6 insertions(+), 8 deletions(-)
+ delete mode 100644 level1/level2-file.txt
+ rename level1/level2/{level3-fiile.txt => level2-file.txt} (62%)
+ create mode 100644 level1/level2/level3/level3-file.txt
+kejingeng@kejins-MacBook-Pro starter-web % git status
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+kejingeng@kejins-MacBook-Pro starter-web % clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+kejingeng@kejins-MacBook-Pro starter-web % cd
+kejingeng@kejins-MacBook-Pro ~ % clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+kejingeng@kejins-MacBook-Pro ~ % cd project/starter-web
+kejingeng@kejins-MacBook-Pro starter-web % git status
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+kejingeng@kejins-MacBook-Pro starter-web % ls 
+404.html				crossdomain.xml				fonts					index.html				newfile.txt
+README.md				css					hipster.txt				js					robots.txt
+apple-touch-icon-precomposed.png	favicon.ico				humans.txt				level1					simple.html
+kejingeng@kejins-MacBook-Pro starter-web % cd level1/
+kejingeng@kejins-MacBook-Pro level1 % ls
+level1-file.txt	level2
+kejingeng@kejins-MacBook-Pro level1 % mate level1-file.txt
+kejingeng@kejins-MacBook-Pro level1 % git status
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   level1-file.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+kejingeng@kejins-MacBook-Pro level1 % git add level1-file.txt
+kejingeng@kejins-MacBook-Pro level1 % git status
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   level1-file.txt
+
+kejingeng@kejins-MacBook-Pro level1 % git reset HEAD level1-file.txt
+Unstaged changes after reset:
+M	level1/level1-file.txt
+kejingeng@kejins-MacBook-Pro level1 % git status                    
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   level1-file.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+kejingeng@kejins-MacBook-Pro level1 % mate level1-file.txt          
+kejingeng@kejins-MacBook-Pro level1 % git checkout -- level1-file.txt
+kejingeng@kejins-MacBook-Pro level1 % git status
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+kejingeng@kejins-MacBook-Pro level1 % mate level1-file.txt           
+kejingeng@kejins-MacBook-Pro level1 % cd
+kejingeng@kejins-MacBook-Pro ~ % clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+kejingeng@kejins-MacBook-Pro ~ % cd project/starter-web/level1/level2/level3
+kejingeng@kejins-MacBook-Pro level3 % ls
+level3-file.txt
+kejingeng@kejins-MacBook-Pro level3 % git status
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+kejingeng@kejins-MacBook-Pro level3 % git mv level3-file.txt level3.txt
+kejingeng@kejins-MacBook-Pro level3 % ls
+level3.txt
+kejingeng@kejins-MacBook-Pro level3 % git status
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	renamed:    level3-file.txt -> level3.txt
+
+kejingeng@kejins-MacBook-Pro level3 % git commit -m "renaming level3 file"
+[master 7852665] renaming level3 file
+ Committer: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename level1/level2/level3/{level3-file.txt => level3.txt} (100%)
+kejingeng@kejins-MacBook-Pro level3 % cd ..
+kejingeng@kejins-MacBook-Pro level2 % pwd
+/Users/kejingeng/project/starter-web/level1/level2
+kejingeng@kejins-MacBook-Pro level2 % ls
+level2-file.txt	level3
+kejingeng@kejins-MacBook-Pro level2 % mv level2-file.txt level2.txt
+kejingeng@kejins-MacBook-Pro level2 % git status
+On branch master
+Your branch is ahead of 'origin/master' by 6 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	deleted:    level2-file.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	level2.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+kejingeng@kejins-MacBook-Pro level2 % git add -A 
+kejingeng@kejins-MacBook-Pro level2 % git status
+On branch master
+Your branch is ahead of 'origin/master' by 6 commits.
+  (use "git push" to publish your local commits)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	renamed:    level2-file.txt -> level2.txt
+
+kejingeng@kejins-MacBook-Pro level2 % git commit -m "renaming level2 file"
+[master 9ee8041] renaming level2 file
+ Committer: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename level1/level2/{level2-file.txt => level2.txt} (100%)
+kejingeng@kejins-MacBook-Pro level2 % git status
+On branch master
+Your branch is ahead of 'origin/master' by 7 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+kejingeng@kejins-MacBook-Pro level2 % git mv level2.txt 2.txt
+kejingeng@kejins-MacBook-Pro level2 % ls
+2.txt	level3
+kejingeng@kejins-MacBook-Pro level2 % git status
+On branch master
+Your branch is ahead of 'origin/master' by 7 commits.
+  (use "git push" to publish your local commits)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	renamed:    level2.txt -> 2.txt
+
+kejingeng@kejins-MacBook-Pro level2 % git mv 2.txt level2.txt
+kejingeng@kejins-MacBook-Pro level2 % ls
+level2.txt	level3
+kejingeng@kejins-MacBook-Pro level2 % git status
+On branch master
+Your branch is ahead of 'origin/master' by 7 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+kejingeng@kejins-MacBook-Pro level2 % ls
+level2.txt	level3
+kejingeng@kejins-MacBook-Pro level2 % git mv level2.txt level3
+kejingeng@kejins-MacBook-Pro level2 % ls
+level3
+kejingeng@kejins-MacBook-Pro level2 % cd level3
+kejingeng@kejins-MacBook-Pro level3 % ls
+level2.txt	level3.txt
+kejingeng@kejins-MacBook-Pro level3 % git status
+On branch master
+Your branch is ahead of 'origin/master' by 7 commits.
+  (use "git push" to publish your local commits)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	renamed:    ../level2.txt -> level2.txt
+
+kejingeng@kejins-MacBook-Pro level3 % cd ..
+kejingeng@kejins-MacBook-Pro level2 % git status
+On branch master
+Your branch is ahead of 'origin/master' by 7 commits.
+  (use "git push" to publish your local commits)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	renamed:    level2.txt -> level3/level2.txt
+
+kejingeng@kejins-MacBook-Pro level2 % git commit
+[master 253976d] Moving level2 to level3
+ Committer: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename level1/level2/{ => level3}/level2.txt (100%)
+kejingeng@kejins-MacBook-Pro level2 % ls
+level3
+kejingeng@kejins-MacBook-Pro level2 % cd level3
+kejingeng@kejins-MacBook-Pro level3 % ls
+level2.txt	level3.txt
+kejingeng@kejins-MacBook-Pro level3 % mv level2.txt ..
+kejingeng@kejins-MacBook-Pro level3 % ls
+level3.txt
+kejingeng@kejins-MacBook-Pro level3 % cd ..
+kejingeng@kejins-MacBook-Pro level2 % ls
+level2.txt	level3
+kejingeng@kejins-MacBook-Pro level2 % git status
+On branch master
+Your branch is ahead of 'origin/master' by 8 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	deleted:    level3/level2.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	level2.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+kejingeng@kejins-MacBook-Pro level2 % git add -A
+kejingeng@kejins-MacBook-Pro level2 % git status
+On branch master
+Your branch is ahead of 'origin/master' by 8 commits.
+  (use "git push" to publish your local commits)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	renamed:    level3/level2.txt -> level2.txt
+
+kejingeng@kejins-MacBook-Pro level2 % git commit
+[master c52f2cd] Moving level2 file back to level 2 directory
+ Committer: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename level1/level2/{level3 => }/level2.txt (100%)
+kejingeng@kejins-MacBook-Pro level2 % cd ..
+kejingeng@kejins-MacBook-Pro level1 % pwd
+/Users/kejingeng/project/starter-web/level1
+kejingeng@kejins-MacBook-Pro level1 % clear
+
+kejingeng@kejins-MacBook-Pro level1 % ls
+level1.txt	level2
+kejingeng@kejins-MacBook-Pro level1 % git status
+On branch master
+Your branch is ahead of 'origin/master' by 9 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	deleted:    level1-file.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	../.DS_Store
+	level1.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+kejingeng@kejins-MacBook-Pro level1 % git add level1.txt
+kejingeng@kejins-MacBook-Pro level1 % git add -u 
+kejingeng@kejins-MacBook-Pro level1 % git status
+On branch master
+Your branch is ahead of 'origin/master' by 9 commits.
+  (use "git push" to publish your local commits)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	renamed:    level1-file.txt -> level1.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	../.DS_Store
+
+kejingeng@kejins-MacBook-Pro level1 % git commit
+[master 251d8f8] Renaming level1 file
+ Committer: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename level1/{level1-file.txt => level1.txt} (100%)
+kejingeng@kejins-MacBook-Pro level1 % clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+kejingeng@kejins-MacBook-Pro level1 % cd
+kejingeng@kejins-MacBook-Pro ~ % clear 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+kejingeng@kejins-MacBook-Pro ~ % mate doom.txt
+kejingeng@kejins-MacBook-Pro ~ % rm -rf doom.txt
+kejingeng@kejins-MacBook-Pro ~ % ls
+Applications		Documents		HW$.jmx			Library			Movies			NewFolder		Public			eclipse-workspace
+Desktop			Downloads		IdeaProjects		Master-Java		Music			Pictures		eclipse			project
+kejingeng@kejins-MacBook-Pro ~ % cd
+kejingeng@kejins-MacBook-Pro ~ % clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+kejingeng@kejins-MacBook-Pro ~ % cd project/starter-web
+kejingeng@kejins-MacBook-Pro starter-web % mate dommed.txt
+kejingeng@kejins-MacBook-Pro starter-web % ls
+404.html				crossdomain.xml				favicon.ico				humans.txt				level1					simple.html
+README.md				css					fonts					index.html				newfile.txt
+apple-touch-icon-precomposed.png	dommed.txt				hipster.txt				js					robots.txt
+kejingeng@kejins-MacBook-Pro starter-web % git status
+On branch master
+Your branch is ahead of 'origin/master' by 10 commits.
+  (use "git push" to publish your local commits)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.DS_Store
+	dommed.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+kejingeng@kejins-MacBook-Pro starter-web % git rm doom.txt
+fatal: pathspec 'doom.txt' did not match any files
+kejingeng@kejins-MacBook-Pro starter-web % git rm doomed.txt
+fatal: pathspec 'doomed.txt' did not match any files
+kejingeng@kejins-MacBook-Pro starter-web % rm doom.txt
+rm: doom.txt: No such file or directory
+kejingeng@kejins-MacBook-Pro starter-web % rm doomed.txt
+rm: doomed.txt: No such file or directory
+kejingeng@kejins-MacBook-Pro starter-web % ls
+404.html				crossdomain.xml				favicon.ico				humans.txt				level1					simple.html
+README.md				css					fonts					index.html				newfile.txt
+apple-touch-icon-precomposed.png	dommed.txt				hipster.txt				js					robots.txt
+kejingeng@kejins-MacBook-Pro starter-web % tm dommed.txt
+zsh: command not found: tm
+kejingeng@kejins-MacBook-Pro starter-web % rm dommed.txt
+kejingeng@kejins-MacBook-Pro starter-web % ls
+404.html				crossdomain.xml				fonts					index.html				newfile.txt
+README.md				css					hipster.txt				js					robots.txt
+apple-touch-icon-precomposed.png	favicon.ico				humans.txt				level1					simple.html
+kejingeng@kejins-MacBook-Pro starter-web % cd
+kejingeng@kejins-MacBook-Pro ~ % clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+kejingeng@kejins-MacBook-Pro ~ % cd
+kejingeng@kejins-MacBook-Pro ~ % clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+kejingeng@kejins-MacBook-Pro ~ % cd project/stater-web
+cd: no such file or directory: project/stater-web
+kejingeng@kejins-MacBook-Pro ~ % clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+kejingeng@kejins-MacBook-Pro ~ % cd project/starter-web
+kejingeng@kejins-MacBook-Pro starter-web % mate doomed.txt
+kejingeng@kejins-MacBook-Pro starter-web % ls
+404.html				crossdomain.xml				favicon.ico				humans.txt				level1					simple.html
+README.md				css					fonts					index.html				newfile.txt
+apple-touch-icon-precomposed.png	doomed.txt				hipster.txt				js					robots.txt
+kejingeng@kejins-MacBook-Pro starter-web % git status
+On branch master
+Your branch is ahead of 'origin/master' by 10 commits.
+  (use "git push" to publish your local commits)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.DS_Store
+	doomed.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+kejingeng@kejins-MacBook-Pro starter-web % git rm doomed.txt
+fatal: pathspec 'doomed.txt' did not match any files
+kejingeng@kejins-MacBook-Pro starter-web % rm doomed.txt
+kejingeng@kejins-MacBook-Pro starter-web % ls
+404.html				crossdomain.xml				fonts					index.html				newfile.txt
+README.md				css					hipster.txt				js					robots.txt
+apple-touch-icon-precomposed.png	favicon.ico				humans.txt				level1					simple.html
+kejingeng@kejins-MacBook-Pro starter-web % git status
+On branch master
+Your branch is ahead of 'origin/master' by 10 commits.
+  (use "git push" to publish your local commits)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.DS_Store
+
+nothing added to commit but untracked files present (use "git add" to track)
+kejingeng@kejins-MacBook-Pro starter-web % clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+kejingeng@kejins-MacBook-Pro starter-web % ls
+404.html				crossdomain.xml				fonts					index.html				newfile.txt
+README.md				css					hipster.txt				js					robots.txt
+apple-touch-icon-precomposed.png	favicon.ico				humans.txt				level1					simple.html
+kejingeng@kejins-MacBook-Pro starter-web % git rm newfile.txt
+rm 'newfile.txt'
+kejingeng@kejins-MacBook-Pro starter-web % ls
+404.html				crossdomain.xml				fonts					index.html				robots.txt
+README.md				css					hipster.txt				js					simple.html
+apple-touch-icon-precomposed.png	favicon.ico				humans.txt				level1
+kejingeng@kejins-MacBook-Pro starter-web % git status
+On branch master
+Your branch is ahead of 'origin/master' by 10 commits.
+  (use "git push" to publish your local commits)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	deleted:    newfile.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.DS_Store
+
+kejingeng@kejins-MacBook-Pro starter-web % git commit -m "Deleting new file"
+[master 47d52b0] Deleting new file
+ Committer: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 deletion(-)
+ delete mode 100644 newfile.txt
+kejingeng@kejins-MacBook-Pro starter-web % git status
+On branch master
+Your branch is ahead of 'origin/master' by 11 commits.
+  (use "git push" to publish your local commits)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.DS_Store
+
+nothing added to commit but untracked files present (use "git add" to track)
+kejingeng@kejins-MacBook-Pro starter-web % clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+kejingeng@kejins-MacBook-Pro starter-web % ls
+404.html				crossdomain.xml				fonts					index.html				robots.txt
+README.md				css					hipster.txt				js					simple.html
+apple-touch-icon-precomposed.png	favicon.ico				humans.txt				level1
+kejingeng@kejins-MacBook-Pro starter-web % git ls-files
+.htaccess
+404.html
+README.md
+apple-touch-icon-precomposed.png
+crossdomain.xml
+css/bootstrap-theme.css
+css/bootstrap-theme.css.map
+css/bootstrap-theme.min.css
+css/bootstrap.css
+css/bootstrap.css.map
+css/bootstrap.min.css
+css/main.css
+favicon.ico
+fonts/glyphicons-halflings-regular.eot
+fonts/glyphicons-halflings-regular.svg
+fonts/glyphicons-halflings-regular.ttf
+fonts/glyphicons-halflings-regular.woff
+hipster.txt
+humans.txt
+index.html
+js/main.js
+js/plugins.js
+js/vendor/bootstrap.js
+js/vendor/bootstrap.min.js
+js/vendor/jquery-1.11.0.min.js
+js/vendor/modernizr-2.6.2-respond-1.1.0.min.js
+level1/level1.txt
+level1/level2/level2.txt
+level1/level2/level3/level3.txt
+robots.txt
+simple.html
+kejingeng@kejins-MacBook-Pro starter-web % git rm hipster.txt
+rm 'hipster.txt'
+kejingeng@kejins-MacBook-Pro starter-web % ls   
+404.html				crossdomain.xml				fonts					js					simple.html
+README.md				css					humans.txt				level1
+apple-touch-icon-precomposed.png	favicon.ico				index.html				robots.txt
+kejingeng@kejins-MacBook-Pro starter-web % git status
+On branch master
+Your branch is ahead of 'origin/master' by 11 commits.
+  (use "git push" to publish your local commits)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	deleted:    hipster.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.DS_Store
+
+kejingeng@kejins-MacBook-Pro starter-web % git reset HEAD hipster.txt
+Unstaged changes after reset:
+D	hipster.txt
+kejingeng@kejins-MacBook-Pro starter-web % ls
+404.html				crossdomain.xml				fonts					js					simple.html
+README.md				css					humans.txt				level1
+apple-touch-icon-precomposed.png	favicon.ico				index.html				robots.txt
+kejingeng@kejins-MacBook-Pro starter-web % git status
+On branch master
+Your branch is ahead of 'origin/master' by 11 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	deleted:    hipster.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.DS_Store
+
+no changes added to commit (use "git add" and/or "git commit -a")
+kejingeng@kejins-MacBook-Pro starter-web % git checkout -- hipster.txt
+kejingeng@kejins-MacBook-Pro starter-web % ls
+404.html				crossdomain.xml				fonts					index.html				robots.txt
+README.md				css					hipster.txt				js					simple.html
+apple-touch-icon-precomposed.png	favicon.ico				humans.txt				level1
+kejingeng@kejins-MacBook-Pro starter-web % git status
+On branch master
+Your branch is ahead of 'origin/master' by 11 commits.
+  (use "git push" to publish your local commits)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.DS_Store
+
+nothing added to commit but untracked files present (use "git add" to track)
+kejingeng@kejins-MacBook-Pro starter-web % clear
+
+kejingeng@kejins-MacBook-Pro starter-web % ls
+404.html				crossdomain.xml				fonts					index.html				robots.txt
+README.md				css					hipster.txt				js					simple.html
+apple-touch-icon-precomposed.png	favicon.ico				humans.txt				level1
+kejingeng@kejins-MacBook-Pro starter-web % rm hipster.txt
+kejingeng@kejins-MacBook-Pro starter-web % ls
+404.html				crossdomain.xml				fonts					js					simple.html
+README.md				css					humans.txt				level1
+apple-touch-icon-precomposed.png	favicon.ico				index.html				robots.txt
+kejingeng@kejins-MacBook-Pro starter-web % git status
+On branch master
+Your branch is ahead of 'origin/master' by 11 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	deleted:    hipster.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.DS_Store
+
+no changes added to commit (use "git add" and/or "git commit -a")
+kejingeng@kejins-MacBook-Pro starter-web % git add -A
+kejingeng@kejins-MacBook-Pro starter-web % git status
+On branch master
+Your branch is ahead of 'origin/master' by 11 commits.
+  (use "git push" to publish your local commits)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	new file:   .DS_Store
+	deleted:    hipster.txt
+
+kejingeng@kejins-MacBook-Pro starter-web % git commit
+[master 6c4645f] Delete hipster.txt
+ Committer: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 7 deletions(-)
+ create mode 100644 .DS_Store
+ delete mode 100644 hipster.txt
+kejingeng@kejins-MacBook-Pro starter-web % clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+kejingeng@kejins-MacBook-Pro starter-web % ls
+404.html				crossdomain.xml				fonts					js					simple.html
+README.md				css					humans.txt				level1
+apple-touch-icon-precomposed.png	favicon.ico				index.html				robots.txt
+kejingeng@kejins-MacBook-Pro starter-web % rm -rf level1
+kejingeng@kejins-MacBook-Pro starter-web % la
+zsh: command not found: la
+kejingeng@kejins-MacBook-Pro starter-web % la
+zsh: command not found: la
+kejingeng@kejins-MacBook-Pro starter-web % la
+zsh: command not found: la
+kejingeng@kejins-MacBook-Pro starter-web % ls
+404.html				apple-touch-icon-precomposed.png	css					fonts					index.html				robots.txt
+README.md				crossdomain.xml				favicon.ico				humans.txt				js					simple.html
+kejingeng@kejins-MacBook-Pro starter-web % git status
+On branch master
+Your branch is ahead of 'origin/master' by 12 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	deleted:    level1/level1.txt
+	deleted:    level1/level2/level2.txt
+	deleted:    level1/level2/level3/level3.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+kejingeng@kejins-MacBook-Pro starter-web % git add -A
+kejingeng@kejins-MacBook-Pro starter-web % git status
+On branch master
+Your branch is ahead of 'origin/master' by 12 commits.
+  (use "git push" to publish your local commits)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	deleted:    level1/level1.txt
+	deleted:    level1/level2/level2.txt
+	deleted:    level1/level2/level3/level3.txt
+
+kejingeng@kejins-MacBook-Pro starter-web % git commit -m "deleting level1 and level1 all children"
+[master 499e71c] deleting level1 and level1 all children
+ Committer: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 11 deletions(-)
+ delete mode 100644 level1/level1.txt
+ delete mode 100644 level1/level2/level2.txt
+ delete mode 100644 level1/level2/level3/level3.txt
+kejingeng@kejins-MacBook-Pro starter-web % cd
+kejingeng@kejins-MacBook-Pro ~ % clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+kejingeng@kejins-MacBook-Pro ~ % pwd
+/Users/kejingeng
+kejingeng@kejins-MacBook-Pro ~ % git help log
+kejingeng@kejins-MacBook-Pro ~ % cd project/starter-web
+kejingeng@kejins-MacBook-Pro starter-web % git log
+commit 499e71c750610b21b0418face47faf611dfce4e8 (HEAD -> master)
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 05:30:44 2021 -0700
+
+    deleting level1 and level1 all children
+
+commit 6c4645f7033bc5d38e155dac012957f83b42357f
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 05:28:31 2021 -0700
+
+    Delete hipster.txt
+
+commit 47d52b04c85d5889761797348bd000874bedea5d
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 05:22:48 2021 -0700
+
+    Deleting new file
+
+commit 251d8f87c86fd937d04cc9b580093a2e987801a3
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 05:10:23 2021 -0700
+
+    Renaming level1 file
+
+commit c52f2cd4a80b394c9bc541cd7686945fafe15201
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 04:55:59 2021 -0700
+
+    Moving level2 file back to level 2 directory
+
+commit 253976ddb3ad0ba775478b6fec8b55b907339fd1
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 04:51:35 2021 -0700
+
+    Moving level2 to level3
+
+commit 9ee8041fa8dc61c3261dfa5a2412b8f748a1aaa1
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 04:48:29 2021 -0700
+
+    renaming level2 file
+
+commit 7852665ff20d31078cd25b1e8e40394ea1af34b8
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 04:46:26 2021 -0700
+
+    renaming level3 file
+
+commit b085f28e16d8705e202ff88545b916586d3d6c37
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 04:39:39 2021 -0700
+
+    Renamed
+
+commit 1537c43164178cbff66e366c6245b2b7cd51d287
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 04:06:17 2021 -0700
+
+    Adding several files recursively
+
+commit 0a85e8f16eb18540ee2ade6c81ac0370dbc17009
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 03:48:27 2021 -0700
+
+    more ipsum from hipsters
+
+commit a75aa7742146d60703fd3d26d1de07c72d81b39f
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 03:46:17 2021 -0700
+
+    Adding new file
+
+commit 694dae82e84f724bac14577b75e5863e37f1e4d8
+kejingeng@kejins-MacBook-Pro starter-web % git log --abbrev-commit
+commit 499e71c (HEAD -> master)
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 05:30:44 2021 -0700
+
+    deleting level1 and level1 all children
+
+commit 6c4645f
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 05:28:31 2021 -0700
+
+    Delete hipster.txt
+
+commit 47d52b0
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 05:22:48 2021 -0700
+
+    Deleting new file
+
+commit 251d8f8
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 05:10:23 2021 -0700
+
+    Renaming level1 file
+
+commit c52f2cd
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 04:55:59 2021 -0700
+
+    Moving level2 file back to level 2 directory
+
+commit 253976d
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 04:51:35 2021 -0700
+
+    Moving level2 to level3
+
+commit 9ee8041
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 04:48:29 2021 -0700
+
+    renaming level2 file
+
+commit 7852665
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 04:46:26 2021 -0700
+
+    renaming level3 file
+
+commit b085f28
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 04:39:39 2021 -0700
+
+    Renamed
+
+commit 1537c43
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 04:06:17 2021 -0700
+
+    Adding several files recursively
+
+commit 0a85e8f
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 03:48:27 2021 -0700
+
+    more ipsum from hipsters
+
+commit a75aa77
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 03:46:17 2021 -0700
+
+    Adding new file
+
+commit 694dae8
+kejingeng@kejins-MacBook-Pro starter-web % git log --online --graph --decorate 
+fatal: unrecognized argument: --online
+kejingeng@kejins-MacBook-Pro starter-web % git log --oneline --graph --decorate 
+* 499e71c (HEAD -> master) deleting level1 and level1 all children
+* 6c4645f Delete hipster.txt
+* 47d52b0 Deleting new file
+* 251d8f8 Renaming level1 file
+* c52f2cd Moving level2 file back to level 2 directory
+* 253976d Moving level2 to level3
+* 9ee8041 renaming level2 file
+* 7852665 renaming level3 file
+* b085f28 Renamed
+* 1537c43 Adding several files recursively
+* 0a85e8f more ipsum from hipsters
+* a75aa77 Adding new file
+* 694dae8 Adding more ipsum text
+* a8a944a (origin/master, origin/HEAD) My first commit
+*   4beb7f0 Merge pull request #6 from jasongtaylor/feature-readme
+|\  
+| * e73f914 Adding Purpose section to README
+| * 34f563b Adding README file
+|/  
+* 5c05047 Copying files from initializr project zip file and then creating simple.html as basis for super simple pages
+kejingeng@kejins-MacBook-Pro starter-web % git log 4999e71c...0185e8f
+fatal: ambiguous argument '4999e71c...0185e8f': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+kejingeng@kejins-MacBook-Pro starter-web % git log 499e71c...0185e8f 
+fatal: ambiguous argument '499e71c...0185e8f': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+kejingeng@kejins-MacBook-Pro starter-web % git log 499e71c...0a85e8f
+commit 499e71c750610b21b0418face47faf611dfce4e8 (HEAD -> master)
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 05:30:44 2021 -0700
+
+    deleting level1 and level1 all children
+
+commit 6c4645f7033bc5d38e155dac012957f83b42357f
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 05:28:31 2021 -0700
+
+    Delete hipster.txt
+
+commit 47d52b04c85d5889761797348bd000874bedea5d
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 05:22:48 2021 -0700
+
+    Deleting new file
+
+commit 251d8f87c86fd937d04cc9b580093a2e987801a3
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 05:10:23 2021 -0700
+
+    Renaming level1 file
+
+commit c52f2cd4a80b394c9bc541cd7686945fafe15201
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 04:55:59 2021 -0700
+
+    Moving level2 file back to level 2 directory
+
+commit 253976ddb3ad0ba775478b6fec8b55b907339fd1
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 04:51:35 2021 -0700
+
+    Moving level2 to level3
+
+commit 9ee8041fa8dc61c3261dfa5a2412b8f748a1aaa1
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 04:48:29 2021 -0700
+
+    renaming level2 file
+
+commit 7852665ff20d31078cd25b1e8e40394ea1af34b8
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 04:46:26 2021 -0700
+
+    renaming level3 file
+
+commit b085f28e16d8705e202ff88545b916586d3d6c37
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 04:39:39 2021 -0700
+
+    Renamed
+
+commit 1537c43164178cbff66e366c6245b2b7cd51d287
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 04:06:17 2021 -0700
+
+    Adding several files recursively
+kejingeng@kejins-MacBook-Pro starter-web % git log --since="3 days ago"
+commit 499e71c750610b21b0418face47faf611dfce4e8 (HEAD -> master)
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 05:30:44 2021 -0700
+
+    deleting level1 and level1 all children
+
+commit 6c4645f7033bc5d38e155dac012957f83b42357f
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 05:28:31 2021 -0700
+
+    Delete hipster.txt
+
+commit 47d52b04c85d5889761797348bd000874bedea5d
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 05:22:48 2021 -0700
+
+    Deleting new file
+
+commit 251d8f87c86fd937d04cc9b580093a2e987801a3
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 05:10:23 2021 -0700
+
+    Renaming level1 file
+
+commit c52f2cd4a80b394c9bc541cd7686945fafe15201
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 04:55:59 2021 -0700
+
+    Moving level2 file back to level 2 directory
+
+commit 253976ddb3ad0ba775478b6fec8b55b907339fd1
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 04:51:35 2021 -0700
+
+    Moving level2 to level3
+
+commit 9ee8041fa8dc61c3261dfa5a2412b8f748a1aaa1
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 04:48:29 2021 -0700
+
+    renaming level2 file
+
+commit 7852665ff20d31078cd25b1e8e40394ea1af34b8
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 04:46:26 2021 -0700
+
+    renaming level3 file
+
+commit b085f28e16d8705e202ff88545b916586d3d6c37
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 04:39:39 2021 -0700
+
+    Renamed
+
+commit 1537c43164178cbff66e366c6245b2b7cd51d287
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 04:06:17 2021 -0700
+
+    Adding several files recursively
+
+commit 0a85e8f16eb18540ee2ade6c81ac0370dbc17009
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 03:48:27 2021 -0700
+
+    more ipsum from hipsters
+
+commit a75aa7742146d60703fd3d26d1de07c72d81b39f
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 03:46:17 2021 -0700
+
+    Adding new file
+
+commit 694dae82e84f724bac14577b75e5863e37f1e4d8
+:...skipping...
+commit 499e71c750610b21b0418face47faf611dfce4e8 (HEAD -> master)
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 05:30:44 2021 -0700
+
+    deleting level1 and level1 all children
+
+commit 6c4645f7033bc5d38e155dac012957f83b42357f
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 05:28:31 2021 -0700
+
+    Delete hipster.txt
+
+commit 47d52b04c85d5889761797348bd000874bedea5d
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 05:22:48 2021 -0700
+
+    Deleting new file
+
+commit 251d8f87c86fd937d04cc9b580093a2e987801a3
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 05:10:23 2021 -0700
+
+    Renaming level1 file
+
+commit c52f2cd4a80b394c9bc541cd7686945fafe15201
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 04:55:59 2021 -0700
+
+    Moving level2 file back to level 2 directory
+
+commit 253976ddb3ad0ba775478b6fec8b55b907339fd1
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 04:51:35 2021 -0700
+
+    Moving level2 to level3
+
+commit 9ee8041fa8dc61c3261dfa5a2412b8f748a1aaa1
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 04:48:29 2021 -0700
+
+    renaming level2 file
+
+commit 7852665ff20d31078cd25b1e8e40394ea1af34b8
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 04:46:26 2021 -0700
+
+    renaming level3 file
+
+commit b085f28e16d8705e202ff88545b916586d3d6c37
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 04:39:39 2021 -0700
+
+    Renamed
+
+commit 1537c43164178cbff66e366c6245b2b7cd51d287
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 04:06:17 2021 -0700
+
+    Adding several files recursively
+
+commit 0a85e8f16eb18540ee2ade6c81ac0370dbc17009
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 03:48:27 2021 -0700
+
+    more ipsum from hipsters
+
+commit a75aa7742146d60703fd3d26d1de07c72d81b39f
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 03:46:17 2021 -0700
+
+    Adding new file
+
+commit 694dae82e84f724bac14577b75e5863e37f1e4d8
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 03:31:11 2021 -0700
+:...skipping...
+commit 499e71c750610b21b0418face47faf611dfce4e8 (HEAD -> master)
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 05:30:44 2021 -0700
+
+    deleting level1 and level1 all children
+
+commit 6c4645f7033bc5d38e155dac012957f83b42357f
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 05:28:31 2021 -0700
+
+    Delete hipster.txt
+
+commit 47d52b04c85d5889761797348bd000874bedea5d
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 05:22:48 2021 -0700
+
+    Deleting new file
+
+commit 251d8f87c86fd937d04cc9b580093a2e987801a3
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 05:10:23 2021 -0700
+
+    Renaming level1 file
+
+commit c52f2cd4a80b394c9bc541cd7686945fafe15201
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 04:55:59 2021 -0700
+
+    Moving level2 file back to level 2 directory
+
+commit 253976ddb3ad0ba775478b6fec8b55b907339fd1
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 04:51:35 2021 -0700
+
+    Moving level2 to level3
+
+commit 9ee8041fa8dc61c3261dfa5a2412b8f748a1aaa1
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 04:48:29 2021 -0700
+
+    renaming level2 file
+
+commit 7852665ff20d31078cd25b1e8e40394ea1af34b8
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 04:46:26 2021 -0700
+
+    renaming level3 file
+
+commit b085f28e16d8705e202ff88545b916586d3d6c37
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 04:39:39 2021 -0700
+
+    Renamed
+
+commit 1537c43164178cbff66e366c6245b2b7cd51d287
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 04:06:17 2021 -0700
+
+    Adding several files recursively
+
+commit 0a85e8f16eb18540ee2ade6c81ac0370dbc17009
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 03:48:27 2021 -0700
+
+    more ipsum from hipsters
+
+commit a75aa7742146d60703fd3d26d1de07c72d81b39f
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 03:46:17 2021 -0700
+
+    Adding new file
+
+commit 694dae82e84f724bac14577b75e5863e37f1e4d8
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 03:31:11 2021 -0700
+
+    Adding more ipsum text
+
+commit a8a944aa78e1ac807f39f710257ec1b7c3324f34 (origin/master, origin/HEAD)
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 03:11:11 2021 -0700
+
+    My first commit
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+kejingeng@kejins-MacBook-Pro starter-web % clear
+
+kejingeng@kejins-MacBook-Pro starter-web % git show a75aa7742146d60703fd3d26d1de07c72d81b39f
+commit a75aa7742146d60703fd3d26d1de07c72d81b39f
+Author: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Date:   Sun Sep 19 03:46:17 2021 -0700
+
+    Adding new file
+
+diff --git a/newfile.txt b/newfile.txt
+new file mode 100644
+index 0000000..3d14126
+--- /dev/null
++++ b/newfile.txt
+@@ -0,0 +1 @@
++Just a test of ls-files
+kejingeng@kejins-MacBook-Pro starter-web % cd
+kejingeng@kejins-MacBook-Pro ~ % clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+kejingeng@kejins-MacBook-Pro ~ % cd project/starter-web
+kejingeng@kejins-MacBook-Pro starter-web % git log --oneline --graph --decorate             
+* 499e71c (HEAD -> master) deleting level1 and level1 all children
+* 6c4645f Delete hipster.txt
+* 47d52b0 Deleting new file
+* 251d8f8 Renaming level1 file
+* c52f2cd Moving level2 file back to level 2 directory
+* 253976d Moving level2 to level3
+* 9ee8041 renaming level2 file
+* 7852665 renaming level3 file
+* b085f28 Renamed
+* 1537c43 Adding several files recursively
+* 0a85e8f more ipsum from hipsters
+* a75aa77 Adding new file
+* 694dae8 Adding more ipsum text
+* a8a944a (origin/master, origin/HEAD) My first commit
+*   4beb7f0 Merge pull request #6 from jasongtaylor/feature-readme
+|\  
+| * e73f914 Adding Purpose section to README
+| * 34f563b Adding README file
+|/  
+* 5c05047 Copying files from initializr project zip file and then creating simple.html as basis for super simple pages
+kejingeng@kejins-MacBook-Pro starter-web % git hist
+git: 'hist' is not a git command. See 'git --help'.
+
+The most similar command is
+	bisect
+kejingeng@kejins-MacBook-Pro starter-web % git config --global alias.hist "log --all --graph --decorate --oneline" 
+kejingeng@kejins-MacBook-Pro starter-web % git hist
+* 499e71c (HEAD -> master) deleting level1 and level1 all children
+* 6c4645f Delete hipster.txt
+* 47d52b0 Deleting new file
+* 251d8f8 Renaming level1 file
+* c52f2cd Moving level2 file back to level 2 directory
+* 253976d Moving level2 to level3
+* 9ee8041 renaming level2 file
+* 7852665 renaming level3 file
+* b085f28 Renamed
+* 1537c43 Adding several files recursively
+* 0a85e8f more ipsum from hipsters
+* a75aa77 Adding new file
+* 694dae8 Adding more ipsum text
+* a8a944a (origin/master, origin/HEAD) My first commit
+*   4beb7f0 Merge pull request #6 from jasongtaylor/feature-readme
+|\  
+| * e73f914 Adding Purpose section to README
+| * 34f563b Adding README file
+|/  
+* 5c05047 Copying files from initializr project zip file and then creating simple.html as basis for super simple pages
+kejingeng@kejins-MacBook-Pro starter-web % clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+kejingeng@kejins-MacBook-Pro starter-web % mate ~/.gitconfig
+kejingeng@kejins-MacBook-Pro starter-web % /Users/kejingeng/.gitconfig /Users/kejingeng/.gitconfig 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
