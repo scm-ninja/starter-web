@@ -8,7 +8,7 @@ This is a example is to show different parts of the Git repository and various c
 
 ## Purpose
 
-Sample website with plenty of files for demos
+As stated above, the main purpose is to provide simple examples for Git traning
 
 ## Deployment
 
