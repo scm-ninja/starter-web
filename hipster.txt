@@ -347,4 +347,87 @@ Your branch is ahead of 'origin/master' by 2 commits.
 
 nothing to commit, working tree clean
 kejingeng@kejins-MacBook-Pro starter-web % mate hipster.txt
+kejingeng@kejins-MacBook-Pro starter-web % ls
+404.html				crossdomain.xml				fonts					index.html				robots.txt
+README.md				css					hipster.txt				js					simple.html
+apple-touch-icon-precomposed.png	favicon.ico				humans.txt				log
+kejingeng@kejins-MacBook-Pro starter-web % git status
+On branch master
+Your branch is ahead of 'origin/master' by 2 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   hipster.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+kejingeng@kejins-MacBook-Pro starter-web % git add hipster.txt
+kejingeng@kejins-MacBook-Pro starter-web % git status
+On branch master
+Your branch is ahead of 'origin/master' by 2 commits.
+  (use "git push" to publish your local commits)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   hipster.txt
+
+kejingeng@kejins-MacBook-Pro starter-web % git commit -m "My first commit!"
+dquote> q
+dquote> exit
+dquote> back
+dquote> "
+[master ef95a4b] My first commit q exit back
+ Committer: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 350 insertions(+), 2196 deletions(-)
+ rewrite hipster.txt (94%)
+kejingeng@kejins-MacBook-Pro starter-web % git status
+On branch master
+Your branch is ahead of 'origin/master' by 3 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+kejingeng@kejins-MacBook-Pro starter-web % git pull origin master
+hint: Pulling without specifying how to reconcile divergent branches is
+hint: discouraged. You can squelch this message by running one of the following
+hint: commands sometime before your next pull:
+hint: 
+hint:   git config pull.rebase false  # merge (the default strategy)
+hint:   git config pull.rebase true   # rebase
+hint:   git config pull.ff only       # fast-forward only
+hint: 
+hint: You can replace "git config" with "git config --global" to set a default
+hint: preference for all repositories. You can also pass --rebase, --no-rebase,
+hint: or --ff-only on the command line to override the configured default per
+hint: invocation.
+From https://github.com/NobodyKJ/starter-web
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+kejingeng@kejins-MacBook-Pro starter-web % git push origin master
+Enumerating objects: 11, done.
+Counting objects: 100% (11/11), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (7/7), done.
+Writing objects: 100% (9/9), 3.46 KiB | 3.46 MiB/s, done.
+Total 9 (delta 3), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (3/3), completed with 1 local object.
+To https://github.com/NobodyKJ/starter-web.git
+   40f982a..ef95a4b  master -> master
+kejingeng@kejins-MacBook-Pro starter-web % mate hipster.txt
+kejingeng@kejins-MacBook-Pro starter-web % git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
 kejingeng@kejins-MacBook-Pro starter-web % 
