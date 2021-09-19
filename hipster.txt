@@ -430,4 +430,153 @@ On branch master
 Your branch is up to date with 'origin/master'.
 
 nothing to commit, working tree clean
+kejingeng@kejins-MacBook-Pro starter-web % mate hipster.txt
+kejingeng@kejins-MacBook-Pro starter-web % git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   hipster.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+kejingeng@kejins-MacBook-Pro starter-web % git ls-files
+.DS_Store
+.gitignore
+.htaccess
+404.html
+README.md
+apple-touch-icon-precomposed.png
+crossdomain.xml
+css/bootstrap-theme.css
+css/bootstrap-theme.css.map
+css/bootstrap-theme.min.css
+css/bootstrap.css
+css/bootstrap.css.map
+css/bootstrap.min.css
+css/main.css
+favicon.ico
+fonts/glyphicons-halflings-regular.eot
+fonts/glyphicons-halflings-regular.svg
+fonts/glyphicons-halflings-regular.ttf
+fonts/glyphicons-halflings-regular.woff
+hipster.txt
+humans.txt
+index.html
+js/main.js
+js/plugins.js
+js/vendor/bootstrap.js
+js/vendor/bootstrap.min.js
+js/vendor/jquery-1.11.0.min.js
+js/vendor/modernizr-2.6.2-respond-1.1.0.min.js
+robots.txt
+simple.html
+kejingeng@kejins-MacBook-Pro starter-web % mate newfile.txt
+kejingeng@kejins-MacBook-Pro starter-web % git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   hipster.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	newfile.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+kejingeng@kejins-MacBook-Pro starter-web % git add hipster.txt
+kejingeng@kejins-MacBook-Pro starter-web % git add newfile.txt
+kejingeng@kejins-MacBook-Pro starter-web % git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   hipster.txt
+	new file:   newfile.txt
+
+kejingeng@kejins-MacBook-Pro starter-web % git commit
+[master e3bff9d] Update
+ Committer: kejin geng <kejingeng@kejins-MacBook-Pro.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 84 insertions(+)
+ create mode 100644 newfile.txt
+kejingeng@kejins-MacBook-Pro starter-web % git ls-files
+.DS_Store
+.gitignore
+.htaccess
+404.html
+README.md
+apple-touch-icon-precomposed.png
+crossdomain.xml
+css/bootstrap-theme.css
+css/bootstrap-theme.css.map
+css/bootstrap-theme.min.css
+css/bootstrap.css
+css/bootstrap.css.map
+css/bootstrap.min.css
+css/main.css
+favicon.ico
+fonts/glyphicons-halflings-regular.eot
+fonts/glyphicons-halflings-regular.svg
+fonts/glyphicons-halflings-regular.ttf
+fonts/glyphicons-halflings-regular.woff
+hipster.txt
+humans.txt
+index.html
+js/main.js
+js/plugins.js
+js/vendor/bootstrap.js
+js/vendor/bootstrap.min.js
+js/vendor/jquery-1.11.0.min.js
+js/vendor/modernizr-2.6.2-respond-1.1.0.min.js
+newfile.txt
+robots.txt
+simple.html
+kejingeng@kejins-MacBook-Pro starter-web % mate hipster.txt
+kejingeng@kejins-MacBook-Pro starter-web % git status
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   hipster.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+kejingeng@kejins-MacBook-Pro starter-web % git commit -m "Adding new file"
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   hipster.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+kejingeng@kejins-MacBook-Pro starter-web % git add hipster.txt
+kejingeng@kejins-MacBook-Pro starter-web % git status
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   hipster.txt
+
 kejingeng@kejins-MacBook-Pro starter-web % 
