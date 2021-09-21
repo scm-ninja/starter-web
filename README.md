@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a simple website project for showing how to use Git and Github together.  Adding a line for rebasing exmaple in master, then more change from myfeature branch too.
+This is a simple website project for showing how to use Git and Github together.  Adding a line for rebasing exmaple in master, then more change from myfeature branch too.  Emergency fix after stash.
 
 ## Introduction
 
