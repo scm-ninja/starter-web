@@ -15,3 +15,7 @@ The main purpose is to provide simple examples for Git training.
 Deployment text.
 
 ## How to Contribute
+
+### Copyright
+
+2021 Git.Training
