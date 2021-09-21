@@ -16,6 +16,8 @@ Deployment text.
 
 ## How to Contribute
 
+Please fork this repo and issue a PR with your changes.
+
 ### Copyright
 
 2021 Git.Training
