@@ -20,4 +20,4 @@ Please fork this repository and then issue pull requests for review
 
 ## How to Contribute
 
-2021 Git.Training
+2021 Git.Training.  All rights reserved.
