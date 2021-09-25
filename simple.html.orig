@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<!--
+	copyright 2014 Git.Traning
+<<<<<<< HEAD
+	Some silly changes from the master branch
+-->
+<head>
+	<title>Silly changes on master</title>
+=======
+	There changes are from the feature branch bigtrouble
+-->
+<head>
+	<title>Lots of troubles </title>
+>>>>>>> 807c5b8 (fb adding some trouble to simple.html)
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<style>
+		body {
+			padding-top: 50px;
+			padding-bottom: 20px;
+		}
+	</style>
+	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+</head>
+<body>
+	<main class="container">
+	<!-- Junk Filler content -->
+		<p>
+<<<<<<< HEAD
+			Just some content
+			Not sure if we need replace this
+=======
+			Just nothing but troubles
+>>>>>>> 807c5b8 (fb adding some trouble to simple.html)
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; Git Training 2014</p>
+	</footer>
+</body>
+</html>
