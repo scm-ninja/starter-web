@@ -29,58 +29,69 @@ Update CSR Information:
 
 ## Select “2048” bit length and default MS Cryptographic Service Provider:
  
-IMAGE
+![image](https://user-images.githubusercontent.com/70411712/136116106-3e6c1924-bbec-4cac-99ff-9df4b7a473bb.png)
+
 ## Save the CSR and copy it off the server:
  
-IMAGE
+![image](https://user-images.githubusercontent.com/70411712/136116152-decc20ad-15f6-4e59-b0f6-12e59173f700.png)
 
-Go to the AA Entrust portal:
+## Go to the AA Entrust portal:
 
+## ![image](https://user-images.githubusercontent.com/70411712/136116278-a95ed2fe-58d6-469c-be40-49cf4d9923ff.png)
 [Entrust Certificate Services](https://cloud.entrust.net/eform/certificate?ep=bSjn5ltZ2U1Ce2-mc1BSU3xuMoFLExvmLu1EXdbVDOOQgatQhpnthRWfvun1BDvWmJIY87JKKhdQCNruzexFY_vof7oDB7Zg7cDfgKXrPGbwgVhARwnQYQYxWy2aD1_k)
 - ALL cert requests are “New” (even renew, etc.)
 - Select: SSL/TLS
 - Password is: gr82ussl
  
-2 IMAGE
+![image](https://user-images.githubusercontent.com/70411712/136116291-4961a2df-2489-4e7b-8ebe-ea72a8a134b3.png)
+
+![image](https://user-images.githubusercontent.com/70411712/136116307-beb3179c-ec6c-4cc8-9adc-fe4430516dc5.png)
+
 
 ## Use the Advanced (for two domains) and EV Multi for 3 or more.
 
-IMAGE
+![image](https://user-images.githubusercontent.com/70411712/136116338-52f8e24d-90a8-435b-8839-76aa985894b0.png)
 
 ## Complete “Certificate Details” like shown:
  
- 2 images
+ ![image](https://user-images.githubusercontent.com/70411712/136116350-c69a11fc-48ba-4ffb-9f5e-c55a90c499c9.png)
+ 
+ ![image](https://user-images.githubusercontent.com/70411712/136116367-1d406cc8-e2e1-4d82-aba4-76c72f1841e4.png)
+
  
 ## Click next after pasting CSR in box field: 
-IMAGE
-## Add ALL the domains needed:
- 
-IMAGE
+![image](https://user-images.githubusercontent.com/70411712/136116380-961ca61b-e855-4e13-861c-36f723bf23f9.png)
+
+## Add ALL the domains needed: 
+![image](https://user-images.githubusercontent.com/70411712/136116417-b8e6ada7-294c-4c13-b649-653cbb75a4f5.png)
 
 
 ## Click next;
- IMAGE
+ ![image](https://user-images.githubusercontent.com/70411712/136116440-864f7bf4-cab9-46a6-bb02-ef11ecd8f2c0.png)
+
 ## Complete “Additional Information” like shown:
  
-IMAGE
- 
+![image](https://user-images.githubusercontent.com/70411712/136116467-0a329d7c-9524-4047-bb15-9d06f4f87bab.png)
+
 ## Click Yes:
  
-IMAGE
+![image](https://user-images.githubusercontent.com/70411712/136116484-f9c58642-1c61-4395-900b-c55cebb3ea15.png)
+
+![image](https://user-images.githubusercontent.com/70411712/136116536-6bab7e3b-4b2a-4a43-bd92-3244002d3e06.png)
+
   
 ## Once the Entrust response email is received (usually same day), copy the new certificate to the server:
- 3 images
+![image](https://user-images.githubusercontent.com/70411712/136116609-af1dba26-250f-4612-8e46-7e3f00d1ee46.png)
 
 This link has the best cert install instructions:
 http://www.entrust.net/knowledge-base/technote.cfm?tn=8713 
 Also, issues with “successful” installs where certificate disappears from IIS cert manager can be resolved with these steps: https://www.namecheap.com/support/knowledgebase/article.aspx/9773/2238/ssl-disappears-from-the-certificate-list-on-windows-server 
 This process works everytime:
 
-IMAGE
+![image](https://user-images.githubusercontent.com/70411712/136116652-6a480afb-6ef2-4551-8b24-9337d1de96cc.png)
 Purpose: [SSL/TLS Certificate Installation Guide](https://www.entrust.com/get-support/ssl-certificate-support/installation-help/)
 For Microsoft IIS8
 ![image](https://user-images.githubusercontent.com/70411712/136114772-bf5bdb5b-53c0-41fc-982f-58995675e139.png)
-
 Need Certificate Signing Request (CSR) help? Please see our technote on how to generate a CSR in IIS 8/8.5 [here](https://www.entrustdatacard.com/knowledgebase/How-to-generate-a-CSR-using-Microsoft-IIS8?r=1&ui-knowledge-aloha-components-aura-components-knowledgeone.ArticleActions.handleEditPublished=1).
 
 [There's a video for this guide. Watch the video here](https://youtu.be/-cFDqhNRbcQ)
@@ -91,15 +102,16 @@ Need Certificate Signing Request (CSR) help? Please see our technote on how to g
 2) [Installing the certificate on the server](https://www.entrust.net/pickup/certificatePickupWizard#install).
 3) [Bind Certificate to website](https://www.entrust.net/pickup/certificatePickupWizard#bind)
 
-Part 1 of 3: Importing CA certificate using Microsoft Management Console (MMC)
-1.	Click the link in the email ‘You may also use the following URL to pick up and install your certificate:’.  
+## Part 1 of 3: Importing CA certificate using Microsoft Management Console (MMC)
+1.	Click the link in the email ‘You may also use the following URL to pick up and install your certificate.
+![image](https://user-images.githubusercontent.com/70411712/136116857-37305aee-0adf-4caa-aca2-55e13552cd17.png)
 2.	In the ‘Entrust’ site click ‘Next’.
 3.	Click the Download button on left pane to download your certificate files. Clicking the download button will produce a zip file that includes your Server Certificate, the Entrust chain/intermediate certificates(s) and the Entrust Root certificate. Extract the files from the zip file. 
- 
+![image](https://user-images.githubusercontent.com/70411712/136116890-201b6f42-8d74-4a0e-aa5b-060d12e50b5e.png)
   
-2. On the server, go to Start > Run > type MMC and hit enter.
-
-3. Click File > Add Remove Snap-in.
+4. On the server, go to Start > Run > type MMC and hit enter.
+5. Click File > Add Remove Snap-in.
+![image](https://user-images.githubusercontent.com/70411712/136116989-052d7b50-29f5-4067-a19e-30a6d296cc7a.png)
 
  4. Select Certificates and click Add.
 
