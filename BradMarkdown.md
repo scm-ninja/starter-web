@@ -1,109 +1,93 @@
-## EMFT SSL Certificate Management Procedure
-(Entrust external certs for MOVEit Transfer)
+# EMFT SSL Certificate Management Procedure
+## (Entrust external certs for MOVEit Transfer)
 NOTE: Please, defer back to the AA SSL CertManagement Portal for the latest updates to the overall process. Please, review the documentation in the “Available User Guides” tab.
 AA SSL CertManagement SharePoint Portal:
 http://sharepoint.aa.com/Services/ITS/ITSecurity/Pages/SSLCertManagement.aspx
  
 
-Generate CSR: 
-Start off by accessing the IIS Manager > Server Certificates from the server you are certifying:
+IMAGE
+
+
+## Generate CSR: 
+## Start off by accessing the IIS Manager > Server Certificates from the server you are certifying:
+  2 IMAGES
+  
  
+## Click “Create Certificate Request…” from Actions menu:
  
-Click “Create Certificate Request…” from Actions menu:
+## Fill out the information as shown:
+Update CSR Information:
+
+- Common Name: esapp????.corpaa.aa.com
+- Organization: American Airlines Inc
+- Organization Unit: "[no ou]" (Entrust), "PKI-Web - Temp" (Venafi)
+- Locality: Fort Worth
+- State: Texas
+- Country: US
  
-Fill out the information as shown:
-Updated CSR Information:
-Common Name: esapp????.corpaa.aa.com
-Organization: American Airlines Inc
-Organization Unit: "[no ou]" (Entrust), "PKI-Web - Temp" (Venafi)
-Locality: Fort Worth
-State: Texas
-Country: US
+IMAGE
+
+## Select “2048” bit length and default MS Cryptographic Service Provider:
  
-
-
-Select “2048” bit length and default MS Cryptographic Service Provider:
+IMAGE
+## Save the CSR and copy it off the server:
  
-
-
-
-
-
-
-
-
-
-
-
-Save the CSR and copy it off the server:
- 
-
-
-
-
-
-
-
-
-
-
+IMAGE
 
 Go to the AA Entrust portal:
-Entrust Certificate Services
-ALL cert requests are “New” (even renew, etc.)
-Select: SSL/TLS
-Password is: gr82ussl
+
+[Entrust Certificate Services](https://cloud.entrust.net/eform/certificate?ep=bSjn5ltZ2U1Ce2-mc1BSU3xuMoFLExvmLu1EXdbVDOOQgatQhpnthRWfvun1BDvWmJIY87JKKhdQCNruzexFY_vof7oDB7Zg7cDfgKXrPGbwgVhARwnQYQYxWy2aD1_k)
+- ALL cert requests are “New” (even renew, etc.)
+- Select: SSL/TLS
+- Password is: gr82ussl
  
+2 IMAGE
 
+## Use the Advanced (for two domains) and EV Multi for 3 or more.
 
+IMAGE
+
+## Complete “Certificate Details” like shown:
  
-
-
-Use the Advanced (for two domains) and EV Multi for 3 or more.
-
+ 2 images
  
-
-Complete “Certificate Details” like shown:
+## Click next after pasting CSR in box field: 
+IMAGE
+## Add ALL the domains needed:
  
+IMAGE
+
+
+## Click next;
+ IMAGE
+## Complete “Additional Information” like shown:
  
-Click next after pasting CSR in box field: 
-
-Add ALL the domains needed:
- 
-
-
-
-Click next;
- 
-Complete “Additional Information” like shown:
- 
-
+IMAGE
  
-
-Click Yes:
+## Click Yes:
  
-
- 
-
- 
-Once the Entrust response email is received (usually same day), copy the new certificate to the server:
- 
+IMAGE
+  
+## Once the Entrust response email is received (usually same day), copy the new certificate to the server:
+ 3 images
 
 This link has the best cert install instructions:
 http://www.entrust.net/knowledge-base/technote.cfm?tn=8713 
 Also, issues with “successful” installs where certificate disappears from IIS cert manager can be resolved with these steps: https://www.namecheap.com/support/knowledgebase/article.aspx/9773/2238/ssl-disappears-from-the-certificate-list-on-windows-server 
 This process works everytime:
-   Purpose: SSL/TLS Certificate Installation Guide
+
+IMAGE
+Purpose: [SSL/TLS Certificate Installation Guide](https://www.entrust.com/get-support/ssl-certificate-support/installation-help/)
 For Microsoft IIS8
-  Need Certificate Signing Request (CSR) help? Please see our technote on how to generate a CSR in IIS 8/8.5 here.
+  Need Certificate Signing Request (CSR) help? Please see our technote on how to generate a CSR in IIS 8/8.5 [here](https://www.entrustdatacard.com/knowledgebase/How-to-generate-a-CSR-using-Microsoft-IIS8?r=1&ui-knowledge-aloha-components-aura-components-knowledgeone.ArticleActions.handleEditPublished=1).
 
-There's a video for this guide. Watch the video here.
+[There's a video for this guide. Watch the video here](https://youtu.be/-cFDqhNRbcQ)
 
 
-The installation is in three parts:
-1) Importing CA certificate using Microsoft Management Console (MMC)
-2) Installing the certificate on the server
-3) Bind Certificate to website
+## The installation is in three parts:
+1) [Importing CA certificate using Microsoft Management Console (MMC0](https://www.entrust.net/pickup/certificatePickupWizard#import).
+2) [Installing the certificate on the server](https://www.entrust.net/pickup/certificatePickupWizard#install).
+3) [Bind Certificate to website](https://www.entrust.net/pickup/certificatePickupWizard#bind)
 Part 1 of 3: Importing CA certificate using Microsoft Management Console (MMC)
 1.	Click the link in the email ‘You may also use the following URL to pick up and install your certificate:’.  
 2.	In the ‘Entrust’ site click ‘Next’.
