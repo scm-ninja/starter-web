@@ -4,17 +4,17 @@ NOTE: Please, defer back to the AA SSL CertManagement Portal for the latest upda
 AA SSL CertManagement SharePoint Portal:
 http://sharepoint.aa.com/Services/ITS/ITSecurity/Pages/SSLCertManagement.aspx
  
-
-IMAGE
-
+![image](https://user-images.githubusercontent.com/70411712/136114809-418b0772-3d0e-4e6b-ac58-60deddcc2ea0.png)
 
 ## Generate CSR: 
 ## Start off by accessing the IIS Manager > Server Certificates from the server you are certifying:
-  2 IMAGES
-  
- 
+![image](https://user-images.githubusercontent.com/70411712/136114868-e5d20071-ec31-470c-b871-cfb99999a793.png)
+
+![image](https://user-images.githubusercontent.com/70411712/136114883-5f74a84b-c595-4014-9e5b-94f3fe379c8d.png)
+
 ## Click “Create Certificate Request…” from Actions menu:
- 
+![image](https://user-images.githubusercontent.com/70411712/136114950-3a34f63b-642f-445e-af23-330495f6db26.png)
+
 ## Fill out the information as shown:
 Update CSR Information:
 
@@ -25,7 +25,7 @@ Update CSR Information:
 - State: Texas
 - Country: US
  
-IMAGE
+![image](https://user-images.githubusercontent.com/70411712/136114977-3ef73f39-ea99-4aef-a4bd-f4b0787aca1a.png)
 
 ## Select “2048” bit length and default MS Cryptographic Service Provider:
  
@@ -79,7 +79,9 @@ This process works everytime:
 IMAGE
 Purpose: [SSL/TLS Certificate Installation Guide](https://www.entrust.com/get-support/ssl-certificate-support/installation-help/)
 For Microsoft IIS8
-  Need Certificate Signing Request (CSR) help? Please see our technote on how to generate a CSR in IIS 8/8.5 [here](https://www.entrustdatacard.com/knowledgebase/How-to-generate-a-CSR-using-Microsoft-IIS8?r=1&ui-knowledge-aloha-components-aura-components-knowledgeone.ArticleActions.handleEditPublished=1).
+![image](https://user-images.githubusercontent.com/70411712/136114772-bf5bdb5b-53c0-41fc-982f-58995675e139.png)
+
+Need Certificate Signing Request (CSR) help? Please see our technote on how to generate a CSR in IIS 8/8.5 [here](https://www.entrustdatacard.com/knowledgebase/How-to-generate-a-CSR-using-Microsoft-IIS8?r=1&ui-knowledge-aloha-components-aura-components-knowledgeone.ArticleActions.handleEditPublished=1).
 
 [There's a video for this guide. Watch the video here](https://youtu.be/-cFDqhNRbcQ)
 
@@ -88,6 +90,7 @@ For Microsoft IIS8
 1) [Importing CA certificate using Microsoft Management Console (MMC0](https://www.entrust.net/pickup/certificatePickupWizard#import).
 2) [Installing the certificate on the server](https://www.entrust.net/pickup/certificatePickupWizard#install).
 3) [Bind Certificate to website](https://www.entrust.net/pickup/certificatePickupWizard#bind)
+
 Part 1 of 3: Importing CA certificate using Microsoft Management Console (MMC)
 1.	Click the link in the email ‘You may also use the following URL to pick up and install your certificate:’.  
 2.	In the ‘Entrust’ site click ‘Next’.
