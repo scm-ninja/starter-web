@@ -1,0 +1,212 @@
+## EMFT SSL Certificate Management Procedure
+(Entrust external certs for MOVEit Transfer)
+NOTE: Please, defer back to the AA SSL CertManagement Portal for the latest updates to the overall process. Please, review the documentation in the “Available User Guides” tab.
+AA SSL CertManagement SharePoint Portal:
+http://sharepoint.aa.com/Services/ITS/ITSecurity/Pages/SSLCertManagement.aspx
+ 
+
+Generate CSR: 
+Start off by accessing the IIS Manager > Server Certificates from the server you are certifying:
+ 
+ 
+Click “Create Certificate Request…” from Actions menu:
+ 
+Fill out the information as shown:
+Updated CSR Information:
+Common Name: esapp????.corpaa.aa.com
+Organization: American Airlines Inc
+Organization Unit: "[no ou]" (Entrust), "PKI-Web - Temp" (Venafi)
+Locality: Fort Worth
+State: Texas
+Country: US
+ 
+
+
+Select “2048” bit length and default MS Cryptographic Service Provider:
+ 
+
+
+
+
+
+
+
+
+
+
+
+Save the CSR and copy it off the server:
+ 
+
+
+
+
+
+
+
+
+
+
+
+Go to the AA Entrust portal:
+Entrust Certificate Services
+ALL cert requests are “New” (even renew, etc.)
+Select: SSL/TLS
+Password is: gr82ussl
+ 
+
+
+ 
+
+
+Use the Advanced (for two domains) and EV Multi for 3 or more.
+
+ 
+
+Complete “Certificate Details” like shown:
+ 
+ 
+Click next after pasting CSR in box field: 
+
+Add ALL the domains needed:
+ 
+
+
+
+Click next;
+ 
+Complete “Additional Information” like shown:
+ 
+
+ 
+
+Click Yes:
+ 
+
+ 
+
+ 
+Once the Entrust response email is received (usually same day), copy the new certificate to the server:
+ 
+
+This link has the best cert install instructions:
+http://www.entrust.net/knowledge-base/technote.cfm?tn=8713 
+Also, issues with “successful” installs where certificate disappears from IIS cert manager can be resolved with these steps: https://www.namecheap.com/support/knowledgebase/article.aspx/9773/2238/ssl-disappears-from-the-certificate-list-on-windows-server 
+This process works everytime:
+   Purpose: SSL/TLS Certificate Installation Guide
+For Microsoft IIS8
+  Need Certificate Signing Request (CSR) help? Please see our technote on how to generate a CSR in IIS 8/8.5 here.
+
+There's a video for this guide. Watch the video here.
+
+
+The installation is in three parts:
+1) Importing CA certificate using Microsoft Management Console (MMC)
+2) Installing the certificate on the server
+3) Bind Certificate to website
+Part 1 of 3: Importing CA certificate using Microsoft Management Console (MMC)
+1.	Click the link in the email ‘You may also use the following URL to pick up and install your certificate:’.  
+2.	In the ‘Entrust’ site click ‘Next’.
+3.	Click the Download button on left pane to download your certificate files. Clicking the download button will produce a zip file that includes your Server Certificate, the Entrust chain/intermediate certificates(s) and the Entrust Root certificate. Extract the files from the zip file. 
+ 
+  
+2. On the server, go to Start > Run > type MMC and hit enter.
+
+3. Click File > Add Remove Snap-in.
+
+ 4. Select Certificates and click Add.
+
+  
+
+5. Select Computer Account, click Next, and click Finish.
+ 
+
+6. Click OK to close the window. 
+
+7. Expand Certificates on the left hand side of the console window.
+
+ 8. Expand the Trusted Root Certification Authorities folder and click on the Certificates sub-folder.
+
+9. Right click on the Certificates sub-folder under Trusted Root Certification Authorities and select All Tasks > Import. 
+
+10. In the import wizard, browse to the Root.crt file downloaded in step 1 and complete the wizard. 
+
+11. In the MMC console, expand the Intermediate Certification Authorities folder. Right click on the Certificates sub-folder and select All Tasks > Import.
+
+ 12. In the import wizard, browse to the Intermediate.crt file downloaded in step 1 and complete the wizard to complete the certificate chain setup process. You should see your Entrust Intermediate certificates listed in the Intermediate Certification Authorities folder. You are now ready to install your signed server certificate.
+
+ 
+Part 2 of 3: Installing the certificate on the server
+1.	Launch the Server Manager
+- From within the Server Manager at the top right corner Select: Tools | Internet Information Services (IIS) Manager
+
+ 2. From the left hand side under "Connections" select the workstations name
+- Once the name is selected, look to the center of the screen and locate "Server Certificates". Once selected double click.
+
+ 3. Once in the "Server Certificates" to the upper right hand side under "Actions" select: Complete Certificate Request.
+
+ 4. You will now need to provide the information listed in the screenshot below:
+
+ - File name containing the certification authority's response: Provide the path to the Server certificate downloaded from Entrust.net, the default name of the Server certificate file name is "ServerCertificate.crt"
+ - PLEASE NOTE: You may need to change the file type view setting at the lower right corner of the browser window to be able to see the ServerCertificate.crt (or other files types besides .crt)
+
+ - Friendly Name: The friendly name is not linked to the certificate download from Entrust.net, it is used as an identifier after the certificate is installed. You should provide a unique Friendly Name so that you can easily identify what the certificate is used for.
+
+- Select a certificate store for the new certificate: leave the selection set to Personal
+
+Once you have provided the above information select: OK
+
+The certificate is now installed
+NOTE: If you don’t see the cert when you are trying to bind it, check the cert store that the new cert has the private key also, if not IIS won’t see it.
+Example of cert with private key
+ 
+Example of a cert WITHOUT private key
+ 
+
+ 
+Part 3 of 3: Bind Certificate to website
+1. From the left hand side of the IIS Manager, under Connections
+ - Expand the Server Name
+ - Now expand the Sites folder and select the site you wish to bind the certificate to
+ - From the right hand side under Actions, Select: Bindings...
+
+ 2. From the Site Bindings menu Select: Add
+
+3. From the Add Site Binding, change the settings listed below:
+  - Type: HTTPS
+  - SSL Certificate: Select the friendly name of the certificate you wish to bind to the site, you can verify that you have selected the correct certificate by clicking on View... 
+  - Once you have configured the settings Select: OK
+
+ 4. Now that the bindings has been updated you need to restart the web site
+   - From the right hand side under Actions | Manage Website
+   - Select: Restart
+
+ 
+ 
+ 	Your SSL/TLS certificate should now be installed.
+
+Open the IIS Manager, select the web site “moveitdmz” and Actions, Edit Site > Bindings 
+(do this for each host name listed in the SAN for the certificate):
+ 
+ 
+
+Select the “https” type entry and click “Edit…”:
+ 
+Click “Select…”:
+ 
+ 
+Select the new certificate and click “OK”:
+ 
+Click “OK”:
+ 
+When all SAN’s have been bound it will look like this:
+ 
+ 
+Open a browser and the web site with the new cert:
+ 
+View the certificate and verify the expiration and alternate names details:
+ 
+  
+The last part is to update the sharepoint document when the certs are track: https://spteam.aa.com/:x:/r/sites/EIS/EntEng/SysEng/EMFT/_layouts/15/Doc.aspx?sourcedoc=%7BE836078A-9D30-41B3-BB83-E49085DF81F3%7D&file=EMFT_SSL_Cert_Tracker.xlsx&action=default&mobileredirect=true
+
+ 
