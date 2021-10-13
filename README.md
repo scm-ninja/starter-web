@@ -21,5 +21,4 @@ Please for this repository and isssue pull request for the review.
 
 ### Copyright 
 
-Git Traning
-magic changes
+Git Traning. All rights reserved.
