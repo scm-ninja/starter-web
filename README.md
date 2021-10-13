@@ -20,3 +20,4 @@ This is a simple web project,deplyment can be on any web server or even local fi
 ### Copyright 
 
 Git Traning
+magic changes
