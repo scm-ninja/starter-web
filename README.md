@@ -9,7 +9,7 @@ This is an example to show diff parts of the Git repo and various commands using
 ## Purpose
 
 The main purpose is to provide simple examples for Git training.
-
+Adding a line for rebasing example
 ## Deployment
 
 Deployment text.
