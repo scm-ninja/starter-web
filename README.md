@@ -13,3 +13,5 @@ Just adding text
 and some more
 ## How to Contribute
 modifying again
+
+### Copyright
