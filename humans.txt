@@ -8,7 +8,7 @@
 # THANKS
 
     <all myh studens>
-
+jedi opet govna
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
