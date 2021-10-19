@@ -8,7 +8,7 @@ Sample website with plenty of files for demos
 
 ## Purpose
 Just adding text
-and more text fro debasing
+and more text fro debasing, and additional changes
 ## Deployment
 Fork it
 and some more
