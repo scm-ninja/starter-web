@@ -3,12 +3,13 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jedi Govna
 
 # THANKS
 
-    <name>
-
+    <all myh studens>
+jedi opet govna
+jedin govna 3
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
