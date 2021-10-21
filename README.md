@@ -20,4 +20,4 @@ Please fork this repo and issue a PR with your changes.
 
 ### Copyright
 
-2021 Git.Training
+2021 Git.Training. All rights resreved
