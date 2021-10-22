@@ -3,13 +3,14 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ehab Ahmed	ea@gmail.com	@ea
 
 # THANKS
 
-    <name>
+    All my students. Thanks for studying with me.
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+Git
