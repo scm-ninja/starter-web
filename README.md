@@ -8,3 +8,6 @@ Sample website with plenty of files for demos
 
 ##Adding
 new test content
+
+##more
+This content if for additional commits demo
