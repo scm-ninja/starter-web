@@ -2,6 +2,6 @@ Linea antes in cambios locales
 
 From master
 
-Cleaned in github in feature branch cambiado en master commit
+Cleaned in github in feature branch cambiado en cambios locales commit
 
 Now in cambios locales
