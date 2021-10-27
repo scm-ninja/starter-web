@@ -8,5 +8,5 @@ Sample website with plenty of files for demos
 
 ## More info
 
-Texto nuevo 66
+Texto nuevo 6 
 
