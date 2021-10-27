@@ -14,4 +14,4 @@
     HTML5, CSS3
     jQuery, Modernizr
 
-# Adding some text
+# Adding some text, 8
