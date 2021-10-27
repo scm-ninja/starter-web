@@ -2,10 +2,6 @@ Linea antes in cambios locales
 
 From master
 
-<<<<<<< HEAD
 Cleaned in github in feature branch cambiado en master commit
-=======
-Cleaned in github in feature branch
->>>>>>> refs/heads/cambios-locales
 
 Now in cambios locales
