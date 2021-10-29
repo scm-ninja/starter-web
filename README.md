@@ -6,4 +6,4 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
-Modifying README.md file --> done by thisisrajesh
+Modifying README.md file --> done by this-is-rajesh
