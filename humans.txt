@@ -3,8 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+    Saswati Mahapatra saswatimahapatra6@gmail.com saswatimahapatra6
+	
 # THANKS
 
     <name>
