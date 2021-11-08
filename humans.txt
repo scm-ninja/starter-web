@@ -3,13 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+    Saswati Mahapatra saswatimahapatra6@gmail.com saswatimahapatra6
+	
 # THANKS
 
-    <name>
+    All my Traniers!
+	Please leave a comment if you like my work! 
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	Git
