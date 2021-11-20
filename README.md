@@ -12,5 +12,8 @@ There is no need to contribute
 
 ## Deployment
 
+## Copyright
+Copyright GK
+
 
 Sample website with plenty of files for demos
