@@ -7,7 +7,8 @@ This is a test repo for learning git workflow
 The purpose of the document is not known
 
 ## How to contribute
-There is no need to contribute
+There is no need to contribute.
+Please fork this repository if necessary
 ## Contents
 
 ## Deployment
