@@ -16,7 +16,7 @@ More changes from myfeature branch too!
 ## Deployment
 
 ## Copyright
-Copyright GK -2021
+Copyright GK -2021- All rights reserved
 
 
 Sample website with plenty of files for demos
