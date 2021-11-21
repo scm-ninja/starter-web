@@ -1,0 +1,4 @@
+*.can
+*.log
+/log
+*orig
