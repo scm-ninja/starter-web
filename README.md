@@ -6,4 +6,4 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
-### Copyright 2021
+### Copyright 2021 - Still has plenty of files for demos after 6 years
