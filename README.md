@@ -6,4 +6,3 @@ This repository is for showing how Git and GitHub work
 
 This repository is for showing how Git and GitHub work
 
-# Added alpha version to this project
