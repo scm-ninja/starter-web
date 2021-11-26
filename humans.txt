@@ -3,13 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    James taylor jame@git.traning.comn
 
 # THANKS
 
-    <name>
+    to all my students
+    Please leave a revuew if you like this course. 
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+    git save
