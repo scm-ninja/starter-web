@@ -5,3 +5,7 @@ This repository is for showing how Git and GitHub work
 ## Purpose
 
 Sample website forked version by me.
+
+## Other Notes
+
+This is a line for test.
