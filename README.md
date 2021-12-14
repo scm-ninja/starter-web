@@ -3,4 +3,6 @@ Sample repository for demonstrating how to contribute to open source repos on Gi
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos.
+
+Adding some more changes to the README file.
