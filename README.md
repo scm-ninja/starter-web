@@ -7,3 +7,7 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 This line is added for the purpose of learning GitHub
+
+More updates More updates More updates 
+More updates More updates More updates 
+More updates More updates More updates 
