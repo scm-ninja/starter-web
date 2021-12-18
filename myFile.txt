@@ -2,7 +2,6 @@ abc-def
 
 ghi-jkl
 
-xyz in master
 
 
 
