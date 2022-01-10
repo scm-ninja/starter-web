@@ -9,5 +9,5 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
-
+new deployment process , it can be any server
 ##How to Contribute
