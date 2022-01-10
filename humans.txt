@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+  Rishikesh mankal rishi@gmail.com
     <name> -- <role> -- <twitter>
 
 # THANKS
