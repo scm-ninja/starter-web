@@ -2,14 +2,17 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+  Rishikesh mankal rishi@gmail.com
     <name> -- <role> -- <twitter>
 
 # THANKS
-
+hello everyone
+thanks to everyone
+please leave a review if you like the website
     <name>
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+java
