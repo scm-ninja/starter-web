@@ -1,7 +1,8 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work alo alo 
-Adding a line for rebasing example 
+Adding a line for rebasing example, then more changes for myfeature bracnh too 
+
 ## Introduction 
 
 this example is to show 
