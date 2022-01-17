@@ -15,3 +15,6 @@ this is a simple web project deployment can be on any web server.
 this is a modification.
 
 ## How To Contribute
+
+### Copy right notice
+	all right(s) reserved.
