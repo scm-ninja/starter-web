@@ -18,4 +18,4 @@ This is a simple web project
 nsfksdngkjsnbidfnvnxdkvnsakbfefb
 
 ### Copyright 
-2014 git traingi
+2014 git training all rights reserved 
