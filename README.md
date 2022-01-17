@@ -15,6 +15,7 @@ this is a simple web project deployment can be on any web server.
 this is a modification.
 
 ## How To Contribute
+Please fork this repo and issue pull request for review.
 
 ### Copy right notice
 	all right(s) reserved.
