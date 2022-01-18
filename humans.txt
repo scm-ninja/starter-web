@@ -3,13 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   jason tyler jason@hjjjj @hh
 
 # THANKS
 
-    <name>
+   Thanks to all my students 
+   Please leave a revies if you liked this course
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	Git 
