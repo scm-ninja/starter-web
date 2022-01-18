@@ -1,6 +1,6 @@
 # Starter Web project
 
-This is a simple project for telling what is what what's not.
+This is a simple project for telling what is what what's not. Adding some more text for rebasing .
 
 ## introduction 
 
