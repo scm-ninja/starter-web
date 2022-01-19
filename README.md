@@ -19,4 +19,4 @@ this is a modification.
 Please fork this repo and issue pull request for review.
 
 ### Copy right notice
-	all right(s) reserved.
+2014 Git traning. All right reserved.
