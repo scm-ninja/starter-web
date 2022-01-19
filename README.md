@@ -1,7 +1,7 @@
 # Starter Web project
 
-This is a simple project for telling what is what what's not. Adding some more text for rebasing .
-adding a line for rebasing example, more changes frm myfeature branch.
+This is a simple project for telling what is what what's not. 
+
 
 ## introduction 
 
