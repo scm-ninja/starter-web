@@ -9,4 +9,4 @@ Sample website with plenty of files for demos
 
 ## Adding text
 
-kevin added some text locally
+kevin was here
