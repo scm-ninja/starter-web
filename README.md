@@ -9,3 +9,6 @@ asdsadsad asdsadsadasdasd
 asdsads ads sadasdad a a sda d sa
 Sample website with plenty of files for demos
 ## How to contribute
+
+## Copyright
+asdsadsdasdsadsassdassda
