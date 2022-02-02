@@ -1,3 +1,4 @@
 ignorar.no
 *.log
 log/
+*.orig
