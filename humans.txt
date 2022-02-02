@@ -6,7 +6,7 @@
     Alfredo Scilabra
 
 # THANKS
-
+thanks to all my studnts
     <name>
 
 # TECHNOLOGY COLOPHON
