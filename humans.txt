@@ -13,3 +13,7 @@ thanks to all my studnts
 
     HTML5, CSS3
     jQuery, Modernizr
+
+# TECHNOLOGY COLOPHON
+
+    hola
