@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <head>
-	<title>A Great Website </title>
+	<title>A Example Website </title>
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
@@ -18,7 +18,7 @@
 		</p>
 	</main>
 	<footer class="container">
-		<p>&copy; Beyza's Company 2014</p>
+		<p>&copy; Beyza's Amazing Company  2014</p>
 	</footer>
 </body>
 </html>
