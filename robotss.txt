@@ -1,0 +1,6 @@
+
+# robotstxt.org/
+
+New modification
+
+User-agent: *
