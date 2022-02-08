@@ -15,4 +15,4 @@ Sample files for Deployment and learning hands on
 
 ## How to contribute
 
-Examples of how to contibute and succeed
+Examples of how to contibute and succeed in work place
