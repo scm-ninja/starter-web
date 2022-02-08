@@ -9,3 +9,5 @@ Sample website with plenty of files for demos
 ## Deployment
 
 Sample files for Deployment
+
+## How to contribute
