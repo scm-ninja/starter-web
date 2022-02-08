@@ -11,7 +11,7 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
-Sample files for Deployment and learning
+Sample files for Deployment and learning hands on
 
 ## How to contribute
 
