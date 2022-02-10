@@ -5,7 +5,7 @@
 
     <name> -- <role> -- <twitter>
 
-# THANKS
+# THANKS to all
 
     <name>
 
