@@ -1,6 +1,7 @@
 #Starter Web Project
 
-This is smimple webstie project. Adding a line for rebasing example
+This is smimple webstie project. Adding a line for rebasing example,
+more changes from myfeature branch too
 
 ## Introduction
 
