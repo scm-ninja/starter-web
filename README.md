@@ -1,6 +1,6 @@
 #Starter Web Project
 
-This is smimple webstie project
+This is smimple webstie project. Adding a line for rebasing example
 
 ## Introduction
 
