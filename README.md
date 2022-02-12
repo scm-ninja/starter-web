@@ -15,3 +15,5 @@ AS stated above the main is to
 ## Deployment
 
 This is a simampel
+
+### Copyright
