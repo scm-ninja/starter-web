@@ -1,1 +1,3 @@
 test.txt.bak
+*.log
+*.bak
