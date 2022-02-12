@@ -12,6 +12,8 @@ AS stated above the main is to
 
 ## How to Contribute
 
+please fork this repo and issue pull request
+
 ## Deployment
 
 This is a simampel
