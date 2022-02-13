@@ -3,7 +3,11 @@
 
 # TEAM
 
+<<<<<<< HEAD
    trotas dim.p.vlachos@gmail.com @dont have
+=======
+    trotas	dim.p.vlachos@gmail.com		@dont have twitter
+>>>>>>> simple-changes
 
 # THANKS
 
