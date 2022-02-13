@@ -4,6 +4,7 @@ This repository is for showing how Git and GitHub work.
 
 ## Introduction
 
+a series of git cources made with git bash
 
 ## Deployment
 
