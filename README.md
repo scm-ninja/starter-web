@@ -6,4 +6,8 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
-This ismy own addition
+This is my own addition
+
+Yay!!
+
+This is an additional content from me
