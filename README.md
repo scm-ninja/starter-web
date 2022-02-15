@@ -1,7 +1,24 @@
-# Starter Web Repo
+# Starter Web project
+this is an edit from dev 2
+this is an exercise
 
-This repository is for showing how Git and GitHub work
+This is a simple project for telling what is what what's not. 
+
+
+## introduction 
+
+this is a example to show various parts of the git project and showing how to use git using the web commands.
 
 ## Purpose
+as stated above the goal is to provide the examples for the git training and demonstrations.
 
-Sample website with plenty of files for demos
+## Deployment
+
+this is a simple web project deployment can be on any web server.
+this is a modification.
+
+## How To Contribute
+Please fork this repo and issue pull request for review.
+
+### Copy right notice
+2014 Git traning. All right reserved.
