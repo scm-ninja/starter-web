@@ -1,5 +1,6 @@
 # Starter Web project
 this is an edit from dev 2
+this is an exercise
 
 This is a simple project for telling what is what what's not. 
 
