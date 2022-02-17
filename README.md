@@ -19,4 +19,4 @@ please fork this repo and issue pull request
 
 This is a simampel
 
-### Copyright
+### Copyright Allrights reserverd
