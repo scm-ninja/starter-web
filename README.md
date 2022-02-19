@@ -16,3 +16,5 @@ Sample website with plenty of files for demos
 Descriptino on Deployment
 
 ## How to Contribute
+
+How to Contribute
