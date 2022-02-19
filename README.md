@@ -24,5 +24,4 @@ How to Contribute
 Copy Right
 
 lineadded while adding team member
-
-line added from GIthub.com
+Line added in Master
