@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jung Song	jung@git @thdw
 
 # THANKS
 
