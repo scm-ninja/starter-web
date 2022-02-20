@@ -19,9 +19,4 @@ Descriptino on Deployment
 
 ## How to Contribute
 
-How to Contribute
-
-Copy Right
-
-lineadded while adding team member
-Line added in Master
+Contribute
