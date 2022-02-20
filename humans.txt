@@ -8,6 +8,7 @@
 # THANKS
 
     To Students
+	To Stash
 
 # TECHNOLOGY COLOPHON
 
