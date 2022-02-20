@@ -3,11 +3,12 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jung Song	jung@git @thdw
 
 # THANKS
 
-    <name>
+    To Students
+	To Stash
 
 # TECHNOLOGY COLOPHON
 
