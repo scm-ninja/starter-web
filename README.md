@@ -4,8 +4,8 @@ This repository is for showing how Git and GitHub work
 
 ## Purpose
 
-Sample website with plenty of files for demosBasically using this for learning purpose[A
+Sample website with plenty of files for demos
 
-[A[A
+Basically using this for learning purpose
 
 Project is just clone from udemy
