@@ -9,3 +9,8 @@ Sample website with plenty of files for demos
 Basically using this for learning purpose
 
 Project is just clone from udemy
+
+learning how to use p4merge
+
+Using git diff command
+
