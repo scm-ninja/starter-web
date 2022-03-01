@@ -9,4 +9,8 @@ Sample website with plenty of files for demos
 ## Purpose
 ## How To Contribu
 ##get diff
+<<<<<<< HEAD
 ##Newbranches
+=======
+##copyRight
+>>>>>>> simple-changes
