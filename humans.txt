@@ -9,7 +9,6 @@
 
     <chanda>
 
-# TECHNOLOGY COLOPHON
-
+# DEVANTURE.ORG
     HTML5, CSS3
     jQuery, Modernizr
