@@ -1,9 +1,13 @@
+# devanture.org/
+# This is a startup with Edgemate solutions
 
 # TEAM
 
+    <name> -- <software Integrator, Tester> -- <twitter>
 
 # THANKS
 
+    <chanda>
 
 # TECHNOLOGY COLOPHON
 
