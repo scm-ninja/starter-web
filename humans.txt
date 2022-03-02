@@ -1,13 +1,13 @@
-# humanstxt.org/
-# The humans responsible & technology colophon
+# devanture.org/
+# This is a startup with Edgemate solutions
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name> --chanda@devanture-- <twitter>
 
 # THANKS
 
-    <name>
+    <chanda>
 
 # TECHNOLOGY COLOPHON
 
