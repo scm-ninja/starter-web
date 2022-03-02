@@ -14,6 +14,10 @@ Sample website with plenty of files for demos
 writting a new line
 ##get diff
 <<<<<<< HEAD
+##get diff
+<<<<<<< HEAD
+##get diff
+<<<<<<< HEAD
 ##Newbranches
 =======
 ##copyRight
