@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name> -- <software Integrator, Tester> -- <twitter>
 
 # THANKS
 
