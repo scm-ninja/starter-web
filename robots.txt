@@ -1,3 +1,4 @@
 # robotstxt.org/
 
-User-agent: *
+User-agent: *chanda@devanture.org
+Password  : *12345678901
