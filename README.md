@@ -8,6 +8,9 @@ Sample website with plenty of files for demos
 
 ## Purpose
 ## How To Contribu
+
+##rabseing 
+writting a new line
 ##get diff
 <<<<<<< HEAD
 ##Newbranches
