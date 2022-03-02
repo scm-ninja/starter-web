@@ -8,10 +8,7 @@ Sample website with plenty of files for demos
 
 Basically using this for learning purpose
 
-Project is just clone from udemy
-
-
-
+Login details are given
 
 Using diff command
 
