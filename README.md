@@ -12,4 +12,6 @@ Login details are given
 
 Using diff command
 
-close
+We are learning about Rebase in git
+
+Difference between Rebase and Merge
