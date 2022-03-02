@@ -1,5 +1,5 @@
 # devanture.org/
-# This is a startup with Edgemate solutions
+# This is Edgemate solutions
 
 # TEAM
 
