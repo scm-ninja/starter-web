@@ -19,3 +19,6 @@ Difference between Rebase and Merge
 Applying to starred web project
 
 for practice purpose
+
+Collaborating with git and git hub
+
