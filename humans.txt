@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <chanda>
+    <chanda Dahima>
 
 # DEVANTURE.ORG
     HTML5, CSS3
