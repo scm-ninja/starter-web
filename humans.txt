@@ -1,15 +1,15 @@
-# humanstxt.org/
-# The humans responsible & technology colophon
+# devanture.org/Edgemate Solutions
+# This is Edgemate solutions
+# Welcome to the page
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <EDGEMATE> --chanda@devanture-- <DEVANTURE>
 
 # THANKS
 
-    <name>
+    <chanda Dahima>
 
-# TECHNOLOGY COLOPHON
-
+# DEVANTURE.ORG
     HTML5, CSS3
     jQuery, Modernizr
