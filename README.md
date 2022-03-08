@@ -9,3 +9,7 @@ Sample website with plenty of files for demos
 ### Git Readme.md Edit
 
 Editing readme.md file
+
+## Copyright
+
+Git.Traning : 2022
