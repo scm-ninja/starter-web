@@ -10,6 +10,8 @@ Sample website with plenty of files for demos
 
 Editing readme.md file
 
+Please fork this repository
+
 ## Copyright
 
 Git.Traning : 2022
