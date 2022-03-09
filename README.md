@@ -7,3 +7,5 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 changed readme after forking and cloning this repository
+
+changing after submitting a pull request
