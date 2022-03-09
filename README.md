@@ -18,4 +18,4 @@ Please fork this repository
 
 ## Copyright
 
-Git.Traning : 2022
+Git.Traning : 2022. All rights reserved
