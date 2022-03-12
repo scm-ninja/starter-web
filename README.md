@@ -1,4 +1,4 @@
-# Starter Web Repo
+# Starter Web Repo Re practice
 
 This repository is for showing how Git and GitHub work
 
