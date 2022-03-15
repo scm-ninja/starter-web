@@ -6,7 +6,7 @@
     <!-- Most restrictive policy: -->
     <site-control permitted-cross-domain-policies="none"/>
 
-    <!-- Least restrictive policy: -->
+    <!-- Least restrictive policy: blubb-->
     <!--
     <site-control permitted-cross-domain-policies="all"/>
     <allow-access-from domain="*" to-ports="*" secure="false"/>
