@@ -14,4 +14,5 @@ Kesinlikle mantıklı gerekçelerim var
 ## How To Contribute
 
 
-
+## Copyright 
+ Sayfa Copyright @2020-03
