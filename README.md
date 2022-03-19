@@ -7,7 +7,7 @@ Bilgisayarda değişik Git denemeleri yapıyoruz
 
 ## Purpose
 
-Kesinlikle mantıklı gerekçeleri var
+Kesinlikle mantıklı gerekçelerim var
 
 ## Deployment
 
