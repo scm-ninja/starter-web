@@ -12,6 +12,7 @@ Kesinlikle mantıklı gerekçelerim var
 ## Deployment
 
 ## How To Contribute
+Please fork this repository and then issue Pull Request for review.
 
 
 ## Copyright 
