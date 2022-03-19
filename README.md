@@ -22,3 +22,7 @@ Please fork this repository and then issue Pull Request for review.
  Sayfa Copyright @2020-03
  Sakin ol sampiyon -- Ammman Dikkat!!!
  Simdi bir de splash çıktı başımız
+
+
+
+Ha ha ha 
