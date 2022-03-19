@@ -16,4 +16,4 @@ Kesinlikle mantıklı gerekçelerim var
 
 ## Copyright 
  Sayfa Copyright @2020-03
- Sakin ol sampiyon
+ Sakin ol sampiyon -- Ammman Dikkat!!!
