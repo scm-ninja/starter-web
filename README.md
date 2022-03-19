@@ -1,4 +1,5 @@
 # Starter web Page
+Bu benim Git Eğitim sayfam
 
 ## Introduction
 
