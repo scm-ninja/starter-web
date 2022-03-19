@@ -1,3 +1,4 @@
 *.exe
 js/
 *.log
+log/
