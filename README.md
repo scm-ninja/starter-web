@@ -11,6 +11,6 @@ Adding a line for rebase example, more changes from myfeature branch, too
 
 Hello Intro
 ### Copyright Notes
-Yeah bla all rihtd
+not so much more bla
 
 changes after stash
