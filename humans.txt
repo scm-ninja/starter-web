@@ -1,15 +1,24 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
+# SCOPE
+  schoop
+
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jason
 
 # THANKS
 
-    <name>
+    To all and everyone. Yeah.
+    More Experimental Thanks. Jo.
+    please have fun
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+    
+## epilog to be done sometime
+   ok let's start with the epilog.
+   A long long time ago...
