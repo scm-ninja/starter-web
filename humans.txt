@@ -1,6 +1,9 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
+# SCOPE
+  schoop
+
 # TEAM
 
     Jason
