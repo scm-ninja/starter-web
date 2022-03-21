@@ -16,3 +16,5 @@
     jQuery, Modernizr
     
 ## epilog to be done sometime
+   ok let's start with the epilog.
+   A long long time ago...
