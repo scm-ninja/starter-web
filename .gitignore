@@ -1,2 +1,3 @@
 .mistfile
 log/
+*.orig
