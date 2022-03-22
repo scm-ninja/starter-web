@@ -7,3 +7,5 @@ Modifying README
 ## Purpose
 
 Sample website with plenty of files for demos
+
+Little more content to README
