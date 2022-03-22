@@ -3,13 +3,17 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	aMutlu - root - root@amutlu.com
 
 # THANKS
 
-    <name>
+	To Myself
+	Oner ve sikayetlerinizi bekliyorum
+	
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+
+Human Add
