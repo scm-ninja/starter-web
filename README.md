@@ -5,7 +5,7 @@ This repository is for showing how Git and GitHub work together
 ## Purpose
 
 Sample website with plenty of files for demos.
-Adding a line for rebasing example.
+Adding a line for rebasing example, then more changes from myfeature branch too.
 
 ## Introduction
 
