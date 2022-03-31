@@ -12,3 +12,7 @@ Here we go!
 Here is some even more useful text.
 
 ## Deployment
+
+## Copyright
+
+Someone
