@@ -1,6 +1,6 @@
 # Starter Web PROJECT
 
-This repository is for showing how Git and GitHub work
+THOW TO USE KAI TETOIA
 ##INTRODUCTION
 
 ## Purpose
