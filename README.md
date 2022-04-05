@@ -16,7 +16,7 @@ Here is some even more useful text.
 
 ## Copyright
 
-Someone
+Someone, somewhere
 
 ## How to comtribute
 
