@@ -6,6 +6,7 @@ This repository is for showing how Git and GitHub work together
 
 Sample website with plenty of files for demos.
 Adding a line for rebasing example, then more changes from myfeature branch too.
+Emergecy fix
 
 ## Introduction
 
