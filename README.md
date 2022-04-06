@@ -11,6 +11,8 @@ WRITING WRITING
 
 ## HOW TO
 
+PLEASE FORK THIS REPOSITORY
+
 #DEPLOYMENT
 Sample website with plenty of files for demos
 
