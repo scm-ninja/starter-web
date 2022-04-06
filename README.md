@@ -13,3 +13,7 @@ WRITING WRITING
 
 #DEPLOYMENT
 Sample website with plenty of files for demos
+
+##COPYRIGHT
+
+GIT.TRAINING.
