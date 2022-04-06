@@ -22,4 +22,4 @@ Sample website with plenty of files for demos
 
 ##COPYRIGHT
 
-GIT.TRAINING.
+GIT.TRAINING. ALL rights reserved
