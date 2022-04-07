@@ -25,3 +25,5 @@ Sample website with plenty of files for demos
 ##COPYRIGHT
 
 GIT.TRAINING. ALL rights reserved
+
+##updates from me 
