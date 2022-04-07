@@ -1,7 +1,29 @@
-# Starter Web Repo
+# Starter Web PROJECT
 
-This repository is for showing how Git and GitHub work
+THOW TO USE KAI TETOIA
+
+M ARESEI NA MH LEO POLLA MH LEO POLLA 
+MORE CHANGES
+
+EMERGENCY FIX AFTER STASH
+
+##INTRODUCTION
+
+DIFF PARTS OF REP KLP KLP 
 
 ## Purpose
 
+WRITING WRITING
+
+## HOW TO
+
+PLEASE FORK THIS REPOSITORY
+
+#DEPLOYMENT
 Sample website with plenty of files for demos
+
+##COPYRIGHT
+
+GIT.TRAINING. ALL rights reserved
+
+##updates from me 
