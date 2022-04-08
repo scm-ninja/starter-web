@@ -16,3 +16,7 @@ This is a simple web project for git hub learning
 
 ## How to Contribute
 
+### Copyright
+
+2022 git.training
+
