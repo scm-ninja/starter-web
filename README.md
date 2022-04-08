@@ -8,9 +8,11 @@ This is an example to whow how to use the diff command using p4merge
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos.  Purpose for a porpoise
 
 ## Deployment
+
+This is a simple web project for git hub learning
 
 ## How to Contribute
 
