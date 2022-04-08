@@ -2,7 +2,9 @@
 
 This repository is for showing how Git and GitHub work.  It is a basic course
 
-## Intrduction
+## Introduction
+
+This is an example to whow how to use the diff command using p4merge
 
 ## Purpose
 
