@@ -16,6 +16,8 @@ This is a simple web project for git hub learning
 
 ## How to Contribute
 
+Please fork this repostiroy then issue pull requests for review.
+
 ### Copyright
 
 2022 git.training
