@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work.  It is a basic course
-Adding a line for rebasing MASTER
+Adding a line for rebasing MASTER.  Then more changes from myfeature branch too.
 
 ## Introduction
 
