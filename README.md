@@ -21,5 +21,5 @@ Please fork this repostiroy then issue pull requests for review.
 
 ### Copyright
 
-2022 git.training
+2022 git.training.  All rights reserved.
 
