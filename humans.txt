@@ -8,6 +8,7 @@
 # THANKS
 
     MYFEATURE
+    Please leave a review if you like this course
 
 # TECHNOLOGY COLOPHON
 
