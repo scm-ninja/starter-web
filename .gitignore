@@ -1,0 +1,4 @@
+access.log
+*.log
+log/
+*.orig

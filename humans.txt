@@ -3,13 +3,14 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Dan dan@gmail.com
 
 # THANKS
 
-    <name>
+    MYFEATURE
+    Please leave a review if you like this course
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
-    jQuery, Modernizr
+    jQuery, Modernizr, c sharp, Oracle
