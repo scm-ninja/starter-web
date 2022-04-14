@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work.  It is a basic course
 Adding a line for rebasing MASTER.  Update a line for emergency fix after stash
+This is a line added to README.md from the branch test-branch on the remote repository
 
 ## Introduction
 
