@@ -17,7 +17,7 @@ This is a simple web project, deployment can be on any web server or even local 
 ## How To Contribute
 
 Please fork this repository and then issue pull requests for review.
-Adding a line for git rebase
+Adding a line for git rebase for the demo
 
 ## Copyright
 
