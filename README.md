@@ -8,7 +8,7 @@ This is example to show different parts of the Git repository and various comman
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos. Provide example demo.
 
 ## Deployment
 
