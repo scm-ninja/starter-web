@@ -17,3 +17,8 @@ This will deploy web project for training purposes. It can bve deployed on any w
 ## How to contribute
 
 Start using the web.
+
+
+### Copyright
+
+2022 Git.Training
