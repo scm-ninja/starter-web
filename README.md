@@ -12,4 +12,6 @@ Sample website with plenty of files for demos. Provide example demo.
 
 ## Deployment
 
+This will deploy web project for training purposes.
+
 ## How to contribute
