@@ -15,3 +15,5 @@ Sample website with plenty of files for demos. Provide example demo.
 This will deploy web project for training purposes. It can bve deployed on any web server or even locally.
 
 ## How to contribute
+
+Start using the web.
