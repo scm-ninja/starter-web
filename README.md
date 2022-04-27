@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work.
 Adding a line for rebasing example, some more bla bla bvla.
+More changes for diffs on different branches within pull requests.
 
 ## Introduction
 
