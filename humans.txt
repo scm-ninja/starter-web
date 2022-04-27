@@ -4,10 +4,12 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+	
+	Jason - jason@it.training
 
 # THANKS
 
-    <name>
+    All human beeings
 
 # TECHNOLOGY COLOPHON
 
