@@ -1,1 +1,3 @@
 *.htaccess
+*.log
+log/
