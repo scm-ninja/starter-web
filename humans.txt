@@ -3,13 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Tharun Mohan	tharuncm93@gmail.com	@tharun.ch284
 
 # THANKS
 
-    <name>
-
+    All my teachers!
+	I will leave a review as I liked this course!
+	
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	Git
