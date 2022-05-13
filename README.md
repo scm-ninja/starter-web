@@ -12,6 +12,8 @@ purpose is changing
 
 this text is in deployment
 
+Please fork this repository then issue Pull Requests for review
+
 ### Copyright
 
 Git learning
