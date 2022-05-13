@@ -11,3 +11,7 @@ purpose is changing
 ## Deployment
 
 this text is in deployment
+
+### Copyright
+
+Git learning
