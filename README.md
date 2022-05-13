@@ -17,4 +17,4 @@ Please fork this repository then issue Pull Requests for review
 
 ### Copyright
 
-Git learning
+Git learning, all right
