@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    -josip Grgec	jgrgec35@gmail.com
 
 # THANKS
 
