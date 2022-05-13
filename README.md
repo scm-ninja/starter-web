@@ -6,5 +6,8 @@ this is some text
 ## Purpose
 
 Sample website with plenty of files for demos
+purpose is changing
 
 ## Deployment
+
+this text is in deployment
