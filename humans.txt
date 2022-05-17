@@ -3,13 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Youngsu, dudtn816@gmail.com
 
 # THANKS
 
-    <name>
+    All my collegues
+    Please leave a revie if you like this course!
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
-    jQuery, Modernizr
+    jQuery, Moderniz:
+    Hi everybody
