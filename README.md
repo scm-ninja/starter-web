@@ -1,7 +1,5 @@
-# Starter Web Repo
+# This is the first not a   file editing from local repostory
 
-This repository is for showing how Git and GitHub work
+# adding local testing
 
-## Purpose
-
-Sample website with plenty of files for demos
+# Adding third changes
