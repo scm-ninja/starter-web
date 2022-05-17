@@ -1,7 +1,25 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work
+MODIFYING after stashing
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Updating emergy after stash
+###Changes
+
+More changes
+
+###Description
+
+Description
+
+Another for staging area
+
+ANother more to mix
+
+##Copyright
+
+laskdalsdh3
+
+##Changes In master
+fuiasfidugf

@@ -1,0 +1,2 @@
+File created in master after creating my feature
+File modified in MASTER
