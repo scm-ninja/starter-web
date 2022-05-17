@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Rohit Pardeshi Software Engineer rdppardeshi@gmail.com
 
 # THANKS
 
-    <name>
+    Thanks to all my well wishers!
 
 # TECHNOLOGY COLOPHON
 
