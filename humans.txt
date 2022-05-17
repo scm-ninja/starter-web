@@ -3,13 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Olga Slazarska	o.slazarska@gmail.com	slazarska
 
 # THANKS
 
-    <name>
+    All my students!
+	Please leave a review if you like this course!
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	Github
