@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Natallia Yahelskaya    NYahelskaya@gomel.iba.by
 
 # THANKS
 
