@@ -29,4 +29,4 @@ Please fork this repository and then issue Pull Request for
 review.
 
 ### Copyright
-Git.Training.
+Git.Training. All rights reserved.
