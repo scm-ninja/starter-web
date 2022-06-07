@@ -18,9 +18,8 @@ This is a simple web project. Deployment can be on any web server of even local 
 
 ## How to contribute
 
-
-
 This repository is for showing how Git and GitHub work
+Please fork this repository and then issue PULL request for review.
 
 ## Purpose
 
