@@ -3,13 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Natallia Yahelskaya    NYahelskaya@gomel.iba.by
 
 # THANKS
 
-    <name>
+    All my students!
+	Please leave a review if you like this course!
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	Git
