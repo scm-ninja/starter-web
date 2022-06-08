@@ -21,3 +21,7 @@ Added for working directory
 ## How to contribute
 
 This will be commited
+
+This will be staged
+
+This will be in working dir.
