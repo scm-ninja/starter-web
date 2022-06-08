@@ -14,5 +14,8 @@ Added purpose
 
 ## Add deployment
 
+Added deployment
+
+Added for working directory
 
 ## How to contribute
