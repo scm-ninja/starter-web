@@ -9,6 +9,7 @@ adding a line for re-basing example, more changes from my feature branch
 
 This is example to show different parts of Git repository and various
 commands using a web project.
+Updating an emergency fix
 
 ## Purpose
 As stated above, the main purpose is to provide simple examples of Git training demo
