@@ -9,9 +9,11 @@
 
     Thanks to all my students
 	Please leave a review if you like this course.
+    Git Visual Tool Source Tree is awesome!
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr,
     PHP, SQL, JavaScript
+    JAVA, Python, Groovy
