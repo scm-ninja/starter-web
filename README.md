@@ -7,3 +7,4 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 Adding local content to read me file
+Adding a little extra content to the read me file
