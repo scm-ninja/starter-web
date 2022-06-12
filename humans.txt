@@ -17,3 +17,6 @@
     jQuery, Modernizr,
     PHP, SQL, JavaScript
     JAVA, Python, Groovy
+
+#ADDING MORE HUMAN STUFF
+Humans are social animals
