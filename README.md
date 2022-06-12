@@ -41,3 +41,6 @@ All rights reserved
 
 #Lovely_feature
 Adding a lovely feature on lovely branch
+
+#lovely_feature_2
+Adding another lovely feature
