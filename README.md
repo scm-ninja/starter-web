@@ -5,6 +5,9 @@ This is a simple website project for
 showing how to use Git and Github together.
 adding a line for re-basing example, more changes from my feature branch
 
+## Added this as a part of cool branch
+this is a new line for the cool branch
+
 ## Introduction
 
 This is example to show different parts of Git repository and various
