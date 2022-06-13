@@ -44,3 +44,6 @@ Adding a lovely feature on lovely branch
 
 #lovely_feature_2
 Adding another lovely feature
+
+#Stashing
+Modifying after earlier work is stashed - master
