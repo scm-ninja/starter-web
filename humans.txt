@@ -20,3 +20,6 @@
 
 #ADDING MORE HUMAN STUFF
 Humans are social animals
+
+#Additional Human Information
+Humans live in all parts of the planet
