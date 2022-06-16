@@ -3,13 +3,23 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Gopesh Sharma -- Developer -- @gsharma27
 
 # THANKS
 
-    <name>
+    Thanks to all my students
+	Please leave a review if you like this course.
+    Git Visual Tool Source Tree is awesome!
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
-    jQuery, Modernizr
+    jQuery, Modernizr,
+    PHP, SQL, JavaScript
+    JAVA, Python, Groovy
+
+#ADDING MORE HUMAN STUFF
+Humans are social animals
+
+#Additional Human Information
+Humans live in all parts of the planet
