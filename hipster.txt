@@ -1,3 +1,5 @@
+Not a file, this is a master of master file
+
 52abh@MSI MINGW64 ~/Documents/Git-learn/starter-web (master)
 $ git status
 On branch master
