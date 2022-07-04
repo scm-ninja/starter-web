@@ -10,5 +10,22 @@ nothing to commit, working tree clean
 52abh@MSI MINGW64 ~/Documents/Git-learn/starter-web (master)
 $
 
+ts/Git-learn/starter-web (master)
+$ git add hipster.txt
+
+52abh@MSI MINGW64 ~/Documents/Git-learn/
+
 52abh@MSI MINGW64 ~/Documents/Git-learn
+
+
+fonts/glyphicons-halflings-regular.woff
+hipster.txt
+humans.txt
+index.html
+js/main.js
+js/plugins.js
+js/vendor/bootstrap.js
+js/vendor/bootstrap.min.js
+js/vendor/jquery-1.11.0.min.js
+js/vendor/modernizr-2.6.2-respond-1.1.0.min.js
 
