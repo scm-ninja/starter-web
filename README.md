@@ -11,3 +11,6 @@ Something about this intro
 
 ## Other
 This is other stuff.
+
+## Copyright
+Adding copyright notice.
