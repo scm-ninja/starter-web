@@ -4,4 +4,4 @@ This repository is to show how Git and GitHub works
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with lots of files for demos
