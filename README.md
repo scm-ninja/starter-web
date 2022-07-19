@@ -29,3 +29,5 @@ review.
 ### Copyright
 
 2014 Git.Training. All right reserved.
+
+## Updates from Dev 1
