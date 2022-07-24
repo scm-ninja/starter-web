@@ -1,7 +1,6 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
-m1
-m2
+
 # TEAM
 	Aditya
     <name> -- <role> -- <twitter>
