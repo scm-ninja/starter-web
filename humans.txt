@@ -1,12 +1,14 @@
+chnage 2
+
 # humanstxt.org/
 # The humans responsible & technology colophon
 
 # TEAM
-
+	Aditya
     <name> -- <role> -- <twitter>
 
 # THANKS
-
+	To EveryOne
     <name>
 
 # TECHNOLOGY COLOPHON
