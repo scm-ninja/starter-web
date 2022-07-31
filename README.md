@@ -6,5 +6,5 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos. rebasee
 
-### copyright noticeiiii0
-dkjfhgkjdhkgh
+###LOA
+All the wish you wish with good emotions will happen if you have no doubt
