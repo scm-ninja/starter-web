@@ -3,11 +3,12 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Manny Ekpo  ekposky@yahoo.com @mannytwitter
 
 # THANKS
 
-    <name>
+    All my students.
+	Please leave a review
 
 # TECHNOLOGY COLOPHON
 
