@@ -2,6 +2,29 @@
 
 This repository is for showing how Git and GitHub work
 
+## Introduction
+
+# How to contribuite
+some text
+
 ## Purpose
 
 Sample website with plenty of files for demos
+dsgfdsghdfhbdfhbga
+
+## Development
+dsgsdfghbadsgsaga
+##How to contribuite
+
+
+dsgfdhbdfhbdfhnbad
+
+some more data
+dsgfdshdfahbahashg
+### blabla
+hgasdfyhadfhyadga
+dsgsgsafdhba
+not added
+
+## Copyright
+2022 Git.Training
