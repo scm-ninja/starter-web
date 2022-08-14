@@ -1,5 +1,6 @@
 # Starter Web Repo
 
+please fork this repository
 This repository is for showing how Git and GitHub work
 
 ## Purpose
