@@ -3,5 +3,9 @@ get some more text mother fucker
 this will not be ignored
 
 checking diff command
+<<<<<<< HEAD
 
 this will not be reflected in staging area
+=======
+now adding this via checkout branch
+>>>>>>> checkout
