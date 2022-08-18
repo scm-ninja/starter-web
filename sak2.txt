@@ -1,16 +1,4 @@
 https://github.com/sak311819/git_course.git
 get some more text mother fucker
 this will not be ignored
-
-checking diff command
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-this will not be reflected in staging area
-=======
-now adding this via checkout branch
->>>>>>> checkout
-=======
-now adding this via checkout branch
-now adding 2nd line via checkout branch
->>>>>>> checkout
+blew out some text from here
