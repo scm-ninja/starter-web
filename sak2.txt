@@ -3,3 +3,5 @@ get some more text mother fucker
 this will not be ignored
 
 checking diff command
+
+this will not be reflected in staging area
