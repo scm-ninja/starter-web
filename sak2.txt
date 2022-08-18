@@ -4,3 +4,4 @@ this will not be ignored
 blew out some text from here
 added some text
 Local: should appear at the last line
+Local2: at the last
