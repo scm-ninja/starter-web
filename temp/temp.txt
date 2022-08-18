@@ -1,10 +1,1 @@
-fdsfthis is a new file over test branch
-this is modi to new file over test branch
-this is modi over test branch 2 to test fast forward
-this is test line for rebasing over rebase branch this is more text
-this will test multiple branches 
-so this is text from branch 1
-this is some more text
-fdsf
-dfsjlkfds
-while there exists more text in master 
+deleted all the text on rebase branche
