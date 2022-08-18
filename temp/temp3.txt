@@ -1,0 +1,2 @@
+this is to test an auto merge
+another commit on  auto branchbe
