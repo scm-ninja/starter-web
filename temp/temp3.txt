@@ -1,2 +1,3 @@
+this is to test no FF merge while master is changed
 this is to test an auto merge
 another commit on  auto branchbe
