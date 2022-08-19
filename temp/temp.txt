@@ -8,3 +8,4 @@ lets conflict mulito;e stashes
 this change is to test stash untracked files
 this is first conflict
 stash over branch
+ok this is another commit
