@@ -7,4 +7,6 @@ this is a chnage to be stashed
 this will conflist with stashed stuff
 =======
 this change is to test stash untracked files
->>>>>>> Stashed changes
+>>>>>>> Stashed changes\\
+
+fjds
