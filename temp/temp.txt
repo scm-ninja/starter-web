@@ -3,10 +3,7 @@ this is edit from master
 
 his therthe
 this is a chnage to be stashed
-<<<<<<< Updated upstream
-this change is to test stash untracked filesc
-conflic 3
-=======
+this change is to test stash untracked files
+lets conflict mulito;e stashes
 this change is to test stash untracked files
 this is first conflict
->>>>>>> Stashed changes
