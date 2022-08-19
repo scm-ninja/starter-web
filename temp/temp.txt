@@ -2,3 +2,4 @@ deleted all the text on rebase branche
 this is edit from master
 
 his therthe
+this is a chnage to be stashed
