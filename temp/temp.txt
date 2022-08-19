@@ -3,10 +3,3 @@ this is edit from master
 
 his therthe
 this is a chnage to be stashed
-<<<<<<< Updated upstream
-this will conflist with stashed stuff
-=======
-this change is to test stash untracked files
->>>>>>> Stashed changes\\
-
-fjds
