@@ -8,3 +8,4 @@ Local2: at the last
 checking editors
 ok, inserting fisrt line
 ok, inserting second line
+editin on github branch from github
