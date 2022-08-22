@@ -6,4 +6,3 @@ added some text
 Local: should appear at the last line
 Local2: at the last
 checking editors
-checking reseting a commit
