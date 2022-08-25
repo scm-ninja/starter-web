@@ -14,3 +14,5 @@ Sample website with plenty of files for demos
 
 ### GIT COMPARISONS
 ##### i dalsze zmiany
+#git content
+#i dalszy kontent
