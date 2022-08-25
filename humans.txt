@@ -15,7 +15,6 @@
     jQuery, Modernizr
 
 
+
     #killed a man with skillz
-
-
-    #zrobiłem człowieka
+    docker email RPA # poprawiona wersja
