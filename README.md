@@ -16,3 +16,6 @@ Sample website with plenty of files for demos
 ##### i dalsze zmiany
 #git content
 #i dalszy kontent
+
+
+#### auto merging tez w toolboxie
