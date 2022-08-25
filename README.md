@@ -9,4 +9,8 @@ Sample website with plenty of files for demos
 
 #Intro
 
-### CELE TRENINGOWE 
+### CELE TRENINGOWE
+
+
+### GIT COMPARISONS
+##### i dalsze zmiany

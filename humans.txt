@@ -11,5 +11,5 @@
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3
+    HTML5, CSS3, GIT i GITHUB skillz
     jQuery, Modernizr
