@@ -8,6 +8,7 @@
 # THANKS
 
     <name> Dzieki wszystkim, nju ficze is koming
+    # modyfikacja zmiany addony itp
 
 # TECHNOLOGY COLOPHON
 
