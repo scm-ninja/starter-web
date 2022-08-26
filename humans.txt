@@ -11,6 +11,8 @@
     # modyfikacja zmiany addony itp
     #dalsze modyfikacje i zmiany w myBranchu
 
+    insertuje fisze branch 3
+
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3, GIT i GITHUB skillz
