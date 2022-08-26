@@ -1,3 +1,4 @@
 testfile.txt
 access.log
-error.log        
+error.log
+*.log
