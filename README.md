@@ -13,3 +13,5 @@ This section explains how to contribute to the file
 ## Deployments
 
 This section explains how to deploy the file
+
+these are the changes i've made by myself
