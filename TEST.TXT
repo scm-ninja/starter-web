@@ -1,3 +1,5 @@
+tag test file change
+
 Tu też zmiana w stash mastera brancza
 
 emptyowany plik
