@@ -9,6 +9,7 @@
 
     <name> Dzieki wszystkim, nju ficze is koming
     # modyfikacja zmiany addony itp
+    #dalsze modyfikacje i zmiany w myBranchu
 
 # TECHNOLOGY COLOPHON
 
