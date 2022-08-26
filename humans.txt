@@ -1,15 +1,29 @@
+#jeszcze jedna zmiana w pliku master bracha
+
+#fchuj ważna notka o stashu
+
+
 # humanstxt.org/
 # The humans responsible & technology colophon
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name> -- <role> - DAMIANACCHI DOER CORAZ LEPSZY W GICIE- <twitter>
 
 # THANKS
 
-    <name>
+    <name> Dzieki wszystkim, nju ficze is koming
+    # modyfikacja zmiany addony itp
+    #dalsze modyfikacje i zmiany w myBranchu
+
+    insertuje fisze branch 3
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3
+    HTML5, CSS3, GIT i GITHUB skillz
     jQuery, Modernizr
+
+
+
+    #killed a man with skillz
+    docker email RPA # poprawiona wersja
