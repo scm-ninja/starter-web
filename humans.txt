@@ -11,7 +11,7 @@
     # modyfikacja zmiany addony itp
     #dalsze modyfikacje i zmiany w myBranchu
 
-    insertuje fisze branch
+    insertuje fisze branch 3
 
 # TECHNOLOGY COLOPHON
 
