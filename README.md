@@ -14,3 +14,5 @@ Sample website with plenty of files for demos
 hello! how are you.
 
 CLimate
+
+copy right
