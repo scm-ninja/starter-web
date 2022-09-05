@@ -6,4 +6,4 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
-UPadted on 5 Sep 2022
+Upadted on 5 Sep 2022
