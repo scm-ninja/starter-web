@@ -7,3 +7,5 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 Updated on 5 Sep 2022
+
+Adding some line..
