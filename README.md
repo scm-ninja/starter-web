@@ -9,8 +9,8 @@ Simple examples for Git training
 
 Sample website with plenty of files for demos
 ## How to contribute
+Simply explore
 
-Simply do something
 ### Copyright
 
 Git copyright training
