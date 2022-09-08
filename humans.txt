@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>--<linda>
+    <name> -- <role> -- <twitter>--<linda>--<gmail>
 
 # THANKS
 

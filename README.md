@@ -9,7 +9,7 @@ Simple examples for Git training
 
 Sample website with plenty of files for demos
 ## How to contribute
-
+Please fork the repo and then issue pull requests for review
 Simply do something
 ### Copyright
 
