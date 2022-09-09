@@ -7,6 +7,8 @@ This is intstuction for showing different parts of Git repository and various co
 ## Purpose
 Simple examples for Git training
 Learning Rebasing example 
+Adding a change after rebabse
+
 Sample website with plenty of files for demos
 ## How to contribute
 
