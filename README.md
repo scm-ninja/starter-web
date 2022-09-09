@@ -6,7 +6,7 @@ This repository is for showing how Git and GitHub work
 This is intstuction for showing different parts of Git repository and various commands using a web project.
 ## Purpose
 Simple examples for Git training
-
+Learning Rebasing example 
 Sample website with plenty of files for demos
 ## How to contribute
 
