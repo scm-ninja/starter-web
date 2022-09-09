@@ -12,7 +12,6 @@ Sample website with plenty of files for demos
 
 Please fork the repo and then issue pull requests for review
 
->>>>>>> sim-changes
 ### Copyright
 
 Git copyright training
