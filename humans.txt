@@ -7,7 +7,7 @@
 
 # THANKS
 
-    to Taylor Sir for making me learn Rebasing in GIT
+    to Taylor Sir for making me learn stashing in GIT
 
 # TECHNOLOGY COLOPHON
 
