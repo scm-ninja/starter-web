@@ -1,6 +1,6 @@
 # Starter Web Repo
 This repository is for showing how Git and GitHub work
-
+Git stash example
 ## Introduction`
 
 This is intstuction for showing different parts of Git repository and various commands using a web project.
