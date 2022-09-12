@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Nandini -- changemaker--<twitter>--linkedin--<123@gmail>
 
 # THANKS
 
-    <name>
+    to Taylor Sir for making me learn stashing in GIT
 
 # TECHNOLOGY COLOPHON
 
