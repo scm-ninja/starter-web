@@ -16,4 +16,4 @@ Please fork the repo and then issue pull requests for review
 
 ### Copyright
 
-Git copyright training
+Git copyright training.Rights reserve
