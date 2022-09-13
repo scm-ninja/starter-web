@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Algirdas Zalatoris -- a@zalatoris.com -- @azalatoris
 
 # THANKS
 
