@@ -6,6 +6,9 @@ Git and Github together.
 
 ## Introduction
 
+This is example is to show different parts pf Git repo 
+and various command using a web project.
+
 ## Purpose
 
 Sample website with plenty of files for demos
