@@ -6,4 +6,4 @@ This project will be very useful
 ##Details
 ## Purpose
 ### Copyright
-2014 Git.Training  Is very useful for Engineers
+2014 Git.Training  Is very useful for Engineers and every engineer should learn Git
