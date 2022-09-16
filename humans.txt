@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name> -- <Team plays an important role in project success> -- <twitter>
 
 # THANKS
 
