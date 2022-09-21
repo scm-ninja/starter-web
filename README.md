@@ -20,3 +20,6 @@ Please fork this repo then issue pull requests for review
 
 ### Copyright
 2014 Git Training, something something something here u go
+
+### Just adding stuff
+heres some more random stuff
