@@ -13,3 +13,6 @@ This is to show simple examples for git and easy to learn stuff
 ##Other
 
 This is another wall of text for learning purposes
+
+### Copyright
+2014 Git Training
