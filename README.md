@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work. Adding a line
-because reasons.
+because reasons, more changes from myfeature branch too
 
 ## Purpose
 
