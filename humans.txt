@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Alan Holt something@gmail.com
 
 # THANKS
 
