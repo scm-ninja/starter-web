@@ -3,7 +3,7 @@
 
 # TEAM
 
-    Alan Holt something@gmail.com
+    Alan Holt something@gmail.com something something
 
 # THANKS
 
