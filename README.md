@@ -14,5 +14,8 @@ This is to show simple examples for git and easy to learn stuff
 
 This is another wall of text for learning purposes
 
+##How To Contribute
+Please fork this repo then issue pull requests for review
+
 ### Copyright
 2014 Git Training
