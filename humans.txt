@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    DV Hieu	vanhieudoan@gmail.com	@awesomepro
 
 # THANKS
 
