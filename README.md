@@ -8,6 +8,10 @@ Este es un ejemplo es para mostrar diferentes partes de los repositorios git y v
 
 ## Purpose
 
+Como se indico anteriormente, el principal proposito es entregar ejemplos simples para entrenar GIT
+
 ## Deployment
+
+Este es in proyecto web simple, el despliege se puede realizar en cualquier servidor web o en el sistema local.
 
 ## How To Contribute
