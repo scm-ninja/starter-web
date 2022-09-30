@@ -16,5 +16,7 @@ Este es in proyecto web simple, el despliege se puede realizar en cualquier serv
 
 ## How To Contribute
 
+Realiza ramas con esto
+
 ### Copiright
 ****Nota de Copiright****
