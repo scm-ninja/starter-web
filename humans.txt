@@ -3,11 +3,11 @@
 
 # TEAM
 
-    Nombre   Rol Twitter
+    Nombre   Rol     Twitter
 
 # THANKS
 
-    <name>
+    a
 
 # TECHNOLOGY COLOPHON
 
