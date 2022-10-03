@@ -15,3 +15,4 @@
     jQuery, Modernizr
 
 # This section for learning GIT
+Remove this line
