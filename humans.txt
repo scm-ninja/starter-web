@@ -8,7 +8,7 @@
 # THANKS
 
     abcd
-	case143
+	case143 143
 
 # TECHNOLOGY COLOPHON
 
