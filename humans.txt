@@ -3,11 +3,12 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Nombre   Rol     Twitter
 
 # THANKS
 
-    <name>
+    abcd
+	case143 143
 
 # TECHNOLOGY COLOPHON
 
