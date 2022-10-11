@@ -8,7 +8,9 @@ Sample website with plenty of files for demos
 
 # staring web project
 
-##Index
+## Index
+
+## purpose
 
 ## deployment
 
