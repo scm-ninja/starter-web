@@ -7,7 +7,7 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 # staring web project
-
+Web project for git and github configuration.
 ## Index
 
 ## purpose
