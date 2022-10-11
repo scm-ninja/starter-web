@@ -1,2 +1,3 @@
 ignoreCheck.txt
-*.log
+# *.log
+log/
