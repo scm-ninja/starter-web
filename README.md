@@ -11,7 +11,8 @@ Web project for git and github configuration.
 ## Index
 It is a index phase.
 ## purpose
-
+Its a purpose phase.
 ## deployment
-
+Its a deployment phase.
 ## How to contribute
+Its a method to contributephase.
