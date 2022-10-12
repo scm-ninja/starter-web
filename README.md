@@ -15,4 +15,4 @@ Its a purpose phase.
 ## deployment
 Its a deployment phase.
 ## How to contribute
-Its a method to contributephase.
+Its a method to contributephase.says how to manage
