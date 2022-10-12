@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <agil> -- <devloper> -- <twitter>
 
 # THANKS
 
