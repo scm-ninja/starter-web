@@ -1,3 +1,4 @@
 ignoreCheck.txt
 # *.log
 log/
+*.orig
