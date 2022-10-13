@@ -1,1 +1,3 @@
 to-ignore
+*.log
+log/
