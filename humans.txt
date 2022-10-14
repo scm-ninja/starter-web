@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jave Kulong -- Web Developer -- jave.kulong@fumaco.com
 
 # THANKS
 
