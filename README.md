@@ -16,6 +16,8 @@ For Testing
 
 ## How to Contribute
 
+
+### Copyright
 Testing Testing
 
-2022 Git.Training
+2022 Git.Training. All Rights Reserved.
