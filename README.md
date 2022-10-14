@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 Adding line for rebase check commit in master 2nd commit follwed by feature.
+after merge check for rebase .
 
 ## Purpose
 
