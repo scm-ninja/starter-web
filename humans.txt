@@ -3,13 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jave Kulong -- Web Developer -- jave.kulong@fumaco.com
 
 # THANKS
 
-    <name>
+    Everyone.
+    This is a content
+    This is also a content
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
-    jQuery, Modernizr
+    jQuery, Modernizr, laravel

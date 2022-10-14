@@ -1,7 +1,23 @@
-# Starter Web Repo
+# Starter Web Project
 
-This repository is for showing how Git and GitHub work
+For Testing. Adding a line for rebasing, more changes. Emergency Fix
+
+## Introduction
+
+For Testing
 
 ## Purpose
 
-Sample website with plenty of files for demos
+For Testing
+
+## Deployment
+
+For Testing
+
+## How to Contribute
+
+
+### Copyright
+Testing Testing
+
+2022 Git.Training. All Rights Reserved.
