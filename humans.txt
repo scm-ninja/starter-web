@@ -6,7 +6,7 @@
     <agil> -- <devloper> -- <twitter>
 
 # THANKS
-
+Thnaks to jason taylor.
     <name>
 
 # TECHNOLOGY COLOPHON
