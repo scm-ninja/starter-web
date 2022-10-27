@@ -2,6 +2,6 @@
 
 This repository is for showing how Git and GitHub work
 
-## Purpose
+Just updating README file it was actuially here
 
-Sample website with plenty of files for demos
+adding a lilbit more content
