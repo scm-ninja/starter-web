@@ -21,4 +21,4 @@ Deployment Text
 Please fork
 
 ##Copyright
-Copy
+Copy. OLA OLA
