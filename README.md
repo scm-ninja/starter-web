@@ -16,5 +16,7 @@ Deployment Text
 
 ##How To Contribute
 
+Please fork
+
 ##Copyright
 Copy
