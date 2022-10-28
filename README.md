@@ -15,3 +15,6 @@ Proposito
 Deployment Text
 
 ##How To Contribute
+
+##Copyright
+Copy
