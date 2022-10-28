@@ -8,6 +8,10 @@ olaolaolaola
 
 ##Purpose
 
+Proposito
+
 ##Deployment
+
+Deployment Text
 
 ##How To Contribute
