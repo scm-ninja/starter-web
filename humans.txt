@@ -3,11 +3,18 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Barnali
+	Pritam
+	Vihaan
+	TECHNOLOGY
+	IPHONE
+	FETCH
 
 # THANKS
 
-    <name>
+    Thanks to all the students!!!!
+	
+	Thanks for watching it!!!
 
 # TECHNOLOGY COLOPHON
 
