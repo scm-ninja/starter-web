@@ -3,13 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ariel Rejala Developer arielrejala01
 
 # THANKS
 
-    <name>
+    All my students
+    Please leave
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
+JAVA
     jQuery, Modernizr
