@@ -15,4 +15,4 @@
     jQuery, Modernizr
 
 
-## Theri Changes - Master branch
+## Theri Changes - Master-branch
