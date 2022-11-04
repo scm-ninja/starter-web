@@ -26,4 +26,4 @@ Please fork this repository and then issue Pull Requests for review.
 2014 Git.Training.
 
 
-## Theri's Checking - Master-Again
+## Theri's Changes - myfeature branch
