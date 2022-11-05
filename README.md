@@ -25,4 +25,3 @@ Please fork this repository and then issue Pull Requests for review.
 
 2014 Git.Training.
 
-Making changes in README.md before rebasing
