@@ -14,6 +14,7 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+	Git
 
 
 ## Theri Changes - Master-branch
