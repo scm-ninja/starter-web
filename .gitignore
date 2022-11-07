@@ -1,1 +1,5 @@
+#Ignora archivo en concreto
 Ignorar.txt
+
+#Ignora algunos archivo que acabe en .log
+log/
