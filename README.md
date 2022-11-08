@@ -22,4 +22,6 @@ Mucho código picado
 Manden dinerito a paypal gracias <3
 Dinerito $$$
 
+### Copyrigth
+
 2022 copyrigth
