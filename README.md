@@ -19,6 +19,7 @@ Mucho código picado
 
 ## How to contribute
 
+Manden dinerito a paypal gracias <3
 Dinerito $$$
 
 2022 copyrigth
