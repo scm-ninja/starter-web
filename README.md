@@ -1,13 +1,12 @@
 # Starter Web Repo
 
-Esto está dominado
+Esto está dominado, más cambios en rebase
 This repository is for showing how Git and GitHub work
 TITLE BRANCH
 
 ## Introduction
 
-Pruebas y pruebas
-y más pruebas y más pruebas 
+Pruebas y pruebas y más pruebas y más pruebas 
 
 ## Purpose
 
