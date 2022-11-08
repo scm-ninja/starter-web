@@ -3,13 +3,14 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Pablo Perez perez@gmail.com @Perezito
 
 # THANKS
 
-    <name>
+    GRACIAS CHAVALES prueba stash
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	Git
