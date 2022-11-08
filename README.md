@@ -20,3 +20,5 @@ Mucho código picado
 ## How to contribute
 
 Dinerito $$$
+
+2022 copyrigth
