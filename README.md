@@ -12,4 +12,8 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
+Mucho código picado
+
 ## How to contribute
+
+Dinerito $$$
