@@ -2,7 +2,8 @@
 
 Esto está dominado, más cambios en rebase
 This repository is for showing how Git and GitHub work
-TITLE BRANCH, CAMBIO
+TITLE BRANCH, CAMBIO 
+de emergencia
 
 ## Introduction
 
