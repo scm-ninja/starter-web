@@ -1,6 +1,6 @@
 #Ignora archivo en concreto
 Ignorar.txt
 
-#Ignora algunos archivo que acabe en .log
+#Ignora  archivo que acabe en:
 log/
 *.orig
