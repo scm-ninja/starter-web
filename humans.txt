@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Pablo Perez perez@gmail.com @Perezito
 
 # THANKS
 
