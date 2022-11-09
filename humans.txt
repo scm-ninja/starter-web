@@ -3,7 +3,7 @@
 
 # TEAM
 
-    DV Hieu	vanhieudoan@gmail.com	@awesomepro
+    DV Hieu	test@gmail.com	@awesomepro
 
 # THANKS
 
@@ -13,3 +13,13 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+
+# GROUP
+
+    AC
+    KS
+    REF
+
+# PART
+   
+    AC
