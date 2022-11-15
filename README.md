@@ -7,3 +7,5 @@ Sample readme
 Sample installation guide
 
 ## DEPLOYMENT
+
+sample deployment script
