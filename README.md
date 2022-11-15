@@ -1,7 +1,7 @@
-# Starter Web Repo
+# DEMO APP
 
-This repository is for showing how Git and GitHub work
+Sample readme 
 
-## Purpose
+## Installation Guide
 
-Sample website with plenty of files for demos
+Sample installation guide
