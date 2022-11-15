@@ -8,3 +8,4 @@ Third modif not staged
 SOME DUMMY TEXT
 another dummy text to test merge conflict from MASTER branch
 always just for revs LOOL from master to merge conflic
+ADDED FOR REV
