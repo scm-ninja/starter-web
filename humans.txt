@@ -5,6 +5,7 @@
 
 ADIL
 
+
     <name> -- <role> -- <twitter>
 
 # THANKS
@@ -15,3 +16,6 @@ ADIL
 
     HTML5, CSS3
     jQuery, Modernizr
+
+#COPYRIGHT
+2022 ALL RIGHTS RESERVED
