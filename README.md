@@ -10,3 +10,4 @@ another dummy text to test merge conflict from MASTER branch
 always just for revs LOOL from master to merge conflic
 ADDED FOR REV
 changes made online for pull rebase
+new line for rebasing
