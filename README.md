@@ -14,3 +14,4 @@ new line for rebasing
 more line from myFeature branch, for rabsing
 adding changes to local for oull rabase from origin
 adding changes to stash
+stashing changes into new branch
