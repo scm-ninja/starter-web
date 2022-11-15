@@ -1,2 +1,3 @@
 my feature branch:file to test rebasing
 adding troubles from master
+some troubles to rebasse: troubles
