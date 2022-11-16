@@ -1,13 +1,16 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
+values technology area
+
 # TEAM
 
-    <name> -- <role> -- <twitter>
+dhrubajyoti me@codewdhruv.com @dhruvvjyoti
 
 # THANKS
 
-    <name>
+thanks to all my students
+please review 
 
 # TECHNOLOGY COLOPHON
 

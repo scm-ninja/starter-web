@@ -1,7 +1,24 @@
-# Starter Web Repo
+# DEMO APP
 
-This repository is for showing how Git and GitHub work
+testing pull / merge
+Sample readme 
+more changes to my feature branch
 
-## Purpose
+## Installation Guide
 
-Sample website with plenty of files for demos
+Sample installation guide
+
+Adding some more text for rebasing example
+
+## DEPLOYMENT
+
+sample deployment script
+
+add more data
+
+SOME MORE DATE
+
+# copyright 
+
+dhruba copyright
+QUICK FIX
