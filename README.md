@@ -1,6 +1,6 @@
 # DEMO APP
 
-testing pull
+testing pull / merge
 Sample readme 
 more changes to my feature branch
 
