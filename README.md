@@ -6,6 +6,8 @@ Sample readme
 
 Sample installation guide
 
+Adding some more text for rebasing example
+
 ## DEPLOYMENT
 
 sample deployment script
