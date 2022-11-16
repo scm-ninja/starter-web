@@ -19,4 +19,4 @@ SOME MORE DATE
 
 # copyright 
 
-haha what a readme
+dhruba copyright
