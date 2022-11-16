@@ -1,6 +1,8 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
+values technology area
+
 # TEAM
 
 dhrubajyoti me@codewdhruv.com @dhruvvjyoti
