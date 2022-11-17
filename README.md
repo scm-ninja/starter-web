@@ -6,5 +6,6 @@ This is example is to show different parts
 of the Git repository and various commands
 using a wab project.
 ##Purpose
+As stated above, the main purpose is
 ##Deployment
 ##How to Contribute
