@@ -8,9 +8,9 @@
 
 # THANKS
 
-    <name>
+    addibg tanks 
 
 # TECHNOLOGY COLOPHON
-
+add tech from feature branch
     HTML5, CSS3
     jQuery, Modernizr
