@@ -5,9 +5,15 @@ This is a simple website project.
 
 ## Introduction
 
+foo bar
+
 ## Purpose
 
+foo bar baz
+
 ## Deployment
+
+This is a baz.
 
 ## How To Contribute
 
