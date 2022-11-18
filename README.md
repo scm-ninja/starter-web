@@ -10,3 +10,5 @@ As stated above, the main purpose is
 ##Deployment
 This is a symple web project
 ##How to Contribute
+### Copyright
+	2014 Git.Training
