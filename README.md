@@ -17,7 +17,7 @@ This is a baz.
 
 ## How To Contribute
 
-Sample website with plenty of files for demos
+Please fork this repository and then issue Pull request for review.
 
 ### Copyright
 
