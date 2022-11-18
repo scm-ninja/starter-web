@@ -8,4 +8,5 @@ using a wab project.
 ##Purpose
 As stated above, the main purpose is
 ##Deployment
+This is a symple web project
 ##How to Contribute
