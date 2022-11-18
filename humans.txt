@@ -3,6 +3,8 @@
 
 # TEAM
 
+Alessandro Mele melealessandro23@gmail.com
+
     <name> -- <role> -- <twitter>
 
 # THANKS
