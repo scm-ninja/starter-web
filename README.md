@@ -10,5 +10,6 @@ As stated above, the main purpose is
 ##Deployment
 This is a symple web project
 ##How to Contribute
+Please fork this repository and then issue Pull Requests for review.
 ### Copyright
 	2014 Git.Training
