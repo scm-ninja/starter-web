@@ -10,10 +10,12 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
-##how to contribute
+###how to contribute
 
 ###deployment
 
 hi how are you
 
 who are you
+###copyright
+2014 git.training.
