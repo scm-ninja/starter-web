@@ -5,6 +5,8 @@ This is a simple website project.
 
 Adding a line for rebasing, more changes from myfeature branch too.
 
+Doing emergency fix.
+
 ## Introduction
 
 foo bar
