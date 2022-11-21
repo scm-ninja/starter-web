@@ -16,3 +16,4 @@ Alessandro Mele melealessandro23@gmail.com
 
     HTML5, CSS3
     jQuery, Modernizr
+    Git
