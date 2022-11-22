@@ -7,3 +7,4 @@
 fast forward merging test
 rebase
 priority changes
+a
