@@ -1,1 +1,2 @@
 rm: cannot remove 'minoiu': No such file or directory
+rmdir: failed to remove 'README.md': Not a directory
