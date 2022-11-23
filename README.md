@@ -1,7 +1,10 @@
-# Starter Web Repo
+jj#This is readme
 
-This repository is for showing how Git and GitHub work
-
-## Purpose
-
-Sample website with plenty of files for demos
+## smth
+###to be commited loacally
+###to be just staged
+##changes in workdir
+fast forward merging test
+rebase
+priority changes
+a
