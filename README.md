@@ -8,4 +8,4 @@ git basically works on the top of github
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos..
