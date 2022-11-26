@@ -25,5 +25,5 @@ hi how are you
 who are you
 ###copyright
 fork this repositiory
-
+all rights reseverd
 2014  git.training.
