@@ -3,13 +3,23 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    DV Hieu	test@gmail.com	@awesomepro
 
 # THANKS
 
-    <name>
+    Thanks to all member!
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+
+# GROUP
+
+    AC
+    KS
+    REF
+
+# PART
+   
+    AC
