@@ -1,3 +1,4 @@
 mierda.txt
 *.log
 log/
+*.orig
