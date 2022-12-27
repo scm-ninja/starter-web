@@ -1,7 +1,7 @@
-# Starter Web Repo
+# some content
 
-This repository is for showing how Git and GitHub work
+this is a line
 
-## Purpose
+## purpoese
 
-Sample website with plenty of files for demos
+this is another line
