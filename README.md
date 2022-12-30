@@ -1,4 +1,4 @@
-# Starter Web Repo Updated
+# Starter Web Repo Updated example branch
 
 This repository is for showing how Git and GitHub work
 
