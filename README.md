@@ -1,7 +1,5 @@
-# Starter Web Repo
+# Fork
 
-This repository is for showing how Git and GitHub work
+This repository is for fork....
 
-## Purpose
-
-Sample website with plenty of files for demos
+This repository is for fork changes....
