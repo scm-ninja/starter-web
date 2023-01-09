@@ -11,7 +11,7 @@ This is example to show differences
 ## Deployment
 This is example to show differences 2
 ## How To Contribute
-This is example to show differences 3
+Please fork this repo and then issue Pull Requests for review.
 
 
 ## CopyRight
