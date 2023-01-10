@@ -1,15 +1,16 @@
 # humanstxt.org/
-# The humans responsible & technology colophon
+# The humans responsible & technology colophon here it again
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Mohamed	 mohamed@gm
 
 # THANKS
 
-    <name>
+    All my works!!
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	Git 
