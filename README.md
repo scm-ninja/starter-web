@@ -16,4 +16,4 @@ Please fork this repo and then issue Pull Requests for review.
 
 
 ## CopyRight
-Git Trainingg
+Git Trainingg. All rights reserved
