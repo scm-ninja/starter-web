@@ -20,7 +20,8 @@ even local file system.
 
 ## How To Contribute
 
-Git diff comparisons
+Git diff comparisons.
+Please fork this repository and then issue Pull Requests for review.
 
 ### Copyright
 
