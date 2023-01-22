@@ -21,3 +21,7 @@ even local file system.
 ## How To Contribute
 
 Git diff comparisons
+
+### Copyright
+
+copyright 2022 moin
