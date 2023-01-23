@@ -26,4 +26,5 @@ Please fork this repository and then issue Pull Requests for review.
 
 ### Copyright
 
-copyright 2022 moin
+copyright 2022 moin.
+All rights reserved.
