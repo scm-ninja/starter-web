@@ -3,13 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Nafisha Binte Moin   nafishamoin7@gmail.com
 
 # THANKS
 
-    <name>
+    Thanks to Udemy!
+	Please leave a review or a comment.
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	Git Bash Most important!
