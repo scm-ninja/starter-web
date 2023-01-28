@@ -9,3 +9,6 @@ Sample website with plenty of files for demos
 ### Copy right
 
 sample branch example 
+
+###How to contibute
+ Please for this repository and issue pull request
