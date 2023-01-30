@@ -1,7 +1,7 @@
-# Starter Web Repo
+## Readme file
 
-This repository is for showing how Git and GitHub work
+This is the readme file created by me
 
 ## Purpose
 
-Sample website with plenty of files for demos
+The purpose of README file is to see a short description about our repo
