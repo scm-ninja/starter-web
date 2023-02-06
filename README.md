@@ -27,3 +27,4 @@ Sample website with plenty of files for demos
 
 ### Copyright
 	Copy right notice
+	All rights reserved
