@@ -3,6 +3,8 @@
 
 # TEAM
 
+	Thomas Griffith -- admin
+
     <name> -- <role> -- <twitter>
 
 # THANKS
