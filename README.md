@@ -12,7 +12,7 @@ As stated above, the main purpose is to provide simple examples for Git training
 This is a simple web project.
 
 ### How to Contribute
-
+ Please fork this repo  and issue a Pull Request for review.
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
