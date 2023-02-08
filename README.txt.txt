@@ -1,0 +1,1 @@
+nesto je napisano
