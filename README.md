@@ -15,3 +15,5 @@ md stands for mark down text file
 theis is a simple web project, deployment can be on web server or even local file system
 
 ## How To Contribute
+
+this comment is added via simple-changes branch to do some PR from simple-changes branch
