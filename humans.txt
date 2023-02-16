@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Laxmana   Valtix Principal    laxmana@valtix.com
 
 # THANKS
 
