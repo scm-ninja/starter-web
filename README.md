@@ -18,6 +18,7 @@ This is a sample Proyect
 ## How to Contribute
 
 This are instructions on how to Contribute
+Please fork this repository
 
 ### Copyright
 
