@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 Some more text. Then more changes from feature branch
+We are doing even more for stash
 
 
 ## Introduction
