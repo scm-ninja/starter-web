@@ -18,3 +18,7 @@ This is a sample Proyect
 ## How to Contribute
 
 This are instructions on how to Contribute
+
+### Copyright
+
+Copyright Notice
