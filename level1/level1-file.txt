@@ -1,0 +1,3 @@
+To remove untracked files inside a subfolder use: git clean -f folderpath.
+The untracked files will now be deleted. If you want to delete untracked folders too, you can use the -d flag: git clean -fd.
+To remove ignore files, use the -x flag: git clean -fx.
