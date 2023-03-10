@@ -9,5 +9,6 @@ Sample website with plenty of files for demos
 A vida.
 ##HOW TO CONTRIBUTE
 Contribua com o pix
+Plead fork this repository and then issue pull requests for reviwew
 #DEPLOYMENT
 nãocopie
