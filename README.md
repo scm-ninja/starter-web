@@ -10,3 +10,4 @@ A vida.
 ##HOW TO CONTRIBUTE
 Contribua com o pix
 #DEPLOYMENT
+nãocopie
