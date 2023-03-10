@@ -6,7 +6,7 @@ This repository is for showing how Git and GitHub work
 Está uma introdução
 Sample website with plenty of files for demos
 ##PURPOSE
-A vida.
+A vida. A nova.
 ##HOW TO CONTRIBUTE
 Contribua com o pix
 Plead fork this repository and then issue pull requests for reviwew
