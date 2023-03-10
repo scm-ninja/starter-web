@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ana -- ANINHA -- <twitter>
 
 # THANKS
 
