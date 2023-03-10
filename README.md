@@ -6,6 +6,7 @@ This repository is for showing how Git and GitHub work
 Está uma introdução
 Sample website with plenty of files for demos
 ##PURPOSE
+correção
 A vida. A nova.
 ##HOW TO CONTRIBUTE
 MORE CHANGES FOR MYFEATURE BRANCH
