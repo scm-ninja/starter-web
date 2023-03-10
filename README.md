@@ -9,6 +9,7 @@ Sample website with plenty of files for demos
 correção
 A vida. A nova.
 ##HOW TO CONTRIBUTE
+STASH
 MORE CHANGES FOR MYFEATURE BRANCH
 AOS GAYS
 Contribua com o pix
