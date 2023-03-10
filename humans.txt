@@ -3,13 +3,16 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jason Taylor jason@git.training @awesome.com
 
 # THANKS
 
-    <name>
+    All my Students
+	Search and Destroy
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	MOre values
+	Even More Values
