@@ -9,6 +9,7 @@ Sample website with plenty of files for demos
 A vida. A nova.
 ##HOW TO CONTRIBUTE
 MORE CHANGES FOR MYFEATURE BRANCH
+AOS GAYS
 Contribua com o pix
 Plead fork this repository and then issue pull requests for reviwew
 #DEPLOYMENT
