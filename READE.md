@@ -1,4 +1,4 @@
-#Starter Wwb Project
+#Starter Web Project
 
 ##Introduction
 
