@@ -18,4 +18,8 @@ This is a simple web project, deployment can be on any web server or even local 
 
 ###Copyright
 
+<<<<<<< HEAD
 2014 Git.Training    
+=======
+2014 Git.Training. Test2
+>>>>>>> add-copyright
