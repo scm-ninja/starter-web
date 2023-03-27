@@ -20,8 +20,8 @@ Please fork this repository and then issue Pull Requests for review.
 
 ###Copyright
 
-<<<<<<< HEAD
-2014 Git.Training    
-=======
-2014 Git.Training. Test2
->>>>>>> add-copyright
+
+2014 Git.Training All rights reserved.
+  
+
+
