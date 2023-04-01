@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Sherry -- manager -- sherryzhang8@gmail.com
 
 # THANKS
 
