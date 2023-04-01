@@ -1,1 +1,3 @@
 First commit to github
+
+This line is using to check diff between what we commit on master branch with what we have pushed on remote master
