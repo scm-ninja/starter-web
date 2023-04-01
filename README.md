@@ -16,6 +16,7 @@ Sample deployment description
 
 ## How To Contribute
 
+Please fork this respository
 ## Copyrights
 
 Git.Training
