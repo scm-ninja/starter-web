@@ -11,5 +11,7 @@ Simple web project.
 ## Purpose
 Trying to test out multiple revisions
 
+## How to contribute
+Pls fork this repo and issue pull request for review
 ## Copyright
 ... 
