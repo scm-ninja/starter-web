@@ -10,3 +10,6 @@ Simple web project.
 
 ## Purpose
 Trying to test out multiple revisions
+
+## Copyright
+... 
