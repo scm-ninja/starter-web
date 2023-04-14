@@ -4,6 +4,9 @@ This is a simple demo
 This is a short example
 ## Purpose
 I dont know
+##Deployment
+Anyway you want
 ## Credits
 Just me myself and I
 ## How to
+Do as I please
