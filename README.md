@@ -10,6 +10,7 @@ Anyway you want
 Just me myself and I
 ## How to
 Do as I please
+Fork this repo and then issue pull request
 ### Copyrights
 2023 Ausy training
 ### Boulette
