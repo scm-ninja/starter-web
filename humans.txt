@@ -1,0 +1,8 @@
+# robotstxt.org/
+
+User-agent: *
+
+
+#TEAM
+
+SCC
