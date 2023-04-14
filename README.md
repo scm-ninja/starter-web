@@ -10,3 +10,5 @@ Anyway you want
 Just me myself and I
 ## How to
 Do as I please
+### Copyrights
+2023 Ausy training
