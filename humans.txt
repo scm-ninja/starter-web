@@ -10,6 +10,7 @@
     <name>Harsha Mahalle
 
 # TECHNOLOGY COLOPHON
+#Stashing
 
     HTML5, CSS3
     jQuery, Modernizr
