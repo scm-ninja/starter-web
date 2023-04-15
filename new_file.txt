@@ -1,0 +1,4 @@
+data added in the file
+Branching stash 
+git stash branch new_branch
+Updating for checking compare and pull.

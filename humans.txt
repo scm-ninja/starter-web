@@ -7,9 +7,11 @@
 
 # THANKS
 
-    <name>
+    <name>Harsha Mahalle
 
 # TECHNOLOGY COLOPHON
+#Stashing
+#Branch stashing
 
     HTML5, CSS3
     jQuery, Modernizr
