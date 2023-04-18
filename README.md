@@ -1,5 +1,6 @@
 # SW Project
-This is a simple demo
+This is a simple demo.
+One line for rebasing
 ## Intro
 This is a short example
 ## Purpose
