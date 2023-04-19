@@ -9,8 +9,9 @@ This example  is to show different parts of the Git repository
 and various commands usiand a web Project.
 ## Purpose
 
-Sample website with plenty of files for demos
+As stated above, the main puporse is to provide simple examples for Git trainigin demos.
 
 ##Deployment
 
+This is a simple web project
 ## How To Contribute
