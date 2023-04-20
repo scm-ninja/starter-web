@@ -15,7 +15,7 @@ As stated above, the main puporse is to provide simple examples for Git trainigi
 
 This is a simple web project
 ## How To Contribute
-
+Please fork this repository and then issue
 ###Copyright
 
 2023 Git.Training 2.0
