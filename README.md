@@ -18,4 +18,4 @@ This is a simple web project
 Please fork this repository and then issue
 ###Copyright
 
-2023 Git.Training 2.0
+2023 Git.Training 2.0. All rigths reserved
