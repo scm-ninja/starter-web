@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Davi Ferreira davi@git.training @hello
 
 # THANKS
 
