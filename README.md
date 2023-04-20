@@ -1,7 +1,7 @@
 # Starter Web Project
 
 This is a simple website Project for practice the Git Workflow
-showing how to use Git and Github together
+showing how to use Git and Github together. adding a line for rebasing example
 
 ##Introduction
 
