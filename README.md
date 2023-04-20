@@ -15,3 +15,7 @@ As stated above, the main puporse is to provide simple examples for Git trainigi
 
 This is a simple web project
 ## How To Contribute
+
+###Copyright
+
+2023 Git.Training
