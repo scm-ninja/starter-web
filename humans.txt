@@ -8,4 +8,4 @@ User-agent: *
 SCC
 
 #THANKS
-Please thank me
+Please thank memultiple stash humans.txt
