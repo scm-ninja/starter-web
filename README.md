@@ -26,3 +26,5 @@ qwer
 add copyright notice
 
 team mates on other branch
+
+Make a change for rebase sample on myfeature branch
