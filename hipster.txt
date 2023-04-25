@@ -1,3 +1,4 @@
 This is my new file
 This is my first edit of the file
 This is my second edit
+Another edit
