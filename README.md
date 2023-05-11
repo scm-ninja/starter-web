@@ -10,3 +10,6 @@ Sample website with plenty of files for demos
 new paragraph
 ## new section
 new paragraph 
+
+### copyright
+2023 Git. training 
