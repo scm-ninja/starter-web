@@ -3,9 +3,9 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+    Brendon Kappel 
 # THANKS
+
 
     <name>
 
