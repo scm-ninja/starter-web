@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+    Brendon Kappel 
 # THANKS
 
-    <name>
+
+    alterações
 
 # TECHNOLOGY COLOPHON
 
