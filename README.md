@@ -16,3 +16,5 @@ new paragraph
 ### copyright
 2023 Git. training 
 mudanças para teste
+
+## updates from dev 1
