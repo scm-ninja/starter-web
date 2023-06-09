@@ -3,6 +3,7 @@
 
 # TEAM
 
+    Jason Taylor    taylor@git.training @awesomejt
     <name> -- <role> -- <twitter>
 
 # THANKS
