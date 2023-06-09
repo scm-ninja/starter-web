@@ -1,6 +1,7 @@
 # Starter Web Project
 
 Adding a line for rebasing example, then more changes from myfeature branch too.
+Updating for emergency fix after stashing.
 
 ## Introduction
 Adding changes to the file so I can test something
