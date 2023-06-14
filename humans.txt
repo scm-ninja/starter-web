@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Kam Uddin	kam.uddin@hotmail.com		@kamuddin
 
 # THANKS
 
