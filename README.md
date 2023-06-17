@@ -1,7 +1,7 @@
 # Starter Web Project
 
 This repository is for showing how Git and GitHub work
-Showing how to use Git and GitHub together. Adding a line for rebasing example.
+Showing how to use Git and GitHub together. Updating for emergency fix after stashing.
 
 ## Introduction
 
