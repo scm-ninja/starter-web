@@ -7,3 +7,5 @@ More edits made locally.
 ## Purpose
 
 Sample website with plenty of files for demos
+
+Added more content.
