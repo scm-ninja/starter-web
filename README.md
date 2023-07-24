@@ -9,4 +9,8 @@ simple web project.
 > The main purpose is to show git commands and how to use on real time world using 
 a simple web Project.
 
-#### How to Contribute
+## Deployment
+> This is an simple project, Deployment can be made on web server or using a local file 
+repository.
+
+## How to Contribute
