@@ -5,6 +5,8 @@
 > In intro we discuss about git and various commands used in git using 
 simple web project.
 
-### Purpose
+## Purpose
+> The main purpose is to show git commands and how to use on real time world using 
+a simple web Project.
 
 #### How to Contribute
