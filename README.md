@@ -14,3 +14,4 @@ a simple web Project.
 repository.
 
 ## How to Contribute
+by learning and practicing the commands of git
