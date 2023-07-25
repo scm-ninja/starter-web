@@ -14,7 +14,7 @@ a simple web Project.
 repository.
 
 ## How to Contribute
-by learning and practicing the commands of git
+By fork the repository and pull the request for the review
 
 ##Copyright
-> Adding this section of Copyright to the section of practicing.
+> 2014 git.practicing
