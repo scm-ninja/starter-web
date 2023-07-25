@@ -15,3 +15,6 @@ repository.
 
 ## How to Contribute
 by learning and practicing the commands of git
+
+##Copyright
+> Adding copyright section to our site
