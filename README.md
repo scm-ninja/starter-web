@@ -1,5 +1,5 @@
 # Starter Web-Project
-> This is a simple project to show how to use git
+> This is a simple project to show how to use github using git bash commands.
 
 ## Introduction
 > In intro we discuss about git and various commands used in git using 
