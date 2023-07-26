@@ -28,4 +28,8 @@ Send an email to leo.moreti@yahoo.com
 
 This is a test of branching in Git - branch "feature123"
 
+### Copyright
+
+2023 Git.training
+
 --- End of file
