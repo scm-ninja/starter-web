@@ -4,6 +4,8 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 
+Study of Git and GitHub
+
 ## Purpose
 
 Sample website with plenty of files for demos
@@ -13,3 +15,5 @@ Sample website with plenty of files for demos
 Deploy on AWS (Amazon Web Services)
 
 ## How to Contribute
+
+Send an email to leo.moreti@yahoo.com
