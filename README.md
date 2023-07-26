@@ -24,4 +24,8 @@ Send an email to leo.moreti@yahoo.com
 
 ## Test
 
+## Test Branching
+
+This is a test of branching in Git - branch "feature123"
+
 --- End of file
