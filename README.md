@@ -13,3 +13,7 @@ This is a simple website project
 staging area example
 
 Working directory example
+
+### Copyright
+
+2014 Git.Training.
