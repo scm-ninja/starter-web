@@ -9,3 +9,7 @@ Sample website with plenty of files for demos
 ### Deplyment
 
 This is a simple website project
+
+staging area example
+
+Working directory example
