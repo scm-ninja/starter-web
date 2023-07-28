@@ -17,4 +17,5 @@ repository.
 By fork the repository and pull the request for the review
 
 ##Copyright
-> 2014 git.practicing. work in progress
+> 2014 git.practicing. work in progress with stashing
+
