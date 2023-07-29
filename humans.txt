@@ -17,3 +17,5 @@
 	Jenekins
 	kubernets
 	terraform
+	python 
+	.dotnet
