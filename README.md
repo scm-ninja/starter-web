@@ -17,3 +17,7 @@ Deployment
 ## How to Contribute
 
 Sample website with plenty of files for contribution
+
+## Copyright
+
+Copyright Notice
