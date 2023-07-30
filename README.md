@@ -8,11 +8,11 @@ Sample website with plenty of files for demos
 
 ## Purpose
 
-Sample website with plenty of files for purpose
+Sample website with plenty of
 
 ## Deployment
 
-Sample website with plenty of files for Deployment
+Deployment
 
 ## How to Contribute
 
