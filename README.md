@@ -8,6 +8,12 @@ Sample website with plenty of files for demos
 
 ## Purpose
 
+Sample website with plenty of files for purpose
+
 ## Deployment
 
+Sample website with plenty of files for Deployment
+
 ## How to Contribute
+
+Sample website with plenty of files for contribution
