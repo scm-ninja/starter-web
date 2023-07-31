@@ -42,3 +42,5 @@ Sample website with plenty of files for demos
 ## deployment
 
 description about deployment
+
+all right res.
