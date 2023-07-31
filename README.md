@@ -16,7 +16,7 @@ Deployment
 
 ## How to Contribute
 
-Sample website with plenty of files for contribution
+Please fork this repo
 
 ## Copyright
 
