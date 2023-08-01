@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 more changes for myfeatrues
-
+update this line
 <<<<<<< HEAD
 This is a simple website project for
 showing hot to use Git and Github together.
