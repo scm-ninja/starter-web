@@ -20,4 +20,4 @@ Please fork this repo
 
 ## Copyright
 
-Copyright Notice
+Copyright Notice. Improved copyright notice
