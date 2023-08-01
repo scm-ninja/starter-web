@@ -1,12 +1,13 @@
-# humanstxt.org/
+  # humanstxt.org/
 # The humans responsible & technology colophon
 
 # TEAM
 
     <name> -- <role> -- <twitter>
+	Johnny Bravo
 
 # THANKS
-
+	Please leave a review
     <name>
 
 # TECHNOLOGY COLOPHON
