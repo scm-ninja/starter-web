@@ -1,5 +1,6 @@
 # Starter Web Repo
 
+<<<<<<< HEAD
 This is a simple website project for
 showing hot to use Git and Github together.
 
@@ -23,3 +24,12 @@ can be on any web server or even local
 file system.
 
 ## How to contribute
+=======
+##Introduction
+
+## Purpose
+
+##Deployment
+
+##How to contribute
+>>>>>>> 75aa52e8fcd6c9841d32f6be7340ca925eb7863c
