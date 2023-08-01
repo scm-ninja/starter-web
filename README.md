@@ -7,7 +7,7 @@ Clone a project to work on a local copy
 Control and track changes with Staging and Committing
 Branch and Merge to allow for work on different parts and versions of a project
 Pull the latest version of the project to a local copy
-Push local updates to the main project
+Push local updates to the main project ok as well
 ## Purpose
 Initialize Git on a folder, making it a Repository
 Git now creates a hidden folder to keep track of changes in that folder
