@@ -17,6 +17,7 @@ You select the modified files you want to Stage
 The Staged files are Committed, which prompts Git to store a permanent snapshot of the files
 Git allows you to see the full history of every commit.
 You can revert back to any previous commit.
+yes excatly
 
 ## Deployment
 Over 70% of developers use Git!
