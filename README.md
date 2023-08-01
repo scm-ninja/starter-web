@@ -32,4 +32,6 @@ file system.
 ##Deployment
 
 ##How to contribute
+
+##Copyright
 >>>>>>> 75aa52e8fcd6c9841d32f6be7340ca925eb7863c
