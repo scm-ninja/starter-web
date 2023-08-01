@@ -1,6 +1,7 @@
 # Starter Web Repo
-This is a simple website project for showing how to use Git and Github together.
-more changes from my feature brach
+updates
+This is a simple website project for showing how to use Git and GitHub together.
+more changes from my feature branch
 ## Introduction
 What does Git do?
 Manage projects with Repositories
