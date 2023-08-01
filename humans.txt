@@ -2,14 +2,15 @@
 # The humans responsible & technology colophon
 
 # TEAM
+   abc   abc@gmail.com  @abc
 
     <name> -- <role> -- <twitter>
 
 # THANKS
-
-    <name>
+ Thanks to all my students
+ I love my HB
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
-    jQuery, Modernizr
+    jQuery, Modernizr,c++
