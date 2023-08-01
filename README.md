@@ -18,5 +18,10 @@ Git allows you to see the full history of every commit.
 You can revert back to any previous commit.
 
 ## Deployment
+Over 70% of developers use Git!
+Developers can work together from anywhere in the world.
+Developers can see the full history of the project.
+Developers can revert to earlier versions of a project.
+
 ## How to contribute
 Sample website with plenty of files for demos
