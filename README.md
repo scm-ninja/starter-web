@@ -1,6 +1,7 @@
 # Starter Web Project
 
-This repository is for showing how Git and GitHub work. Adding some more text. Adding more text one more time
+This repository is for showing how Git and GitHub work. Uddating for emergency fix after stash
+
 
 ## Introduction
 
