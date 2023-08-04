@@ -8,6 +8,10 @@ This is the introduction section
 
 ## Purpose
 
+This is the purpose section
+
 ## Deployment
+
+This is the deployment section
 
 ## How to Contribute
