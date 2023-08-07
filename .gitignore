@@ -1,0 +1,4 @@
+.DSStore
+*.log
+test_folder/
+*.orig
