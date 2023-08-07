@@ -17,3 +17,5 @@ This is the deployment section
 ## How to Contribute
 
 --- content for rebasing example
+
+--- content for stashing example
