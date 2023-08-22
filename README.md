@@ -16,6 +16,8 @@ simple web project phase 5
 
 ## How To Contribute
 
+Please fork this merge phase 2
+
 ### Copyright
 
 2023 Git.training test
