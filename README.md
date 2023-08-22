@@ -15,3 +15,7 @@ this is purpose for phase 4
 simple web project phase 5
 
 ## How To Contribute
+
+### Copyright
+
+2023 Git.training
