@@ -22,4 +22,4 @@ Please fork this merge phase 2
 
 ### Copyright
 
-2023 Git.training test
+2023 Git.training test. All right reserved
