@@ -1,5 +1,7 @@
 # Starter Web Project
 
+simple text for phase 2
+
 ## Introduction
 
 ## Purpose
