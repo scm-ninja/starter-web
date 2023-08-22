@@ -6,6 +6,7 @@ This is example is to show different part of the Git repository and various comm
 using a web project.
 ## Purpose
 Sample website with plenty of files for demos
+As stated above, the main purpose is to provide simple examples for git training demos
 ## Deployment
 
 ## How To Contribute
