@@ -1,6 +1,7 @@
 # Starter Web Project
 
 simple text for phase 2
+Adding a line for rebasing example.
 
 ## Introduction
 
