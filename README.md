@@ -1,7 +1,26 @@
-# Starter Web Repo
+# Starter Web Project
 
-This repository is for showing how Git and GitHub work
+simple text for phase 2
+Adding a line for rebasing example.
+then more changes from myfeature branch
+updating emergency....
+
+## Introduction
+
+this is intro for phase 3
 
 ## Purpose
 
-Sample website with plenty of files for demos
+this is purpose for phase 4
+
+## Deployment change phase 1
+
+simple web project phase 5
+
+## How To Contribute
+
+Please fork this merge phase 2
+
+### Copyright
+
+2023 Git.training test. All right reserved
