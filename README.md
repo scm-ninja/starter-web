@@ -1,7 +1,7 @@
-# Starter Web Repo
+# Starter-Web Repo
 
-This repository is for showing how Git and GitHub work
+This is the readme file for the forked repo.
 
-## Purpose
+# Purpose
 
-Sample website with plenty of files for demos
+Sample commit to extend the pull request.
