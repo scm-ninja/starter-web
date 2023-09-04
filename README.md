@@ -2,6 +2,6 @@
 
 This repository is for showing how Git and GitHub work
 
-## Purpose
+# NEW UPDATE
 
-Sample website with plenty of files for demos
+New Update From Branch
