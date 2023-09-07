@@ -22,4 +22,4 @@ Please fork this repository and then issue Pull Requests for review.
 
 this example is to show different parts of the Git repository  and various commands using a web project
 
-2014 Git.Training.
+2014 Git.Training.ALL RIGHTS RESERVED
