@@ -17,3 +17,5 @@ Sample website with plenty of files for demos
 ##How To Contribute
 
 this example is to show different parts of the Git repository  and various commands using a web project
+
+2014 Git.Training.
