@@ -15,6 +15,7 @@ this is a simple web project, deployment can be on any web server or even local 
 Sample website with plenty of files for demos
 
 ##How To Contribute
+Please fork this repository and then issue Pull Requests for review.
 
 this example is to show different parts of the Git repository  and various commands using a web project
 
