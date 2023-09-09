@@ -1,6 +1,7 @@
 # Starter Web Project
 adding a line for REBASING example
 More changes from myfeature branch too
+EMERGENCY 
 ##Introduction
 
 This repository is for showing how Git and GitHub work
