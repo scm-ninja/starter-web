@@ -3,13 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   Sas Iulia  iuliasas@yahoo.com @iuliasas
 
 # THANKS
-
+THANKS TO ALL MY STUDENTS
+Please leave a review if you like the course!
     <name>
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	GIT
