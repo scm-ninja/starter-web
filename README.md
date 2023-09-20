@@ -8,7 +8,7 @@ Sample website with plenty of files for demos, more changes from feature
 
 ## Copyright Notice
 
-Hey
+Hey. More updaters
 
 ## How to contribute
 
