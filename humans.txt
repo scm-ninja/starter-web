@@ -2,14 +2,15 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+    jASON yO
     <name> -- <role> -- <twitter>
 
 # THANKS
 
-    <name>
+    thank you to all my humans
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+    Hey
