@@ -2,3 +2,4 @@
 *.xlsx
 *.log
 log/
+*.orig
