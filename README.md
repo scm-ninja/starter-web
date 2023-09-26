@@ -1,6 +1,9 @@
 # Starter Web Project
 
 This is a simple website project for showing how to use Git and Github together.
+
+C1 en master
+
 ## Introduction
 This is an example to show different parts of the Git repository and various commands using a ewb project.
 
