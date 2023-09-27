@@ -2,6 +2,6 @@
 
 This repository is for showing how Git and GitHub work
 
-## Purpose
+# Validating Changes
 
-Sample website with plenty of files for demos
+Performing the validation of changes in the web server.
