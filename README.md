@@ -23,3 +23,4 @@ Pleasy fork this repository
 ### Copyright
 
 2014 Git.Training. 2
+C1 master after stash
