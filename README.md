@@ -18,6 +18,7 @@ This as a simple web project, deployment can be ona ny web server or even local 
 ## How To Contribute
 
 Please fork this respository and then issue Pull Requests for review
+Add new branch
 
 ### Copyright
 
