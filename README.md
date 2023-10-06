@@ -1,3 +1,4 @@
+
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
@@ -12,3 +13,6 @@ Ejemplo de desarrollo para prueba git
 
 
 ## prueba de diff
+
+
+## agregar seccion nueva
