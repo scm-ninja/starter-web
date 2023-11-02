@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Sergi Bernaus DevOps sibs@gft.com
 
 # THANKS
 
