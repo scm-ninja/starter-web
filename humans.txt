@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Rounak	rounakbit1998@gmail.com
 
 # THANKS
 
