@@ -11,3 +11,6 @@ Sample website with plenty of files for demos
 Deployed in Linux 
 
 ## Environment
+
+##Copyright
+Added copyright
