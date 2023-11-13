@@ -17,3 +17,6 @@ Added copyright
 
 ##
 New line
+
+##
+Adding example of Rebasing
