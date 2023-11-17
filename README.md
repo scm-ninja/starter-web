@@ -24,3 +24,5 @@ From feature branch
 
 ##
 Updating readme for stashing example
+
+## Changing file within git repo
