@@ -3,3 +3,4 @@ First line
 3rd line
 4th line
 Adding line for rebase in remote
+adding line for stash
