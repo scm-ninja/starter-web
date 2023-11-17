@@ -21,3 +21,6 @@ New line
 ##
 Adding example of Rebasing 
 From feature branch
+
+##
+Updating readme for stashing example
