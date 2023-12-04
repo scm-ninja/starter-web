@@ -6,4 +6,6 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos 
 
-Halleluyah has a lovely linkedin page 
+Use to as a test run file for tutorials in github 
+
+It also support markdown files, which is a good thing
