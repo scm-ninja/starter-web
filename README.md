@@ -4,4 +4,4 @@ This repository is for showing how Git and GitHub work
 
 ## Purpose
 
-Sample website with plenty of files for demos
+No purpose just apply this new readme file to my repo.
