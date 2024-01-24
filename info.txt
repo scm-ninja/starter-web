@@ -1,2 +1,4 @@
 # INFO
 this is a info.txt file
+# new
+THis is new
