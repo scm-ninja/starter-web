@@ -1,0 +1,2 @@
+# INFO
+this is a info.txt file
