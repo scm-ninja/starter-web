@@ -10,3 +10,7 @@ Sample website with plenty of files for demos
 
 This can be deployed remotely or locally
 
+Or not
+
+Or yes
+
