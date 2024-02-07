@@ -6,3 +6,4 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 adding the new line
+this is the new line for 7th Feb
