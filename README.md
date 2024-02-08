@@ -1,4 +1,4 @@
-## Starter Web Repo
+starter Web Repo
 
 This repository is for showing how Git and GitHub work
 
@@ -17,4 +17,7 @@ this is the new line for 7th Feb
 #afternoon
 #wonderful
 #you are amaing
+<<<<<<< HEAD
 #this is new commit 8th Feb
+=======
+>>>>>>> new-branch
