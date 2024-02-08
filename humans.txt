@@ -15,3 +15,4 @@
     jQuery, Modernizr
 # my working stuff
 #this is my new file i am working on this
+#commitiing the new code for the first time today
