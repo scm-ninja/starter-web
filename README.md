@@ -22,3 +22,4 @@ this is the new line for 7th Feb
 =======
 >>>>>>> new-branch
 #this is new code
+all the new code 
