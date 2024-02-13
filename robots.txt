@@ -2,5 +2,3 @@
 
 User-agent: *
 user password #
-this is the commit from AWS server
-this is from diffrent aws machine
