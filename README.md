@@ -19,3 +19,5 @@ Test test
 kod
 
 Dalszy opis
+
+## Copyright
