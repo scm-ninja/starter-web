@@ -15,3 +15,4 @@ Ktos1 Ktos2
     jQuery, Modernizr
 
 # Dodatkowy coment
+jakis tektst1
