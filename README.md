@@ -22,3 +22,5 @@ kod
 Dalszy opis
 
 ## Copyright
+
+## Dodatkowy opis
