@@ -3,7 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+Ktos1 Ktos2
+Ktos3
 
 # THANKS
 
@@ -13,3 +14,6 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+
+# Dodatkowy coment
+jakis tektst1
