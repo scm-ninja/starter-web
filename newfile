@@ -1,0 +1,15 @@
+# Initialize a new Git repository
+git init
+
+# Add all files to the staging area
+git add .
+
+# Commit the changes with a message
+git commit -m "Initial commit"
+
+# Add the remote repository URL (replace <remote_URL> with your GitHub repository URL)
+git remote add origin <remote_URL>
+
+# Push the changes to the remote repository
+git push -u origin master
+
