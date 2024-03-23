@@ -13,6 +13,7 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+    Git, NextJS
 
 #MESSAGE
     Please send your reviews.
