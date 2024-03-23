@@ -3,13 +3,17 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ringo Starr -- Musician@musician.com -- @ringostarr
 
 # THANKS
 
-    <name>
+    Thanks to my parents andn everyone.
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+    Git, NextJS
+
+#MESSAGE
+    Please send your reviews.
