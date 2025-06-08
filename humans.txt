@@ -3,11 +3,16 @@
 
 # TEAM
 
+
     <name> -- <role> -- <twitter>
+	Jane Doe  janedoe@yahoo.com
 
 # THANKS
 
     <name>
+	Thanks to all of you! rawrar
+
+	Comment, like, share, and subscribe if you like this module!
 
 # TECHNOLOGY COLOPHON
 
