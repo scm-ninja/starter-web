@@ -10,3 +10,6 @@ This repository is for showing how Git and GitHub work
 Revision here
 
 ## How to Contribute
+
+### Copyright
+2025
