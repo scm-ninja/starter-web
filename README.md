@@ -4,6 +4,8 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 ## Purpose
+## Purpose 2
+## Purpose 3
 ## How To Contribute
 ## How To Contribute 2
 ## How To Contribute 3
