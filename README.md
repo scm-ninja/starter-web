@@ -5,6 +5,8 @@ This repository is for showing how Git and GitHub work
 ## Introduction
 ## Purpose
 ## How To Contribute
+## How To Contribute 2
+## How To Contribute 3
 
 Sample website with plenty of files for demos
 
