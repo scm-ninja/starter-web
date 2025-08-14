@@ -11,6 +11,7 @@ This repository is for showing how Git and GitHub work
 ## How To Contribute 3
 ## Dev
 ## Tests
+how to test
 ## Deployment
 
 Sample website with plenty of files for demos
