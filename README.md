@@ -9,6 +9,9 @@ This repository is for showing how Git and GitHub work
 ## How To Contribute
 ## How To Contribute 2
 ## How To Contribute 3
+## Dev
+## Tests
+## Deployment
 
 Sample website with plenty of files for demos
 
