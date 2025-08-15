@@ -7,6 +7,7 @@ This repository is for showing how Git and GitHub work
 ## Purpose 2
 ## Purpose 3
 ## How To Contribute
+Please add how to contribute here
 ## How To Contribute 2
 ## How To Contribute 3
 ## Dev
