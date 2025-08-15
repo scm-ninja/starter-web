@@ -9,6 +9,7 @@ This repository is for showing how Git and GitHub work
 ## How To Contribute
 Please add how to contribute here
 ## How To Contribute 2
+Please add how to contribute here 2 Rebasing
 ## How To Contribute 3
 ## Dev
 ## Tests
