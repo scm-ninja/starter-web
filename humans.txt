@@ -4,10 +4,17 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+    member1 -- role1 -- t1
+    member2 -- role2 -- t2
+    member3 -- role3 -- t3
+    stash1
 
 # THANKS
 
     <name>
+    Thanks to all my students
+    Thanks to all my students 2
+    stashed into branch
 
 # TECHNOLOGY COLOPHON
 

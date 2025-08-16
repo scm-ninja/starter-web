@@ -1,0 +1,1 @@
+stash new 2 text
