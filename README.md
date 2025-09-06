@@ -1,7 +1,21 @@
 # Starter Web Repo
+This is simple project for testing git and github
 
-This repository is for showing how Git and GitHub work
+## Introduction
+This is example to show diff
 
 ## Purpose
+Adding Purpose
 
-Sample website with plenty of files for demos
+## deployment
+Checking deployment
+
+
+## How to contribute
+
+Checking statges
+##copyright
+
+##pull request
+New line
+feature branch

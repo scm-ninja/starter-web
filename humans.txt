@@ -3,13 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <sinch> -- <NA> -- <INsta>
 
 # THANKS
 
-    <name>
+   to me myseld and i
+   
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+please
