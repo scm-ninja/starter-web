@@ -3,13 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Peter	peter@peter.com twitter.petter
 
 # THANKS
 
-    <name>
+    All my bros!
+	Please a review if you like this!
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	Git
