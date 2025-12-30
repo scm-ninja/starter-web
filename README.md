@@ -8,3 +8,6 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 hello booys
+
+## Purpose
+sample website with plenty of files for demos
