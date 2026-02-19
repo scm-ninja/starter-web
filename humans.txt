@@ -3,13 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   pavithra pavi@123
 
 # THANKS
 
-    <name>
+   ALL my mates
+hi pavithra
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+git 
