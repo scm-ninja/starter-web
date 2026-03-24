@@ -3,13 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Zuzana Fekeova mymail
 
 # THANKS
 
-    <name>
+    thx to everybody
+pls review
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+ansible
