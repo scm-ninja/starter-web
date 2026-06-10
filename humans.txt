@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <humberto infante> -- admin -- <@myaccount>
 
 # THANKS
 
-    <name>
+    <name> thanks to all myt students
 
 # TECHNOLOGY COLOPHON
 
