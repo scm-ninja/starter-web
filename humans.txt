@@ -3,13 +3,13 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+   Alessio Canicchio alessio@cap.com @alessiotwit
+   
 # THANKS
 
-    <name>
+    Everyone I know! Thank to you!
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
-    jQuery, Modernizr
+    jQuery, Modernizr, and other stuff
