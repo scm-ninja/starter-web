@@ -18,4 +18,4 @@ How To Contribute text is changed
 
 ### Copyright
 
-2026 Git. Training
+2026 Git. Training. All rights reserved.
